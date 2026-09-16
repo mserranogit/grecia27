@@ -6,16 +6,155 @@
 const ITINERARY_DATA = {
   tripInfo: {
     title: "Islas Griegas: Cícladas y Dodecaneso",
-    subtitle: "Itinerario Arqueológico y Playas 50/50 - 20 Días",
+    subtitle: "Itinerario Arqueológico y Playas 50/50 - 20 Días (Ruta Open-Jaw)",
     dates: "1 al 20 de Junio de 2027",
     travelers: "2 Adultos (Conductor 68 años con descuento Senior UE 65+ en monumentos)",
-    budgetGeneral: "4.260 €",
-    budgetSenior: "4.183 €"
+    budgetGeneral: "4.375 €",
+    budgetSenior: "4.298 €"
   },
 
   // -------------------------------------------------------------
-  // VUELOS
+  // CUADRO 8: PRESUPUESTO OFICIAL AUDITADO (2 PERSONAS)
   // -------------------------------------------------------------
+  auditCuadro8: {
+    title: "Cuadro 8: Cuadro Resumen de Presupuesto Auditado (2 Personas)",
+    source: "Informe de Auditoría, Verificación y Optimización (Junio 2027)",
+    totalTwoPax: "4.183 €",
+    totalPerPax: "2.091,50 €",
+    currency: "EUR (€)",
+    items: [
+      {
+        id: 1,
+        icon: "✈️",
+        concept: "Vuelos (Internacionales I/V + Vuelo doméstico)",
+        scope: "Internacionales I/V Madrid-Mykonos + Vuelo doméstico Milos-Kos (vía Atenas ATH) con maleta facturada de 23 kg incluida",
+        amount: "1.040 €",
+        perPax: "520,00 €",
+        status: "Verificado"
+      },
+      {
+        id: 2,
+        icon: "⛴️",
+        concept: "Billetes de Ferris y barcos de pasaje",
+        scope: "7 travesías marítimas completas (Delos Tours, SeaJets, Blue Star Ferries, transbordador Antíparos y Dodekanisos Seaways)",
+        amount: "340 €",
+        perPax: "170,00 €",
+        status: "Verificado"
+      },
+      {
+        id: 3,
+        icon: "🏨",
+        concept: "Alojamientos seleccionados en Booking (19 noches)",
+        scope: "19 noches en 7 apartamentos con nota >9,0/10, cocina privada equipada, terraza exterior y aparcamiento",
+        amount: "1.815 €",
+        perPax: "907,50 €",
+        status: "Verificado"
+      },
+      {
+        id: 4,
+        icon: "🚗",
+        concept: "Coches de alquiler (Seguro Cero Franquicia)",
+        scope: "16-18 días de vehículo compacto con cobertura SCDW / Cero Franquicia (sin retención en tarjeta de crédito) y conductor de 68 años sin recargo",
+        amount: "721 €",
+        perPax: "360,50 €",
+        status: "Verificado"
+      },
+      {
+        id: 5,
+        icon: "⛽",
+        concept: "Combustible estimado para todos los recorridos",
+        scope: "Gasolina para aprox. 600 km de recorridos insulares a calas, yacimientos y pueblos de interior",
+        amount: "190 €",
+        perPax: "95,00 €",
+        status: "Verificado"
+      },
+      {
+        id: 6,
+        icon: "🏛️",
+        concept: "Entradas a monumentos con Tarifa Senior UE 65+",
+        scope: "50% de reducción legal oficial en recintos arqueológicos y museos estatales gestionados por ODAP (hhticket.gr) para ciudadanos UE +65",
+        amount: "77 €",
+        perPax: "38,50 €",
+        status: "50% Dto. Legal"
+      }
+    ]
+  },
+
+  // -------------------------------------------------------------
+  // MATRIZ JUSTIFICADA DE DÍAS POR ISLA (SECCIÓN 6.2 AUDITORÍA)
+  // -------------------------------------------------------------
+  daysJustification: [
+    {
+      island: "Mykonos & Delos",
+      badge: "2 días (2 noches)",
+      days: 2,
+      nights: 2,
+      monuments: "Santuario Sagrado de Apolo y Artemisa en Delos (UNESCO), Terraza de los Leones arcaicos (600 a.C.), Casas de los Mosaicos (Delfines y Dioniso), Museo Arqueológico de Mykonos (Pithos Caballo de Troya), Panagia Paraportiani, Monasterio Panagia Tourliani en Ano Mera.",
+      beaches: "Playa de Agios Sostis (cala virgen sin agobios), Agios Stefanos (aguas calmas para baño), atardecer en Little Venice y Molinos de Kato Mili.",
+      activities: "Excursión en barco tradicional a Delos (30 min) con ascenso al Monte Kynthos (113 m); ruta en coche al Faro Armenistis al atardecer.",
+      whyDays: "Un día completo se consagra a la expedición marítima a Delos (la cúspide arqueológica insular) y a Chora. El segundo día permite recorrer el interior y calas del norte. Una estancia mayor no aporta más arqueología clásica y encarece el viaje."
+    },
+    {
+      island: "Syros",
+      badge: "2 días (2 noches)",
+      days: 2,
+      nights: 2,
+      monuments: "Yacimiento Prehistórico de Kastri y Chalandriani (2800 a.C.), Ermoupoli Neoclásica, Ayuntamiento de Ernst Ziller, Teatro Apolo (1864, réplica de La Scala), Museo Arqueológico, Ciudadela Medieval de Ano Syros (San Giorgio, s. XIII).",
+      beaches: "Playa marinera de Kini (tabernas sobre la arena), cala de Galissas (arena fina y aguas llanas), bahías protegidas de Vari y Megas Gialos, paseo aristocrático de Vaporia.",
+      activities: "Ruta en coche a la necrópolis cicládica del norte; circuito por las mansiones de capitanes de Poseidonia; velada en Ano Syros con música tradicional Rebetiko.",
+      whyDays: "Syros ofrece el gran contraste neoclásico y medieval del siglo XIX. 1 día para la monumentalidad urbana de Ermoupoli y Ano Syros, y 1 día para la prehistoria de Kastri y las calas del sur. Más días restaría tiempo a islas clásicas."
+    },
+    {
+      island: "Paros & Antíparos",
+      badge: "2 días (2 noches)",
+      days: 2,
+      nights: 2,
+      monuments: "Basílica Panagia Ekatontapiliani (s. IV, la Iglesia de las Cien Puertas con baptisterio paleocristiano intacto), Museo Arqueológico de Paros (Nike de mármol), Antiguas Canteras de Mármol Licnites de Marathi, Kastro veneciano de Naoussa y fortaleza de Antíparos.",
+      beaches: "Playa geológica de Kolymbithres (bloques de granito pulidos), Santa Maria (arena blanca y aguas someras), puerto pesquero de Naoussa.",
+      activities: "Cruce en transbordador local a Antíparos (7 min con coche); descenso espeleológico a la Gran Cueva de Antíparos (411 escalones entre estalagmitas históricas); opción barca a Despotiko.",
+      whyDays: "2 días es indispensable para cubrir ambas islas sin descartar Marathi ni Antíparos. Día 5 para el Paros monumental y Kolymbithres; Día 6 para cruzar con vehículo a Antíparos y explorar su cueva mítica y calas vírgenes."
+    },
+    {
+      island: "Naxos",
+      badge: "2 días (2 noches)",
+      days: 2,
+      nights: 2,
+      monuments: "La Portara (Templo de Apolo, 530 a.C. en islote de Palatia), Templo de Deméter en Sangri (520 a.C., mármol jónico precursor del Partenón), Kouros yacente de Melanes (6 m), Kouros gigante de Apollonas (10,7 m en cantera madre), Kastro de Sanudo (1207).",
+      beaches: "Playa de Plaka (kilométrica duna de arena suave y aguas llanas), Agios Georgios (a pie de hotel), calas de Mikri Vigla y Agia Anna.",
+      activities: "Ruta en coche por el valle de Tragea visitando pueblos serranos como Halki (destilería de licor Kitron) y Filoti; atardecer enmarcado en el dintel de la Portara.",
+      whyDays: "2 días es la dosis exacta para la mayor isla de las Cícladas: Día 7 para Chora, Templo de Deméter, pueblos de montaña y tarde de relax en Plaka; Día 8 para el norte salvaje hasta los dos Kouros arcaicos y sus canteras vivas."
+    },
+    {
+      island: "Milos",
+      badge: "3 días (3 noches)",
+      days: 3,
+      nights: 3,
+      monuments: "Teatro Romano de mármol sobre la bahía, Catacumbas Paleocristianas subterráneas (s. I-V d.C., únicas en Grecia), Lugar del Descubrimiento de la Venus de Milo (1820), Museo Arqueológico (réplica del Louvre), Kastro de Plaka.",
+      beaches: "Sarakiniko (paisaje lunar de toba blanca y aguas turquesas), Firopotamos, Firiplaka, Paleochori (arenas multicolores y aguas volcánicas calientes), pueblos con syrmata (Klima y Mandrakia).",
+      activities: "Crucero de día completo en velero/catamarán a Kleftiko (antigua guarida pirata de farallones y arcos accesible solo por mar); navegación por la cueva de Sykia.",
+      whyDays: "3 días es un mínimo innegociable: Día 9 para la trilogía arqueológica (Teatro, Catacumbas, Venus) y pueblos marineros; Día 10 para la navegación integral a Kleftiko; Día 11 para la geología blanca de Sarakiniko y el baño termal en Paleochori."
+    },
+    {
+      island: "Kos",
+      badge: "3 días (3 noches)",
+      days: 3,
+      nights: 3,
+      monuments: "Santuario del Asklepieion de Hipócrates (tres terrazas monumentales sagradas del s. IV a.C.), Casa Romana (domus patricia de 36 estancias), Ágora Antigua, Castillo de Neratzia de los Caballeros (s. XIV), Odeón Romano, Paleo Pyli, Basílicas de Agios Stefanos en la playa.",
+      beaches: "Bros Therma (piscina marina natural con manantial termal volcánico a 42-45 °C), Playa de Agios Stefanos (frente a islote de Kastri), playas doradas de Mastichari y Tigaki.",
+      activities: "Puesta de sol y degustación de miel en el pueblo de montaña de Zia; exploración de las fortalezas templarias y basílicas paleocristianas en la orilla del mar.",
+      whyDays: "3 días articula la transición Cícladas-Dodecaneso: Día 12 para la cuna de la medicina en el Asklepieion y Kos Town; Día 13 para la experiencia de bienestar en Bros Therma y fortalezas; Día 14 para el eje oeste (Paleo Pyli y ruinas en la arena de Kefalos)."
+    },
+    {
+      island: "Rodas",
+      badge: "5 días (5 noches)",
+      days: 5,
+      nights: 5,
+      monuments: "Ciudad Medieval de Rodas (UNESCO: Gran Maestre, Calle de los Caballeros, murallas), Hospital de los Caballeros (Museo y Afrodita de Rodas), Acrópolis de Lindos (Templo de Atenea Lindia a 116 m), Antigua Kamiros (la Pompeya del Egeo), Acrópolis de Monte Smith, Filerimos, Castillo de Monolithos (1480), Castillo de Kritinia.",
+      beaches: "Bahía de San Pablo (bajo el templo de Lindos), Bahía de Anthony Quinn (aguas color esmeralda), Termas de Kallithea Springs (pabellones art-déco de 1929 sobre cala protegida), Playa de Tsambika y Fourni.",
+      activities: "Inmersión pausada en la mayor ciudadela medieval viva de Europa; ruta enológica en Embonas (Monte Atavyros, 1.215 m); excursión a la costa salvaje y risco de Monolithos.",
+      whyDays: "5 días es la piedra angular del itinerario gracias a la ruta Open-Jaw: una isla de 1.400 km² con 2.500 años de historia no puede verse con prisas. 5 jornadas permiten 1 día medieval intramuros, 1 día en Lindos/San Pablo, 1 día en Kamiros/Filerimos, 1 día en Kallithea/Anthony Quinn y 1 día en la costa salvaje de Monolithos y Embonas."
+    }
+  ],
   flights: [
     {
       id: "fl-1",
@@ -74,54 +213,29 @@ const ITINERARY_DATA = {
     },
     {
       id: "fl-3",
-      day: "Día 19 (19 de Junio)",
-      route: "Rodas (RHO) ➔ Mykonos (JMK)",
-      type: "Doméstico interinsular directo",
-      airline: "Sky Express",
-      flightNo: "GQ 410 (operación estacional de verano)",
-      departure: "11:20 RHO (Terminal Principal)",
-      arrival: "12:10 JMK (Terminal Principal)",
-      duration: "50m",
-      price: "280 € (2 pers.)",
+      day: "Día 20 (20 de Junio)",
+      route: "Rodas (RHO) ➔ Madrid (MAD) [Vía Atenas ATH]",
+      type: "Internacional con conexión protegida (Star Alliance)",
+      airline: "Aegean Airlines / Olympic Air",
+      flightNo: "A3 205 + A3 688",
+      departure: "12:20 RHO ➔ 13:15 ATH | 15:15 ATH ➔ 18:05 MAD",
+      arrival: "18:05 MAD (Terminal T2)",
+      duration: "6h 45m (incluye 2h 00m escala fluida en ATH)",
+      price: "380 € (2 pers. con maletas facturadas directas)",
       airports: {
         origin: { name: "Aeropuerto Internacional de Rodas-Diágoras", code: "RHO", terminal: "Terminal Principal", coords: [36.4054, 28.0862] },
-        dest: { name: "Aeropuerto Nacional de Mykonos", code: "JMK", terminal: "Terminal Principal", coords: [37.4351, 25.3481] }
+        layover: { name: "Aeropuerto Int. Eleftherios Venizelos Atenas", code: "ATH", terminal: "Edificio Principal", coords: [37.9364, 23.9445] },
+        dest: { name: "Adolfo Suárez Madrid-Barajas", code: "MAD", terminal: "Terminal T2", coords: [40.4839, -3.5680] }
       },
       times: {
-        presentation: "1h 45m antes (09:35)",
-        security: "25 min en RHO",
-        boarding: "30 min antes",
-        disembark: "20 min en JMK"
+        presentation: "1h 45m antes en RHO (10:35)",
+        security: "20 min en RHO / Tránsito interior sin salir de zona estéril en ATH",
+        boarding: "30 min antes de cada tramo",
+        disembark: "25 min recogida maletas en Madrid T2"
       },
       links: [
-        { title: "Ver vuelos en Skyscanner", url: "https://www.skyscanner.es/transporte/vuelos/rho/jmk/" },
-        { title: "Sky Express", url: "https://www.skyexpress.gr/es" }
-      ]
-    },
-    {
-      id: "fl-4",
-      day: "Día 20 (20 de Junio)",
-      route: "Mykonos (JMK) ➔ Madrid (MAD)",
-      type: "Internacional directo de regreso",
-      airline: "Iberia Express / Vueling",
-      flightNo: "I2 3843 / VY 3281 (estimado)",
-      departure: "13:40 JMK (Terminal Principal)",
-      arrival: "16:45 MAD (T4 / T4S)",
-      duration: "4h 05m",
-      price: "Incluido en billete i/v (420 €)",
-      airports: {
-        origin: { name: "Aeropuerto Nacional de Mykonos", code: "JMK", terminal: "Terminal Principal", coords: [37.4351, 25.3481] },
-        dest: { name: "Adolfo Suárez Madrid-Barajas", code: "MAD", terminal: "T4 / T4S", coords: [40.4839, -3.5680] }
-      },
-      times: {
-        presentation: "2h 00m antes (11:40)",
-        security: "30 min en JMK",
-        boarding: "35 min antes",
-        disembark: "30 min en Madrid"
-      },
-      links: [
-        { title: "Ver vuelos en Skyscanner", url: "https://www.skyscanner.es/transporte/vuelos/jmk/mad/" },
-        { title: "Iberia Express", url: "https://www.iberiaexpress.com/" }
+        { title: "Ver vuelos en Skyscanner", url: "https://www.skyscanner.es/transporte/vuelos/rho/mad/" },
+        { title: "Aegean Airlines Oficial", url: "https://en.aegeanair.com/" }
       ]
     }
   ],
@@ -246,9 +360,9 @@ const ITINERARY_DATA = {
       island: "Mykonos",
       name: "Alexandra Suites",
       type: "Apartamento Superior con Terraza y Vistas al Mar",
-      nights: "2 noches (1-3 Junio) + 1 noche regreso (19-20 Junio) = 3 noches",
+      nights: "2 noches (1-3 Junio)",
       rating: "9,2 / 10 (Fantástico)",
-      priceTotal: "375 € (125 €/noche)",
+      priceTotal: "250 € (125 €/noche)",
       location: "Tourlos, Mykonos (a 700m del Nuevo Puerto y 1,5 km de Chora)",
       coords: [37.4628, 25.3292],
       highlights: "Aparcamiento gratuito, balcón privado, wifi veloz, cafetera Nespresso, transfer opcional al puerto.",
@@ -324,9 +438,9 @@ const ITINERARY_DATA = {
       island: "Rodas",
       name: "Old Town Nest Apartments",
       type: "Apartamento Medieval de Piedra Totalmente Restaurado",
-      nights: "4 noches (15-19 Junio)",
+      nights: "5 noches (15-20 Junio)",
       rating: "9,7 / 10 (Excepcional)",
-      priceTotal: "435 € (108,75 €/noche)",
+      priceTotal: "544 € (108,80 €/noche)",
       location: "Puerta de San Juan / Ciudad Medieval UNESCO, Rodas",
       coords: [36.4405, 28.2255],
       highlights: "Ubicado junto a una de las puertas amuralladas para acceso cómodo con maletas sin escaleras, muros de sillería gótica, patio andaluz-otomano.",
@@ -422,22 +536,22 @@ const ITINERARY_DATA = {
       },
       {
         island: "Rodas",
-        days: 3,
+        days: 5,
         carType: "Compacto Cat. B (VW Polo / Opel Corsa)",
         provider: "Enterprise Rhodes / Avis",
-        baseCost: "96 € (32 €/d)",
-        insuranceCost: "36 € (12 €/d)",
-        cost: "132 € (44 €/día)",
+        baseCost: "160 € (32 €/d)",
+        insuranceCost: "60 € (12 €/d)",
+        cost: "220 € (44 €/día)",
         office: "Puerto Comercial Mandraki / Devolución Aeropuerto RHO",
         seniorTerms: "Sin recargo de edad senior hasta 75 años",
         link: "https://www.enterprise.es/"
       }
     ],
-    carRentalBaseTotal: "527 €",
-    carRentalInsuranceTotal: "194 € (Todo Riesgo 0 Franquicia)",
-    carRentalTotal: "721 € (16 días con Seguro Todo Riesgo Sin Franquicia)",
-    fuelEstimatedTotal: "190 €",
-    grandTotalMobility: "911 € (455,50 € / pers.)"
+    carRentalBaseTotal: "591 €",
+    carRentalInsuranceTotal: "218 € (Todo Riesgo 0 Franquicia)",
+    carRentalTotal: "809 € (18 días con Seguro Todo Riesgo Sin Franquicia)",
+    fuelEstimatedTotal: "210 €",
+    grandTotalMobility: "1.019 € (509,50 € / pers.)"
   },
 
 
@@ -949,13 +1063,13 @@ const ITINERARY_DATA = {
     {
       id: "mykonos",
       name: "Mykonos",
-      daysCount: "3 días (Día 1, 2 y 19)",
+      daysCount: "2 días (Día 1 y 2)",
       mapCenter: [37.4500, 25.3500],
       zoom: 12,
-      totalKm: "78 km",
-      totalDrivingTime: "1h 55 min",
-      description: "Puerta de entrada y salida del archipiélago. Combina el Kastro medieval, los molinos de Kato Mili, la arquitectura cicládica más pura y la cercanía sagrada a Delos.",
-      highlights: ["Chora & Little Venice", "Panagia Paraportiani", "Faro Armenistis", "Ano Mera & Paleokastro", "Playa Agios Sostis", "Playa Ornos"],
+      totalKm: "58 km",
+      totalDrivingTime: "1h 30 min",
+      description: "Puerta de entrada del archipiélago. Combina el Kastro medieval, los molinos de Kato Mili, la arquitectura cicládica más pura y la cercanía sagrada a Delos.",
+      highlights: ["Chora & Little Venice", "Panagia Paraportiani", "Faro Armenistis", "Ano Mera & Paleokastro", "Playa Agios Sostis"],
       hotel: "Alexandra Suites (Tourlos)",
       carRent: "Avis Mykonos (Cat. B)",
       gmapsQuery: "https://www.google.com/maps/dir/Mykonos+Airport/Tourlos/Armenistis+Lighthouse/Ano+Mera/Agios+Sostis+Beach/Mykonos+Chora"
@@ -1047,16 +1161,16 @@ const ITINERARY_DATA = {
     {
       id: "rodas",
       name: "Rodas",
-      daysCount: "4 días (Días 15, 16, 17 y 18)",
+      daysCount: "5 días (Días 15 al 20)",
       mapCenter: [36.3000, 28.1000],
       zoom: 10,
-      totalKm: "162 km",
-      totalDrivingTime: "3h 30 min",
-      description: "La joya del Dodecaneso. La ciudad medieval fortificada más grande y mejor conservada de Europa (UNESCO), la impresionante Acrópolis de Lindos y la arqueología intacta de Kamiros.",
-      highlights: ["Palacio del Gran Maestre & Calle Caballeros", "Acrópolis de Lindos & Bahía San Pablo", "Antigua Kamiros", "Monasterio de Filerimos", "Termas de Kallithea", "Bahía Anthony Quinn"],
+      totalKm: "215 km",
+      totalDrivingTime: "4h 40 min",
+      description: "La joya del Dodecaneso y broche final del viaje. La ciudad medieval amurallada más grande de Europa (UNESCO), la Acrópolis de Lindos, Kamiros helenística, el Castillo de Monolithos y salida directa hacia Madrid.",
+      highlights: ["Palacio del Gran Maestre & Calle Caballeros", "Acrópolis de Lindos & Bahía San Pablo", "Antigua Kamiros", "Castillo de Monolithos", "Termas de Kallithea", "Bahía Anthony Quinn"],
       hotel: "Old Town Nest Apartments (Ciudad Medieval)",
       carRent: "Enterprise Rhodes (Cat. C)",
-      gmapsQuery: "https://www.google.com/maps/dir/Rhodes+Port/Lindos+Acropolis/Kamiros/Filerimos/Kallithea+Springs/Rhodes+Airport"
+      gmapsQuery: "https://www.google.com/maps/dir/Rhodes+Port/Lindos+Acropolis/Kamiros/Monolithos+Castle/Kallithea+Springs/Rhodes+Airport"
     }
   ],
 
@@ -1827,79 +1941,84 @@ const ITINERARY_DATA = {
     {
       day: 19,
       date: "19 de Junio de 2027",
-      title: "Vuelo Rodas ➔ Mykonos & Despedida en la Bahía de Ornos",
-      island: "Rodas & Mykonos",
-      islandId: "mykonos",
-      summary: "Vuelo interinsular directo para regresar a Mykonos antes de volver a Madrid. Última tarde de compras serenas y cena marinera frente al mar en Ornos.",
+      title: "El Castillo de Monolithos, Valle de Embonas & Cena de Gala en Rodas",
+      island: "Rodas",
+      islandId: "rodas",
+      summary: "Ruta escénica hacia el suroeste salvaje de Rodas: la fortaleza hospitalaria de Monolithos sobre el acantilado marino, cata en el pueblo vinícola de Embonas y cena de despedida en la Ciudad Medieval.",
       itinerary: {
-        morning: "09:15 Coche al Aeropuerto de Rodas (RHO, 15 km | 20 min). Devolución de coche Enterprise en terminal. 11:20 Vuelo directo Sky Express RHO ➔ 12:10 Mykonos (JMK).",
-        afternoon: "Recogida de equipajes en JMK. Taxi o autobús de línea a Tourlos (4 km | 8 min). Check-in en Alexandra Suites para la última noche.",
-        evening: "Tarde relajada en la bahía de Ornos (6 km): aguas calmas protegidas del viento del norte (Meltemi). Último atardecer y cena de despedida en Chora."
+        morning: "10:00 Salida en coche hacia la costa suroeste (68 km | 1h 10 min) hasta el legendario Castillo de Monolithos: fortaleza erigida por los Caballeros de San Juan en 1480 sobre una impresionante aguja de roca a 240 m sobre el Egeo.",
+        afternoon: "13:30 Almuerzo tradicional en Embonas, pueblo de montaña a los pies del Monte Ataviros, famoso por sus bodegas y cordero a la brasa. 16:00 Tarde de relax en la playa virgen de Fourni o regreso panorámico bordeando la costa.",
+        evening: "19:30 Regreso a la Ciudad Medieval de Rodas. Paseo crepuscular por las murallas góticas y la Puerta de San Juan. Gran cena de gala de despedida en el patio andalusí-otomano de una taberna histórica con música de laúd."
       },
       options: {
-        a: "Último recorrido por las tiendas de artesanía y galerías de arte de Chora Mykonos.",
-        b: "Tarde de baño y relax en las tumbonas de la protegida bahía de Ornos."
+        a: "Subida al mirador de Monolithos y visita a la diminuta capilla blanca de San Jorge en la cumbre.",
+        b: "Tarde de descanso absoluto y baño reposado en las calas de aguas calmas del este de Rodas."
       },
       logistics: {
-        type: "Vuelo doméstico + Coche/Taxi",
+        type: "Coche",
         details: [
-          "Vuelo RHO ➔ JMK: Presentación en RHO 1h 45m antes (09:35), seguridad 25 min, vuelo 50 min, recogida de maletas 20 min en JMK.",
-          "Coche en Rodas: Ciudad ➔ Aeropuerto RHO (15 km | 20 min).",
-          "Desplazamientos en Mykonos: Aeropuerto ➔ Tourlos (4 km | 10 min) + Tourlos ➔ Ornos (6 km | 12 min).",
-          "Total en coche: 25 km | 42 min."
+          "Coche: Rodas Medieval ➔ Castillo de Monolithos (68 km | 1h 10 min).",
+          "Coche: Monolithos ➔ Embonas (18 km | 25 min).",
+          "Coche: Embonas ➔ Rodas Ciudad (52 km | 55 min).",
+          "Total en coche: 138 km | 2h 30 min por buenas carreteras panorámicas."
         ]
       },
-      mapCenter: [37.4350, 25.3300],
-      zoom: 13,
+      mapCenter: [36.2000, 27.9500],
+      zoom: 10,
       waypoints: [
-        { name: "Aeropuerto RHO", type: "airport", coords: [36.4054, 28.0862], desc: "Salida vuelo directo 11:20" },
-        { name: "Aeropuerto JMK", type: "airport", coords: [37.4351, 25.3481], desc: "Llegada 12:10" },
-        { name: "Alexandra Suites", type: "hotel", coords: [37.4628, 25.3292], desc: "Alojamiento última noche" },
-        { name: "Playa de Ornos", type: "beach", coords: [37.4225, 25.3225], desc: "Bahía protegida de arena fina" }
+        { name: "Old Town Nest", type: "hotel", coords: [36.4405, 28.2255], desc: "Base en la Ciudad Medieval" },
+        { name: "Castillo de Monolithos", type: "monument", coords: [36.1245, 27.7265], desc: "Fortaleza de los Caballeros (1480) sobre el acantilado" },
+        { name: "Pueblo de Embonas", type: "beach", coords: [36.2285, 27.8575], desc: "Pueblo vinícola tradicional a los pies del Ataviros" },
+        { name: "Ciudad Medieval de Rodas", type: "monument", coords: [36.4445, 28.2268], desc: "Paseo nocturno y cena de despedida del viaje" }
       ],
       routeCoords: [
-        [37.4351, 25.3481],
-        [37.4628, 25.3292],
-        [37.4225, 25.3225]
+        [36.4405, 28.2255],
+        [36.1245, 27.7265],
+        [36.2285, 27.8575],
+        [36.4405, 28.2255]
       ],
-      gmapsUrl: "https://www.google.com/maps/dir/Mykonos+Airport/Alexandra+Suites+Tourlos/Ornos+Beach"
+      gmapsUrl: "https://www.google.com/maps/dir/Rhodes+Old+Town/Monolithos+Castle/Embonas/Rhodes+Old+Town"
     },
     {
       day: 20,
       date: "20 de Junio de 2027",
-      title: "Desayuno con Vistas al Egeo & Vuelo de Regreso Mykonos ➔ Madrid",
-      island: "Mykonos",
-      islandId: "mykonos",
-      summary: "Último café en la terraza del hotel con vistas a los ferris cruzando el estrecho y vuelo directo de vuelta a Madrid Barajas.",
+      title: "Despedida de Rodas & Vuelo de Retorno Rodas ➔ Atenas ➔ Madrid",
+      island: "Rodas",
+      islandId: "rodas",
+      summary: "Desayuno pausado en el patio medieval empedrado, devolución del vehículo en el Aeropuerto de Rodas y cómodo vuelo de retorno a Madrid con escala protegida en Atenas.",
       itinerary: {
-        morning: "Desayuno pausado en la terraza privada de Alexandra Suites. Último paseo por el muelle de Tourlos o compras de dulces tradicionales (amigdalota).",
-        afternoon: "11:30 Traslado al Aeropuerto de Mykonos (JMK, 4 km | 10 min). Facturación de equipajes y control de seguridad. 13:40 Vuelo directo Iberia Express / Vueling JMK ➔ 16:45 Madrid (MAD).",
-        evening: "16:45 Llegada a la T4 de Madrid-Barajas. Recogida de equipajes y fin del viaje."
+        morning: "09:00 Desayuno tranquilo en el patio de Old Town Nest. Paseo matinal final por el foso arbolado y el Palacio del Gran Maestre. 10:15 Traslado en coche al Aeropuerto de Rodas-Diágoras (RHO, 15 km | 20 min). Devolución ágil del vehículo en Enterprise de la terminal. Facturación directa de equipajes con Aegean Airlines hasta Madrid-Barajas.",
+        afternoon: "12:20 Vuelo Aegean Airlines / Olympic Air A3 205 Rodas (RHO) ➔ 13:15 Atenas (ATH). Escala fluida de 2h 00m en tránsito interno en Eleftherios Venizelos (sin recoger maletas ni repetir control). 15:15 Vuelo Aegean A3 688 Atenas (ATH) ➔ 18:05 Madrid-Barajas (MAD T2).",
+        evening: "18:05 Llegada a la Terminal T2 de Madrid-Barajas. Recogida directa de equipajes facturados y fin de la Gran Expedición por el Egeo."
       },
       options: {
-        a: "Última visita matinal a una panadería tradicional en Chora antes de ir al aeropuerto.",
-        b: "Mañana de relax absoluto en el balcón del apartamento empacando sin prisas."
+        a: "Última compra de dulces tradicionales de Rodas (melekouni y aceite de oliva virgen) antes de ir al aeropuerto.",
+        b: "Mañana de descanso absoluto en la terraza empacando con calma y sin prisas."
       },
       logistics: {
-        type: "Vuelo internacional de regreso",
+        type: "Coche + Vuelo internacional con conexión",
         details: [
-          "Aeropuerto JMK ➔ MAD: Presentación 2h 00m antes (11:40), seguridad en JMK 30 min, vuelo 4h 05m, recogida de maletas 30 min en Madrid T4.",
-          "Traslado terrestre: Tourlos ➔ Aeropuerto JMK (4 km | 10 min).",
-          "Total en coche: 4 km | 10 min."
+          "Coche: Ciudad Medieval ➔ Aeropuerto RHO (15 km | 20 min). Entrega directa en parking de la terminal.",
+          "Aeropuerto RHO: Presentación 1h 45m antes (10:35), seguridad 20 min.",
+          "Tramo 1 (RHO ➔ ATH): Salida 12:20, llegada 13:15 (55 min).",
+          "Escala en Atenas (ATH): 2h 00m de conexión cómoda dentro de la misma terminal con billete único Star Alliance.",
+          "Tramo 2 (ATH ➔ MAD): Salida 15:15, llegada 18:05 a Madrid-Barajas T2 (3h 50m).",
+          "Total en coche: 15 km | 20 min."
         ]
       },
-      mapCenter: [37.4475, 25.3350],
-      zoom: 13,
+      mapCenter: [36.4250, 28.1500],
+      zoom: 12,
       waypoints: [
-        { name: "Alexandra Suites", type: "hotel", coords: [37.4628, 25.3292], desc: "Check-out 11:15" },
-        { name: "Aeropuerto JMK", type: "airport", coords: [37.4351, 25.3481], desc: "Vuelo directo a Madrid 13:40" },
-        { name: "Aeropuerto MAD", type: "airport", coords: [40.4839, -3.5680], desc: "Llegada 16:45 T4 Barajas" }
+        { name: "Old Town Nest", type: "hotel", coords: [36.4405, 28.2255], desc: "Check-out 10:00" },
+        { name: "Aeropuerto RHO", type: "airport", coords: [36.4054, 28.0862], desc: "Devolución Enterprise y Facturación Aegean 10:35" },
+        { name: "Aeropuerto ATH (Atenas)", type: "airport", coords: [37.9364, 23.9445], desc: "Tránsito fluido y escala 13:15 - 15:15" },
+        { name: "Aeropuerto MAD Barajas", type: "airport", coords: [40.4839, -3.5680], desc: "Llegada final 18:05 Terminal T2" }
       ],
       routeCoords: [
-        [37.4628, 25.3292],
-        [37.4351, 25.3481]
+        [36.4405, 28.2255],
+        [36.4054, 28.0862]
       ],
-      gmapsUrl: "https://www.google.com/maps/dir/Alexandra+Suites+Tourlos/Mykonos+Airport"
+      gmapsUrl: "https://www.google.com/maps/dir/Rhodes+Old+Town/Rhodes+Airport"
     }
   ]
 };

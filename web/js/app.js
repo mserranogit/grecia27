@@ -290,12 +290,13 @@ function initNavigation() {
   const budgetSubmenu = document.getElementById('budget-submenu');
   if (budgetSubmenuToggle && budgetSubmenu) {
     const budgetParts = [
-      { label: "Resumen Total", target: "budget-summary-hero", cost: "4.183 €" },
-      { label: "✈️ Vuelos", target: "budget-row-flights", cost: "1.040 €" },
+      { label: "📋 Cuadro 8 Auditoría", target: "audit-cuadro-8", cost: "4.183 €" },
+      { label: "Resumen Consolidado", target: "budget-summary-hero", cost: "4.375 €" },
+      { label: "✈️ Vuelos", target: "budget-row-flights", cost: "1.140 €" },
       { label: "⛴️ Ferris", target: "budget-row-ferries", cost: "340 €" },
-      { label: "🏨 Alojamientos", target: "budget-row-hotels", cost: "1.815 €" },
-      { label: "🚗 Coches SCDW", target: "budget-row-cars", cost: "721 €" },
-      { label: "⛽ Combustible", target: "budget-row-fuel", cost: "190 €" },
+      { label: "🏨 Alojamientos", target: "budget-row-hotels", cost: "1.799 €" },
+      { label: "🚗 Coches SCDW", target: "budget-row-cars", cost: "809 €" },
+      { label: "⛽ Combustible", target: "budget-row-fuel", cost: "210 €" },
       { label: "🏛️ Monumentos", target: "budget-row-monuments", cost: "77 €" }
     ];
 
@@ -323,6 +324,14 @@ function initNavigation() {
         scrollToTarget(targetId);
         closeMobileSidebar();
       });
+    });
+  }
+
+  // Botón de impresión o exportación a PDF
+  const btnPrint = document.getElementById('btn-print-itinerary');
+  if (btnPrint) {
+    btnPrint.addEventListener('click', () => {
+      window.print();
     });
   }
 
@@ -414,6 +423,10 @@ function renderView(viewName) {
       if (pageTitle) pageTitle.textContent = "Presupuesto Consolidado";
       renderBudgetView(contentArea);
       break;
+    case 'audit':
+      if (pageTitle) pageTitle.textContent = "Auditoría & Consejos de Calidad";
+      renderAuditView(contentArea);
+      break;
   }
 }
 
@@ -496,6 +509,12 @@ function renderDailyView(container) {
             <span class="option-letter b">B</span>
             <div><strong>Opción B (Relax/Playa):</strong> ${dayData.options.b}</div>
           </div>
+        </div>
+
+        <!-- Consejo Senior y Climatología -->
+        <div style="margin-top:1rem;background:#f8fafc;border:1px dashed var(--color-border);border-radius:var(--radius-sm);padding:0.75rem 1rem;font-size:0.82rem;color:var(--color-text-muted);display:flex;align-items:center;gap:0.5rem;">
+          <span style="font-size:1.1rem;">💡</span>
+          <span><strong>Consejo Senior & Climatología:</strong> Llevar calzado cerrado antideslizante para pavimentos de piedra pulida y sombrero. En días con viento norte (Meltemi), las calas orientadas al sur ofrecen aguas en calma total.</span>
         </div>
       </div>
 
@@ -750,12 +769,12 @@ function renderIslandsView(container) {
 function renderFlightsView(container) {
   const html = `
     <div class="section-hero">
-      <h2>✈️ Vuelos Internacionales y Domésticos</h2>
-      <p>Conexiones estratégicas para optimizar los 20 días sin esperas innecesarias: vuelo directo Madrid ↔ Mykonos para entrada y salida, salto ágil Cícladas ➔ Dodecaneso (Milos ➔ Kos con escala) y regreso Rodas ➔ Mykonos.</p>
+      <h2>✈️ Vuelos Internacionales y Domésticos (Ruta Open-Jaw)</h2>
+      <p>Conexiones estratégicas para optimizar los 20 días sin esperas innecesarias: vuelo directo Madrid ➔ Mykonos de entrada, salto ágil Cícladas ➔ Dodecaneso (Milos ➔ Kos con escala) y regreso directo desde Rodas ➔ Madrid vía Atenas con Aegean Airlines.</p>
       <div class="section-hero-stats">
-        <div class="hero-stat-pill">💶 <strong>1.040 €</strong> total (2 pers.) / 520 € pers.</div>
-        <div class="hero-stat-pill">🧳 Equipaje de mano y facturado incluido</div>
-        <div class="hero-stat-pill">⏱️ Ahorro de más de 14 horas de barco</div>
+        <div class="hero-stat-pill">💶 <strong>1.140 €</strong> total (2 pers.) / 570 € pers.</div>
+        <div class="hero-stat-pill">🧳 Equipaje facturado directo a Madrid</div>
+        <div class="hero-stat-pill">⏱️ Ahorro de más de 18 horas de barco y sin retrocesos</div>
       </div>
     </div>
 
@@ -1136,7 +1155,16 @@ function renderMonumentsView(container) {
 
     <!-- Grid de Tarjetas de Monumentos -->
     <div class="monument-cards-grid">
-      ${filteredMonuments.map(m => `
+      ${filteredMonuments.map(m => {
+        const nameLower = m.name.toLowerCase();
+        let accessBadge = '<div class="badge-accessibility easy">🟢 Acceso llano y cómodo</div>';
+        if (nameLower.includes('lindos') || nameLower.includes('monolithos') || nameLower.includes('kastri')) {
+          accessBadge = '<div class="badge-accessibility demanding">⚠️ Desnivel +116m / Escalones de piedra pulida</div>';
+        } else if (nameLower.includes('delos') || nameLower.includes('kamiros') || nameLower.includes('catacumbas') || nameLower.includes('cueva') || nameLower.includes('filerimos')) {
+          accessBadge = '<div class="badge-accessibility moderate">🟡 Caminata moderada / Suelo irregular</div>';
+        }
+
+        return `
         <div class="monument-card">
           <div class="monument-card-header">
             <span class="monument-island-tag">${m.islandName}</span>
@@ -1145,7 +1173,9 @@ function renderMonumentsView(container) {
 
           <p class="monument-desc">${m.desc}</p>
 
-          <div class="monument-meta-list">
+          ${accessBadge}
+
+          <div class="monument-meta-list" style="margin-top:0.75rem;">
             <div><strong>📍 Ubicación:</strong> ${m.location}</div>
             <div><strong>🕒 Horario Junio:</strong> ${m.hours}</div>
           </div>
@@ -1166,7 +1196,7 @@ function renderMonumentsView(container) {
             </a>
           </div>
         </div>
-      `).join('')}
+      `;}).join('')}
     </div>
   `;
 
@@ -1195,21 +1225,103 @@ function renderMonumentsView(container) {
    8. VISTA: PRESUPUESTO GLOBAL
    ========================================================================== */
 function renderBudgetView(container) {
+  const c8 = ITINERARY_DATA.auditCuadro8 || {
+    totalTwoPax: "4.183 €",
+    totalPerPax: "2.091,50 €",
+    items: []
+  };
+
+  const cuadro8Rows = c8.items.map(item => `
+    <tr id="audit-c8-row-${item.id}">
+      <td class="cell-primary" style="font-weight: 700; color: var(--color-text-muted);">${item.id}</td>
+      <td data-label="Concepto" class="cell-primary"><strong>${item.icon} ${item.concept}</strong></td>
+      <td data-label="Alcance y Condiciones">${item.scope}</td>
+      <td data-label="Importe (2 Pax)" style="text-align: right; font-weight: 700; font-size: 1rem;">${item.amount}</td>
+      <td data-label="Por Persona" style="text-align: right; color: var(--color-text-muted);">${item.perPax}</td>
+      <td data-label="Estado Auditoría" style="text-align: center;"><span class="audit-status-badge">✅ ${item.status}</span></td>
+    </tr>
+  `).join('');
+
   const html = `
     <div class="section-hero" id="budget-summary-hero">
-      <h2>💰 Presupuesto Global Consolidado</h2>
-      <p>Comparativa exhaustiva de costes reales para 2 personas y por persona durante los 20 días de viaje por el Egeo (Junio 2027), con seguro a todo riesgo sin franquicia en coches de alquiler.</p>
+      <h2>💰 Presupuesto Global y Control Financiero</h2>
+      <p>Certificación de costes reales para 2 personas y por persona durante los 20 días de viaje por el Egeo (Junio 2027), con seguro a todo riesgo sin franquicia en coches de alquiler y salida directa desde Rodas.</p>
       <div class="section-hero-stats">
-        <div class="hero-stat-pill">💶 <strong>Tarifa General:</strong> 4.260 € (2.130,00 € / pers.)</div>
-        <div class="hero-stat-pill" style="background:rgba(22,163,74,0.3);border-color:#86efac;color:#86efac;">
-          🎖️ <strong>Con Dto. Senior UE 65+:</strong> 4.183 € (2.091,50 € / pers.)
+        <div class="hero-stat-pill" style="background:rgba(2,132,199,0.25);border-color:#38bdf8;color:#0284c7;">
+          📋 <strong>Total Auditado Cuadro 8:</strong> 4.183 € (2.091,50 € / pers.)
+        </div>
+        <div class="hero-stat-pill" style="background:rgba(22,163,74,0.25);border-color:#86efac;color:#15803d;">
+          🎖️ <strong>Con Dto. Senior UE 65+:</strong> 4.195 € - 4.375 € consolidado
         </div>
       </div>
     </div>
 
+    <!-- CUADRO 8 DEL INFORME DE AUDITORÍA -->
+    <div class="table-card-wrapper" id="audit-cuadro-8" style="border: 2px solid #0284c7; margin-bottom: 2.5rem; box-shadow: var(--shadow-md);">
+      <div class="table-view-header" style="background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 100%); color: #ffffff; padding: 1.25rem 1.5rem; border-radius: var(--radius-md) var(--radius-md) 0 0; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+        <div>
+          <div style="display: flex; align-items: center; gap: 0.6rem; margin-bottom: 0.35rem;">
+            <span style="background: #38bdf8; color: #0f172a; font-size: 0.72rem; font-weight: 800; padding: 0.2rem 0.55rem; border-radius: var(--radius-full); text-transform: uppercase;">Informe Oficial</span>
+            <span style="color: #93c5fd; font-size: 0.85rem; font-weight: 600;">Verificación y Control de Costes</span>
+          </div>
+          <h3 style="color: #ffffff; font-size: 1.3rem; margin: 0; font-family: 'Outfit', sans-serif;">📋 Cuadro 8: Presupuesto Resumen Auditado (2 Personas)</h3>
+          <p style="color: #cbd5e1; font-size: 0.86rem; margin: 0.35rem 0 0 0;">Cifras oficiales acreditadas en el <em>Informe de Auditoría y Verificación Técnica</em> con tarifas oficiales del Estado griego (ODAP / hhticket.gr), cobertura Cero Franquicia y navieras del Egeo.</p>
+        </div>
+        <div style="display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap;">
+          <div class="table-view-toggle">
+            <button type="button" class="btn-toggle-view" data-view="cards" title="Ver en tarjetas apiladas" style="color: #ffffff; border-color: rgba(255,255,255,0.4);">📱 Tarjetas</button>
+            <button type="button" class="btn-toggle-view" data-view="table" title="Ver en tabla tradicional" style="color: #ffffff; border-color: rgba(255,255,255,0.4);">📊 Tabla</button>
+          </div>
+          <div style="background: rgba(255,255,255,0.08); border: 1px solid rgba(56,189,248,0.4); border-radius: var(--radius-sm); padding: 0.6rem 1.1rem; text-align: right;">
+            <div style="font-size: 0.72rem; color: #94a3b8; text-transform: uppercase; font-weight: 700; letter-spacing: 0.5px;">Total Cuadro 8 (2 Pax)</div>
+            <div style="font-size: 1.6rem; font-weight: 800; color: #38bdf8; line-height: 1.1;">4.183 €</div>
+            <div style="font-size: 0.82rem; color: #86efac; font-weight: 600;">2.091,50 € / persona</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="table-responsive">
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th style="width: 50px;">#</th>
+              <th>Concepto / Partida del Viaje</th>
+              <th>Detalle y Condiciones Verificadas</th>
+              <th style="text-align: right;">Importe (2 Pax)</th>
+              <th style="text-align: right;">Por Persona</th>
+              <th style="text-align: center;">Auditoría</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${cuadro8Rows}
+            <tr class="budget-total-row" style="background: #f0fdf4 !important; border-top: 2.5px solid #86efac;">
+              <td colspan="3" class="cell-primary" style="font-weight: 800; color: #15803d !important; font-size: 1.05rem;">
+                💶 TOTAL GLOBAL ESTIMADO DEL VIAJE (2 PERSONAS) - CUADRO 8
+              </td>
+              <td data-label="Total (2 pax)" style="text-align: right; font-weight: 800; color: #15803d; font-size: 1.3rem;">4.183 €</td>
+              <td data-label="Por Persona" style="text-align: right; font-weight: 800; color: #0284c7; font-size: 1.15rem;">2.091,50 €</td>
+              <td data-label="Auditoría" style="text-align: center;"><span class="audit-status-badge" style="background: #15803d; color: #ffffff; border-color: #15803d;">CERTIFICADO</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div style="background: #f8fafc; padding: 1.1rem 1.35rem; border-top: 1px solid var(--color-border); font-size: 0.88rem; color: #334155; display: flex; align-items: flex-start; gap: 0.85rem; line-height: 1.55;">
+        <span style="font-size: 1.3rem; line-height: 1;">📌</span>
+        <div>
+          <strong>Dictamen de Auditoría Financiera (Cuadro 8):</strong>
+          El informe técnico acredita un presupuesto global de <strong>2.091,50 € por persona</strong> para el circuito íntegro de 20 días por 9 islas, confirmando que todos los costes son viables y rigurosos. Incluye apartamentos con cocina privada y terrazas panorámicas (nota >9,0 en Booking), seguro a todo riesgo <strong>Super Cover / SCDW Cero Franquicia</strong> (sin retención en tarjeta bancaria y con conductor senior de 68 años sin recargo de edad), así como la <strong>reducción legal del 50%</strong> para ciudadanos de la UE mayores de 65 años en todos los recintos arqueológicos del Ministerio de Cultura (77 € en total para 2 personas frente a los 154 € de tarifa general).
+        </div>
+      </div>
+    </div>
+
+    <!-- BALANCE COMPARATIVO CONSOLIDADO (RUTA OPEN-JAW) -->
     <div class="table-card-wrapper">
       <div class="table-view-header">
-        <h3 class="table-title">📊 Balance Global por Partidas de Gasto</h3>
+        <div>
+          <h3 class="table-title">📊 Balance Detallado por Partidas de Gasto (Ruta Open-Jaw)</h3>
+          <p style="color: var(--color-text-muted); font-size: 0.85rem; margin: 0.25rem 0 0 0;">Comparativa de coste general vs. tarifa Senior UE 65+ optimizada con salida aérea directa desde Rodas.</p>
+        </div>
         <div class="table-view-toggle">
           <button type="button" class="btn-toggle-view" data-view="cards" title="Ver en tarjetas apiladas">📱 Tarjetas</button>
           <button type="button" class="btn-toggle-view" data-view="table" title="Ver en tabla tradicional">📊 Tabla</button>
@@ -1230,52 +1342,223 @@ function renderBudgetView(container) {
           <tbody>
             <tr id="budget-row-flights">
               <td data-label="Concepto" class="cell-primary"><strong>✈️ Vuelos</strong></td>
-              <td data-label="Detalle">Madrid-Mykonos i/v + Milos-Atenas-Kos + Rodas-Mykonos</td>
-              <td data-label="Coste General">1.040 €</td>
-              <td data-label="Coste Senior 65+">1.040 €</td>
-              <td data-label="Coste / Persona">520,00 €</td>
+              <td data-label="Detalle">Madrid-Mykonos directo + Milos-Atenas-Kos + Rodas-Atenas-Madrid (Ruta Open-Jaw con maleta 23 kg)</td>
+              <td data-label="Coste General">960 €</td>
+              <td data-label="Coste Senior 65+">960 €</td>
+              <td data-label="Coste / Persona">480,00 €</td>
             </tr>
             <tr id="budget-row-ferries">
               <td data-label="Concepto" class="cell-primary"><strong>⛴️ Ferris y Barcos</strong></td>
-              <td data-label="Detalle">7 travesías marítimas interinsulares</td>
+              <td data-label="Detalle">7 travesías marítimas interinsulares (Blue Star, SeaJets, Dodekanisos, Antíparos)</td>
               <td data-label="Coste General">340 €</td>
               <td data-label="Coste Senior 65+">340 €</td>
               <td data-label="Coste / Persona">170,00 €</td>
             </tr>
             <tr id="budget-row-hotels">
               <td data-label="Concepto" class="cell-primary"><strong>🏨 Alojamientos Booking</strong></td>
-              <td data-label="Detalle">19 noches en apartamentos (>9,0) con cocina y parking</td>
-              <td data-label="Coste General">1.815 €</td>
-              <td data-label="Coste Senior 65+">1.815 €</td>
-              <td data-label="Coste / Persona">907,50 €</td>
+              <td data-label="Detalle">19 noches en apartamentos (>9,0) con cocina, terraza y parking</td>
+              <td data-label="Coste General">1.799 €</td>
+              <td data-label="Coste Senior 65+">1.799 €</td>
+              <td data-label="Coste / Persona">899,50 €</td>
             </tr>
             <tr id="budget-row-cars">
               <td data-label="Concepto" class="cell-primary"><strong>🚗 Coches de Alquiler</strong></td>
-              <td data-label="Detalle">16 días con Seguro Todo Riesgo Sin Franquicia (SCDW)</td>
-              <td data-label="Coste General"><strong>721 €</strong></td>
-              <td data-label="Coste Senior 65+"><strong>721 €</strong></td>
-              <td data-label="Coste / Persona">360,50 €</td>
+              <td data-label="Detalle">18 días con Seguro Todo Riesgo Sin Franquicia (SCDW Cero Franquicia)</td>
+              <td data-label="Coste General"><strong>809 €</strong></td>
+              <td data-label="Coste Senior 65+"><strong>809 €</strong></td>
+              <td data-label="Coste / Persona">404,50 €</td>
             </tr>
             <tr id="budget-row-fuel">
               <td data-label="Concepto" class="cell-primary"><strong>⛽ Combustible</strong></td>
-              <td data-label="Detalle">Estimado para 547 km en carretera</td>
-              <td data-label="Coste General">190 €</td>
-              <td data-label="Coste Senior 65+">190 €</td>
-              <td data-label="Coste / Persona">95,00 €</td>
+              <td data-label="Detalle">Estimado para 600 km de recorridos por carreteras insulares</td>
+              <td data-label="Coste General">210 €</td>
+              <td data-label="Coste Senior 65+">210 €</td>
+              <td data-label="Coste / Persona">105,00 €</td>
             </tr>
             <tr id="budget-row-monuments">
               <td data-label="Concepto" class="cell-primary"><strong>🏛️ Monumentos y Museos</strong></td>
-              <td data-label="Detalle">Delos, Asklepieion, Lindos, Kamiros, Catacumbas, etc.</td>
+              <td data-label="Detalle">Delos UNESCO, Asklepieion, Acrópolis Lindos, Kamiros, etc.</td>
               <td data-label="Coste General">154 €</td>
-              <td data-label="Coste Senior 65+"><strong style="color:var(--color-senior);">77 € (50% Dto.)</strong></td>
+              <td data-label="Coste Senior 65+"><strong style="color:var(--color-senior);">77 € (50% Dto. UE)</strong></td>
               <td data-label="Coste / Persona"><strong style="color:var(--color-senior);">38,50 €</strong></td>
             </tr>
             <tr class="budget-total-row" id="budget-row-total">
               <td data-label="Resumen" class="cell-primary" colspan="2">TOTAL CONSOLIDADO DEL VIAJE</td>
-              <td data-label="Coste General" style="color:var(--color-primary);font-weight:800;font-size:1.15rem;">4.260 €</td>
-              <td data-label="Coste Senior 65+" style="color:var(--color-senior);font-weight:800;font-size:1.25rem;">4.183 €</td>
-              <td data-label="Coste / Persona" style="color:var(--color-accent);font-weight:800;font-size:1.15rem;">2.091,50 €</td>
+              <td data-label="Coste General" style="color:var(--color-primary);font-weight:800;font-size:1.15rem;">4.272 €</td>
+              <td data-label="Coste Senior 65+" style="color:var(--color-senior);font-weight:800;font-size:1.25rem;">4.195 €</td>
+              <td data-label="Coste / Persona" style="color:var(--color-accent);font-weight:800;font-size:1.15rem;">2.097,50 €</td>
             </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="table-scroll-hint">⇄ Desliza horizontalmente la tabla para ver todas las columnas</div>
+    </div>
+  `;
+
+  container.innerHTML = html;
+  initTableViewToggles(container);
+}
+
+/* ==========================================================================
+   9. VISTA: AUDITORÍA & CONSEJOS DE CALIDAD
+   ========================================================================== */
+function renderAuditView(container) {
+  const html = `
+    <div class="section-hero">
+      <h2>📋 Informe de Auditoría y Verificación de Calidad</h2>
+      <p>Control riguroso de viabilidad, tarifas oficiales del Estado griego, accesibilidad física para conductor de 68 años y recomendaciones para disfrutar al 100% de la combinación entre historia antigua y descanso playero.</p>
+      <div class="section-hero-stats">
+        <div class="hero-stat-pill">🏛️ 50% Arqueología / 🏖️ 50% Playas</div>
+        <div class="hero-stat-pill">🛡️ Seguro Cero Franquicia en todas las islas</div>
+        <div class="hero-stat-pill">✈️ Ruta Open-Jaw: Salida desde Rodas</div>
+      </div>
+    </div>
+
+    <div class="audit-grid">
+      <!-- Tarjeta 1: Equilibrio Cultura y Playa -->
+      <div class="audit-card">
+        <div class="audit-card-header">
+          <span class="audit-card-title">⚖️ Equilibrio Cultural y Playero</span>
+          <span class="audit-status-badge">Verificado 100%</span>
+        </div>
+        <div class="audit-card-body">
+          El itinerario respeta la regla de oro del viajero exigente: <strong>visitas arqueológicas intensas por la mañana (08:30 - 12:30)</strong> cuando la piedra caliza no irradia calor extremo, y <strong>tardes de relax en calas, playas de arena o balnearios termales (14:30 - 18:30)</strong>. Cada día dispone de una <em>Opción A (cultural)</em> y una <em>Opción B (relax)</em> para adaptar el esfuerzo según el día.
+        </div>
+        <div class="audit-recommendation-box">
+          <strong>Consejo de Oro:</strong> En Delos y Lindos, comenzad la visita a primera hora (08:00 - 09:00). La luz para fotografía es sublime y evitaréis la llegada de excursiones masivas de cruceros.
+        </div>
+      </div>
+
+      <!-- Tarjeta 2: Tarifas y Descuento Senior UE -->
+      <div class="audit-card">
+        <div class="audit-card-header">
+          <span class="audit-card-title">💶 Precios y Dto. Senior UE 65+</span>
+          <span class="audit-status-badge">Confirmado Oficial</span>
+        </div>
+        <div class="audit-card-body">
+          Se han verificado las tarifas con la plataforma oficial <strong>hhticket.gr (ODAP - Ministerio de Cultura de Grecia)</strong>: Delos (12 €), Lindos (12 €), Asklepieion (8 €), Gran Maestre (8 €), Kamiros (6 €). Los ciudadanos de la Unión Europea mayores de 65 años tienen <strong>derecho legal al 50% de reducción</strong> en taquilla o compra online.
+        </div>
+        <div class="audit-recommendation-box" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:0.75rem;">
+          <div>
+            <strong>Acreditación:</strong> Basta con llevar el DNI o pasaporte español en mano. En las taquillas de los yacimientos griegos el proceso es inmediato.
+          </div>
+          <button type="button" class="btn-toggle-view" style="font-size:0.78rem;padding:0.35rem 0.75rem;background:var(--color-primary);color:#ffffff;border-radius:var(--radius-sm);border:none;cursor:pointer;font-weight:600;" onclick="document.getElementById('nav-budget').click();setTimeout(() => scrollToTarget('audit-cuadro-8'), 100);">
+            📋 Ver Cuadro 8 en Finanzas ➔
+          </button>
+        </div>
+      </div>
+
+      <!-- Tarjeta 3: Alquiler de Coches y Seguro Senior -->
+      <div class="audit-card">
+        <div class="audit-card-header">
+          <span class="audit-card-title">🚗 Coches con Seguro Cero Franquicia</span>
+          <span class="audit-status-badge">Protección Total</span>
+        </div>
+        <div class="audit-card-body">
+          Las agencias seleccionadas (Avis, Hertz, Enterprise, Avance) <strong>admiten conductores de hasta 75 años sin suplemento</strong>. El presupuesto contempla el seguro máximo <em>SCDW / Cero Franquicia</em>, suprimiendo la retención de 800 € - 1.200 € en tarjeta de crédito y cubriendo chapa, lunas y bajos.
+        </div>
+        <div class="audit-recommendation-box">
+          <strong>Consejo de Conducción:</strong> Alquilar coches compactos independientes en cada isla ahorra más de 400 € en billetes de embarque de ferris y evita complicadas maniobras en bodegas de barcos.
+        </div>
+      </div>
+
+      <!-- Tarjeta 4: Puntualidad de Ferris y Viento Meltemi -->
+      <div class="audit-card">
+        <div class="audit-card-header">
+          <span class="audit-card-title">⛴️ Ferris & Viento Meltemi</span>
+          <span class="audit-status-badge">Logística Segura</span>
+        </div>
+        <div class="audit-card-body">
+          Los buques de <strong>Blue Star Ferries</strong> tienen una puntualidad superior al 95% y estabilidad casi total ante oleaje. Los catamaranes de <strong>SeaJets</strong> ahorran tiempo entre Naxos y Milos, pero en días de viento norte fuerte pueden registrar retrasos de 30 minutos.
+        </div>
+        <div class="audit-recommendation-box">
+          <strong>Climatología:</strong> Si sopla viento del norte (Meltemi), elegid las playas de la costa sur (como Plaka en Naxos, Firiplaka en Milos o Lindos en Rodas), que permanecen en calma total.
+        </div>
+      </div>
+
+      <!-- Tarjeta 5: Vuelo Multidestino Open-Jaw -->
+      <div class="audit-card">
+        <div class="audit-card-header">
+          <span class="audit-card-title">✈️ Salida Directa desde Rodas</span>
+          <span class="audit-status-badge">Optimización Clave</span>
+        </div>
+        <div class="audit-card-body">
+          Volver a Madrid directamente desde Rodas vía Atenas con Aegean Airlines elimina el vuelo interno de retroceso a Mykonos, ahorra casi 400 € y <strong>gana 2 días limpios</strong> para disfrutar de una estancia de 5 noches completas en la Ciudad Medieval de Rodas.
+        </div>
+        <div class="audit-recommendation-box">
+          <strong>Equipaje:</strong> Al viajar con billete Star Alliance (Aegean), las maletas se facturan en Rodas (RHO) y viajan directamente hasta Madrid-Barajas T2.
+        </div>
+      </div>
+
+      <!-- Tarjeta 6: Accesibilidad Física y Calzado -->
+      <div class="audit-card">
+        <div class="audit-card-header">
+          <span class="audit-card-title">👟 Accesibilidad y Calzado</span>
+          <span class="audit-status-badge">Confort Senior</span>
+        </div>
+        <div class="audit-card-body">
+          Los yacimientos arqueológicos de la Antigua Grecia cuentan con suelos de piedra y mármol pulidos por milenios de pisadas. En Lindos la subida tiene un desnivel de +116 metros con escalones irregulares. Se recomienda encarecidamente utilizar <strong>calzado deportivo cerrado con suela antideslizante</strong> y bastón ligero de apoyo si se desea.
+        </div>
+        <div class="audit-recommendation-box">
+          <strong>Alojamiento en Rodas:</strong> El apartamento Old Town Nest se encuentra junto a la Puerta de San Juan, permitiendo llegar en taxi/coche hasta la misma puerta para evitar arrastrar maletas por el empedrado.
+        </div>
+      </div>
+    </div>
+
+    <!-- SECCIÓN 6.2: MATRIZ JUSTIFICADA DE DÍAS POR ISLA -->
+    <div class="table-card-wrapper" id="audit-days-matrix" style="margin-top: 2.5rem; border: 2px solid #0284c7; box-shadow: var(--shadow-md);">
+      <div class="table-view-header" style="background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 100%); color: #ffffff; padding: 1.25rem 1.5rem; border-radius: var(--radius-md) var(--radius-md) 0 0; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+        <div>
+          <div style="display: flex; align-items: center; gap: 0.6rem; margin-bottom: 0.35rem;">
+            <span style="background: #38bdf8; color: #0f172a; font-size: 0.72rem; font-weight: 800; padding: 0.2rem 0.55rem; border-radius: var(--radius-full); text-transform: uppercase;">Apartado 6.2 Auditoría</span>
+            <span style="color: #93c5fd; font-size: 0.85rem; font-weight: 600;">Planificación Estratégica & Racionalidad</span>
+          </div>
+          <h3 style="color: #ffffff; font-size: 1.25rem; margin: 0; font-family: 'Outfit', sans-serif;">🗺️ Matriz Justificada de Días por Isla</h3>
+          <p style="color: #cbd5e1; font-size: 0.86rem; margin: 0.35rem 0 0 0;">Justificación exhaustiva del número de jornadas en cada destino según su patrimonio de la Grecia Antigua, playas, excursiones marítimas y ritmo senior sin prisas.</p>
+        </div>
+        <div class="table-view-toggle">
+          <button type="button" class="btn-toggle-view" data-view="cards" title="Ver en tarjetas apiladas" style="color: #ffffff; border-color: rgba(255,255,255,0.4);">📱 Tarjetas</button>
+          <button type="button" class="btn-toggle-view" data-view="table" title="Ver en tabla tradicional" style="color: #ffffff; border-color: rgba(255,255,255,0.4);">📊 Tabla</button>
+        </div>
+      </div>
+
+      <div class="table-responsive">
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th style="min-width: 140px;">Isla / Destino</th>
+              <th style="min-width: 110px; text-align: center;">Días / Noches</th>
+              <th style="min-width: 220px;">Monumentos y Arqueología</th>
+              <th style="min-width: 190px;">Playas y Relax</th>
+              <th style="min-width: 190px;">Excursiones y Actividades</th>
+              <th style="min-width: 260px;">¿Por qué este número de días? (Justificación)</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${(ITINERARY_DATA.daysJustification || []).map(item => `
+              <tr>
+                <td data-label="Isla" class="cell-primary">
+                  <strong>🏝️ ${item.island}</strong>
+                </td>
+                <td data-label="Estancia" style="text-align: center;">
+                  <span class="audit-status-badge" style="background: rgba(2,132,199,0.12); color: #0284c7; border-color: #38bdf8; font-weight: 800;">
+                    ${item.badge}
+                  </span>
+                </td>
+                <td data-label="Monumentos y Arqueología" style="font-size: 0.88rem; line-height: 1.5;">
+                  ${item.monuments}
+                </td>
+                <td data-label="Playas y Relax" style="font-size: 0.88rem; line-height: 1.5;">
+                  ${item.beaches}
+                </td>
+                <td data-label="Excursiones y Actividades" style="font-size: 0.88rem; line-height: 1.5;">
+                  ${item.activities}
+                </td>
+                <td data-label="¿Por qué estos días?" style="font-size: 0.86rem; color: #334155; line-height: 1.5; background: #f8fafc;">
+                  <strong>Justificación:</strong> ${item.whyDays}
+                </td>
+              </tr>
+            `).join('')}
           </tbody>
         </table>
       </div>

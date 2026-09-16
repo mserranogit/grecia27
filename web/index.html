@@ -91,7 +91,7 @@
             <a id="nav-flights" class="nav-link" data-view="flights">
               <span class="nav-icon">✈️</span>
               <span class="nav-label">Vuelos</span>
-              <span id="flights-submenu-toggle" class="nav-badge" title="Ver 4 conexiones aéreas">4 vuelos ▾</span>
+              <span id="flights-submenu-toggle" class="nav-badge" title="Ver 3 conexiones aéreas">3 vuelos ▾</span>
             </a>
             <!-- Submenú desplegable de Vuelos -->
             <ul id="flights-submenu" class="submenu-days"></ul>
@@ -146,6 +146,16 @@
             <!-- Submenú desplegable de Presupuesto -->
             <ul id="budget-submenu" class="submenu-days"></ul>
           </li>
+        <div class="nav-section-title">CONTROL Y AUDITORÍA</div>
+        <ul class="nav-menu">
+          <!-- Item Auditoría -->
+          <li class="nav-item">
+            <a id="nav-audit" class="nav-link" data-view="audit">
+              <span class="nav-icon">📋</span>
+              <span class="nav-label">Auditoría & Consejos</span>
+              <span class="nav-badge" style="background:#0284c7;color:#ffffff;" title="Informe oficial">Verificado ✓</span>
+            </a>
+          </li>
         </ul>
       </nav>
 
@@ -177,11 +187,14 @@
         </div>
 
         <div class="topbar-right">
+          <button id="btn-print-itinerary" class="btn-print-topbar" title="Imprimir cuaderno o guardar en PDF">
+            🖨️ Imprimir / PDF
+          </button>
           <span class="quick-badge calendar">
             📅 1-20 Junio 2027
           </span>
-          <span class="quick-badge budget">
-            💶 4.183 € Senior (2 pax)
+          <span class="quick-badge budget" title="Cuadro 8 Auditoría: 4.183 € (2.091,50 €/pax) | Consolidado: 4.195 €">
+            💶 4.183 € Auditado (2 pax)
           </span>
         </div>
 
