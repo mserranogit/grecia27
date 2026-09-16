@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Itinerario interactivo de 20 días por las Islas Griegas (Cícladas y Dodecaneso), Junio 2027. 50% arqueología y 50% playas. Incluye mapas interactivos, tiempos de conducción, tarifas senior y enlaces directos de reserva.">
+  <title>Islas Griegas Junio 2027 | Guía & Itinerario Interactivo</title>
+
+  <!-- Google Fonts: Plus Jakarta Sans & Outfit -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Leaflet CSS para Mapas Interactivos -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+
+  <!-- Estilos Principales -->
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <!-- Overlay para móviles y tablets cuando el menú está abierto -->
+  <div id="mobile-overlay" class="mobile-overlay"></div>
+
+  <div class="app-container">
+    
+    <!-- ====================================================================
+         PANEL IZQUIERDO / MENÚ DE NAVEGACIÓN (COLAPSABLE & RESPONSIVE)
+         ==================================================================== -->
+    <aside id="sidebar" class="sidebar">
+      
+      <!-- Cabecera del Sidebar -->
+      <div class="sidebar-header">
+        <div class="sidebar-brand">
+          <span class="brand-icon">🏛️</span>
+          <span class="brand-text">Grecia 2027</span>
+        </div>
+        <button id="btn-sidebar-toggle" class="btn-sidebar-toggle" title="Colapsar / Expandir Menú">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="15 18 9 12 15 6"></polyline>
+          </svg>
+        </button>
+      </div>
+
+      <!-- Contenido del Menú -->
+      <nav class="sidebar-content">
+        
+        <div class="nav-section-title">PLANIFICACIÓN PRINCIPAL</div>
+        <ul class="nav-menu">
+          <!-- Item 1: Programa Diario -->
+          <li class="nav-item">
+            <a id="nav-daily" class="nav-link active" data-view="daily">
+              <span class="nav-icon">📅</span>
+              <span class="nav-label">Programa diario</span>
+              <span id="days-submenu-toggle" class="nav-badge" title="Ver lista de días">20 días ▾</span>
+            </a>
+            <!-- Submenú desplegable de Días 1 al 20 -->
+            <ul id="days-submenu" class="submenu-days"></ul>
+          </li>
+
+          <!-- Item 2: Programa por Isla -->
+          <li class="nav-item">
+            <a id="nav-islands" class="nav-link" data-view="islands">
+              <span class="nav-icon">🏝️</span>
+              <span class="nav-label">Programa por isla</span>
+              <span id="islands-submenu-toggle" class="nav-badge" title="Ver lista de islas">8 islas ▾</span>
+            </a>
+            <!-- Submenú desplegable de Islas -->
+            <ul id="islands-submenu" class="submenu-days"></ul>
+          </li>
+        </ul>
+
+        <div class="nav-section-title">ALOJAMIENTOS</div>
+        <ul class="nav-menu">
+          <!-- Item Alojamientos -->
+          <li class="nav-item">
+            <a id="nav-hotels" class="nav-link" data-view="hotels">
+              <span class="nav-icon">🏨</span>
+              <span class="nav-label">Alojamientos</span>
+              <span id="hotels-submenu-toggle" class="nav-badge" title="Ver 7 alojamientos">7 hoteles ▾</span>
+            </a>
+            <!-- Submenú desplegable de Hoteles -->
+            <ul id="hotels-submenu" class="submenu-days"></ul>
+          </li>
+        </ul>
+
+        <div class="nav-section-title">TRANSPORTE</div>
+        <ul class="nav-menu">
+          <!-- Item Vuelos -->
+          <li class="nav-item">
+            <a id="nav-flights" class="nav-link" data-view="flights">
+              <span class="nav-icon">✈️</span>
+              <span class="nav-label">Vuelos</span>
+              <span id="flights-submenu-toggle" class="nav-badge" title="Ver 4 conexiones aéreas">4 vuelos ▾</span>
+            </a>
+            <!-- Submenú desplegable de Vuelos -->
+            <ul id="flights-submenu" class="submenu-days"></ul>
+          </li>
+
+          <!-- Item Ferris -->
+          <li class="nav-item">
+            <a id="nav-ferries" class="nav-link" data-view="ferries">
+              <span class="nav-icon">⛴️</span>
+              <span class="nav-label">Ferris</span>
+              <span id="ferries-submenu-toggle" class="nav-badge" title="Ver 7 travesías marítimas">7 rutas ▾</span>
+            </a>
+            <!-- Submenú desplegable de Ferris -->
+            <ul id="ferries-submenu" class="submenu-days"></ul>
+          </li>
+
+          <!-- Item Coches de alquiler -->
+          <li class="nav-item">
+            <a id="nav-cars" class="nav-link" data-view="cars">
+              <span class="nav-icon">🚗</span>
+              <span class="nav-label">Coches de alquiler</span>
+              <span id="cars-submenu-toggle" class="nav-badge" title="Ver 7 alquileres con Todo Riesgo">7 islas ▾</span>
+            </a>
+            <!-- Submenú desplegable de Coches -->
+            <ul id="cars-submenu" class="submenu-days"></ul>
+          </li>
+        </ul>
+
+        <div class="nav-section-title">CULTURA</div>
+        <ul class="nav-menu">
+          <!-- Item 7: Monumentos -->
+          <li class="nav-item">
+            <a id="nav-monuments" class="nav-link" data-view="monuments">
+              <span class="nav-icon">🏛️</span>
+              <span class="nav-label">Monumentos</span>
+              <span id="monuments-submenu-toggle" class="nav-badge" style="background:#16a34a;color:#ffffff;" title="Filtrar por isla (descuento 65+)">9 islas ▾</span>
+            </a>
+            <!-- Submenú desplegable de Monumentos -->
+            <ul id="monuments-submenu" class="submenu-days"></ul>
+          </li>
+        </ul>
+
+        <div class="nav-section-title">FINANZAS</div>
+        <ul class="nav-menu">
+          <!-- Item 8: Presupuesto Global -->
+          <li class="nav-item">
+            <a id="nav-budget" class="nav-link" data-view="budget">
+              <span class="nav-icon">💰</span>
+              <span class="nav-label">Presupuesto global</span>
+              <span id="budget-submenu-toggle" class="nav-badge" title="Ver partidas del presupuesto">Partidas ▾</span>
+            </a>
+            <!-- Submenú desplegable de Presupuesto -->
+            <ul id="budget-submenu" class="submenu-days"></ul>
+          </li>
+        </ul>
+      </nav>
+
+      <!-- Pie del Sidebar: Info de Viajero Senior -->
+      <div class="sidebar-footer">
+        <div class="sidebar-senior-pill">
+          <span>🛡️</span>
+          <span>Conductor 68 años (Sin recargo)</span>
+        </div>
+        <div style="margin-top:0.4rem;font-size:0.75rem;opacity:0.8;">
+          1 - 20 Junio 2027 • 2 Adultos
+        </div>
+      </div>
+
+    </aside>
+
+    <!-- ====================================================================
+         PANEL DERECHO / CONTENIDO PRINCIPAL
+         ==================================================================== -->
+    <main class="main-content">
+      
+      <!-- Barra Superior Sticky -->
+      <header class="topbar">
+        <div class="topbar-left">
+          <button id="btn-mobile-menu" class="btn-mobile-menu" aria-label="Abrir menú de navegación">
+            ☰
+          </button>
+          <h1 id="page-title" class="page-title">Programa Diario</h1>
+        </div>
+
+        <div class="topbar-right">
+          <span class="quick-badge calendar">
+            📅 1-20 Junio 2027
+          </span>
+          <span class="quick-badge budget">
+            💶 4.183 € Senior (2 pax)
+          </span>
+        </div>
+
+      </header>
+
+      <!-- Contenedor Dinámico del Contenido -->
+      <div id="main-content-body" class="content-body">
+        <!-- Renderizado dinámico vía app.js -->
+      </div>
+
+    </main>
+
+  </div>
+
+  <!-- Leaflet JS para Mapas Interactivos -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+  <!-- Base de Datos Maestra y Lógica de Aplicación -->
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+
+</body>
+</html>

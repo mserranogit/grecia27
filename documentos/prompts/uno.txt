@@ -1,0 +1,101 @@
+Hola
+utiliza el cuaderno de notebooklm "islas griegas 27" para obtener información y realizar las búsquedas y consultas necesarias.
+quiero que actúes como un agente de una agencia de viajes que es capaz de conseguir vuelos y consultar horarios y días para ferry y demás en las islas griegas
+También quiero que actúes como un guía turístico experto en las islas griegas del mar Egeo, para que puedas hacerme recomendaciones de qué islas visitar, qué monumentos ver, horarios, precios, etc.
+Quiero hacer un viaje de veinte días en el mes de junio del año dos mil veintisiete.
+Las fechas exactas las dejo abiertas para que tú me digas los mejores días en relación a precios de vuelos, de alojamientos y de billetes de ferris para desplazarme entre las islas griegas.
+Quiero que me hagas una selección de las islas griegas del mar Egeo a visitar en función de 
+- valoración de otros turistas
+- monumentos
+- ruinas antiguas
+- costas
+- playas
+- excursiones
+- actividades
+- etc.
+- las fechas y días que mejor me vengan para
+- los vuelos que mejor me vengan para
+- los ferris que mejor me vengan para
+- los alojamientos que mejor me vengan para
+- los monumentos que mejor me vengan para
+- los precios que mejor me vengan para
+- etc.
+Quiero que me hagas una selección de las islas griegas del mar Egeo a visitar en función de lo que te he dicho.
+Los alojamientos quiero que los busques en la web booking.com Esta es la web que voy a utilizar para hacer las reservas. Prioriza principalmente apartamentos.
+En cuanto a los vuelos, prioriza de Madrid a mykonos ida y vuelta.
+
+Para vuelos utiliza la web: https://www.skyscanner.es/
+Para alojamientos: https://www.booking.com
+
+También tendrás que establecer los días a estar en cada isla.En función de lo grande que sea, del tamaño que tenga, de las atracciones que tengas para visitar, monumentos, restos arqueológicos, museos, playas, etc.
+
+Excluye las islas de Creta y Santorini , ya las he visitado en otros viajes.
+Incluye estas islas en la lista de islas a visitar, aunque yo no las haya visitado. Quiero conocerlas. en la lista de islas a visitar:
+Mykonos
+Delos
+Syros
+Naxos
+Paros 
+Antiparos
+Milos 
+Rodas
+Kos
+
+
+Quiero que el viaje sea una combinación entre cultura, visitar y yacimientos arqueológicos y ruinas de la etapa de la antigua Grecia, pero también una parte de playa y de relax. quiero que me consigas la combinación perfecta
+Con toda la información genera un fichero en formato markdown.md y guárdalo en la carpeta documentos\programas.
+
+Incluye los alojamientos para cada día y para cada isla que visite.
+Elije por valoración y precio de los alojamientos en booking.com
+También puede ser hotel si la diferencia de precio es grande a favor del hotel.
+Quiero que los alojamientos tengan buenas críticas y buenas valoraciones por los turistas.
+
+Cuando veas varias opciones a realizar, planteámelas que es que sea opción A, ir a tal sitio, ver tal yacimiento, tal, opción B, ir a una playa y tal. Cuando veas varias opciones a realizar para un mismo día en una isla, me las puedes plantear también y refléjalas en el documento final.
+
+También quiero que me hagas una tabla de precios. Ponme los precios de todo de los vuelos, de los barcos, de los ferries y de los alojamientos. Usa las fuentes que veas convenientes.
+
+Dime si has entendido lo que te estoy pidiendo.
+pregúntame cualquier duda que tengas o algo que no te haya quedado claro.
+
+Si lo consideras conveniente, puedes hacerme sugerencias.
+
+analiza el documento itinerario_islas_griegas_junio_2027.md
+quiero que hagas las siguientes modificaciones:
+1- en la tabla maestra de precios separa las tablas según el contenido, una tabla para los vuelos, otra tabla para los ferris y otra para los alojamientos.
+añade siempre los links a las webs donde he de comprar los tickes o hacer las reservas, no pongas páginas generales, pon la página concreta donde he de hacer la compra o reserva.
+
+2- añade una tabla con los coches de alquiler , en cada isla , especifica los días, el coste y añade el link a la web de la casa que alquila el coche, comprueba que puedo alquilarlo, para 2027 tendré 68 años y algunas casas de cohes de alquiler tienen restriccones para mayores de 65 años,
+
+3- añade otra tabla para cada isla de los monumentos o sitios a visitar 
+    - especifica el nombre del monumento
+    - descripción
+    - lugar donde se encuentra
+    - horario
+    - precio
+    - link
+
+añade un mapa para cada día con las indicaciones de los desplazamientos a realizar y tiempo de desplazamiento y kms a realizar si es en coche , si es en ferry o vuelo especifica el tiempo del trayecto y tiempo de espera en el puerto o aeropuertos y tiempo de embarque y desembarque
+
+crea una versión web 
+formato de salida, toda la información que crees genera en html , con un estilo limpio y moderno, no hace falta que sea un unico archivo pueden ser varios ,
+quiero un panel izquierdo con el menú de navegación y los enlaces a cada día, y el contenido de cada día en el panel derecho
+el html generado tiene que ser responsive para que se pueda ver bien en pantallas de movil y tablets
+aseguratelo, con un panel izquierdo que se pueda colapsar.
+
+guardalos en la carpeta /web 
+formato de salida, toda la información que crees genera en html , con un estilo limpio y moderno, no hace falta que sea un unico archivo pueden ser varios ,
+quiero un panel izquierdo con el menú de navegación y los enlaces a cada día, y el contenido de cada día en el panel derecho
+el html generado tiene que ser responsive para que se pueda ver bien en pantallas de movil y tablets
+aseguratelo, con un panel izquierdo que se pueda colapsar.
+en el panel izquierdo de menu poner los items de menu:
+- programa diario
+- programa por isla 
+- vuelos
+- ferris
+- alojamientos
+- coches de alquiler
+- monumentos
+añade maps de google maps en todos los dias para cada desplazamiento, si es en coche, muestra las rutas a seguir, si es en ferry o vuelo , muestra los puertos o aeropuertos con sus horarios
+añade un mapa para cada isla de todos los desplazamientos durante la estancia a la isla , kms y tiempo
+
+
