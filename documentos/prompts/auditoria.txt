@@ -1,0 +1,14 @@
+analiza el documento web/
+quiero que hagas las siguientes comprobaciones:
+Quiero que el viaje sea una combinación entre cultura, visitar y yacimientos arqueológicos y ruinas de la etapa de la antigua Grecia, pero también una parte de playa y de relax. quiero que me consigas la combinación perfecta
+dime si ves algún tipo de mejora a realizar en todo el documento html
+ofréceme alternativas para mejorar el viaje
+quiero que me digas si los precios están actualizados, si los horarios son correctos, si los enlaces funcionan, si los desplazamientos son viables.
+quiero que me digas si los monumentos que voy a visitar merecen la pena, si las playas son buenas, si las excursiones son interesantes, si los alojamientos son adecuados, si los ferris son puntuales, si los vuelos son convenientes, si los coches de alquiler son fiables.
+quiero que me digas si la combinación entre cultura, playa y relax es adecuada, si la combinación entre las diferentes islas es adecuada, si la combinación entre los diferentes días es adecuada, si la combinación entre los diferentes alojamientos es adecuada, si la combinación entre los diferentes ferris es adecuada, si la combinación entre los diferentes vuelos es adecuada, si la combinación entre los diferentes coches de alquiler es adecuada.
+
+quiero que actualices el documento informe_auditoria del itinirerario 
+quiero que me digas si la combinación entre cultura, playa y relax es adecuada, si la combinación entre las diferentes islas es adecuada, si la combinación entre los diferentes días es adecuada, si la combinación entre los diferentes alojamientos es adecuada, si la combinación entre los diferentes ferris es adecuada, si la combinación entre los diferentes vuelos es adecuada, si la combinación entre los diferentes coches de alquiler es adecuada.
+
+
+
