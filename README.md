@@ -15,3 +15,17 @@ Planificador integral, logística y aplicación web interactiva para el viaje a 
 ## 🚀 Uso Rápido de la Web
 
 Abrir directamente el archivo `web/index.html` en cualquier navegador web moderno (Chrome, Edge, Firefox, Safari). No requiere servidor ni instalación previa.
+
+## 🐳 Despliegue en VPS con Coolify
+
+El proyecto incluye `Dockerfile`, `docker-compose.yml` y `nginx.conf` optimizados para despliegue inmediato en Coolify:
+
+1. En tu panel de **Coolify**, accede a tu proyecto o entorno y pulsa **+ New Resource**.
+2. Selecciona **Public Repository** (o Private Repository con tu GitHub App).
+3. Introduce la URL: `https://github.com/mserranogit/grecia27`
+4. Rama: `main`
+5. Coolify detectará automáticamente el **Dockerfile** (o **Docker Compose**).
+6. Configura tu dominio o subdominio en Coolify (con SSL automático Let's Encrypt).
+7. Puerto expuesto: `80`
+8. Pulsa **Deploy**.
+

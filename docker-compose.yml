@@ -1,0 +1,14 @@
+services:
+  grecia27:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: grecia27-app
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://127.0.0.1/"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
