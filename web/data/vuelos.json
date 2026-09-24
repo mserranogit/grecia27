@@ -1,0 +1,84 @@
+[
+  {
+    "id": "fl-1",
+    "day": "Día 1 (1 de Junio)",
+    "route": "Madrid (MAD) ➔ Mykonos (JMK)",
+    "type": "Internacional directo",
+    "airline": "Iberia Express / Vueling",
+    "flightNo": "I2 3842 / VY 3280 (estimado)",
+    "departure": "08:15 MAD (T4 / T4S)",
+    "arrival": "12:50 JMK (Terminal 1)",
+    "duration": "3h 35m",
+    "price": "420 € (2 pers.)",
+    "airports": {
+      "origin": { "name": "Adolfo Suárez Madrid-Barajas", "code": "MAD", "terminal": "T4 / T4S", "coords": [40.4839, -3.5680] },
+      "dest": { "name": "Aeropuerto Nacional de Mykonos", "code": "JMK", "terminal": "Terminal Principal", "coords": [37.4351, 25.3481] }
+    },
+    "times": {
+      "presentation": "2h 00m antes (06:15)",
+      "security": "30-40 min",
+      "boarding": "30 min antes",
+      "disembark": "25 min (recogida equipaje)"
+    },
+    "links": [
+      { "title": "Ver vuelos en Skyscanner", "url": "https://www.skyscanner.es/transporte/vuelos/mad/jmk/" },
+      { "title": "Iberia Express", "url": "https://www.iberiaexpress.com/" },
+      { "title": "Vueling", "url": "https://www.vueling.com/es" }
+    ]
+  },
+  {
+    "id": "fl-2",
+    "day": "Día 15 (15 de Junio)",
+    "route": "Milos (MLO) ➔ Kos (KGS) [Vía Atenas ATH]",
+    "type": "Doméstico interinsular con conexión",
+    "airline": "Sky Express / Olympic Air (Aegean)",
+    "flightNo": "GQ 021 + GQ 224 (estimado)",
+    "departure": "10:15 MLO ➔ 11:00 ATH | 13:10 ATH ➔ 14:05 KGS",
+    "arrival": "14:05 KGS (Terminal Única)",
+    "duration": "3h 50m (incluye 2h 10m escala en ATH)",
+    "price": "340 € (2 pers.)",
+    "airports": {
+      "origin": { "name": "Aeropuerto Nacional de Milos", "code": "MLO", "terminal": "Terminal Única", "coords": [36.6969, 24.4719] },
+      "layover": { "name": "Aeropuerto Int. Eleftherios Venizelos Atenas", "code": "ATH", "terminal": "Edificio Principal", "coords": [37.9364, 23.9445] },
+      "dest": { "name": "Aeropuerto Internacional de Kos-Hipócrates", "code": "KGS", "terminal": "Terminal Principal", "coords": [36.7933, 27.0917] }
+    },
+    "times": {
+      "presentation": "1h 30m antes en MLO (08:45)",
+      "security": "15 min en MLO / Tránsito fluido en ATH",
+      "boarding": "25 min antes de cada tramo",
+      "disembark": "25 min recogida maletas en KGS"
+    },
+    "links": [
+      { "title": "Ver vuelos en Skyscanner", "url": "https://www.skyscanner.es/transporte/vuelos/mlo/kgs/" },
+      { "title": "Sky Express", "url": "https://www.skyexpress.gr/es" },
+      { "title": "Aegean Airlines", "url": "https://en.aegeanair.com/" }
+    ]
+  },
+  {
+    "id": "fl-3",
+    "day": "Día 22 (22 de Junio)",
+    "route": "Rodas (RHO) ➔ Madrid (MAD) [Vía Atenas ATH]",
+    "type": "Internacional con conexión protegida (Star Alliance)",
+    "airline": "Aegean Airlines / Olympic Air",
+    "flightNo": "A3 205 + A3 688",
+    "departure": "12:20 RHO ➔ 13:15 ATH | 15:15 ATH ➔ 18:05 MAD",
+    "arrival": "18:05 MAD (Terminal T2)",
+    "duration": "6h 45m (incluye 2h 00m escala fluida en ATH)",
+    "price": "380 € (2 pers. con maletas facturadas directas)",
+    "airports": {
+      "origin": { "name": "Aeropuerto Internacional de Rodas-Diágoras", "code": "RHO", "terminal": "Terminal Principal", "coords": [36.4054, 28.0862] },
+      "layover": { "name": "Aeropuerto Int. Eleftherios Venizelos Atenas", "code": "ATH", "terminal": "Edificio Principal", "coords": [37.9364, 23.9445] },
+      "dest": { "name": "Adolfo Suárez Madrid-Barajas", "code": "MAD", "terminal": "Terminal T2", "coords": [40.4839, -3.5680] }
+    },
+    "times": {
+      "presentation": "1h 45m antes en RHO (10:35)",
+      "security": "20 min en RHO / Tránsito interior sin salir de zona estéril en ATH",
+      "boarding": "30 min antes de cada tramo",
+      "disembark": "25 min recogida maletas en Madrid T2"
+    },
+    "links": [
+      { "title": "Ver vuelos en Skyscanner", "url": "https://www.skyscanner.es/transporte/vuelos/rho/mad/" },
+      { "title": "Aegean Airlines Oficial", "url": "https://en.aegeanair.com/" }
+    ]
+  }
+]

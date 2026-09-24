@@ -1,0 +1,107 @@
+[
+  {
+    "id": "ferry-1",
+    "day": "Día 2 (2 de Junio)",
+    "route": "Mykonos (Puerto Viejo) ↔ Delos (UNESCO)",
+    "operator": "Delos Tours",
+    "duration": "30 min por trayecto",
+    "price": "44 € (2 pers. i/v)",
+    "ports": {
+      "dep": { "name": "Puerto Viejo de Mykonos (Chora)", "coords": [37.4475, 25.3275] },
+      "arr": { "name": "Muelle Arqueológico de Delos", "coords": [37.3995, 25.2678] }
+    },
+    "schedule": "Ida 09:00 o 10:00 | Regreso 13:30 o 15:00",
+    "times": "Presentación 20 min antes en muelle. Embarque ágil 10 min.",
+    "link": "https://delostours.gr/"
+  },
+  {
+    "id": "ferry-2",
+    "day": "Día 5 (5 de Junio)",
+    "route": "Mykonos (Nuevo Puerto Tourlos) ➔ Syros (Ermoupoli)",
+    "operator": "SeaJets (WorldChampion Jet / Champion Jet)",
+    "duration": "35 - 45 min",
+    "price": "58 € (2 pers.)",
+    "ports": {
+      "dep": { "name": "Nuevo Puerto de Tourlos (Mykonos)", "coords": [37.4645, 25.3245] },
+      "arr": { "name": "Puerto de Ermoupoli (Syros)", "coords": [37.4402, 24.9431] }
+    },
+    "schedule": "Salida recomendada 10:30 o 11:15",
+    "times": "Llegada al puerto 45 min antes. Embarque 15 min. Desembarque 10 min.",
+    "link": "https://www.seajets.com/es"
+  },
+  {
+    "id": "ferry-3",
+    "day": "Día 7 (7 de Junio)",
+    "route": "Syros (Ermoupoli) ➔ Paros (Parikia)",
+    "operator": "Blue Star Ferries / SeaJets",
+    "duration": "50 min - 1h 15m",
+    "price": "36 € (2 pers.)",
+    "ports": {
+      "dep": { "name": "Puerto de Ermoupoli (Syros)", "coords": [37.4402, 24.9431] },
+      "arr": { "name": "Puerto de Parikia (Paros)", "coords": [37.0855, 25.1495] }
+    },
+    "schedule": "Salida habitual 11:45 o 13:10",
+    "times": "Llegada al muelle 45 min antes. Embarque 15 min. Desembarque 10 min.",
+    "link": "https://www.bluestarferries.com/es-es"
+  },
+  {
+    "id": "ferry-4",
+    "day": "Día 8 (8 de Junio)",
+    "route": "Paros (Pounda) ↔ Antíparos",
+    "operator": "Transbordador local Pounda-Antiparos",
+    "duration": "7 min por trayecto",
+    "price": "12 € (2 pers. + coche i/v)",
+    "ports": {
+      "dep": { "name": "Embarcadero de Pounda (Paros)", "coords": [37.0425, 25.1052] },
+      "arr": { "name": "Puerto de Antíparos", "coords": [37.0401, 25.0815] }
+    },
+    "schedule": "Salidas continuas cada 30 minutos desde las 07:00 hasta las 23:00",
+    "times": "Llegada 10 min antes directamente a la cola de vehículos. Pago a bordo.",
+    "link": "https://antiparos.com/getting-here/ferry-schedule/"
+  },
+  {
+    "id": "ferry-5",
+    "day": "Día 9 (9 de Junio)",
+    "route": "Paros (Parikia) ➔ Naxos (Chora)",
+    "operator": "Blue Star Ferries",
+    "duration": "40 - 45 min",
+    "price": "30 € (2 pers.)",
+    "ports": {
+      "dep": { "name": "Puerto de Parikia (Paros)", "coords": [37.0855, 25.1495] },
+      "arr": { "name": "Puerto de Naxos (Chora)", "coords": [37.1065, 25.3725] }
+    },
+    "schedule": "Salida diaria 12:00 o 13:30",
+    "times": "Presentación en puerto 45 min antes. Embarque 15 min. Desembarque 10 min.",
+    "link": "https://www.bluestarferries.com/es-es"
+  },
+  {
+    "id": "ferry-6",
+    "day": "Día 12 (12 de Junio)",
+    "route": "Naxos (Chora) ➔ Milos (Adamas)",
+    "operator": "SeaJets (Superjet / Power Jet)",
+    "duration": "2h 15m - 2h 45m",
+    "price": "96 € (2 pers.)",
+    "ports": {
+      "dep": { "name": "Puerto de Naxos (Chora)", "coords": [37.1065, 25.3725] },
+      "arr": { "name": "Puerto de Adamas (Milos)", "coords": [36.7245, 24.4445] }
+    },
+    "schedule": "Salida habitual 11:30 o 12:45",
+    "times": "Presentación en muelle 50 min antes. Embarque 15 min. Desembarque 15 min.",
+    "link": "https://www.seajets.com/es"
+  },
+  {
+    "id": "ferry-7",
+    "day": "Día 18 (18 de Junio)",
+    "route": "Kos (Puerto Central) ➔ Rodas (Puerto Mandraki / Akantia)",
+    "operator": "Dodekanisos Seaways / Blue Star Ferries",
+    "duration": "2h 00m (catamarán rápido) a 3h 15m (ferry convencional)",
+    "price": "64 € (2 pers.)",
+    "ports": {
+      "dep": { "name": "Puerto Central de Kos", "coords": [36.8965, 27.2915] },
+      "arr": { "name": "Puerto Comercial de Rodas (Akantia / Mandraki)", "coords": [36.4425, 28.2325] }
+    },
+    "schedule": "Salidas diarias 10:15 (Dodekanisos Pride) o 14:00 (Blue Star)",
+    "times": "Llegada al puerto 50 min antes. Embarque 15 min. Desembarque 15 min.",
+    "link": "https://www.12ne.gr/en/"
+  }
+]

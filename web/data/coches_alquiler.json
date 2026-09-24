@@ -1,0 +1,102 @@
+{
+  "seniorPolicy": {
+    "status": "100% Permitido sin Recargo",
+    "ageVerified": "68 años (en Junio 2027)",
+    "details": "En Grecia, las principales compañías de alquiler reconocidas internacionalmente (Avis, Hertz, Enterprise, Sixt y Avance) establecen su límite superior de edad en 70 o 75 años (o sin límite si el permiso tiene >1 año). A los 68 años NO existe restricción ni se aplica recargo de conductor senior en las agencias seleccionadas."
+  },
+  "insurancePolicy": {
+    "status": "Seguro a Todo Riesgo Sin Franquicia (SCDW / Cero Franquicia) 100% INCLUIDO",
+    "details": "El presupuesto incluye expresamente la cobertura máxima Super Cover / SCDW / FDW Cero Franquicia en todas las islas. Elimina la responsabilidad en daños por colisión, chapa, pintura, lunas y robo, suprimiendo la retención de franquicias elevadas (800€-1.200€) en la tarjeta de crédito."
+  },
+  "rentals": [
+    {
+      "island": "Mykonos",
+      "days": 3,
+      "carType": "Compacto Cat. B (VW Polo / Hyundai i20)",
+      "provider": "Avis Mykonos",
+      "baseCost": "114 € (38 €/d)",
+      "insuranceCost": "42 € (14 €/d — Todo Riesgo Sin Franquicia)",
+      "cost": "156 € (52 €/día)",
+      "office": "Oficina Puerto Nuevo Tourlos / Aeropuerto JMK",
+      "seniorTerms": "Aceptado hasta 75 años sin suplemento",
+      "link": "https://www.avis.es/"
+    },
+    {
+      "island": "Syros",
+      "days": 2,
+      "carType": "Compacto Cat. B (Toyota Yaris / similar)",
+      "provider": "Avance Rent / Hertz",
+      "baseCost": "64 € (32 €/d)",
+      "insuranceCost": "24 € (12 €/d)",
+      "cost": "88 € (44 €/día)",
+      "office": "Puerto de Ermoupoli (a 100m del muelle de ferris)",
+      "seniorTerms": "Aceptado hasta 75 años sin suplemento",
+      "link": "https://www.avance.gr/"
+    },
+    {
+      "island": "Paros y Antíparos",
+      "days": 2,
+      "carType": "Compacto Cat. B (Nissan Micra / VW Polo)",
+      "provider": "Avis Paros / Hertz",
+      "baseCost": "70 € (35 €/d)",
+      "insuranceCost": "24 € (12 €/d)",
+      "cost": "94 € (47 €/día)",
+      "office": "Puerto de Parikia (autorizado embarque en ferry a Antíparos)",
+      "seniorTerms": "Aceptado hasta 75 años sin sobrecoste",
+      "link": "https://www.avis.es/"
+    },
+    {
+      "island": "Naxos",
+      "days": 3,
+      "carType": "Compacto Cat. B (Fiat Panda / Yaris)",
+      "provider": "Avis Naxos / Enterprise",
+      "baseCost": "105 € (35 €/d)",
+      "insuranceCost": "36 € (12 €/d)",
+      "cost": "141 € (47 €/día)",
+      "office": "Paseo Marítimo de Chora Naxos (junto a terminal de ferris)",
+      "seniorTerms": "Aceptado sin límite específico hasta 75 años",
+      "link": "https://www.avis.es/"
+    },
+    {
+      "island": "Milos",
+      "days": 3,
+      "carType": "Compacto Cat. B (Suzuki Swift / similar)",
+      "provider": "Avance Milos / Avis",
+      "baseCost": "105 € (35 €/d)",
+      "insuranceCost": "39 € (13 €/d)",
+      "cost": "144 € (48 €/día)",
+      "office": "Puerto de Adamas / Entrega en Aeropuerto MLO",
+      "seniorTerms": "Permitido hasta 75 años con carnet >1 año",
+      "link": "https://www.avance.gr/"
+    },
+    {
+      "island": "Kos",
+      "days": 3,
+      "carType": "Compacto Cat. B (Hyundai i20 / Yaris)",
+      "provider": "Avis Kos / Hertz",
+      "baseCost": "84 € (28 €/d)",
+      "insuranceCost": "33 € (11 €/d)",
+      "cost": "117 € (39 €/día)",
+      "office": "Aeropuerto KGS y devolución en Puerto Central de Kos Chora",
+      "seniorTerms": "Sin recargo de edad senior hasta 75 años",
+      "link": "https://www.avis.es/"
+    },
+    {
+      "island": "Rodas",
+      "days": 4,
+      "carType": "Compacto Cat. B (VW Polo / Opel Corsa)",
+      "provider": "Enterprise Rhodes / Avis",
+      "baseCost": "128 € (32 €/d)",
+      "insuranceCost": "48 € (12 €/d)",
+      "cost": "176 € (44 €/día)",
+      "office": "Puerto Comercial Mandraki / Devolución Aeropuerto RHO",
+      "seniorTerms": "Sin recargo de edad senior hasta 75 años",
+      "link": "https://www.enterprise.es/"
+    }
+  ],
+  "carRentalBaseTotal": "670 € (Mykonos 3d, Naxos 3d, Rodas 4d)",
+  "carRentalInsuranceTotal": "222 € (Todo Riesgo 0 Franquicia)",
+  "carRentalTotal": "813 € (con seguro Cero Franquicia auditado)",
+  "fuelEstimatedTotal": "215 €",
+  "grandTotalMobility": "1.028 € (514,00 € / pers.)"
+}

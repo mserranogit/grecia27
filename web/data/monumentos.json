@@ -1,0 +1,527 @@
+[
+  {
+    "island": "Mykonos",
+    "sites": [
+      {
+        "name": "Iglesia de Panagia Paraportiani",
+        "desc": "Complejo de 5 iglesias blancas superpuestas iniciado en 1425. Icono máximo de la arquitectura cicládica.",
+        "location": "Barrio de Kastro, Chora de Mykonos",
+        "coords": [37.4471, 25.3256],
+        "hours": "Exterior visible 24h. Capilla abierta 09:00 - 13:00",
+        "priceGeneral": "Gratis (acceso libre)",
+        "priceSenior": "Gratis",
+        "link": "https://mykonos.gr/"
+      },
+      {
+        "name": "Museo Arqueológico de Mykonos",
+        "desc": "Alberga el colosal Pithos de Mykonos (s. VII a.C.) con el relieve más antiguo del Caballo de Troya y ajuares funerarios de Rinia.",
+        "location": "Paseo del Puerto Viejo, Chora",
+        "coords": [37.4498, 25.3292],
+        "hours": "08:30 - 15:30 (Martes cerrado)",
+        "priceGeneral": "4,00 €",
+        "priceSenior": "2,00 € (50% dto. Senior UE)",
+        "link": "https://hhticket.gr/"
+      },
+      {
+        "name": "Faro Armenistis (1891)",
+        "desc": "Faro histórico octogonal de 19 m de altura sobre el acantilado septentrional con vistas espectaculares al estrecho hacia Tinos.",
+        "location": "Cabo Armenistis (Noroeste)",
+        "coords": [37.4925, 25.3155],
+        "hours": "Acceso libre 24h (ideal atardecer)",
+        "priceGeneral": "Gratis",
+        "priceSenior": "Gratis",
+        "link": "https://mykonos.gr/"
+      },
+      {
+        "name": "Castillo y Asentamiento Micénico de Paleokastro",
+        "desc": "Restos de acrópolis amurallada del siglo XIV a.C. y posterior fortaleza medieval con panorámica del centro insular.",
+        "location": "Ano Mera (Colina Norte)",
+        "coords": [37.4582, 25.3945],
+        "hours": "Acceso libre diurno",
+        "priceGeneral": "Gratis",
+        "priceSenior": "Gratis",
+        "link": "http://odysseus.culture.gr/"
+      },
+      {
+        "name": "Monasterio de Panagia Tourliani (1542)",
+        "desc": "Conjunto monástico con campanario esculpido en mármol y retablo florentino de madera dorada del siglo XVIII.",
+        "location": "Plaza Central de Ano Mera",
+        "coords": [37.4485, 25.3925],
+        "hours": "09:00 - 13:00 y 15:30 - 19:00",
+        "priceGeneral": "2,00 €",
+        "priceSenior": "1,00 €",
+        "link": "https://mykonos.gr/"
+      },
+      {
+        "name": "Molinos de Viento de Kato Mili",
+        "desc": "Los 5 célebres molinos venecianos del siglo XVI alineados frente al mar utilizados para moler el trigo que abastecía a las flotas.",
+        "location": "Kato Mili, Chora",
+        "coords": [37.4435, 25.3255],
+        "hours": "Exterior visible 24h",
+        "priceGeneral": "Gratis",
+        "priceSenior": "Gratis",
+        "link": "https://mykonos.gr/"
+      },
+      {
+        "name": "Museo Marítimo del Egeo",
+        "desc": "Emblemático museo náutico en una mansión del siglo XIX en Tria Pigadia. Exhibe maquetas de navíos desde la civilización minoica, cartas náuticas históricas, monedas y el mecanismo óptico original del Faro Armenistis.",
+        "location": "Tria Pigadia, Chora",
+        "coords": [37.4452, 25.3298],
+        "hours": "10:30 - 13:00 y 18:30 - 21:00",
+        "priceGeneral": "4,00 €",
+        "priceSenior": "2,00 € (Senior UE)",
+        "link": "https://mykonos.gr/"
+      },
+      {
+        "name": "Casa Tradicional de Lena",
+        "desc": "Residencia museo burguesa del siglo XIX anexa al Museo Folclórico, perfectamente conservada con su mobiliario original, bordados tradicionales, grabados y utensilios domésticos de la alta sociedad micónica.",
+        "location": "Tria Pigadia, Chora",
+        "coords": [37.4450, 25.3302],
+        "hours": "18:30 - 21:30 (tardes)",
+        "priceGeneral": "2,00 €",
+        "priceSenior": "1,00 € (Senior UE)",
+        "link": "https://mykonos.gr/"
+      }
+    ]
+  },
+  {
+    "island": "Delos (UNESCO)",
+    "sites": [
+      {
+        "name": "Santuario de Apolo y Artemisa",
+        "desc": "El corazón sagrado de la Grecia Clásica. Templo de los Delios, Templo de los Atenienses, Pórtico de Filipo V y el colosal Altar de los Cuernos (Keraton).",
+        "location": "Zona central del Yacimiento Arqueológico",
+        "coords": [37.3998, 25.2672],
+        "hours": "08:00 - 19:30 (todos los días de junio)",
+        "priceGeneral": "12,00 € (incluye yacimiento + museo)",
+        "priceSenior": "6,00 € (50% dto. Senior UE)",
+        "link": "https://hhticket.gr/"
+      },
+      {
+        "name": "Terraza de los Leones de Mármol de Naxos",
+        "desc": "Avenida triunfal del 600 a.C. con las fieras leonas de mármol insular protegiendo la orilla del Lago Sagrado donde nació el dios Apolo.",
+        "location": "Sector Norte de la Vía Sacra",
+        "coords": [37.4022, 25.2678],
+        "hours": "08:00 - 19:30",
+        "priceGeneral": "Incluido en entrada general",
+        "priceSenior": "Incluido en entrada reducida",
+        "link": "https://hhticket.gr/"
+      },
+      {
+        "name": "Barrio del Teatro y Casas de los Mosaicos",
+        "desc": "Área residencial helenística y romana. Incluye la Casa de Dioniso con su mosaico del tigre, la Casa de los Delfines y la Casa del Tridente.",
+        "location": "Ladera Sur del Yacimiento",
+        "coords": [37.3975, 25.2695],
+        "hours": "08:00 - 19:30",
+        "priceGeneral": "Incluido en entrada general",
+        "priceSenior": "Incluido en entrada reducida",
+        "link": "https://hhticket.gr/"
+      },
+      {
+        "name": "Museo Arqueológico de Delos",
+        "desc": "Custodia los leones originales arcaicos de la terraza, estatuas de culto de Apolo y Artemisa, terracotas y ricos mosaicos polícromos.",
+        "location": "Interior del recinto arqueológico",
+        "coords": [37.4010, 25.2705],
+        "hours": "08:00 - 19:30",
+        "priceGeneral": "Incluido en entrada general",
+        "priceSenior": "Incluido en entrada reducida",
+        "link": "http://odysseus.culture.gr/"
+      },
+      {
+        "name": "Monte Kynthos (113 m) y Santuario de Zeus",
+        "desc": "Cima sagrada desde donde Zeus contempló el parto de Leto. Vistas de 360 grados de todo el archipiélago de las Cícladas.",
+        "location": "Cumbre meridional de Delos",
+        "coords": [37.3948, 25.2725],
+        "hours": "08:00 - 19:30 (sendero de piedra)",
+        "priceGeneral": "Incluido en entrada general",
+        "priceSenior": "Incluido en entrada reducida",
+        "link": "https://hhticket.gr/"
+      }
+    ]
+  },
+  {
+    "island": "Syros",
+    "sites": [
+      {
+        "name": "Yacimiento de Kastri y Chalandriani (2800 a.C.)",
+        "desc": "Fortaleza amurallada de la Edad del Bronce Cicládica temprana (Keros-Syros) y necrópolis con cientos de tumbas de cista.",
+        "location": "Meseta norte de Chalandriani",
+        "coords": [37.4952, 24.9355],
+        "hours": "Acceso libre (sendero señalizado)",
+        "priceGeneral": "Gratis",
+        "priceSenior": "Gratis",
+        "link": "http://odysseus.culture.gr/"
+      },
+      {
+        "name": "Teatro Municipal Apolo (1864)",
+        "desc": "Joyel neoclásico proyectado por Pietro Sampo como réplica a escala de la Scala de Milán. Cuatro pisos de palcos con frescos.",
+        "location": "Plaza Vardaka, Ermoupoli",
+        "coords": [37.4445, 24.9435],
+        "hours": "09:00 - 14:00 y 18:00 - 21:00",
+        "priceGeneral": "3,00 €",
+        "priceSenior": "1,50 € (50% dto. Senior UE)",
+        "link": "https://www.apollotheatro.gr/"
+      },
+      {
+        "name": "Museo Arqueológico de Syros",
+        "desc": "Colección estelar de vasijas de cerámica cicládica con forma de 'sartén', figurillas de mármol y estelas funerarias helenísticas.",
+        "location": "Planta baja del Ayuntamiento, Plaza Miaouli",
+        "coords": [37.4448, 24.9422],
+        "hours": "08:30 - 15:30 (Martes cerrado)",
+        "priceGeneral": "3,00 €",
+        "priceSenior": "1,50 € (50% dto. Senior UE)",
+        "link": "https://hhticket.gr/"
+      },
+      {
+        "name": "Ciudadela Medieval y Catedral de San Jorge en Ano Syros",
+        "desc": "Burgo fortificado veneciano del siglo XIII sin coches coronado por la catedral católica de Agios Georgios y el archivo histórico.",
+        "location": "Ano Syros (Colina Norte)",
+        "coords": [37.4525, 24.9362],
+        "hours": "Abierto todo el día; templos 10:00 - 13:00 y 17:00 - 20:00",
+        "priceGeneral": "Gratis",
+        "priceSenior": "Gratis",
+        "link": "https://syrosisland.gr/"
+      }
+    ]
+  },
+  {
+    "island": "Paros",
+    "sites": [
+      {
+        "name": "Basílica Panagia Ekatontapiliani",
+        "desc": "El templo bizantino más impresionante de las Cícladas, mandado construir por Santa Elena en el siglo IV con ciborio de mármol y baptisterio cruciforme.",
+        "location": "Parikia (a 200 m del puerto)",
+        "coords": [37.0845, 25.1525],
+        "hours": "07:30 - 21:30 (acceso al museo 09:00 - 14:00)",
+        "priceGeneral": "Basílica gratis / Museo eclesiástico 3,00 €",
+        "priceSenior": "Basílica gratis / Museo 1,50 €",
+        "link": "https://ekatontapyliani.gr/"
+      },
+      {
+        "name": "Museo Arqueológico de Paros",
+        "desc": "Guarda la famosa Victoria Alada (Niké) de Paros del 470 a.C., la Gorgona arcaica y un fragmento original del Mármol de Paros.",
+        "location": "Parikia",
+        "coords": [37.0852, 25.1542],
+        "hours": "08:30 - 15:30 (Martes cerrado)",
+        "priceGeneral": "3,00 €",
+        "priceSenior": "1,50 € (50% dto. Senior UE)",
+        "link": "https://hhticket.gr/"
+      },
+      {
+        "name": "Canteras Antiguas de Mármol de Marathi",
+        "desc": "Galerías subterráneas donde se extraía el afamado mármol pario translúcido con el que se esculpieron la Venus de Milo y la Victoria de Samotracia.",
+        "location": "Valle de Marathi",
+        "coords": [37.0695, 25.1835],
+        "hours": "Acceso exterior libre diurno",
+        "priceGeneral": "Gratis",
+        "priceSenior": "Gratis",
+        "link": "http://odysseus.culture.gr/"
+      },
+      {
+        "name": "Kastro Veneciano de Naoussa",
+        "desc": "Torre vigía veneciana semisumergida del siglo XV en la bocana del puerto pesquero que protegía contra ataques corsarios.",
+        "location": "Bocana del puerto de Naoussa",
+        "coords": [37.1255, 25.2415],
+        "hours": "Exterior visible 24h",
+        "priceGeneral": "Gratis",
+        "priceSenior": "Gratis",
+        "link": "https://paros.gr/"
+      }
+    ]
+  },
+  {
+    "island": "Antíparos",
+    "sites": [
+      {
+        "name": "Gran Cueva Espeleológica de Antíparos",
+        "desc": "Cavidad kárstica monumental de más de 85 m de profundidad. Alberga la estalagmita más antigua de Europa (45 millones de años) e inscripciones de Lord Byron.",
+        "location": "Colina de Agios Ioannis",
+        "coords": [37.0092, 25.0745],
+        "hours": "10:00 - 16:30 (todos los días de junio)",
+        "priceGeneral": "6,00 €",
+        "priceSenior": "3,00 € (50% dto. Senior UE)",
+        "link": "https://antiparos.com/cave-of-antiparos/"
+      },
+      {
+        "name": "Kastro Veneciano de Chora",
+        "desc": "Extraordinario burgo medieval fortificado de 1440 construido en anillo continuo donde los muros de las viviendas formaban la propia muralla defensiva.",
+        "location": "Centro de Chora Antíparos",
+        "coords": [37.0402, 25.0805],
+        "hours": "Acceso libre peatonal 24h",
+        "priceGeneral": "Gratis",
+        "priceSenior": "Gratis",
+        "link": "https://antiparos.com/"
+      },
+      {
+        "name": "Santuario Arcaico de Apolo en Despotiko",
+        "desc": "Yacimiento arqueológico insular virgen enfrente de Antíparos con un grandioso templo de Apolo del siglo VI a.C. en mármol blanco.",
+        "location": "Isla deshabitada de Despotiko (barca desde Agios Georgios)",
+        "coords": [36.9698, 25.0215],
+        "hours": "09:00 - 14:00 (sujeto a navegación costera)",
+        "priceGeneral": "Acceso al yacimiento gratuito / Barca 12 €",
+        "priceSenior": "Acceso gratuito / Barca 10 €",
+        "link": "http://odysseus.culture.gr/"
+      }
+    ]
+  },
+  {
+    "island": "Naxos",
+    "sites": [
+      {
+        "name": "Portara de Apolo (Templo de Delio)",
+        "desc": "Enorme marco de puerta de mármol de 6x3,5 metros construido en el 530 a.C. bajo el tirano Lígdamis sobre el islote de Palatia.",
+        "location": "Islote de Palatia, Chora de Naxos",
+        "coords": [37.1105, 25.3722],
+        "hours": "Acceso libre 24h (imprescindible a la puesta de sol)",
+        "priceGeneral": "Gratis",
+        "priceSenior": "Gratis",
+        "link": "https://naxos.gr/"
+      },
+      {
+        "name": "Templo Arcaico de Deméter en Sangri",
+        "desc": "Santuario de mármol jónico del 530 a.C. restaurado con rigor arqueológico. Precursor del Partenón de Atenas con museo in situ.",
+        "location": "Valle de Gyroulas, cerca de Sangri",
+        "coords": [37.0295, 25.4312],
+        "hours": "08:30 - 15:30 (Martes cerrado)",
+        "priceGeneral": "4,00 €",
+        "priceSenior": "2,00 € (50% dto. Senior UE)",
+        "link": "https://hhticket.gr/"
+      },
+      {
+        "name": "Kouros Colosal de Melanes (Flerio)",
+        "desc": "Estatua arcaica inconclusa de mármol de 6,4 metros de largo esculpida hacia el 570 a.C. que yace tendida en un vergel de olivos.",
+        "location": "Flerio, cerca de Melanes",
+        "coords": [37.0895, 25.4395],
+        "hours": "Acceso libre diurno",
+        "priceGeneral": "Gratis",
+        "priceSenior": "Gratis",
+        "link": "http://odysseus.culture.gr/"
+      },
+      {
+        "name": "Kouros de Apollonas (Dioniso)",
+        "desc": "Monumento colosal de 10,7 metros de largo y 80 toneladas datado en el siglo VI a.C. tallado directamente sobre el lecho de la cantera arcaica.",
+        "location": "Apollonas (Costa Norte)",
+        "coords": [37.1795, 25.5535],
+        "hours": "Acceso libre diurno",
+        "priceGeneral": "Gratis",
+        "priceSenior": "Gratis",
+        "link": "https://naxos.gr/"
+      },
+      {
+        "name": "Kastro y Museo Arqueológico de Naxos",
+        "desc": "Torre Griva y laberinto medieval de la capital ducal de Sanudo (1207). Colección excepcional de ídolos de mármol cicládicos.",
+        "location": "Cima amurallada de Chora",
+        "coords": [37.1055, 25.3775],
+        "hours": "08:30 - 15:30 (Martes cerrado)",
+        "priceGeneral": "3,00 €",
+        "priceSenior": "1,50 € (50% dto. Senior UE)",
+        "link": "https://hhticket.gr/"
+      },
+      {
+        "name": "Iglesia Bizantina de Panagia Drosiani (s. VI)",
+        "desc": "Una de las iglesias cristianas más antiguas de los Balcanes. Conserva frescos paleocristianos y bizantinos superpuestos de los siglos VI y VII y una cúpula única con linterna.",
+        "location": "Cerca de Moni y Halki (Valle de Tragea)",
+        "coords": [37.0782, 25.4955],
+        "hours": "09:30 - 17:00 (Donación sugerida)",
+        "priceGeneral": "Gratis (donación 2,00 € voluntaria)",
+        "priceSenior": "Gratis",
+        "link": "https://naxos.gr/"
+      }
+    ]
+  },
+  {
+    "island": "Milos",
+    "sites": [
+      {
+        "name": "Teatro Romano de Mármol de Milos",
+        "desc": "Teatro helenístico reconstruido en época romana con gradas de mármol blanco de Paros suspendido sobre el Golfo de Milos con acústica perfecta.",
+        "location": "Tripiti, cerca de Klima",
+        "coords": [36.7385, 24.4442],
+        "hours": "08:30 - 15:30 (Martes cerrado)",
+        "priceGeneral": "Acceso libre / Recinto exterior 3,00 €",
+        "priceSenior": "1,50 € (50% dto. Senior UE)",
+        "link": "https://hhticket.gr/"
+      },
+      {
+        "name": "Catacumbas Paleocristianas de Milos",
+        "desc": "Complejo subterráneo de galerías funerarias excavadas en toba volcánica de los siglos I al V d.C. Consideradas entre las más importantes del mundo junto a las de Roma.",
+        "location": "Ladera de Tripiti",
+        "coords": [36.7395, 24.4415],
+        "hours": "09:00 - 18:45 (Martes cerrado)",
+        "priceGeneral": "4,00 €",
+        "priceSenior": "2,00 € (50% dto. Senior UE)",
+        "link": "https://hhticket.gr/"
+      },
+      {
+        "name": "Lugar del Hallazgo de la Venus de Milo",
+        "desc": "Monolito y nicho señalizado donde el campesino Yorgos Kentrotas desenterró en 1820 la célebre estatua de Afrodita que hoy preside el Museo del Louvre.",
+        "location": "Olivares de Tripiti (camino al teatro)",
+        "coords": [36.7390, 24.4435],
+        "hours": "Acceso libre 24h",
+        "priceGeneral": "Gratis",
+        "priceSenior": "Gratis",
+        "link": "https://milos.gr/"
+      },
+      {
+        "name": "Museo Arqueológico de Plaka",
+        "desc": "Edificio neoclásico de Ernst Ziller con réplica exacta en escayola de la Venus de Milo cedida por el Louvre e inscripciones paleocristianas.",
+        "location": "Plaza principal de Plaka",
+        "coords": [36.7442, 24.4215],
+        "hours": "08:30 - 15:30 (Martes cerrado)",
+        "priceGeneral": "3,00 €",
+        "priceSenior": "1,50 € (50% dto. Senior UE)",
+        "link": "https://hhticket.gr/"
+      },
+      {
+        "name": "Kastro Veneciano de Plaka (Iglesia Mesa Panagia)",
+        "desc": "Pico volcánico más alto de Plaka (280 m). Ruinas de la fortaleza del siglo XIII con panorámica de 360 grados de todo el archipiélago milio.",
+        "location": "Cima de Plaka",
+        "coords": [36.7455, 24.4202],
+        "hours": "Acceso libre 24h",
+        "priceGeneral": "Gratis",
+        "priceSenior": "Gratis",
+        "link": "https://milos.gr/"
+      }
+    ]
+  },
+  {
+    "island": "Kos",
+    "sites": [
+      {
+        "name": "Santuario de Asklepieion de Hipócrates",
+        "desc": "El gran centro sanatorio de la Antigüedad Clásica estructurado en 3 terrazas monumentales con templos jónicos y dóricos dedicados a Asclepio.",
+        "location": "Colina de Platani (a 4 km al SO de Kos)",
+        "coords": [36.8775, 27.2565],
+        "hours": "08:00 - 20:00 (todos los días de junio)",
+        "priceGeneral": "8,00 €",
+        "priceSenior": "4,00 € (50% dto. Senior UE)",
+        "link": "https://hhticket.gr/"
+      },
+      {
+        "name": "Castillo de los Caballeros de San Juan (Neratzia)",
+        "desc": "Fortaleza marítima de doble muralla defensiva erigida por la Orden Hospitalaria en el siglo XIV para vigilar el estrecho frente a Halicarnaso.",
+        "location": "Bocana del puerto de Kos",
+        "coords": [36.8975, 27.2905],
+        "hours": "08:30 - 15:30 (Martes cerrado)",
+        "priceGeneral": "4,00 €",
+        "priceSenior": "2,00 € (50% dto. Senior UE)",
+        "link": "https://hhticket.gr/"
+      },
+      {
+        "name": "Ágora Antigua y Excavaciones de Kos Chora",
+        "desc": "Uno de los centros civiles y comerciales más extensos del Mediterráneo con columnas corintias, stoas y basílica paleocristiana.",
+        "location": "Centro histórico de Kos Chora",
+        "coords": [36.8935, 27.2895],
+        "hours": "Acceso libre diurno",
+        "priceGeneral": "Gratis",
+        "priceSenior": "Gratis",
+        "link": "http://odysseus.culture.gr/"
+      },
+      {
+        "name": "Casa Romana de Kos",
+        "desc": "Magnífica domus pompeyana del siglo III d.C. con 3 peristilos interiores, 36 estancias decoradas con mosaicos marinos originales y frescos.",
+        "location": "Avenida Grigoriou V, Kos Chora",
+        "coords": [36.8905, 27.2875],
+        "hours": "08:30 - 15:30 (Martes cerrado)",
+        "priceGeneral": "6,00 €",
+        "priceSenior": "3,00 € (50% dto. Senior UE)",
+        "link": "https://hhticket.gr/"
+      },
+      {
+        "name": "Odeón Romano de Kos",
+        "desc": "Pequeño teatro semicircular romano del siglo II d.C. con 14 filas de gradas de mármol blanco reservadas para los magistrados.",
+        "location": "Vía de las excavaciones occidentales",
+        "coords": [36.8895, 27.2855],
+        "hours": "Acceso libre diurno 08:30 - 15:00",
+        "priceGeneral": "Gratis",
+        "priceSenior": "Gratis",
+        "link": "http://odysseus.culture.gr/"
+      },
+      {
+        "name": "Fortaleza Medieval de Paleo Pyli",
+        "desc": "La 'Mystras del Dodecaneso': burgo bizantino encaramado a 300 m de altitud con tres iglesias pintadas y triple anillo de murallas.",
+        "location": "Montes Dikeos (Pyli)",
+        "coords": [36.8435, 27.1895],
+        "hours": "Acceso libre diurno",
+        "priceGeneral": "Gratis",
+        "priceSenior": "Gratis",
+        "link": "https://kos.gr/"
+      },
+      {
+        "name": "Basílica Paleocristiana de Agios Stefanos",
+        "desc": "Complejo basical del siglo V d.C. con pavimentos de mosaico y columnas de mármol al pie del mar frente al islote volcánico de Kastri.",
+        "location": "Playa de Kamari / Bahía de Kefalos",
+        "coords": [36.7455, 26.9745],
+        "hours": "Acceso libre 24h",
+        "priceGeneral": "Gratis",
+        "priceSenior": "Gratis",
+        "link": "http://odysseus.culture.gr/"
+      }
+    ]
+  },
+  {
+    "island": "Rodas",
+    "sites": [
+      {
+        "name": "Acrópolis de Lindos y Templo de Atenea Lindia",
+        "desc": "Espectacular fortaleza sobre un peñón de 116 metros con el templo dórico del siglo IV a.C., la stoa monumental y el castillo de los Caballeros.",
+        "location": "Lindos (a 48 km al sur de Rodas)",
+        "coords": [36.0915, 28.0875],
+        "hours": "08:00 - 20:00 (todos los días de junio)",
+        "priceGeneral": "12,00 €",
+        "priceSenior": "6,00 € (50% dto. Senior UE)",
+        "link": "https://hhticket.gr/"
+      },
+      {
+        "name": "Palacio del Gran Maestre de los Caballeros de Rodas",
+        "desc": "Soberbia fortaleza gótica del siglo XIV con torres almenadas y magníficos mosaicos helenísticos de Cos traídos en época italiana.",
+        "location": "Extremo superior de la Calle de los Caballeros, Rodas",
+        "coords": [36.4455, 28.2238],
+        "hours": "08:00 - 20:00 (todos los días de junio)",
+        "priceGeneral": "8,00 € (combinada con Museo Arq. 10 €)",
+        "priceSenior": "4,00 € (50% dto. Senior UE)",
+        "link": "https://hhticket.gr/"
+      },
+      {
+        "name": "Museo Arqueológico (Gran Hospital de los Caballeros)",
+        "desc": "Joya gótica de 1440 con amplio patio claustral. Alberga la famosa Afrodita púdica de Rodas y la estela funeraria de Krito y Timarista.",
+        "location": "Plaza del Museo, Ciudad Medieval",
+        "coords": [36.4445, 28.2268],
+        "hours": "08:00 - 20:00",
+        "priceGeneral": "6,00 €",
+        "priceSenior": "3,00 € (50% dto. Senior UE)",
+        "link": "https://hhticket.gr/"
+      },
+      {
+        "name": "Yacimiento de la Antigua Kamiros",
+        "desc": "La 'Pompeya griega': ciudad helenística intacta estructurada en tres niveles sobre la colina, con templo de Atenea y ágora.",
+        "location": "Costa noroeste de Rodas (a 33 km de la capital)",
+        "coords": [36.3355, 27.9225],
+        "hours": "08:30 - 15:30 (Martes cerrado)",
+        "priceGeneral": "6,00 €",
+        "priceSenior": "3,00 € (50% dto. Senior UE)",
+        "link": "https://hhticket.gr/"
+      },
+      {
+        "name": "Acrópolis de Rodas y Monte Smith",
+        "desc": "Estadio helenístico restaurado de 200 m, odeón de mármol y las tres columnas en pie del Templo de Apolo Pitio.",
+        "location": "Colina de San Esteban (Monte Smith)",
+        "coords": [36.4395, 28.2115],
+        "hours": "Acceso libre diurno",
+        "priceGeneral": "Gratis",
+        "priceSenior": "Gratis",
+        "link": "http://odysseus.culture.gr/"
+      },
+      {
+        "name": "Acrópolis y Monasterio de Filerimos (Yáliso)",
+        "desc": "Meseta sagrada con la acrópolis de Yáliso, el monasterio bizantino-caballeresco rodeado de cipreses y pavos reales y cruz panorámica de 18 m.",
+        "location": "Monte Filerimos (Trianda)",
+        "coords": [36.3995, 28.1435],
+        "hours": "08:30 - 15:30 (Martes cerrado)",
+        "priceGeneral": "6,00 €",
+        "priceSenior": "3,00 € (50% dto. Senior UE)",
+        "link": "https://hhticket.gr/"
+      }
+    ]
+  }
+]

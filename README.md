@@ -1,11 +1,11 @@
 # Grecia 2027: Islas Cícladas y Dodecaneso
 
-Planificador integral, logística y aplicación web interactiva para el viaje a Grecia del 1 al 21 de Junio de 2027 (21 días / 20 noches).
+Planificador integral, logística y aplicación web interactiva para el viaje a Grecia del 1 al 22 de Junio de 2027 (22 días / 21 noches).
 
 ## 📍 Contenido del Proyecto
 
 - **[`web/`](./web/)**: Aplicación web interactiva responsive (HTML5, Vanilla CSS, JS moderno, mapas con Leaflet y Google Maps sin API Key).
-  - Selector interactivo de días (1 al 21) e islas (8 islas clave).
+  - Selector interactivo de días (1 al 22) e islas (8 islas clave).
   - Vistas dedicadas de Alojamientos (Booking.com), Vuelos, Ferris y Coches de alquiler con conmutador Tarjetas / Tablas.
   - Catálogo de 37 monumentos con tarifas senior 65+ y buscador en tiempo real.
   - Presupuesto global consolidado.

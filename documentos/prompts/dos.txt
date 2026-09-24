@@ -1,0 +1,13 @@
+quiero que el fichero data.js sea sustituido por varios ficheros en formato json, y que sean llamados  desde data.js:
+
+- itinerario.json
+- vuelos.json
+- ferris.json
+- alojamientos.json
+- coches_alquiler.json
+- monumentos.json
+- islas.json
+
+creo que de esta forma queda mas accesible gestionar la información y se optimiza la busqueda de información, quiero que me digas si lo consideras conveniente
+si estas de acuerdo con esta estructuración, y en caso de que veas alguna otra forma de estructurar la información que creas que sera mejor, planteamela y la analizamos
+

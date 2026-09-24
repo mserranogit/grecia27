@@ -14,10 +14,17 @@ const AppState = {
   activeMap: null           // Instancia Leaflet activa para evitar memory leaks
 };
 
-// Inicialización al cargar el DOM
-document.addEventListener('DOMContentLoaded', () => {
+// Inicialización de la aplicación (espera carga modular de datos si procede)
+async function startApp() {
+  if (typeof loadGreciaData === 'function') {
+    await loadGreciaData();
+  }
   initNavigation();
   renderView('daily');
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  startApp();
 });
 
 /**
@@ -290,14 +297,14 @@ function initNavigation() {
   const budgetSubmenu = document.getElementById('budget-submenu');
   if (budgetSubmenuToggle && budgetSubmenu) {
     const budgetParts = [
-      { label: "📋 Cuadro 8 Auditoría", target: "audit-cuadro-8", cost: "4.376 €" },
-      { label: "Resumen Consolidado", target: "budget-summary-hero", cost: "4.376 €" },
+      { label: "📋 Cuadro 8 Auditoría", target: "audit-cuadro-8", cost: "4.511 €" },
+      { label: "Resumen Consolidado", target: "budget-summary-hero", cost: "4.511 €" },
       { label: "✈️ Vuelos", target: "budget-row-flights", cost: "1.040 €" },
       { label: "⛴️ Ferris", target: "budget-row-ferries", cost: "340 €" },
-      { label: "🏨 Alojamientos", target: "budget-row-hotels", cost: "1.940 €" },
-      { label: "🚗 Coches SCDW", target: "budget-row-cars", cost: "773 €" },
-      { label: "⛽ Combustible", target: "budget-row-fuel", cost: "200 €" },
-      { label: "🏛️ Monumentos", target: "budget-row-monuments", cost: "83 €" }
+      { label: "🏨 Alojamientos (21n)", target: "budget-row-hotels", cost: "2.020 €" },
+      { label: "🚗 Coches SCDW (20d)", target: "budget-row-cars", cost: "813 €" },
+      { label: "⛽ Combustible", target: "budget-row-fuel", cost: "215 €" },
+      { label: "🏛️ Monumentos Senior", target: "budget-row-monuments", cost: "83 €" }
     ];
 
     budgetSubmenu.innerHTML = budgetParts.map(bp => `

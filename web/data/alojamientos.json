@@ -1,0 +1,93 @@
+[
+  {
+    "id": "acc-1",
+    "island": "Mykonos",
+    "name": "Alexandra Suites",
+    "type": "Apartamento Superior con Terraza y Vistas al Mar",
+    "nights": "4 noches (1-5 Junio)",
+    "rating": "9,2 / 10 (Fantástico)",
+    "priceTotal": "500 € (125 €/noche)",
+    "location": "Tourlos, Mykonos (a 700m del Nuevo Puerto y 1,5 km de Chora)",
+    "coords": [37.4628, 25.3292],
+    "highlights": "Aparcamiento gratuito, balcón privado, wifi veloz, cafetera Nespresso, transfer opcional al puerto.",
+    "url": "https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html"
+  },
+  {
+    "id": "acc-2",
+    "island": "Syros",
+    "name": "AVALON Luxury Suites",
+    "type": "Suite Neoclásica Reformada con Balcón",
+    "nights": "2 noches (5-7 Junio)",
+    "rating": "9,5 / 10 (Excepcional)",
+    "priceTotal": "190 € (95 €/noche)",
+    "location": "Ermoupoli, Syros (a 300m de la Plaza Miaouli y Teatro Apolo)",
+    "coords": [37.4442, 24.9418],
+    "highlights": "Edificio señorial neoclásico de techos altos, aire acondicionado inverter, cocina completa, ubicación insuperable.",
+    "url": "https://www.booking.com/hotel/gr/avalon-luxury-suites-ermoupoli.es.html"
+  },
+  {
+    "id": "acc-3",
+    "island": "Paros",
+    "name": "Zoumis Residence",
+    "type": "Estudio Cíclada con Balcón y Piscina",
+    "nights": "2 noches (7-9 Junio)",
+    "rating": "9,3 / 10 (Fantástico)",
+    "priceTotal": "170 € (85 €/noche)",
+    "location": "Naoussa / Piperi, Paros (a 400m del pintoresco puerto veneciano)",
+    "coords": [37.1215, 25.2345],
+    "highlights": "Piscina cristalina, parking privado sin coste, arquitectura encalada, paseo llano de 5 min al centro de Naoussa.",
+    "url": "https://www.booking.com/hotel/gr/zoumis-residence.es.html"
+  },
+  {
+    "id": "acc-4",
+    "island": "Naxos",
+    "name": "Galazia Apartments",
+    "type": "Apartamento con Terraza y Vistas a la Bahía",
+    "nights": "3 noches (9-12 Junio)",
+    "rating": "9,4 / 10 (Fantástico)",
+    "priceTotal": "240 € (80 €/noche)",
+    "location": "Chora / Agios Georgios, Naxos (a 150m de la playa de San Jorge)",
+    "coords": [37.0988, 25.3742],
+    "highlights": "Entorno muy tranquilo, parking fácil, cocina completamente equipada, 8 minutos a pie de la Portara de Apolo.",
+    "url": "https://www.booking.com/hotel/gr/galazia-apartments-naxos-chora.es.html"
+  },
+  {
+    "id": "acc-5",
+    "island": "Milos",
+    "name": "Anais Milos Suites",
+    "type": "Suite Cíclada de Diseño con Patio Privado",
+    "nights": "3 noches (12-15 Junio)",
+    "rating": "9,6 / 10 (Excepcional)",
+    "priceTotal": "285 € (95 €/noche)",
+    "location": "Adamas, Milos (a 500m del paseo marítimo y restaurantes)",
+    "coords": [36.7268, 24.4485],
+    "highlights": "Ambiente sereno, aparcamiento privado gratuito, ducha con acabado de microcemento, servicio de desayuno artesanal.",
+    "url": "https://www.booking.com/hotel/gr/anais-milos-suites.es.html"
+  },
+  {
+    "id": "acc-6",
+    "island": "Kos",
+    "name": "Orpheus Studios & Apartments",
+    "type": "Estudio Deluxe con Terraza Ajardinada",
+    "nights": "3 noches (15-18 Junio)",
+    "rating": "9,2 / 10 (Fantástico)",
+    "priceTotal": "210 € (70 €/noche)",
+    "location": "Kos Chora (zona residencial serena a 600m del Castillo y Puerto)",
+    "coords": [36.8912, 27.2882],
+    "highlights": "Jardín privado, cocina americana, fácil aparcamiento en la puerta, cercanía inmediata a pie al Ágora y Asklepieion.",
+    "url": "https://www.booking.com/hotel/gr/orpheus-studios-kos.es.html"
+  },
+  {
+    "id": "acc-7",
+    "island": "Rodas",
+    "name": "Old Town Nest Apartments",
+    "type": "Apartamento Medieval de Piedra Totalmente Restaurado",
+    "nights": "4 noches (18-22 Junio)",
+    "rating": "9,7 / 10 (Excepcional)",
+    "priceTotal": "435 € (108,75 €/noche)",
+    "location": "Puerta de San Juan / Ciudad Medieval UNESCO, Rodas",
+    "coords": [36.4405, 28.2255],
+    "highlights": "Ubicado junto a una de las puertas amuralladas para acceso cómodo con maletas sin escaleras, muros de sillería gótica, patio andaluz-otomano.",
+    "url": "https://www.booking.com/hotel/gr/old-town-nest.es.html"
+  }
+]

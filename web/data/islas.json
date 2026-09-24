@@ -1,0 +1,168 @@
+[
+  {
+    "id": "mykonos",
+    "name": "Mykonos",
+    "daysCount": "4 días (Días 1, 2, 3 y 4)",
+    "mapCenter": [37.45, 25.35],
+    "zoom": 12,
+    "totalKm": "108 km",
+    "totalDrivingTime": "2h 55 min",
+    "description": "Puerta de entrada del archipiélago. Combina el Kastro medieval, los molinos de Kato Mili, la arquitectura cicládica más pura, la cercanía sagrada a Delos, el rico Museo Arqueológico y el patrimonio naval del Museo Marítimo del Egeo.",
+    "highlights": [
+      "Chora & Little Venice",
+      "Panagia Paraportiani",
+      "Delos UNESCO (Día 2)",
+      "Faro Armenistis",
+      "Museo Arqueológico & Ano Mera (Día 3)",
+      "Museo Marítimo & Casa Lena (Día 4)",
+      "Playa Agrari & Lia"
+    ],
+    "hotel": "Alexandra Suites (Tourlos)",
+    "carRent": "Avis Mykonos (Cat. B, 3 días)",
+    "gmapsQuery": "https://www.google.com/maps/dir/Mykonos+Airport/Tourlos/Armenistis+Lighthouse/Ano+Mera/Agios+Sostis+Beach/Mykonos+Chora"
+  },
+  {
+    "id": "delos",
+    "name": "Delos (UNESCO)",
+    "daysCount": "1 día (Excursión Día 2)",
+    "mapCenter": [37.3995, 25.2678],
+    "zoom": 15,
+    "totalKm": "0 km en coche (isla peatonal)",
+    "totalDrivingTime": "30 min travesía en barco desde Mykonos",
+    "description": "Patrimonio de la Humanidad UNESCO. La isla sagrada de Apolo y Artemisa, uno de los museos al aire libre más fastuosos del Mediterráneo.",
+    "highlights": [
+      "Terraza de los Leones",
+      "Santuario de Apolo",
+      "Casas de los Mosaicos",
+      "Teatro Antiguo",
+      "Monte Kynthos"
+    ],
+    "hotel": "Alexandra Suites (base en Mykonos)",
+    "carRent": "No aplicable (isla deshabitada protegida)",
+    "gmapsQuery": "https://www.google.com/maps/search/?api=1&query=Delos+Archaeological+Site"
+  },
+  {
+    "id": "syros",
+    "name": "Syros",
+    "daysCount": "2 días (Días 5 y 6)",
+    "mapCenter": [37.445, 24.92],
+    "zoom": 12,
+    "totalKm": "56 km",
+    "totalDrivingTime": "1h 35 min",
+    "description": "Capital cultural y administrativa de las Cícladas. Fusión única de arquitectura señorial neoclásica en Ermoupoli y burgo medieval católico en Ano Syros.",
+    "highlights": [
+      "Teatro Apolo",
+      "Barrio de Vaporia",
+      "Ano Syros Medieval",
+      "Yacimiento de Kastri (2800 a.C.)",
+      "Cala Galissas & Kini"
+    ],
+    "hotel": "AVALON Luxury Suites (Ermoupoli)",
+    "carRent": "Hertz Syros (Cat. A)",
+    "gmapsQuery": "https://www.google.com/maps/dir/Ermoupoli/Ano+Syros/Chalandriani/Kini+Beach/Galissas+Beach/Ermoupoli"
+  },
+  {
+    "id": "paros",
+    "name": "Paros y Antíparos",
+    "daysCount": "2 días (Días 7 y 8)",
+    "mapCenter": [37.06, 25.14],
+    "zoom": 11,
+    "totalKm": "82 km (incluye 24 km en Antíparos)",
+    "totalDrivingTime": "2h 10 min",
+    "description": "Tierra del mármol más blanco de la Antigüedad. Iglesias bizantinas milenarias, puertos marineros auténticos y la sobrecogedora cueva kárstica de Antíparos.",
+    "highlights": [
+      "Basílica Panagia Ekatontapiliani",
+      "Canteras de Mármol de Marathi",
+      "Naoussa & Kastro",
+      "Cueva de Antíparos",
+      "Playa Kolymbithres & Santa Maria"
+    ],
+    "hotel": "Zoumis Residence (Naoussa)",
+    "carRent": "Enterprise Paros (Cat. B)",
+    "gmapsQuery": "https://www.google.com/maps/dir/Parikia/Marathi+Marble+Quarries/Naoussa/Kolymbithres+Beach/Pounda+Port/Cave+of+Antiparos"
+  },
+  {
+    "id": "naxos",
+    "name": "Naxos",
+    "daysCount": "3 días (Días 9, 10 y 11)",
+    "mapCenter": [37.065, 25.46],
+    "zoom": 11,
+    "totalKm": "128 km",
+    "totalDrivingTime": "3h 15 min",
+    "description": "La isla más grande y fértil de las Cícladas. Santuarios arcaicos monumentales de mármol, pueblos de mármol (Apeiranthos), kouros gigantes en canteras milenarias y playas infinitas de dunas y cedros.",
+    "highlights": [
+      "Portara de Apolo",
+      "Templo de Deméter en Sangri",
+      "Pueblo de mármol de Apeiranthos",
+      "Panagia Drosiani (s. VI)",
+      "Kouros de Melanes y Apollonas",
+      "Playas Plaka & Aliko (Hawaii Beach)"
+    ],
+    "hotel": "Galazia Apartments (Chora)",
+    "carRent": "Avis Naxos (Cat. B, 3 días)",
+    "gmapsQuery": "https://www.google.com/maps/dir/Naxos+Chora/Sangri+Temple+of+Demeter/Chalkio/Apeiranthos/Apollonas/Aliko+Beach/Portara"
+  },
+  {
+    "id": "milos",
+    "name": "Milos",
+    "daysCount": "3 días (Días 12, 13 y 14)",
+    "mapCenter": [36.72, 24.44],
+    "zoom": 11,
+    "totalKm": "87 km",
+    "totalDrivingTime": "2h 20 min",
+    "description": "La isla geológica por excelencia. Paisajes lunares blancos en Sarakiniko, el enclave de la Venus de Milo, catacumbas paleocristianas y los farallones corsarios de Kleftiko.",
+    "highlights": [
+      "Playa Lunar de Sarakiniko",
+      "Teatro Romano & Catacumbas",
+      "Venus de Milo Site",
+      "Pueblo de pescadores Klima",
+      "Playa Firiplaka",
+      "Excursión en barco Kleftiko"
+    ],
+    "hotel": "Anais Milos Suites (Adamas)",
+    "carRent": "Avance Milos (Cat. SUV Compacto)",
+    "gmapsQuery": "https://www.google.com/maps/dir/Adamas/Sarakiniko+Beach/Klima/Catacombs+of+Milos/Plaka/Firiplaka+Beach"
+  },
+  {
+    "id": "kos",
+    "name": "Kos",
+    "daysCount": "3 días (Días 15, 16 y 17)",
+    "mapCenter": [36.83, 27.15],
+    "zoom": 11,
+    "totalKm": "118 km",
+    "totalDrivingTime": "2h 45 min",
+    "description": "Cuna de Hipócrates y de la medicina moderna. El monumental Asklepieion en terrazas, fortalezas hospitalarias, aguas termales volcánicas y ruinas paleocristianas al borde del agua.",
+    "highlights": [
+      "Asklepieion de Hipócrates",
+      "Castillo Neratzia & Ágora",
+      "Casa Romana",
+      "Termas de Bros",
+      "Paleo Pyli Medieval",
+      "Basílica Agios Stefanos & Kefalos"
+    ],
+    "hotel": "Orpheus Studios (Kos Chora)",
+    "carRent": "Hertz Kos (Cat. B)",
+    "gmapsQuery": "https://www.google.com/maps/dir/Kos+Airport/Kos+Town/Asklepieion/Empros+Thermi/Pyli/Agios+Stefanos+Basilica"
+  },
+  {
+    "id": "rodas",
+    "name": "Rodas",
+    "daysCount": "5 días (Días 18 al 22)",
+    "mapCenter": [36.3, 28.1],
+    "zoom": 10,
+    "totalKm": "215 km",
+    "totalDrivingTime": "4h 40 min",
+    "description": "La joya del Dodecaneso y broche final del viaje. La ciudad medieval amurallada más grande de Europa (UNESCO), la Acrópolis de Lindos, Kamiros helenística, el Castillo de Monolithos y salida directa hacia Madrid.",
+    "highlights": [
+      "Palacio del Gran Maestre & Calle Caballeros",
+      "Acrópolis de Lindos & Bahía San Pablo",
+      "Antigua Kamiros",
+      "Castillo de Monolithos",
+      "Termas de Kallithea",
+      "Bahía Anthony Quinn"
+    ],
+    "hotel": "Old Town Nest Apartments (Ciudad Medieval)",
+    "carRent": "Enterprise Rhodes (Cat. C)",
+    "gmapsQuery": "https://www.google.com/maps/dir/Rhodes+Port/Lindos+Acropolis/Kamiros/Monolithos+Castle/Kallithea+Springs/Rhodes+Airport"
+  }
+]
