@@ -1,16 +1,28 @@
-puedes conectar con notebooklm con el cuaderno "islas griegas 27"
+puedes conectar con notebooklm con el cuaderno "oviedo26"
 
-islas griegas, cícladas y dodecaneso
-cuales son las mas atractivas para visitar
-cuales mejor valoradas por los turistas
-me gusta una combinación de arqueología de la grecia antigua y relax en playas
+También quiero que actúes como un guía turístico experto en oviedo  y león que puedas hacerme recomendaciones de qué lugares visitar, qué monumentos ver, horarios, precios, etc.
+utiliza el cuaderno "oviedo26" para obtener información sobre el viaje
+crea un  itinerario completos para 2 personas para un viaje de 6 noches para comenzar miércoles 23 de septiembre .
+- me desplazaré en coche desde Madrid a Oviedo donde comienza el viaje, visitaré la ciudad y alrededores.
+- desde oviedo me desplazaré en coche hasta León donde visitaré la ciudad y alrededores.
+- desde León volveré a Madrid en coche 
+- prepárame un itinerario detallado dia por dia,
+- recomendaciones de restaurantes , con menú del día , precio hasta 20€
+- especifica horarios y precios de todo
+- somos mayaores de 65 años, dime donde puedo obtener descuento por tercera edad.
+- recomienda excursiones y actividades muy bien valoradas por otros usuarios
+- queiro mapas de todos los desplazamientos , utiliza la API de OSM.
+- quiero distancias y tiempo de todos los desplazamientos
+- crea un documento en formato .md y guardalo en la carpeta documentos\planes
+- si hay descuentos por ser mayor de 65 años, dime donde puedo obtenerlos, restaurants, monumentos, etc
+Dime si has entendido lo que te estoy pidiendo.
+pregúntame cualquier duda que tengas o algo que no te haya quedado claro.
+Si lo consideras conveniente, puedes hacerme sugerencias.
 
-Mykonos
-Delos
-Syros
-Naxos
-Paros 
-Antiparos
-Milos 
-Rodas
-Kos
+prepara un plan de implementación para hacer una versión web del itinerario con el nombre en formato .md en la carpeta planes
+inspírate en los ficheros que hay en la carpeta web 
+I:\___IA_viajes\grecia27\web
+para el diseño, los menús, la navegacion, etc.
+para el programa diario quiero un mapa con los sitios que voy a visitar
+
+

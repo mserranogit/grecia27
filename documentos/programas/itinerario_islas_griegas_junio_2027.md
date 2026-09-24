@@ -1,5 +1,5 @@
 # 🇬🇷 GRAN RUTA DEL EGEO: LAS 9 JOYAS DE CÍCLADAS Y DODECANESO (JUNIO 2027)
-## Expedición Arqueológica Clásica y Playera de 20 Días para 2 Personas
+## Expedición Arqueológica Clásica y Playera de 21 Días para 2 Personas
 ### Entrada por Mykonos (JMK) y Salida por Rodas (RHO) vía Atenas (ATH) a Madrid (MAD) (Ruta Open-Jaw de Máxima Eficiencia)
 ### *Alojamientos Seleccionados en Booking.com por Alta Valoración (>9.0/10) y Mejor Relación Calidad-Precio*
 
@@ -8,8 +8,8 @@
 ## 🧭 1. FICHA TÉCNICA DEL VIAJE
 
 * **Viajeros**: 2 personas (pareja / amigos).
-* **Duración**: 20 días completos / 19 noches.
-* **Periodo recomendado**: **1 al 20 de junio de 2027** (o del 2 al 21 de junio de 2027).
+* **Duración**: 21 días completos / 20 noches.
+* **Periodo recomendado**: **1 al 21 de junio de 2027**.
 * **Vuelos**:
   * **Ida**: Madrid-Barajas (MAD T4) ➔ Mykonos International (JMK) (vuelo directo Iberia Express / Vueling).
   * **Inter-archipiélago**: Milos (MLO) ➔ Kos (KGS) vía Atenas (ATH) (Sky Express / Olympic Air).
@@ -21,7 +21,7 @@
   * Ubicación estratégica para los días de visita arqueológica y playas.
   * Aire acondicionado, wifi de alta velocidad y facilidades de aparcamiento para el coche de alquiler.
 * **Islas incluidas en el itinerario (9 en total)**:
-  1. **Mykonos** (3 noches al inicio: base de llegada, Chora, Delos, Museo Arqueológico, Ano Mera y Playa de Lia)
+  1. **Mykonos** (4 noches al inicio: base de llegada, Chora, Delos, Museo Arqueológico, Ano Mera, Museo Marítimo, Playa Agrari y Atardecer en Kapari)
   2. **Delos** (isla sagrada de Apolo y Artemisa, Patrimonio Mundial UNESCO)
   3. **Syros** (2 noches: capital señorial de las Cícladas y cuna cicládica prehistórica)
   4. **Paros** (2 noches: mármol pario clásico, pueblos blancos de pescadores y calas esculpidas)
@@ -33,6 +33,7 @@
 * **Islas expresamente excluidas**: Creta y Santorini (ya visitadas).
 * **Filosofía**: **Equilibrio 50/50** entre arqueología e historia de la Grecia Antigua y relax en costas, calas y playas únicas.
 * **Movilidad**: Alquiler de coche compacto en las islas clave con **Seguro a Todo Riesgo Sin Franquicia (SCDW Cero Franquicia)** y verificación de conductor senior de 68 años sin recargo (Avis, Hertz, Enterprise y Avance).
+* **Presupuesto Global Auditado (Cuadro 8)**: **4.376 € (2.188,00 € / persona)** con tarifa reducida Senior UE 65+ y cobertura a todo riesgo sin franquicia.
 
 ---
 
@@ -42,14 +43,14 @@
 
 | Isla | Alojamiento Seleccionado (Booking.com) | Tipo | Puntuación Booking | Puntos Fuertes según Huéspedes | Noches | Precio / Noche | Total Estancia |
 | :--- | :--- | :---: | :---: | :--- | :---: | :---: | :---: |
-| **Mykonos** *(Noches 1, 2 y 3)* | [**Alexandra Suites**](https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html) (Tourlos / Mykonos) | Apartamento / Suite con cocina | **9,2 / 10** *(Fantástico)* | Terraza privada con vistas al mar, cocina equipada, parking privado y cercanía inmejorable tanto al puerto como a Chora. | 3 | 125 € | **375 €** |
-| **Syros** *(Noches 4 y 5)* | [**AVALON Suites & Studios**](https://www.booking.com/hotel/gr/avalon-luxury-suites-ermoupoli.es.html) (Ermoupoli) | Apartamento con terraza | **9,5 / 10** *(Excepcional)* | En el corazón señorial de Ermoupoli, arquitectura cicládica impecable, cocina completa, cama extragrande y atención personalizada. | 2 | 95 € | **190 €** |
-| **Paros** *(Noches 6 y 7)* | [**Zoumis Residence**](https://www.booking.com/hotel/gr/zoumis-residence.es.html) (Naoussa) | Apartamento con cocina | **9,3 / 10** *(Fantástico)* | A 5 minutos a pie del puerto pesquero de Naoussa, piscina, cocina moderna, tranquilidad absoluta y balcón balear/cicládico. | 2 | 85 € | **170 €** |
-| **Naxos** *(Noches 8 y 9)* | [**Galazia Apartments**](https://www.booking.com/hotel/gr/galazia-apartments-naxos-chora.es.html) (Chora / Agios Georgios) | Apartamento | **9,4 / 10** *(Fantástico)* | A 150 m de la playa de San Jorge, parking fácil, anfitrión con productos locales de bienvenida, cocina y patio. | 2 | 75 € | **150 €** |
-| **Milos** *(Noches 10, 11 y 12)* | [**Anais Milos Suites**](https://www.booking.com/hotel/gr/anais-milos-suites.es.html) (Adamas) | Apartamento Boutique | **9,6 / 10** *(Excepcional)* | Gestión familiar de ensueño, desayunos caseros de cortesía, diseño moderno con cocina, balcón privado y aparcamiento gratuito. | 3 | 95 € | **285 €** |
-| **Kos** *(Noches 13, 14 y 15)* | [**Orpheus Studios & Apartments**](https://www.booking.com/hotel/gr/orpheus-studios-kos.es.html) (Kos Town) | Apartamento / Estudio | **9,2 / 10** *(Fantástico)* | Ubicación céntrica y silenciosa cerca del Ágora Antigua y del puerto, cocina equipada, balcones floridos y gran relación calidad-precio. | 3 | 70 € | **210 €** |
-| **Rodas** *(Noches 16, 17, 18 y 19)* | [**Old Town Nest Apartments**](https://www.booking.com/hotel/gr/old-town-nest.es.html) | Apartamento Medieval | **9,7 / 10** *(Excepcional)* | Alojarse literalmente dentro de la Ciudad Medieval amurallada (UNESCO): vigas de madera, patio de piedra, cocina moderna, sin escaleras de acceso. | 4 | 108,75 € | **435 €** |
-| **SUBTOTAL ALOJAMIENTOS (2 PERSONAS)** | **19 noches en Booking.com** | | | **Media de 95,53 €/noche para 2 personas en apartamentos con notas >9.0** | **19 n** | | **1.815 €** *(907,50 € / pers.)* |
+| **Mykonos** *(Noches 1, 2, 3 y 4)* | [**Alexandra Suites**](https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html) (Tourlos / Mykonos) | Apartamento / Suite con cocina | **9,2 / 10** *(Fantástico)* | Terraza privada con vistas al mar, cocina equipada, parking privado y cercanía inmejorable tanto al puerto como a Chora. | 4 | 125 € | **500 €** |
+| **Syros** *(Noches 5 y 6)* | [**AVALON Suites & Studios**](https://www.booking.com/hotel/gr/avalon-luxury-suites-ermoupoli.es.html) (Ermoupoli) | Apartamento con terraza | **9,5 / 10** *(Excepcional)* | En el corazón señorial de Ermoupoli, arquitectura cicládica impecable, cocina completa, cama extragrande y atención personalizada. | 2 | 98 € | **196 €** |
+| **Paros** *(Noches 7 y 8)* | [**Zoumis Residence**](https://www.booking.com/hotel/gr/zoumis-residence.es.html) (Naoussa) | Apartamento con cocina | **9,3 / 10** *(Fantástico)* | A 5 minutos a pie del puerto pesquero de Naoussa, piscina, cocina moderna, tranquilidad absoluta y balcón balear/cicládico. | 2 | 92 € | **184 €** |
+| **Naxos** *(Noches 9 y 10)* | [**Galazia Apartments**](https://www.booking.com/hotel/gr/galazia-apartments-naxos-chora.es.html) (Chora / Agios Georgios) | Apartamento | **9,4 / 10** *(Fantástico)* | A 150 m de la playa de San Jorge, parking fácil, anfitrión con productos locales de bienvenida, cocina y patio. | 2 | 80 € | **160 €** |
+| **Milos** *(Noches 11, 12 y 13)* | [**Anais Milos Suites**](https://www.booking.com/hotel/gr/anais-milos-suites.es.html) (Adamas) | Apartamento Boutique | **9,6 / 10** *(Excepcional)* | Gestión familiar de ensueño, desayunos caseros de cortesía, diseño moderno con cocina, balcón privado y aparcamiento gratuito. | 3 | 105 € | **315 €** |
+| **Kos** *(Noches 14, 15 y 16)* | [**Orpheus Studios & Apartments**](https://www.booking.com/hotel/gr/orpheus-studios-kos.es.html) (Kos Town) | Apartamento / Estudio | **9,2 / 10** *(Fantástico)* | Ubicación céntrica y silenciosa cerca del Ágora Antigua y del puerto, cocina equipada, balcones floridos y gran relación calidad-precio. | 3 | 75 € | **225 €** |
+| **Rodas** *(Noches 17, 18, 19 y 20)* | [**Old Town Nest Apartments**](https://www.booking.com/hotel/gr/old-town-nest.es.html) | Apartamento Medieval | **9,7 / 10** *(Excepcional)* | Alojarse literalmente dentro de la Ciudad Medieval amurallada (UNESCO): vigas de madera, patio de piedra, cocina moderna, sin escaleras de acceso. | 4 | 90 € | **360 €** |
+| **SUBTOTAL ALOJAMIENTOS (2 PERSONAS)** | **20 noches en Booking.com** | | | **Media de 97,00 €/noche para 2 personas en apartamentos con notas >9.0** | **20 n** | | **1.940 €** *(970,00 € / pers.)* |
 
 ---
 
@@ -59,7 +60,7 @@
 [ MADRID (MAD T4) ] ✈️ Vuelo Directo Iberia Express / Vueling (3h 35m)
         │
         ▼
-   [ MYKONOS (2 Noches) ] ── Barco tradicional (30 min) ──► [ DELOS (UNESCO) ]
+   [ MYKONOS (4 Noches) ] ── Barco tradicional (30 min) ──► [ DELOS (UNESCO) ]
         │
         ▼ Ferry rápido SeaJets (40 min)
     [ SYROS (2 Noches) ] (Kastri prehistórico, Ermoupoli, playas de Kini y Galissas)
@@ -77,7 +78,7 @@
      [ KOS (3 Noches) ] (Asklepieion de Hipócrates, Ágora antigua, Therma Beach)
         │
         ▼ Ferry rápido Dodekanisos Seaways / Blue Star (2h 10 min)
-    [ RODAS (5 Noches) ] (Lindos, Kamiros, Ciudadela UNESCO, Monolithos, Embonas)
+    [ RODAS (4 Noches) ] (Lindos, Kamiros, Ciudadela UNESCO, Monolithos, Embonas)
         │
         ▼ ✈️ Vuelo Aegean Airlines / Star Alliance (RHO ➔ ATH ➔ MAD T2)
 [ MADRID (MAD T2) ] (Sin retroceso a Mykonos, maletas facturadas directas)
@@ -125,7 +126,7 @@
     * **Opción A (Ruta Arquitectónica e Histórica)**: Recorrido a pie por **Chora (Mykonos Town)**, su laberinto de callejuelas encaladas defensivas contra los piratas sarracenos, la iglesia asimétrica de **Panagia Paraportiani** (siglos XV-XVII) y el Museo Arqueológico de Mykonos con cerámicas arcaicas de Delos.
     * **Opción B (Tarde de Baño y Desconexión)**: Tarde de descanso y baño en la bahía abrigada de **Ornos** o **Platys Gialos**, con aguas transparentes y hamacas sobre la arena.
   * **Atardecer**: Puesta de sol junto a los icónicos **Molinos de Kato Mili** y paseo por los balcones marineros de **Little Venice** (Pequeña Venecia).
-  * 🏨 **Alojamiento (Noche 1/19)**: [**Alexandra Suites**](https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html) *(Tourlos / Mykonos Town)*. Puntuación Booking: **9,1/10**. Apartamento independiente con cocina, terraza con vistas al mar Egeo y parking.
+  * 🏨 **Alojamiento (Noche 1/20)**: [**Alexandra Suites**](https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html) *(Tourlos / Mykonos Town)*. Puntuación Booking: **9,1/10**. Apartamento independiente con cocina, terraza con vistas al mar Egeo y parking.
 
 ---
 
@@ -173,7 +174,7 @@
   * **Tarde (Regreso a Mykonos)**:
     * **Opción A (Faro Armenistis y Pasado Micénico)**: Excursión en coche al extremo noroeste para visitar el histórico **Faro Armenistis** (1891), con vistas al estrecho hacia Tinos. Continuación a la colina de **Paleokastro** (muralla y tholos micénicos del siglo XIV a.C.) y visita a **Ano Mera** (Monasterio de Panagia Tourliani).
     * **Opción B (Playa Virgen y Gastronomía Bohemia)**: Tarde de desconexión en la playa salvaje de **Agios Sostis** (sin música ni sombrillas de pago) y almuerzo/cena tardía en la legendaria *Taverna Kiki's* a la brasa.
-  * 🏨 **Alojamiento (Noche 2/19)**: [**Alexandra Suites**](https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html) *(Tourlos / Mykonos)*. Puntuación: **9,2/10**. Apartamento con cocina y terraza sobre el mar.
+  * 🏨 **Alojamiento (Noche 2/20)**: [**Alexandra Suites**](https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html) *(Tourlos / Mykonos)*. Puntuación: **9,2/10**. Apartamento con cocina y terraza sobre el mar.
 
 ---
 
@@ -213,11 +214,52 @@
   * **Tarde**:
     * **Opción A (Arqueología)**: Vuelta por las canteras de granito y la capilla de Agios Ioannis.
     * **Opción B (Playa y Relax)**: Baño y esnórquel en la tranquila y poco masificada **Playa de Lia** (aguas cristalinas turquesas sin música, a 13 km de Chora) o su vecina Kalafatis.
-  * 🏨 **Alojamiento (Noche 3/19)**: [**Alexandra Suites**](https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html) *(Tourlos / Mykonos)*. Puntuación: **9,2/10**.
+  * 🏨 **Alojamiento (Noche 3/20)**: [**Alexandra Suites**](https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html) *(Tourlos / Mykonos)*. Puntuación: **9,2/10**.
 
 ---
 
-### DÍA 4: De Mykonos a Syros – La Señora Neoclásica del Egeo
+### DÍA 4: Mykonos – Tradición Marítima, Casa de Lena & Relax en Playa Agrari y Kapari
+
+#### 🗺️ Mapa y Esquema de Ruta del Día
+```
+[Alexandra Suites (Tourlos)] ──🚗 (2,5 km / 7 min)──► [Chora: Museo Marítimo del Egeo & Casa de Lena]
+                                                                  │
+                                                       🚗 (10 km / 20 min)
+                                                                  ▼
+                                                   [Playa Virgen de Agrari (Baño & Relax)]
+                                                                  │
+                                                       🚗 (12 km / 22 min)
+                                                                  ▼
+                                              [Cala Kapari / Agios Ioannis (Puesta de Sol sobre Delos)]
+                                                                  │
+                                                       🚗 (5,5 km / 12 min) retorno
+                                                                  ▼
+                                                    [Alexandra Suites (Tourlos)]
+```
+
+#### ⏱️ Ficha Logística y Tiempos de Desplazamiento
+* **Medio de transporte**: Coche de alquiler Avis (Cat. B con SCDW Cero Franquicia).
+* **Desglose de tramos en coche**:
+  * *Tourlos ➔ Parking Chora / Barrio de Tria Pigadia*: **2,5 km | 7 min**.
+  * *Chora ➔ Bahía protegida de Playa Agrari*: **10 km | 20 min**.
+  * *Playa Agrari ➔ Cala Kapari (península de Agios Ioannis)*: **12 km | 22 min**.
+  * *Cala Kapari ➔ Retorno a Alexandra Suites (Tourlos)*: **5,5 km | 12 min**.
+* **Resumen en coche Día 4**: **30 km acumulados | 1h 01 min al volante**.
+
+* **Programa**:
+  * **Mañana**:
+    * **Patrimonio Naval y Tradicional en Chora**: Paseo matinal por el tranquilo barrio de *Tria Pigadia*. Visita al **Museo Marítimo del Egeo** (colección de maquetas navales desde la era minoica, cartas náuticas históricas, monedas y la linterna original de 1891 del Faro Armenistis; entrada general 4 €, Senior UE 2 €).
+    * Visita a la anexa **Casa Tradicional de Lena**, una auténtica residencia burguesa del siglo XIX perfectamente conservada con sus bordados, mobiliario de época y tapices familiares (entrada general 2 €, Senior UE 1 €).
+  * **Tarde**:
+    * **Opción A (Cultura y Jardines)**: Recorrido pausado por los patios y jardines del Museo Marítimo y compras de artesanía tradicional en los callejones menos concurridos de Chora.
+    * **Opción B (Baño y Relax en Playa Agrari)**: Traslado al sur hacia la serena y resguardada **Playa de Agrari**, arenal virgen de aguas esmeralda cristalinas y ambiente apacible, alejada de cualquier masificación. Almuerzo marinero frente a las olas.
+  * **Atardecer**:
+    * Coche a la recóndita **Cala Kapari** (junto a Agios Ioannis Diakoftis): contemplación de una de las puestas de sol más legendarias de las Cícladas, con el disco solar ocultándose exactamente tras la silueta sagrada de la isla de Delos. Cena de pescado fresco en Agios Ioannis.
+  * 🏨 **Alojamiento (Noche 4/20)**: [**Alexandra Suites**](https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html) *(Tourlos / Mykonos)*. Puntuación Booking: **9,2/10**.
+
+---
+
+### DÍA 5: De Mykonos a Syros – La Señora Neoclásica del Egeo
 
 #### 🗺️ Mapa y Esquema de Ruta del Día
 ```
@@ -251,7 +293,7 @@
   * *Opción A (Ermoupoli Neoclásica, Teatro Apolo y Vaporia)*: Recorrido íntegramente a pie por el centro histórico.
   * *Opción B (Playa de Kini)*: Ermoupoli ➔ Kini: **8,8 km | 15 min** (17,6 km I/V | 30 min).
   * *Subida nocturna a Ano Syros*: Ermoupoli ➔ Ano Syros: **2,5 km | 8 min** (5 km I/V | 16 min).
-* **Resumen en coche Día 3**:
+* **Resumen en coche Día 5**:
   * *Con Opción A + Ano Syros*: **5,6 km | 19 min al volante**.
   * *Con Opción B + Ano Syros*: **23,2 km | 49 min al volante**.
 
@@ -261,11 +303,11 @@
     * **Opción A (Ermoupoli Neoclásica y Teatro Apolo)**: Exploración de la grandiosa Plaza Miaouli, el Ayuntamiento de Ernst Ziller, el **Teatro Apolo** (réplica a escala de La Scala de Milán) y las mansiones aristocráticas sobre el mar en el barrio señorial de **Vaporia**.
     * **Opción B (Tarde de Calas en Kini)**: Relax en el pintoresco pueblo marinero de **Kini**, nadando en sus aguas calmas y disfrutando de sus terrazas sobre la arena.
   * **Noche**: Subida al laberinto medieval fortificado de **Ano Syros** (siglo XIII), cuna de la música *Rebetiko*.
-  * 🏨 **Alojamiento (Noche 4/19)**: [**AVALON Suites & Studios**](https://www.booking.com/hotel/gr/avalon-luxury-suites-ermoupoli.es.html) *(Ermoupoli / Syros)*. Puntuación Booking: **9,5/10**. Apartamento en edificio señorial restaurado, cocina equipada, terraza con vistas a la ciudad y aire acondicionado.
+  * 🏨 **Alojamiento (Noche 5/20)**: [**AVALON Suites & Studios**](https://www.booking.com/hotel/gr/avalon-luxury-suites-ermoupoli.es.html) *(Ermoupoli / Syros)*. Puntuación Booking: **9,5/10**. Apartamento en edificio señorial restaurado, cocina equipada, terraza con vistas a la ciudad y aire acondicionado.
 
 ---
 
-### DÍA 5: Syros Arqueológica Prehistórica vs. Bahías del Sur
+### DÍA 6: Syros Arqueológica Prehistórica vs. Bahías del Sur
 
 #### 🗺️ Mapa y Esquema de Ruta del Día
 ```
@@ -288,7 +330,7 @@
   * *Galissas ➔ Poseidonia (Villas de capitanes)*: **3,5 km | 6 min**.
   * *Poseidonia ➔ Bahías de Megas Gialos / Vari*: **5 km | 8 min**.
   * *Vari ➔ Ermoupoli (AVALON Suites)*: **10 km | 16 min**.
-* **Resumen en coche Día 4**: **45 km acumulados | 1h 18 min al volante**.
+* **Resumen en coche Día 6**: **45 km acumulados | 1h 18 min al volante**.
 
 * **Programa**:
   * **Mañana**:
@@ -297,11 +339,11 @@
   * **Tarde**:
     * **Opción A (Paseo Señorial por Poseidonia)**: Ruta por las villas patricias del siglo XIX de los capitanes mercantes y cata de vino local *Serifiotiko*.
     * **Opción B (Calas Vírgenes de Megas Gialos y Vari)**: Baños en aguas transparentes y degustación de los famosos dulces locales *Loukoumia*.
-  * 🏨 **Alojamiento (Noche 5/19)**: [**AVALON Suites & Studios**](https://www.booking.com/hotel/gr/avalon-luxury-suites-ermoupoli.es.html) *(Ermoupoli / Syros)*. Puntuación: **9,5/10**.
+  * 🏨 **Alojamiento (Noche 6/20)**: [**AVALON Suites & Studios**](https://www.booking.com/hotel/gr/avalon-luxury-suites-ermoupoli.es.html) *(Ermoupoli / Syros)*. Puntuación: **9,5/10**.
 
 ---
 
-### DÍA 6: Cruce a Paros – Basílica Paleocristiana y Puerto de Naoussa
+### DÍA 7: Cruce a Paros – Basílica Paleocristiana y Puerto de Naoussa
 
 #### 🗺️ Mapa y Esquema de Ruta del Día
 ```
@@ -332,7 +374,7 @@
   * *Puerto de Parikia ➔ Zoumis Residence (Naoussa)*: **10,2 km | 16 min**.
   * *Opción A (Visita a Parikia: Basílica Ekatontapiliani y Museo)*: Naoussa ➔ Parikia: **10,2 km | 16 min** (20,4 km I/V | 32 min).
   * *Opción B (Playa de rocas esculpidas de Kolymbithres)*: Naoussa ➔ Kolymbithres: **4,5 km | 9 min** (9 km I/V | 18 min).
-* **Resumen en coche Día 5**:
+* **Resumen en coche Día 7**:
   * *Con Opción A*: **30,6 km acumulados | 48 min al volante**.
   * *Con Opción B*: **19,2 km acumulados | 34 min al volante**.
 
@@ -342,11 +384,11 @@
     * **Opción A (Panagia Ekatontapiliani y Museo Arqueológico)**: Visita a la extraordinaria **Basílica de las Cien Puertas** (*Panagia Ekatontapiliani*), fundada en el siglo IV por Santa Elena, con su baptisterio paleocristiano intacto. A continuación, el Museo Arqueológico de Paros con el fragmento del *Parian Chronicle*.
     * **Opción B (Las Rocas Esculpidas de Kolymbithres)**: Tarde en la playa de **Kolymbithres**, nadando entre gigantescos bloques de granito blanco pulidos por el viento que crean piscinas naturales privadas.
   * **Noche**: Cena en las tabernas de pescadores del idílico puerto veneciano de **Naoussa**.
-  * 🏨 **Alojamiento (Noche 6/19)**: [**Zoumis Residence**](https://www.booking.com/hotel/gr/zoumis-residence.es.html) *(Naoussa / Paros)*. Puntuación Booking: **9,3/10**. Apartamento cicládico con piscina, terraza balcón y a 400 metros a pie del puerto de Naoussa.
+  * 🏨 **Alojamiento (Noche 7/20)**: [**Zoumis Residence**](https://www.booking.com/hotel/gr/zoumis-residence.es.html) *(Naoussa / Paros)*. Puntuación Booking: **9,3/10**. Apartamento cicládico con piscina, terraza balcón y a 400 metros a pie del puerto de Naoussa.
 
 ---
 
-### DÍA 7: Canteras de Mármol de Paros y Salto a Antíparos
+### DÍA 8: Canteras de Mármol de Paros y Salto a Antíparos
 
 #### 🗺️ Mapa y Esquema de Ruta del Día
 ```
@@ -389,7 +431,7 @@
   * *Agios Georgios ➔ Puerto de Antíparos*: **12 km | 18 min**.
 * **Regreso por carretera en Paros**:
   * *Muelle de Pounta ➔ Zoumis Residence (Naoussa)*: **15 km | 22 min**.
-* **Resumen en coche Día 6**: **60 km acumulados | 1h 33 min al volante**.
+* **Resumen en coche Día 8**: **60 km acumulados | 1h 33 min al volante**.
 
 * **Programa**:
   * **Mañana**:
@@ -398,11 +440,11 @@
   * **Tarde (Mini-ferry de 7 min a Antíparos con el coche)**:
     * **Opción A (La Gran Cueva Prehistórica de Antíparos)**: Descenso a la fascinante cueva de estalactitas de más de 85 metros de profundidad con inscripciones históricas desde el siglo IV a.C. y el Kastro veneciano del pueblo.
     * **Opción B (Calas Paradisíacas de Soros y Agios Georgios)**: Tarde de baño frente al islote arqueológico de Despotiko y mariscada local a pie de agua.
-  * 🏨 **Alojamiento (Noche 7/19)**: [**Zoumis Residence**](https://www.booking.com/hotel/gr/zoumis-residence.es.html) *(Naoussa / Paros)*. Puntuación: **9,3/10**.
+  * 🏨 **Alojamiento (Noche 8/20)**: [**Zoumis Residence**](https://www.booking.com/hotel/gr/zoumis-residence.es.html) *(Naoussa / Paros)*. Puntuación: **9,3/10**.
 
 ---
 
-### DÍA 8: A Naxos – La Portara de Apolo y el Kastro
+### DÍA 9: A Naxos – La Portara de Apolo y el Kastro
 
 #### 🗺️ Mapa y Esquema de Ruta del Día
 ```
@@ -433,7 +475,7 @@
   * *Puerto de Naxos ➔ Galazia Apartments (Agios Georgios)*: **1,2 km | 4 min** (o 10 min a pie).
   * *A pie al Kastro y a la Portara (Islote Palatia)*: **1,2 km | 15 min a pie**.
   * *Opción B (Playa de Agios Prokopios)*: Chora ➔ Agios Prokopios: **5,5 km | 11 min** (11 km I/V | 22 min).
-* **Resumen en coche Día 7**:
+* **Resumen en coche Día 9**:
   * *Con Opción A (a pie)*: **1,2 km | 4 min al volante**.
   * *Con Opción B*: **12,2 km | 26 min al volante**.
 
@@ -443,11 +485,11 @@
     * **Opción A (La Portara y Kastro Veneciano)**: Visita al islote de Palatia para cruzar la monumental **Portara (Templo de Apolo, 530 a.C.)**. Subida al Kastro medieval, la Torre Glezos y el Museo Arqueológico con ídolos cicládicos de mármol.
     * **Opción B (Playa de Agios Prokopios)**: Descanso en la playa de aguas turquesas y arena fina de Agios Prokopios, resguardada de los vientos.
   * **Atardecer**: La legendaria puesta de sol que encuadra el sol poniente exactamente en el vano de mármol de la Portara.
-  * 🏨 **Alojamiento (Noche 8/19)**: [**Galazia Apartments**](https://www.booking.com/hotel/gr/galazia-apartments-naxos-chora.es.html) *(Naxos Chora / Agios Georgios)*. Puntuación Booking: **9,4/10**. Apartamento a pasos de la playa de Agios Georgios y del casco histórico, cocina completa, terraza soleada y hospitalidad familiar.
+  * 🏨 **Alojamiento (Noche 9/20)**: [**Galazia Apartments**](https://www.booking.com/hotel/gr/galazia-apartments-naxos-chora.es.html) *(Naxos Chora / Agios Georgios)*. Puntuación Booking: **9,4/10**. Apartamento a pasos de la playa de Agios Georgios y del casco histórico, cocina completa, terraza soleada y hospitalidad familiar.
 
 ---
 
-### DÍA 9: Naxos Clásica: Templo de Deméter y Kouros Gigantes
+### DÍA 10: Naxos Clásica: Templo de Deméter y Kouros Gigantes
 
 #### 🗺️ Mapa y Esquema de Ruta del Día
 ```
@@ -470,7 +512,7 @@
   * *Kouros de Melanes ➔ Pueblo de mármol de Apeiranthos*: **16 km | 28 min** (carretera de montaña).
   * *Apeiranthos ➔ Kouros colosal de Apollonas*: **18 km | 30 min**.
   * *Apollonas ➔ Retorno a Chora por la cornisa costera norte*: **36 km | 50 min**.
-* **Resumen en coche Día 8 (Circuito Arqueológico Completo)**: **93 km acumulados | 2h 25 min al volante**.
+* **Resumen en coche Día 10 (Circuito Arqueológico Completo)**: **93 km acumulados | 2h 25 min al volante**.
 
 * **Programa**:
   * **Mañana**:
@@ -479,11 +521,11 @@
   * **Tarde**:
     * **Opción A (Ruta de los Kouros Arcaicos y Apeiranthos)**: Visita al colosal **Kouros de Melanes** (6 m) y al **Kouros de Apollonas** (10,7 m) tallados directamente en las canteras de la antigüedad. Continuación al pueblo de mármol de **Apeiranthos**.
     * **Opción B (Península Protegida de Aliko)**: Tarde en el bosque de cedros costeros y calas secretas de Hawaii Beach.
-  * 🏨 **Alojamiento (Noche 9/19)**: [**Galazia Apartments**](https://www.booking.com/hotel/gr/galazia-apartments-naxos-chora.es.html) *(Naxos Chora)*. Puntuación: **9,4/10**.
+  * 🏨 **Alojamiento (Noche 10/20)**: [**Galazia Apartments**](https://www.booking.com/hotel/gr/galazia-apartments-naxos-chora.es.html) *(Naxos Chora)*. Puntuación: **9,4/10**.
 
 ---
 
-### DÍA 10: Salto a Milos – La Isla de los Colores y la Venus
+### DÍA 11: Salto a Milos – La Isla de los Colores y la Venus
 
 #### 🗺️ Mapa y Esquema de Ruta del Día
 ```
@@ -514,7 +556,7 @@
   * *Muelle de Adamas ➔ Anais Milos Suites*: **1,1 km | 3 min**.
   * *Opción A (Plaka y Museo Arqueológico)*: Adamas ➔ Plaka: **4,5 km | 9 min** (9 km I/V | 18 min).
   * *Opción B (Bahía de Pollonia)*: Adamas ➔ Pollonia: **10 km | 14 min** (20 km I/V | 28 min).
-* **Resumen en coche Día 9**:
+* **Resumen en coche Día 11**:
   * *Con Opción A*: **10,1 km | 21 min al volante**.
   * *Con Opción B*: **21,1 km | 31 min al volante**.
 
@@ -523,11 +565,11 @@
   * **Tarde**:
     * **Opción A (Pueblo Capital de Plaka y Castillo)**: Subida a pie por las callejuelas encaladas de **Plaka**, visita al Museo Arqueológico (con la réplica exacta de la *Venus de Milo* enviada por el Louvre) y atardecer desde las ruinas del Kastro veneciano.
     * **Opción B (Pueblo Marinero de Pollonia)**: Tarde relajada en la bahía de Pollonia, playa de arena con árboles tamariscos y terrazas sobre el agua.
-  * 🏨 **Alojamiento (Noche 10/19)**: [**Anais Milos Suites**](https://www.booking.com/hotel/gr/anais-milos-suites.es.html) *(Adamas / Milos)*. Puntuación Booking: **9,6/10**. Suite cicláda de diseño con cocina, terraza privada y desayuno artesanal.
+  * 🏨 **Alojamiento (Noche 11/20)**: [**Anais Milos Suites**](https://www.booking.com/hotel/gr/anais-milos-suites.es.html) *(Adamas / Milos)*. Puntuación Booking: **9,6/10**. Suite cicláda de diseño con cocina, terraza privada y desayuno artesanal.
 
 ---
 
-### DÍA 11: Milos Arqueológica Clásica y el Paisaje Lunar de Sarakiniko
+### DÍA 12: Milos Arqueológica Clásica y el Paisaje Lunar de Sarakiniko
 
 #### 🗺️ Mapa y Esquema de Ruta del Día
 ```
@@ -549,7 +591,7 @@
   * *Tripiti ➔ Pueblo de pescadores de Klima (casas-cueva syrmata)*: **1,5 km | 4 min**.
   * *Klima ➔ Paisaje volcánico de Sarakiniko*: **6,8 km | 12 min**.
   * *Sarakiniko ➔ Retorno a Anais Milos Suites (Adamas)*: **4,5 km | 8 min**.
-* **Resumen en coche Día 10**: **17 km acumulados | 32 min al volante**.
+* **Resumen en coche Día 12**: **17 km acumulados | 32 min al volante**.
 
 * **Programa**:
   * **Mañana**:
@@ -561,11 +603,11 @@
     * **Opción B (Mañana en Tsigrado y Firiplaka)**: Aventura en la cala encajonada de Tsigrado y descanso en la inmensa playa de acantilados multicolores de Firiplaka.
   * **Tarde**:
     * **Hito Ineludible**: Atardecer y baño en **Sarakiniko**, el asombroso paisaje de rocas volcánicas blancas onduladas que parecen una superficie lunar sobre el agua turquesa.
-  * 🏨 **Alojamiento (Noche 11/19)**: [**Anais Milos Suites**](https://www.booking.com/hotel/gr/anais-milos-suites.es.html) *(Adamas / Milos)*. Puntuación: **9,6/10**.
+  * 🏨 **Alojamiento (Noche 12/20)**: [**Anais Milos Suites**](https://www.booking.com/hotel/gr/anais-milos-suites.es.html) *(Adamas / Milos)*. Puntuación: **9,6/10**.
 
 ---
 
-### DÍA 12: Cuevas Piratas de Kleftiko en Velero vs. Playas Volcánicas
+### DÍA 13: Cuevas Piratas de Kleftiko en Velero vs. Playas Volcánicas
 
 #### 🗺️ Mapa y Esquema de Ruta del Día
 ```
@@ -596,11 +638,11 @@
   * **Día completo**:
     * **Opción A (Excursión en Barco a Kleftiko y Sykia)**: Travesía marítima en velero tradicional hacia el antiguo refugio de piratas de **Kleftiko**, laberinto de arcos de piedra blanca, cuevas marinas para nadar y la monumental cueva abierta de Sykia.
     * **Opción B (Ruta Terrestre por Playas Volcánicas)**: Exploración en coche de las playas de **Paleochori** (con aguas termales submarinas y tabernas que cocinan en la arena volcánica caliente), Provatas y Agia Kiriaki.
-  * 🏨 **Alojamiento (Noche 12/19)**: [**Anais Milos Suites**](https://www.booking.com/hotel/gr/anais-milos-suites.es.html) *(Adamas / Milos)*. Puntuación: **9,6/10**.
+  * 🏨 **Alojamiento (Noche 13/20)**: [**Anais Milos Suites**](https://www.booking.com/hotel/gr/anais-milos-suites.es.html) *(Adamas / Milos)*. Puntuación: **9,6/10**.
 
 ---
 
-### DÍA 13: Vuelo de Conexión a Kos (Dodecaneso) – La Cuna de Hipócrates
+### DÍA 14: Vuelo de Conexión a Kos (Dodecaneso) – La Cuna de Hipócrates
 
 #### 🗺️ Mapa y Esquema de Ruta del Día
 ```
@@ -641,18 +683,18 @@
 * **Desplazamiento por carretera en Kos**:
   * *Recogida de coche de alquiler en Aeropuerto de Kos (KGS)*: **20 min**.
   * *Aeropuerto KGS ➔ Orpheus Studios (Kos Town)*: **24 km | 28 min** por la carretera principal de la isla.
-* **Resumen en coche Día 12**: **28,8 km acumulados | 36 min al volante**.
+* **Resumen en coche Día 14**: **28,8 km acumulados | 36 min al volante**.
 
 * **Programa**:
   * **Mañana**: Enlace aéreo Cícladas ➔ **Kos (KGS)** (vuelo de confort con escala rápida en Atenas para entrar al Dodecaneso sin 14h de barco). Llegada a Kos, recogida de coche y check-in en Kos Town.
   * **Tarde**:
     * **Opción A (Castillo de Neratzia y Ágora Antigua)**: Recorrido por el **Castillo de los Caballeros de Neratzia** junto al puerto, el milenario **Plátano de Hipócrates** (donde según la tradición enseñaba a sus discípulos) y el **Ágora Antigua** con templos de Hércules y Afrodita.
     * **Opción B (Playa de Lambi o Tigaki)**: Tarde de baño en los extensos arenales dorados de Tigaki con vistas cercanas a las costas de Turquía y las islas de Kalymnos y Pserimos.
-  * 🏨 **Alojamiento (Noche 13/19)**: [**Orpheus Studios & Apartments**](https://www.booking.com/hotel/gr/orpheus-studios-kos.es.html) *(Kos Town)*. Puntuación Booking: **9,2/10**. Estudio con cocina completa, balcón con plantas, céntrico y a corta distancia del puerto y ruinas clásicas.
+  * 🏨 **Alojamiento (Noche 14/20)**: [**Orpheus Studios & Apartments**](https://www.booking.com/hotel/gr/orpheus-studios-kos.es.html) *(Kos Town)*. Puntuación Booking: **9,2/10**. Estudio con cocina completa, balcón con plantas, céntrico y a corta distancia del puerto y ruinas clásicas.
 
 ---
 
-### DÍA 14: El Grandioso Asklepieion y las Aguas Termales de Kos
+### DÍA 15: El Grandioso Asklepieion y las Aguas Termales de Kos
 
 #### 🗺️ Mapa y Esquema de Ruta del Día
 ```
@@ -675,7 +717,7 @@
   * *Kos Town ➔ Therma Beach (piscina termal natural en el mar)*: **12,5 km | 18 min** (carretera de la costa este).
   * *Therma Beach ➔ Retorno a Kos Town (Orpheus Studios)*: **12,5 km | 18 min**.
   * *(Si se opta por Opción B Playa de Marmari: Kos Town ➔ Marmari: 14 km / 16 min I/V)*.
-* **Resumen en coche Día 13**: **33,2 km acumulados | 52 min al volante**.
+* **Resumen en coche Día 15**: **33,2 km acumulados | 52 min al volante**.
 
 * **Programa**:
   * **Mañana**:
@@ -684,11 +726,11 @@
   * **Tarde**:
     * **Opción A (Casa Romana y Odeón Romano de Kos)**: Visita a la reconstruida *Casa Romana* (siglo III d.C.), con 36 habitaciones y tres patios con mosaicos marinos, y al Odeón Romano de mármol.
     * **Opción B (Aguas Termales de Therma Beach)**: Tarde en la playa de **Therma**, donde manantiales naturales de agua caliente sulfurosa brotan de las rocas directamente al mar creando una piscina termal marina curativa.
-  * 🏨 **Alojamiento (Noche 14/19)**: [**Orpheus Studios & Apartments**](https://www.booking.com/hotel/gr/orpheus-studios-kos.es.html) *(Kos Town)*. Puntuación: **9,2/10**.
+  * 🏨 **Alojamiento (Noche 15/20)**: [**Orpheus Studios & Apartments**](https://www.booking.com/hotel/gr/orpheus-studios-kos.es.html) *(Kos Town)*. Puntuación: **9,2/10**.
 
 ---
 
-### DÍA 15: Fortaleza de Paleo Pyli y Playas de la Península de Kefalos
+### DÍA 16: Fortaleza de Paleo Pyli y Playas de la Península de Kefalos
 
 #### 🗺️ Mapa y Esquema de Ruta del Día
 ```
@@ -710,7 +752,7 @@
   * *Paleo Pyli ➔ Península de Kefalos / Playa de Agios Stefanos (ruinas en la arena)*: **27 km | 32 min**.
   * *Agios Stefanos ➔ Pueblo tradicional de Zia (Monte Dikaios)*: **35 km | 42 min** para cenar y contemplar la puesta de sol.
   * *Zia ➔ Retorno a Kos Town (Orpheus Studios)*: **14 km | 20 min**.
-* **Resumen en coche Día 14**: **92 km acumulados | 1h 56 min al volante**.
+* **Resumen en coche Día 16**: **92 km acumulados | 1h 56 min al volante**.
 
 * **Programa**:
   * **Mañana**:
@@ -720,11 +762,11 @@
     * **Opción A (Pueblo Tradicional de Zia)**: Visita al pueblo de montaña de Zia en el Monte Dikaios, famoso por sus fuentes de agua, tiendas de especias y miel de tomillo.
     * **Opción B (Bahía de Paradise Beach)**: Relax en la playa más popular del sur, famosa por sus aguas transparentes y finísima arena dorada.
   * **Noche**: Cena al atardecer en Zia contemplando una de las puestas de sol más hermosas de Grecia sobre las islas vecinas.
-  * 🏨 **Alojamiento (Noche 15/19)**: [**Orpheus Studios & Apartments**](https://www.booking.com/hotel/gr/orpheus-studios-kos.es.html) *(Kos Town)*. Puntuación: **9,2/10**.
+  * 🏨 **Alojamiento (Noche 16/20)**: [**Orpheus Studios & Apartments**](https://www.booking.com/hotel/gr/orpheus-studios-kos.es.html) *(Kos Town)*. Puntuación: **9,2/10**.
 
 ---
 
-### DÍA 16: Ferry a Rodas – La Gran Ciudadela de los Caballeros
+### DÍA 17: Ferry a Rodas – La Gran Ciudadela de los Caballeros
 
 #### 🗺️ Mapa y Esquema de Ruta del Día
 ```
@@ -755,7 +797,7 @@
   * *Muelle de Mandraki ➔ Acceso muralla Ciudad Medieval (Old Town Nest)*: **900 m | 4 min** (más 2 min a pie por calle peatonal intramuros).
   * *Opción A (Ciudadela Medieval y Calle de los Caballeros)*: Recorrido íntegramente a pie dentro del recinto fortificado.
   * *Opción B (Termas de Kallithea Springs)*: Rodas Ciudad ➔ Kallithea: **9 km | 15 min** (18 km I/V | 30 min).
-* **Resumen en coche Día 15**:
+* **Resumen en coche Día 17**:
   * *Con Opción A*: **2,1 km | 8 min al volante**.
   * *Con Opción B*: **20,1 km | 38 min al volante**.
 
@@ -765,11 +807,11 @@
     * **Opción A (La Ciudad Medieval UNESCO)**: Recorrido por el conjunto medieval fortificado habitado más imponente de Europa. Entrada a la **Calle de los Caballeros de San Juan**, el colosal **Palacio del Gran Maestre** y el Hospital de los Caballeros (Museo Arqueológico con la *Afrodita de Rodas*).
     * **Opción B (Manantiales Termales de Kallithea Springs)**: Tarde de descanso en las históricas termas de Kallithea, con arquitectura oriental italiana de los años 20 y cala privada de aguas esmeralda.
   * **Atardecer**: Paseo por el puerto de **Mandraki**, histórico emplazamiento del legendario **Coloso de Rodas** (Maravilla de la Antigüedad), hoy custodiado por los ciervos de bronce.
-  * 🏨 **Alojamiento (Noche 16/19)**: [**Old Town Nest Apartments**](https://www.booking.com/hotel/gr/old-town-nest.es.html) *(Ciudad Medieval de Rodas)*. Puntuación Booking: **9,7/10**. Apartamento dentro de las murallas históricas de la ciudad medieval, muros de piedra góticos, cocina moderna, aire acondicionado y patio íntimo.
+  * 🏨 **Alojamiento (Noche 17/20)**: [**Old Town Nest Apartments**](https://www.booking.com/hotel/gr/old-town-nest.es.html) *(Ciudad Medieval de Rodas)*. Puntuación Booking: **9,7/10**. Apartamento dentro de las murallas históricas de la ciudad medieval, muros de piedra góticos, cocina moderna, aire acondicionado y patio íntimo.
 
 ---
 
-### DÍA 17: La Acrópolis Monumental de Lindos y la Bahía de San Pablo
+### DÍA 18: La Acrópolis Monumental de Lindos y la Bahía de San Pablo
 
 #### 🗺️ Mapa y Esquema de Ruta del Día
 ```
@@ -786,7 +828,7 @@
   * *Rodas Ciudad Medieval ➔ Pueblo y Acrópolis de Lindos*: **48 km | 50 min** por la carretera nacional este (vía Faliraki y Archangelos; excelente asfalto).
   * *Aparcamiento de Lindos ➔ Bahía de San Pablo (St. Paul's Bay)*: **1,5 km | 4 min**.
   * *Lindos / Bahía San Pablo ➔ Retorno a Rodas Ciudad Medieval (Old Town Nest)*: **49 km | 52 min**.
-* **Resumen en coche Día 16**: **98,5 km acumulados | 1h 46 min al volante**.
+* **Resumen en coche Día 18**: **98,5 km acumulados | 1h 46 min al volante**.
 
 * **Programa**:
   * **Mañana**:
@@ -795,11 +837,11 @@
   * **Tarde**:
     * **Opción A (Pueblo Tradicional de Lindos)**: Exploración de las casas señoriales de capitanes del siglo XVII (*Archontika*) con patios de mosaicos de guijarros (*chochlaki*) e Iglesia de Panagia.
     * **Opción B (Bahía de San Pablo - St. Paul's Bay)**: Tarde de snorkel y baño en esta bahía casi cerrada en forma de herradura con aguas turquesas rodeadas de acantilados.
-  * 🏨 **Alojamiento (Noche 17/19)**: [**Old Town Nest Apartments**](https://www.booking.com/hotel/gr/old-town-nest.es.html) *(Ciudad Medieval de Rodas)*. Puntuación: **9,7/10**.
+  * 🏨 **Alojamiento (Noche 18/20)**: [**Old Town Nest Apartments**](https://www.booking.com/hotel/gr/old-town-nest.es.html) *(Ciudad Medieval de Rodas)*. Puntuación: **9,7/10**.
 
 ---
 
-### DÍA 18: La Ciudad Helénica de Kamiros y Bahía de Anthony Quinn
+### DÍA 19: La Ciudad Helénica de Kamiros y Bahía de Anthony Quinn
 
 #### 🗺️ Mapa y Esquema de Ruta del Día
 ```
@@ -821,7 +863,7 @@
   * *Kamiros ➔ Meseta del Monte Filerimos (Templo de Atenea y Monasterio)*: **24 km | 30 min**.
   * *Filerimos ➔ Bahía de Anthony Quinn (costa este)*: **17 km | 22 min**.
   * *Bahía de Anthony Quinn ➔ Retorno a Rodas Ciudad Medieval*: **15 km | 20 min**.
-* **Resumen en coche Día 17**: **90 km acumulados | 1h 52 min al volante**.
+* **Resumen en coche Día 19**: **90 km acumulados | 1h 52 min al volante**.
 
 * **Programa**:
   * **Mañana**:
@@ -831,10 +873,10 @@
     * **Opción A (Monte Filerimos)**: Visita al templo clásico de Atenea Polias en Filerimos, el sendero de cipreses del Vía Crucis y la cruz monumental con vistas sobre el mar.
     * **Opción B (Bahía de Anthony Quinn)**: Baño y snorkel en la legendaria cala verde esmeralda bautizada en honor al actor que filmó allí *Los cañones de Navarone*.
   * **Noche**: Cena en la judería medieval de Rodas (*La Juderia*) con vino local de Rodas.
-  * 🏨 **Alojamiento (Noche 18/19)**: [**Old Town Nest Apartments**](https://www.booking.com/hotel/gr/old-town-nest.es.html) *(Ciudad Medieval de Rodas)*. Puntuación: **9,7/10**.
+  * 🏨 **Alojamiento (Noche 19/20)**: [**Old Town Nest Apartments**](https://www.booking.com/hotel/gr/old-town-nest.es.html) *(Ciudad Medieval de Rodas)*. Puntuación: **9,7/10**.
 
 
-### DÍA 19: Expedición al Suroeste: Castillo de Monolithos, Valle de Embonas y Cena de Gala Medieval
+### DÍA 20: Expedición al Suroeste: Castillo de Monolithos, Valle de Embonas y Cena de Gala Medieval
 
 #### 🗺️ Mapa y Esquema de Ruta del Día
 ```
@@ -851,7 +893,7 @@
   * *Rodas Ciudad ➔ Castillo de Monolithos*: **70 km | 1h 15 min** (carretera de montaña con paisajes salvajes de pinares).
   * *Monolithos ➔ Pueblo vinícola de Embonas (faldas del Monte Atavyros)*: **18 km | 25 min**.
   * *Embonas ➔ Retorno a Rodas Ciudad Medieval*: **65 km | 1h 10 min**.
-* **Resumen en coche Día 19**: **153 km acumulados | 2h 50 min al volante**.
+* **Resumen en coche Día 20**: **153 km acumulados | 2h 50 min al volante**.
 
 * **Programa**:
   * **Mañana**:
@@ -859,11 +901,11 @@
   * **Tarde**:
     * **Enología y Gastronomía en Embonas**: Almuerzo en el corazón vinícola de la isla, en las faldas del monte más alto de Rodas (Monte Atavyros, 1.215 m). Degustación de vinos elaborados con la uva blanca clásica *Athiri* y la tinta *Amorgiano*, acompañados de cordero asado al horno de leña tradicional.
   * **Noche (Cena de Gala de Despedida)**: Paseo nocturno bajo los faroles de piedra de la Ciudad Medieval amurallada iluminada. Cena de gala de despedida en una taberna histórica con patio interior de naranjos.
-  * 🏨 **Alojamiento (Noche 19/19)**: [**Old Town Nest Apartments**](https://www.booking.com/hotel/gr/old-town-nest.es.html) *(Ciudad Medieval de Rodas)*. Puntuación: **9,7/10**.
+  * 🏨 **Alojamiento (Noche 20/20)**: [**Old Town Nest Apartments**](https://www.booking.com/hotel/gr/old-town-nest.es.html) *(Ciudad Medieval de Rodas)*. Puntuación: **9,7/10**.
 
 ---
 
-### DÍA 20: Regreso a Casa – Vuelo Rodas ➔ Atenas ➔ Madrid (Aegean Airlines)
+### DÍA 21: Regreso a Casa – Vuelo Rodas ➔ Atenas ➔ Madrid (Aegean Airlines)
 
 #### 🗺️ Mapa y Esquema de Ruta del Día
 ```
@@ -893,7 +935,7 @@
   * *Escala en Atenas (ATH)*: **2h 00 min** de tránsito cómodo sin necesidad de recoger maletas ni pasar de nuevo control de seguridad.
   * *Tramo 2 (ATH ➔ MAD)*: Vuelo A3 688 (15:15 – 18:05 h | 3h 50 min).
   * *Llegada a Madrid-Barajas (MAD Terminal T2)*: **18:05 h**. Recogida de equipajes en cinta (25 min).
-* **Resumen en coche Día 20**: **14 km | 20 min de traslado**.
+* **Resumen en coche Día 21**: **14 km | 20 min de traslado**.
 
 * **Programa**:
   * **Mañana**: Último café griego y desayuno en el patio de piedra de la Ciudad Medieval. Check-out cómodo y trayecto al aeropuerto de Rodas. Entrega del coche con seguro a todo riesgo cerrado.
@@ -909,10 +951,10 @@
 
 | Tramo de Vuelo | Aerolíneas Operadoras | Enlace Directo de Búsqueda / Reserva | Condiciones y Frecuencias | Precio Total (2 Personas) | Precio por Persona |
 | :--- | :--- | :--- | :--- | :---: | :---: |
-| **Vuelo Internacional de Ida**<br>Madrid (MAD) ➔ Mykonos (JMK) | **Iberia Express** / **Vueling** | • [Buscador MAD ➔ JMK (Skyscanner)](https://www.skyscanner.es/transporte/vuelos/mad/jmk/)<br>• [Web Oficial Iberia Express](https://www.iberiaexpress.com/) | Vuelo directo regular de temporada (aprox. 3h 35 min) con maleta facturada de 23 kg por persona. | **320 €** | 160 € |
-| **Vuelo Doméstico Cícladas ➔ Dodecaneso**<br>Milos (MLO) ➔ Kos (KGS) | **Sky Express** / **Olympic Air (Aegean)** | • [Buscador MLO ➔ KGS (Skyscanner)](https://www.skyscanner.es/transporte/vuelos/mlo/kgs/)<br>• [Web Oficial Sky Express](https://www.skyexpress.gr/es) | Vuelo con escala técnica rápida en Atenas (ATH). Evita 14 horas de barco entre archipiélagos. | **260 €** | 130 € |
-| **Vuelo Internacional de Regreso Open-Jaw**<br>Rodas (RHO) ➔ Atenas (ATH) ➔ Madrid (MAD) | **Aegean Airlines** (Star Alliance) | • [Buscador RHO ➔ MAD (Skyscanner)](https://www.skyscanner.es/transporte/vuelos/rho/mad/)<br>• [Web Oficial Aegean Airlines](https://en.aegeanair.com/) | Vuelo coordinado A3 205 + A3 688 con escala de 2h en ATH. Maletas facturadas directas a Madrid T2. | **380 €** | 190 € |
-| **SUBTOTAL VUELOS (2 PERSONAS)** | | | **3 billetes aéreos completos con equipaje de bodega** | **960 €** | **480 €** |
+| **Vuelo Internacional de Ida**<br>Madrid (MAD) ➔ Mykonos (JMK) | **Iberia Express** / **Vueling** | • [Buscador MAD ➔ JMK (Skyscanner)](https://www.skyscanner.es/transporte/vuelos/mad/jmk/)<br>• [Web Oficial Iberia Express](https://www.iberiaexpress.com/) | Vuelo directo regular de temporada (aprox. 3h 35 min) con maleta facturada de 23 kg por persona. | **340 €** | 170 € |
+| **Vuelo Doméstico Cícladas ➔ Dodecaneso**<br>Milos (MLO) ➔ Kos (KGS) | **Sky Express** / **Olympic Air (Aegean)** | • [Buscador MLO ➔ KGS (Skyscanner)](https://www.skyscanner.es/transporte/vuelos/mlo/kgs/)<br>• [Web Oficial Sky Express](https://www.skyexpress.gr/es) | Vuelo con escala técnica rápida en Atenas (ATH). Evita 14 horas de barco entre archipiélagos. | **280 €** | 140 € |
+| **Vuelo Internacional de Regreso Open-Jaw**<br>Rodas (RHO) ➔ Atenas (ATH) ➔ Madrid (MAD) | **Aegean Airlines** (Star Alliance) | • [Buscador RHO ➔ MAD (Skyscanner)](https://www.skyscanner.es/transporte/vuelos/rho/mad/)<br>• [Web Oficial Aegean Airlines](https://en.aegeanair.com/) | Vuelo coordinado A3 205 + A3 688 con escala de 2h en ATH. Maletas facturadas directas a Madrid T2. | **420 €** | 210 € |
+| **SUBTOTAL VUELOS (2 PERSONAS)** | | | **3 billetes aéreos completos con equipaje de bodega** | **1.040 €** | **520 €** |
 
 ---
 
@@ -939,14 +981,14 @@
 
 | Isla / Estancia | Alojamiento Seleccionado | Noches | Enlace Concreto a la Ficha en Booking.com | Puntuación Booking | Precio / Noche | Precio Total Estancia |
 | :--- | :--- | :---: | :--- | :---: | :---: | :---: |
-| **Mykonos** *(Noches 1 y 2)* | **Alexandra Suites** (Tourlos) | 2 noches | [Ficha de Reserva Alexandra Suites](https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html) | **9,2 / 10** | 125 € | **250 €** |
-| **Syros** *(Noches 3 y 4)* | **AVALON Luxury Suites** (Ermoupoli) | 2 noches | [Ficha de Reserva AVALON Suites](https://www.booking.com/hotel/gr/avalon-luxury-suites-ermoupoli.es.html) | **9,5 / 10** | 95 € | **190 €** |
-| **Paros** *(Noches 5 y 6)* | **Zoumis Residence** (Naoussa) | 2 noches | [Ficha de Reserva Zoumis Residence](https://www.booking.com/hotel/gr/zoumis-residence.es.html) | **9,3 / 10** | 85 € | **170 €** |
-| **Naxos** *(Noches 7 y 8)* | **Galazia Apartments** (Chora / Agios Georgios) | 2 noches | [Ficha de Reserva Galazia Apartments](https://www.booking.com/hotel/gr/galazia-apartments-naxos-chora.es.html) | **9,4 / 10** | 75 € | **150 €** |
-| **Milos** *(Noches 9, 10 y 11)* | **Anais Milos Suites** (Adamas) | 3 noches | [Ficha de Reserva Anais Milos Suites](https://www.booking.com/hotel/gr/anais-milos-suites.es.html) | **9,6 / 10** | 95 € | **285 €** |
-| **Kos** *(Noches 12, 13 y 14)* | **Orpheus Studios & Apartments** (Kos Town) | 3 noches | [Ficha de Reserva Orpheus Studios](https://www.booking.com/hotel/gr/orpheus-studios-kos.es.html) | **9,2 / 10** | 70 € | **210 €** |
-| **Rodas** *(Noches 15, 16, 17, 18 y 19)* | **Old Town Nest Apartments** (Ciudad Medieval) | 5 noches | [Ficha de Reserva Old Town Nest](https://www.booking.com/hotel/gr/old-town-nest.es.html) | **9,7 / 10** | 108,80 € | **544 €** |
-| **SUBTOTAL ALOJAMIENTOS (19 NOCHES)** | | **19 n** | **Apartamentos independientes con cocina completa y parking** | | | **1.799 €** *(899,50 € / pers.)* |
+| **Mykonos** *(Noches 1, 2, 3 y 4)* | **Alexandra Suites** (Tourlos) | 4 noches | [Ficha de Reserva Alexandra Suites](https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html) | **9,2 / 10** | 125 € | **500 €** |
+| **Syros** *(Noches 5 y 6)* | **AVALON Luxury Suites** (Ermoupoli) | 2 noches | [Ficha de Reserva AVALON Suites](https://www.booking.com/hotel/gr/avalon-luxury-suites-ermoupoli.es.html) | **9,5 / 10** | 98 € | **196 €** |
+| **Paros** *(Noches 7 y 8)* | **Zoumis Residence** (Naoussa) | 2 noches | [Ficha de Reserva Zoumis Residence](https://www.booking.com/hotel/gr/zoumis-residence.es.html) | **9,3 / 10** | 92 € | **184 €** |
+| **Naxos** *(Noches 9 y 10)* | **Galazia Apartments** (Chora / Agios Georgios) | 2 noches | [Ficha de Reserva Galazia Apartments](https://www.booking.com/hotel/gr/galazia-apartments-naxos-chora.es.html) | **9,4 / 10** | 80 € | **160 €** |
+| **Milos** *(Noches 11, 12 y 13)* | **Anais Milos Suites** (Adamas) | 3 noches | [Ficha de Reserva Anais Milos Suites](https://www.booking.com/hotel/gr/anais-milos-suites.es.html) | **9,6 / 10** | 105 € | **315 €** |
+| **Kos** *(Noches 14, 15 y 16)* | **Orpheus Studios & Apartments** (Kos Town) | 3 noches | [Ficha de Reserva Orpheus Studios](https://www.booking.com/hotel/gr/orpheus-studios-kos.es.html) | **9,2 / 10** | 75 € | **225 €** |
+| **Rodas** *(Noches 17, 18, 19 y 20)* | **Old Town Nest Apartments** (Ciudad Medieval) | 4 noches | [Ficha de Reserva Old Town Nest](https://www.booking.com/hotel/gr/old-town-nest.es.html) | **9,7 / 10** | 90 € | **360 €** |
+| **SUBTOTAL ALOJAMIENTOS (20 NOCHES)** | | **20 n** | **Apartamentos independientes con cocina completa y parking** | | | **1.940 €** *(970,00 € / pers.)* |
 
 ---
 
@@ -960,15 +1002,15 @@
 
 | Isla | Días | Vehículo | Proveedor y Enlace Directo | Oficina Entrega | Tarifa Base Alquiler | Seguro Todo Riesgo Sin Franquicia (SCDW) | Coste Total Coche (Todo Riesgo 0 Franquicia) | Coste por Persona |
 | :--- | :---: | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **Mykonos** | **1 d** | Compacto Cat. B (VW Polo / Hyundai i20) | [**Avis Mykonos**](https://www.avis.es/conducir-avis/alquiler-coches/europa/grecia/miconos) | Aeropuerto JMK / Puerto Tourlos | 38 € | 14 € / día | **52 €** | 26,00 € |
+| **Mykonos** | **3 d** | Compacto Cat. B (VW Polo / Hyundai i20) | [**Avis Mykonos**](https://www.avis.es/conducir-avis/alquiler-coches/europa/grecia/miconos) | Aeropuerto JMK / Puerto Tourlos | 114 € (38 €/d) | 42 € (14 €/d) | **156 €** (52 €/d) | 78,00 € |
 | **Syros** | **2 d** | Compacto Cat. B (Toyota Yaris / similar) | [**Avance Syros**](https://www.avance.gr/es/locations/syros) / [Hertz](https://www.hertz.es/) | Puerto de Ermoupoli | 64 € (32 €/d) | 24 € (12 €/d) | **88 €** (44 €/d) | 44,00 € |
 | **Paros y Antíparos** | **2 d** | Compacto Cat. B (Nissan Micra / similar) | [**Avis Paros**](https://www.avis.es/conducir-avis/alquiler-coches/europa/grecia/paros) | Puerto Parikia *(cruce a Antíparos)* | 70 € (35 €/d) | 24 € (12 €/d) | **94 €** (47 €/d) | 47,00 € |
 | **Naxos** | **2 d** | Compacto Cat. B (Fiat Panda / Yaris) | [**Avis Naxos**](https://www.avis.es/conducir-avis/alquiler-coches/europa/grecia/naxos) / [Enterprise](https://www.enterprise.es/) | Puerto de Chora Naxos | 70 € (35 €/d) | 24 € (12 €/d) | **94 €** (47 €/d) | 47,00 € |
 | **Milos** | **3 d** | Compacto Cat. B (Suzuki Swift / similar) | [**Avance Milos**](https://www.avance.gr/es/locations/milos) / [Avis](https://www.avis.es/) | Puerto de Adamas / MLO | 105 € (35 €/d) | 39 € (13 €/d) | **144 €** (48 €/d) | 72,00 € |
 | **Kos** | **3 d** | Compacto Cat. B (Hyundai i20 / similar) | [**Avis Kos**](https://www.avis.es/conducir-avis/alquiler-coches/europa/grecia/kos) / [Hertz](https://www.hertz.es/) | Aeropuerto KGS / Puerto Kos | 84 € (28 €/d) | 33 € (11 €/d) | **117 €** (39 €/d) | 58,50 € |
-| **Rodas** | **5 d** | Compacto Cat. B (VW Polo / Opel Corsa) | [**Enterprise Rodas**](https://www.enterprise.es/) / [Avis](https://www.avis.es/) | Puerto Mandraki / Aeropuerto RHO | 160 € (32 €/d) | 60 € (12 €/d) | **220 €** (44 €/d) | 110,00 € |
-| **Combustible** | 600 km | Gasolina Sin Plomo 95 | Gasolineras locales | Repostaje insular regular | — | — | **210 €** | 105,00 € |
-| **SUBTOTAL COCHES Y COMBUSTIBLE (2 PAX)** | **18 d** | **Flota con Seguro Todo Riesgo Sin Franquicia (SCDW) y Asistencia 24h** | | | **591 €** base | **218 €** seguro todo riesgo | **1.019 €** | **509,50 €** |
+| **Rodas** | **4 d** | Compacto Cat. B (VW Polo / Opel Corsa) | [**Enterprise Rodas**](https://www.enterprise.es/) / [Avis](https://www.avis.es/) | Puerto Mandraki / Aeropuerto RHO | 160 € (40 €/d) | 60 € (15 €/d) | **220 €** (55 €/d) | 110,00 € |
+| **Combustible** | 650 km | Gasolina Sin Plomo 95 | Gasolineras locales | Repostaje insular regular | — | — | **200 €** | 100,00 € |
+| **SUBTOTAL COCHES Y COMBUSTIBLE (2 PAX)** | **19 d** | **Flota con Seguro Todo Riesgo Sin Franquicia (SCDW) y Asistencia 24h** | | | **667 €** base | **246 €** seguro todo riesgo | **973 €** | **486,50 €** |
 
 ---
 
@@ -976,14 +1018,15 @@
 
 | Categoría de Gasto | Detalle del Concepto | Importe Total (2 Personas) | Importe por Persona |
 | :--- | :--- | :---: | :---: |
-| **1. Vuelos Internacionales y Domésticos** | 3 vuelos con equipaje facturado (MAD-JMK, MLO-KGS, RHO-ATH-MAD) | **960 €** | 480,00 € |
+| **1. Vuelos Internacionales y Domésticos** | 3 billetes aéreos completos con maleta 23 kg en bodega (MAD-JMK, MLO-KGS, RHO-ATH-MAD) | **1.040 €** | 520,00 € |
 | **2. Billetes de Barcos y Ferris** | 7 travesías marítimas completas (Delos, Syros, Paros, Antíparos, Naxos, Milos, Rodas) | **340 €** | 170,00 € |
-| **3. Alojamientos en Booking.com** | 19 noches en apartamentos con notas >9,0/10 y cocina completa | **1.799 €** | 899,50 € |
-| **4. Alquiler de Coches (Todo Riesgo Sin Franquicia)** | 18 días con cobertura total SCDW Cero Franquicia (809 €) + gasolina (210 €) | **1.019 €** | 509,50 € |
-| **5. Entradas Culturales y Arqueológicas** | Entradas a todos los yacimientos y museos estatales *(Tarifa General)* | **154 €** | 77,00 € |
-| • *Ahorro por Tarifa Reducida Senior UE 65+* | *Descuento oficial del 50% en yacimientos del Ministerio de Cultura Helénico* | *(-77 €)* | *(-38,50 €)* |
-| **TOTAL ESTIMADO VIAJE (TARIFA GENERAL)** | **Todos los servicios cerrados para 2 personas con coche a todo riesgo sin franquicia** | **4.272 €** | **2.136,00 €** |
-| **TOTAL ESTIMADO VIAJE (CON DESCUENTO SENIOR 65+)** | **Aplicando el 50% de reducción en entradas culturales + conductor senior sin recargo** | **4.195 €** *(o 4.375 € con margen de extras y equipajes)* | **2.097,50 €** |
+| **3. Alojamientos en Booking.com** | 20 noches en apartamentos boutique con notas >9,0/10, terraza y cocina completa | **1.940 €** | 970,00 € |
+| **4. Alquiler de Coches (Todo Riesgo Sin Franquicia)** | 19 días de alquiler con cobertura total SCDW Cero Franquicia sin bloqueo de tarjeta | **773 €** | 386,50 € |
+| **5. Combustible Estimado (650 km)** | Repostajes insulares en los 650 km acumulados de rutas | **200 €** | 100,00 € |
+| **6. Entradas Culturales y Arqueológicas (Senior UE 65+)** | Reducción oficial del 50% en monumentos y museos estatales del Ministerio de Cultura Helénico | **83 €** | 41,50 € |
+| *(Referencia Entradas Tarifa General sin descuento)* | *(Entradas completas para adultos no sénior: 166 € / 83,00 € por persona)* | *(166 €)* | *(83,00 €)* |
+| **TOTAL ESTIMADO AUDITADO (SENIOR UE 65+)** | **Todos los servicios cerrados para 2 personas con coche SCDW Cero Franquicia** | **4.376 €** | **2.188,00 €** |
+| **TOTAL ESTIMADO AUDITADO (TARIFA GENERAL)** | **Todos los servicios para 2 personas con entradas estándar sin reducción senior** | **4.459 €** *(o 4.568 € con margen de extras)* | **2.229,50 €** |
 
 
 ---
@@ -1007,6 +1050,8 @@
 | **Yacimiento y Tumbas Micénicas de Paleokastro** | Restos de un asentamiento fortificado de la Edad del Bronce tardía con una imponente tumba de cúpula (*tholos*) micénica (siglo XIV a.C.) y vestigios del convento medieval de San Blas. | Colina de Paleokastro, cerca de Ano Mera. | Recinto al aire libre, acceso libre con luz diurna. | **Gratuito** | [Odysseus Ministerio de Cultura](http://odysseus.culture.gr/) |
 | **Monasterio de Panagia Tourliani** | Fundado en 1542 por monjes de Paros y reconstruido en 1767. Cuenta con una monumental torre-campanario de mármol tallado y un magnífico iconostasio barroco tallado en madera en Florencia. | Plaza central del pueblo de Ano Mera. | Todos los días: 09:00 – 13:00 h y 15:30 – 19:00 h. | Entrada donativo al museo eclesiástico: **2 €** | [Monasterio Panagia Tourliani](http://odysseus.culture.gr/) |
 | **Molinos de Viento de Kato Mili** | Batería de molinos harineros del siglo XVI construidos por los venecianos para aprovechar los fuertes vientos del norte (*meltemi*) y moler el trigo que abastecía a las tripulaciones del Egeo. | Colina suroeste sobre Chora y Little Venice. | Espacio público abierto 24h. | **Gratuito** | [Patrimonio Histórico Mykonos](http://odysseus.culture.gr/) |
+| **Museo Marítimo del Egeo** | Magnífica colección de maquetas náuticas desde la época minoica hasta el siglo XIX, instrumental de navegación, cartas náuticas históricas y la linterna de 1891 del Faro Armenistis. | Barrio de Tria Pigadia, Chora. | Todos los días: 10:30 – 13:00 h y 18:30 – 21:00 h. | General: **4 €**<br>Senior UE 65+: **2 €** | [Museo Marítimo del Egeo](http://odysseus.culture.gr/) |
+| **Casa Tradicional de Lena** | Auténtica residencia burguesa de Mykonos del siglo XIX anexa al Museo Marítimo, conservada íntegramente con sus bordados, mobiliario y ajuar doméstico tradicional. | Barrio de Tria Pigadia, Chora. | Lunes a sábado: 18:30 – 21:30 h. | General: **2 €**<br>Senior UE 65+: **1 €** | [Patrimonio Cultural Mykonos](http://odysseus.culture.gr/) |
 
 ---
 

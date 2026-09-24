@@ -98,3 +98,5 @@ en el panel izquierdo de menu poner los items de menu:
 añade maps de google maps en todos los dias para cada desplazamiento, si es en coche, muestra las rutas a seguir, si es en ferry o vuelo , muestra los puertos o aeropuertos con sus horarios
 añade un mapa para cada isla de todos los desplazamientos durante la estancia a la isla , kms y tiempo
 
+quiero añadir un día mas de duración del viaje en la isla de mykonos, para ello tendrás que modificar la fecha de inicio y fin del viaje, y ajustar todos los desplazamientos y alojamientos y actividades en consecuencia  
+y el presupuesto

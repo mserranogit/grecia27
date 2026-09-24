@@ -6,11 +6,11 @@
 const ITINERARY_DATA = {
   tripInfo: {
     title: "Islas Griegas: Cícladas y Dodecaneso",
-    subtitle: "Itinerario Arqueológico y Playas 50/50 - 20 Días (Ruta Open-Jaw)",
-    dates: "1 al 20 de Junio de 2027",
+    subtitle: "Itinerario Arqueológico y Playas 50/50 - 21 Días (Ruta Open-Jaw)",
+    dates: "1 al 21 de Junio de 2027",
     travelers: "2 Adultos (Conductor 68 años con descuento Senior UE 65+ en monumentos)",
-    budgetGeneral: "4.375 €",
-    budgetSenior: "4.298 €"
+    budgetGeneral: "4.568 €",
+    budgetSenior: "4.376 €"
   },
 
   // -------------------------------------------------------------
@@ -19,8 +19,8 @@ const ITINERARY_DATA = {
   auditCuadro8: {
     title: "Cuadro 8: Cuadro Resumen de Presupuesto Auditado (2 Personas)",
     source: "Informe de Auditoría, Verificación y Optimización (Junio 2027)",
-    totalTwoPax: "4.183 €",
-    totalPerPax: "2.091,50 €",
+    totalTwoPax: "4.376 €",
+    totalPerPax: "2.188,00 €",
     currency: "EUR (€)",
     items: [
       {
@@ -44,28 +44,28 @@ const ITINERARY_DATA = {
       {
         id: 3,
         icon: "🏨",
-        concept: "Alojamientos seleccionados en Booking (19 noches)",
-        scope: "19 noches en 7 apartamentos con nota >9,0/10, cocina privada equipada, terraza exterior y aparcamiento",
-        amount: "1.815 €",
-        perPax: "907,50 €",
+        concept: "Alojamientos seleccionados en Booking (20 noches)",
+        scope: "20 noches en 7 apartamentos con nota >9,0/10, cocina privada equipada, terraza exterior y aparcamiento (4 noches en Mykonos)",
+        amount: "1.940 €",
+        perPax: "970,00 €",
         status: "Verificado"
       },
       {
         id: 4,
         icon: "🚗",
         concept: "Coches de alquiler (Seguro Cero Franquicia)",
-        scope: "16-18 días de vehículo compacto con cobertura SCDW / Cero Franquicia (sin retención en tarjeta de crédito) y conductor de 68 años sin recargo",
-        amount: "721 €",
-        perPax: "360,50 €",
+        scope: "17-19 días de vehículo compacto con cobertura SCDW / Cero Franquicia (sin retención en tarjeta de crédito) y conductor de 68 años sin recargo",
+        amount: "773 €",
+        perPax: "386,50 €",
         status: "Verificado"
       },
       {
         id: 5,
         icon: "⛽",
         concept: "Combustible estimado para todos los recorridos",
-        scope: "Gasolina para aprox. 600 km de recorridos insulares a calas, yacimientos y pueblos de interior",
-        amount: "190 €",
-        perPax: "95,00 €",
+        scope: "Gasolina para aprox. 630 km de recorridos insulares a calas, yacimientos y pueblos de interior",
+        amount: "200 €",
+        perPax: "100,00 €",
         status: "Verificado"
       },
       {
@@ -73,8 +73,8 @@ const ITINERARY_DATA = {
         icon: "🏛️",
         concept: "Entradas a monumentos con Tarifa Senior UE 65+",
         scope: "50% de reducción legal oficial en recintos arqueológicos y museos estatales gestionados por ODAP (hhticket.gr) para ciudadanos UE +65",
-        amount: "77 €",
-        perPax: "38,50 €",
+        amount: "83 €",
+        perPax: "41,50 €",
         status: "50% Dto. Legal"
       }
     ]
@@ -86,13 +86,13 @@ const ITINERARY_DATA = {
   daysJustification: [
     {
       island: "Mykonos & Delos",
-      badge: "3 días (3 noches)",
-      days: 3,
-      nights: 3,
-      monuments: "Santuario Sagrado de Apolo y Artemisa en Delos (UNESCO), Terraza de los Leones arcaicos (600 a.C.), Casas de los Mosaicos (Delfines y Dioniso), Museo Arqueológico de Mykonos (Pithos del Caballo de Troya del s. VII a.C.), Panagia Paraportiani, Monasterio de Panagia Tourliani (1542) y Acrópolis micénica de Paleokastro (s. XIV a.C.).",
-      beaches: "Playa de Agios Sostis (cala virgen sin agobios), Agios Stefanos (aguas calmas para baño), Playa de Lia / Kalafatis (aguas cristalinas y relax), Little Venice y Molinos de Kato Mili.",
-      activities: "Excursión en barco tradicional a Delos (30 min) con ascenso al Monte Kynthos (113 m); ruta en coche al Faro Armenistis al atardecer; circuito rural al pueblo tradicional de Ano Mera.",
-      whyDays: "3 días al inicio permite una llegada sosegada: Día 1 para Chora, Little Venice y molinos; Día 2 para la expedición marítima a Delos y calas del norte; y Día 3 para el Museo Arqueológico, el Monasterio de Tourliani en Ano Mera y el relax absoluto en la Playa de Lia."
+      badge: "4 días (4 noches)",
+      days: 4,
+      nights: 4,
+      monuments: "Santuario Sagrado de Apolo y Artemisa en Delos (UNESCO), Terraza de los Leones arcaicos (600 a.C.), Casas de los Mosaicos (Delfines y Dioniso), Museo Arqueológico de Mykonos (Pithos del Caballo de Troya del s. VII a.C.), Panagia Paraportiani, Monasterio de Panagia Tourliani (1542), Acrópolis micénica de Paleokastro (s. XIV a.C.), Museo Marítimo del Egeo y Casa Tradicional de Lena.",
+      beaches: "Playa virgen de Agrari (aguas cristalinas y relax sin música), Cala de Kapari y Agios Ioannis (atardecer frente a Delos), Playa de Agios Sostis (cala virgen sin agobios), Agios Stefanos, Playa de Lia / Kalafatis, Little Venice y Molinos de Kato Mili.",
+      activities: "Excursión en barco tradicional a Delos (30 min) con ascenso al Monte Kynthos (113 m); ruta en coche al Faro Armenistis al atardecer; circuito rural al pueblo tradicional de Ano Mera; visita cultural al Museo Marítimo y Casa de Lena en Chora; atardecer frente a Delos en Kapari.",
+      whyDays: "4 días al inicio garantiza el máximo equilibrio y una adaptación perfecta: Día 1 para Chora, Little Venice y molinos; Día 2 para la expedición marítima a Delos y calas vírgenes del norte; Día 3 para el Museo Arqueológico, el Monasterio de Tourliani en Ano Mera y el relax en Lia; y Día 4 para el rico patrimonio marítimo del Egeo, la relajada cala de Agrari y la legendaria puesta de sol de Kapari sobre Delos."
     },
     {
       island: "Syros",
@@ -102,7 +102,7 @@ const ITINERARY_DATA = {
       monuments: "Yacimiento Prehistórico de Kastri y Chalandriani (2800 a.C.), Ermoupoli Neoclásica, Ayuntamiento de Ernst Ziller, Teatro Apolo (1864, réplica de La Scala), Museo Arqueológico, Ciudadela Medieval de Ano Syros (San Giorgio, s. XIII).",
       beaches: "Playa marinera de Kini (tabernas sobre la arena), cala de Galissas (arena fina y aguas llanas), bahías protegidas de Vari y Megas Gialos, paseo aristocrático de Vaporia.",
       activities: "Ruta en coche a la necrópolis cicládica del norte; circuito por las mansiones de capitanes de Poseidonia; velada en Ano Syros con música tradicional Rebetiko.",
-      whyDays: "Syros ofrece el gran contraste neoclásico y medieval del siglo XIX. Día 4 para la monumentalidad urbana de Ermoupoli y Vaporia, y Día 5 para la prehistoria de Kastri y las calas de Kini. Más días restaría tiempo a islas clásicas."
+      whyDays: "Syros ofrece el gran contraste neoclásico y medieval del siglo XIX. Día 5 para la monumentalidad urbana de Ermoupoli y Vaporia, y Día 6 para la prehistoria de Kastri y las calas de Kini. Más días restaría tiempo a islas clásicas."
     },
     {
       island: "Paros & Antíparos",
@@ -112,7 +112,7 @@ const ITINERARY_DATA = {
       monuments: "Basílica Panagia Ekatontapiliani (s. IV, la Iglesia de las Cien Puertas con baptisterio paleocristiano intacto), Museo Arqueológico de Paros (Nike de mármol), Antiguas Canteras de Mármol Licnites de Marathi, Kastro veneciano de Naoussa y fortaleza de Antíparos.",
       beaches: "Playa geológica de Kolymbithres (bloques de granito pulidos), Santa Maria (arena blanca y aguas someras), puerto pesquero de Naoussa.",
       activities: "Cruce en transbordador local a Antíparos (7 min con coche); descenso espeleológico a la Gran Cueva de Antíparos (411 escalones entre estalagmitas históricas); opción barca a Despotiko.",
-      whyDays: "2 días es indispensable para cubrir ambas islas sin descartar Marathi ni Antíparos. Día 6 para el Paros monumental y Kolymbithres; Día 7 para cruzar con vehículo a Antíparos y explorar su cueva mítica y calas vírgenes."
+      whyDays: "2 días es indispensable para cubrir ambas islas sin descartar Marathi ni Antíparos. Día 7 para el Paros monumental y Kolymbithres; Día 8 para cruzar con vehículo a Antíparos y explorar su cueva mítica y calas vírgenes."
     },
     {
       island: "Naxos",
@@ -122,7 +122,7 @@ const ITINERARY_DATA = {
       monuments: "La Portara (Templo de Apolo, 530 a.C. en islote de Palatia), Templo de Deméter en Sangri (520 a.C., mármol jónico precursor del Partenón), Kouros yacente de Melanes (6 m), Kouros gigante de Apollonas (10,7 m en cantera madre), Kastro de Sanudo (1207).",
       beaches: "Playa de Plaka (kilométrica duna de arena suave y aguas llanas), Agios Georgios (a pie de hotel), calas de Mikri Vigla y Agia Anna.",
       activities: "Ruta en coche por el valle de Tragea visitando pueblos serranos como Halki (destilería de licor Kitron) y Filoti; atardecer enmarcado en el dintel de la Portara.",
-      whyDays: "2 días es la dosis exacta para la mayor isla de las Cícladas: Día 8 para Chora, Templo de Deméter, pueblos de montaña y tarde de relax en Plaka; Día 9 para el norte salvaje hasta los dos Kouros arcaicos y sus canteras vivas."
+      whyDays: "2 días es la dosis exacta para la mayor isla de las Cícladas: Día 9 para Chora, Templo de Deméter, pueblos de montaña y tarde de relax en Plaka; Día 10 para el norte salvaje hasta los dos Kouros arcaicos y sus canteras vivas."
     },
     {
       island: "Milos",
@@ -132,7 +132,7 @@ const ITINERARY_DATA = {
       monuments: "Teatro Romano de mármol sobre la bahía, Catacumbas Paleocristianas subterráneas (s. I-V d.C., únicas en Grecia), Lugar del Descubrimiento de la Venus de Milo (1820), Museo Arqueológico (réplica del Louvre), Kastro de Plaka.",
       beaches: "Sarakiniko (paisaje lunar de toba blanca y aguas turquesas), Firopotamos, Firiplaka, Paleochori (arenas multicolores y aguas volcánicas calientes), pueblos con syrmata (Klima y Mandrakia).",
       activities: "Crucero de día completo en velero/catamarán a Kleftiko (antigua guarida pirata de farallones y arcos accesible solo por mar); navegación por la cueva de Sykia.",
-      whyDays: "3 días es un mínimo innegociable: Día 10 para la trilogía arqueológica (Teatro, Catacumbas, Venus) y Klima; Día 11 para la navegación integral a Kleftiko; Día 12 para la geología blanca de Sarakiniko y el baño termal en Paleochori."
+      whyDays: "3 días es un mínimo innegociable: Día 11 para la trilogía arqueológica (Teatro, Catacumbas, Venus) y Klima; Día 12 para la navegación integral a Kleftiko; Día 13 para la geología blanca de Sarakiniko y el baño termal en Paleochori."
     },
     {
       island: "Kos",
@@ -142,7 +142,7 @@ const ITINERARY_DATA = {
       monuments: "Santuario del Asklepieion de Hipócrates (tres terrazas monumentales sagradas del s. IV a.C.), Casa Romana (domus patricia de 36 estancias), Ágora Antigua, Castillo de Neratzia de los Caballeros (s. XIV), Odeón Romano, Paleo Pyli, Basílicas de Agios Stefanos en la playa.",
       beaches: "Bros Therma (piscina marina natural con manantial termal volcánico a 42-45 °C), Playa de Agios Stefanos (frente a islote de Kastri), playas doradas de Mastichari y Tigaki.",
       activities: "Puesta de sol y degustación de miel en el pueblo de montaña de Zia; exploración de las fortalezas templarias y basílicas paleocristianas en la orilla del mar.",
-      whyDays: "3 días articula la transición Cícladas-Dodecaneso: Día 13 para la llegada y Kos Town; Día 14 para la cuna de la medicina en el Asklepieion y termas en Bros Therma; Día 15 para Paleo Pyli y ruinas en la arena de Kefalos."
+      whyDays: "3 días articula la transición Cícladas-Dodecaneso: Día 14 para la llegada y Kos Town; Día 15 para la cuna de la medicina en el Asklepieion y termas en Bros Therma; Día 16 para Paleo Pyli y ruinas en la arena de Kefalos."
     },
     {
       island: "Rodas",
@@ -152,7 +152,7 @@ const ITINERARY_DATA = {
       monuments: "Ciudad Medieval de Rodas (UNESCO: Palacio del Gran Maestre, Calle de los Caballeros, murallas), Hospital de los Caballeros (Museo Arqueológico y Afrodita de Rodas), Acrópolis de Lindos (Templo de Atenea Lindia a 116 m), Antigua Kamiros (la Pompeya del Egeo), Acrópolis de Monte Smith, Filerimos, Castillo de Monolithos (1480), Castillo de Kritinia.",
       beaches: "Bahía de San Pablo (bajo el templo de Lindos), Bahía de Anthony Quinn (aguas color esmeralda), Termas de Kallithea Springs (pabellones art-déco de 1929 sobre cala protegida), Playa de Tsambika y Fourni.",
       activities: "Inmersión pausada en la mayor ciudadela medieval viva de Europa; ruta enológica en Embonas (Monte Atavyros, 1.215 m); excursión a la costa salvaje y risco de Monolithos.",
-      whyDays: "4 noches (Días 16 a 20) ofrece el balance perfecto tras ganar una noche en Mykonos: Día 16 para la llegada en catamarán, murallas medievales y Monte Smith; Día 17 para la Acrópolis de Lindos y Bahía San Pablo; Día 18 para la Antigua Kamiros, Filerimos y Kallithea Springs; Día 19 para los tesoros interiores (Gran Maestre, Museo de los Caballeros) y la ruta panorámica a Monolithos y Embonas."
+      whyDays: "4 noches (Días 17 a 21) ofrece el balance perfecto: Día 17 para la llegada en catamarán, murallas medievales y Monte Smith; Día 18 para la Acrópolis de Lindos y Bahía San Pablo; Día 19 para la Antigua Kamiros, Filerimos y Bahía Anthony Quinn; Día 20 para Monolithos, Embonas, Kallithea y Gran Maestre; Día 21 para la despedida y vuelo de retorno RHO ➔ ATH ➔ MAD."
     }
   ],
   flights: [
@@ -185,7 +185,7 @@ const ITINERARY_DATA = {
     },
     {
       id: "fl-2",
-      day: "Día 13 (13 de Junio)",
+      day: "Día 14 (14 de Junio)",
       route: "Milos (MLO) ➔ Kos (KGS) [Vía Atenas ATH]",
       type: "Doméstico interinsular con conexión",
       airline: "Sky Express / Olympic Air (Aegean)",
@@ -213,7 +213,7 @@ const ITINERARY_DATA = {
     },
     {
       id: "fl-3",
-      day: "Día 20 (20 de Junio)",
+      day: "Día 21 (21 de Junio)",
       route: "Rodas (RHO) ➔ Madrid (MAD) [Vía Atenas ATH]",
       type: "Internacional con conexión protegida (Star Alliance)",
       airline: "Aegean Airlines / Olympic Air",
@@ -261,7 +261,7 @@ const ITINERARY_DATA = {
     },
     {
       id: "ferry-2",
-      day: "Día 4 (4 de Junio)",
+      day: "Día 5 (5 de Junio)",
       route: "Mykonos (Nuevo Puerto Tourlos) ➔ Syros (Ermoupoli)",
       operator: "SeaJets (WorldChampion Jet / Champion Jet)",
       duration: "35 - 45 min",
@@ -276,7 +276,7 @@ const ITINERARY_DATA = {
     },
     {
       id: "ferry-3",
-      day: "Día 6 (6 de Junio)",
+      day: "Día 7 (7 de Junio)",
       route: "Syros (Ermoupoli) ➔ Paros (Parikia)",
       operator: "Blue Star Ferries / SeaJets",
       duration: "50 min - 1h 15m",
@@ -291,7 +291,7 @@ const ITINERARY_DATA = {
     },
     {
       id: "ferry-4",
-      day: "Día 7 (7 de Junio)",
+      day: "Día 8 (8 de Junio)",
       route: "Paros (Pounda) ↔ Antíparos",
       operator: "Transbordador local Pounda-Antiparos",
       duration: "7 min por trayecto",
@@ -306,7 +306,7 @@ const ITINERARY_DATA = {
     },
     {
       id: "ferry-5",
-      day: "Día 8 (8 de Junio)",
+      day: "Día 9 (9 de Junio)",
       route: "Paros (Parikia) ➔ Naxos (Chora)",
       operator: "Blue Star Ferries",
       duration: "40 - 45 min",
@@ -321,7 +321,7 @@ const ITINERARY_DATA = {
     },
     {
       id: "ferry-6",
-      day: "Día 10 (10 de Junio)",
+      day: "Día 11 (11 de Junio)",
       route: "Naxos (Chora) ➔ Milos (Adamas)",
       operator: "SeaJets (Superjet / Power Jet)",
       duration: "2h 15m - 2h 45m",
@@ -336,7 +336,7 @@ const ITINERARY_DATA = {
     },
     {
       id: "ferry-7",
-      day: "Día 16 (16 de Junio)",
+      day: "Día 17 (17 de Junio)",
       route: "Kos (Puerto Central) ➔ Rodas (Puerto Mandraki / Akantia)",
       operator: "Dodekanisos Seaways / Blue Star Ferries",
       duration: "2h 00m (catamarán rápido) a 3h 15m (ferry convencional)",
@@ -360,9 +360,9 @@ const ITINERARY_DATA = {
       island: "Mykonos",
       name: "Alexandra Suites",
       type: "Apartamento Superior con Terraza y Vistas al Mar",
-      nights: "3 noches (1-4 Junio)",
+      nights: "4 noches (1-5 Junio)",
       rating: "9,2 / 10 (Fantástico)",
-      priceTotal: "375 € (125 €/noche)",
+      priceTotal: "500 € (125 €/noche)",
       location: "Tourlos, Mykonos (a 700m del Nuevo Puerto y 1,5 km de Chora)",
       coords: [37.4628, 25.3292],
       highlights: "Aparcamiento gratuito, balcón privado, wifi veloz, cafetera Nespresso, transfer opcional al puerto.",
@@ -373,7 +373,7 @@ const ITINERARY_DATA = {
       island: "Syros",
       name: "AVALON Luxury Suites",
       type: "Suite Neoclásica Reformada con Balcón",
-      nights: "2 noches (4-6 Junio)",
+      nights: "2 noches (5-7 Junio)",
       rating: "9,5 / 10 (Excepcional)",
       priceTotal: "190 € (95 €/noche)",
       location: "Ermoupoli, Syros (a 300m de la Plaza Miaouli y Teatro Apolo)",
@@ -386,7 +386,7 @@ const ITINERARY_DATA = {
       island: "Paros",
       name: "Zoumis Residence",
       type: "Estudio Cíclada con Balcón y Piscina",
-      nights: "2 noches (6-8 Junio)",
+      nights: "2 noches (7-9 Junio)",
       rating: "9,3 / 10 (Fantástico)",
       priceTotal: "170 € (85 €/noche)",
       location: "Naoussa / Piperi, Paros (a 400m del pintoresco puerto veneciano)",
@@ -399,7 +399,7 @@ const ITINERARY_DATA = {
       island: "Naxos",
       name: "Galazia Apartments",
       type: "Apartamento con Terraza y Vistas a la Bahía",
-      nights: "2 noches (8-10 Junio)",
+      nights: "2 noches (9-11 Junio)",
       rating: "9,4 / 10 (Fantástico)",
       priceTotal: "150 € (75 €/noche)",
       location: "Chora / Agios Georgios, Naxos (a 150m de la playa de San Jorge)",
@@ -412,7 +412,7 @@ const ITINERARY_DATA = {
       island: "Milos",
       name: "Anais Milos Suites",
       type: "Suite Cíclada de Diseño con Patio Privado",
-      nights: "3 noches (10-13 Junio)",
+      nights: "3 noches (11-14 Junio)",
       rating: "9,6 / 10 (Excepcional)",
       priceTotal: "285 € (95 €/noche)",
       location: "Adamas, Milos (a 500m del paseo marítimo y restaurantes)",
@@ -425,7 +425,7 @@ const ITINERARY_DATA = {
       island: "Kos",
       name: "Orpheus Studios & Apartments",
       type: "Estudio Deluxe con Terraza Ajardinada",
-      nights: "3 noches (13-16 Junio)",
+      nights: "3 noches (14-17 Junio)",
       rating: "9,2 / 10 (Fantástico)",
       priceTotal: "210 € (70 €/noche)",
       location: "Kos Chora (zona residencial serena a 600m del Castillo y Puerto)",
@@ -438,7 +438,7 @@ const ITINERARY_DATA = {
       island: "Rodas",
       name: "Old Town Nest Apartments",
       type: "Apartamento Medieval de Piedra Totalmente Restaurado",
-      nights: "4 noches (16-20 Junio)",
+      nights: "4 noches (17-21 Junio)",
       rating: "9,7 / 10 (Excepcional)",
       priceTotal: "435 € (108,75 €/noche)",
       location: "Puerta de San Juan / Ciudad Medieval UNESCO, Rodas",
@@ -464,12 +464,12 @@ const ITINERARY_DATA = {
     rentals: [
       {
         island: "Mykonos",
-        days: 2,
+        days: 3,
         carType: "Compacto Cat. B (VW Polo / Hyundai i20)",
         provider: "Avis Mykonos",
-        baseCost: "76 € (38 €/d)",
-        insuranceCost: "28 € (14 €/d — Todo Riesgo Sin Franquicia)",
-        cost: "104 € (52 €/día)",
+        baseCost: "114 € (38 €/d)",
+        insuranceCost: "42 € (14 €/d — Todo Riesgo Sin Franquicia)",
+        cost: "156 € (52 €/día)",
         office: "Oficina Puerto Nuevo Tourlos / Aeropuerto JMK",
         seniorTerms: "Aceptado hasta 75 años sin suplemento",
         link: "https://www.avis.es/"
@@ -547,11 +547,11 @@ const ITINERARY_DATA = {
         link: "https://www.enterprise.es/"
       }
     ],
-    carRentalBaseTotal: "621 € (Mykonos +38, Rodas -32)",
-    carRentalInsuranceTotal: "196 € (Todo Riesgo 0 Franquicia)",
-    carRentalTotal: "817 € (17 días con Seguro Todo Riesgo Sin Franquicia)",
-    fuelEstimatedTotal: "210 €",
-    grandTotalMobility: "1.027 € (513,50 € / pers.)"
+    carRentalBaseTotal: "635 € (Mykonos 3d, Rodas 4d)",
+    carRentalInsuranceTotal: "210 € (Todo Riesgo 0 Franquicia)",
+    carRentalTotal: "845 € (o 773 € en tarifa combinada auditada)",
+    fuelEstimatedTotal: "200 €",
+    grandTotalMobility: "1.045 € (522,50 € / pers.)"
   },
 
 
@@ -620,6 +620,26 @@ const ITINERARY_DATA = {
           hours: "Exterior visible 24h",
           priceGeneral: "Gratis",
           priceSenior: "Gratis",
+          link: "https://mykonos.gr/"
+        },
+        {
+          name: "Museo Marítimo del Egeo",
+          desc: "Emblemático museo náutico en una mansión del siglo XIX en Tria Pigadia. Exhibe maquetas de navíos desde la civilización minoica, cartas náuticas históricas, monedas y el mecanismo óptico original del Faro Armenistis.",
+          location: "Tria Pigadia, Chora",
+          coords: [37.4452, 25.3298],
+          hours: "10:30 - 13:00 y 18:30 - 21:00",
+          priceGeneral: "4,00 €",
+          priceSenior: "2,00 € (Senior UE)",
+          link: "https://mykonos.gr/"
+        },
+        {
+          name: "Casa Tradicional de Lena",
+          desc: "Residencia museo burguesa del siglo XIX anexa al Museo Folclórico, perfectamente conservada con su mobiliario original, bordados tradicionales, grabados y utensilios domésticos de la alta sociedad micónica.",
+          location: "Tria Pigadia, Chora",
+          coords: [37.4450, 25.3302],
+          hours: "18:30 - 21:30 (tardes)",
+          priceGeneral: "2,00 €",
+          priceSenior: "1,00 € (Senior UE)",
           link: "https://mykonos.gr/"
         }
       ]
@@ -1063,15 +1083,15 @@ const ITINERARY_DATA = {
     {
       id: "mykonos",
       name: "Mykonos",
-      daysCount: "3 días (Días 1, 2 y 3)",
+      daysCount: "4 días (Días 1, 2, 3 y 4)",
       mapCenter: [37.4500, 25.3500],
       zoom: 12,
-      totalKm: "78 km",
-      totalDrivingTime: "2h 10 min",
-      description: "Puerta de entrada del archipiélago. Combina el Kastro medieval, los molinos de Kato Mili, la arquitectura cicládica más pura, la cercanía sagrada a Delos y el rico Museo Arqueológico con el Pithos del Caballo de Troya.",
-      highlights: ["Chora & Little Venice", "Panagia Paraportiani", "Delos UNESCO (Día 2)", "Faro Armenistis", "Museo Arqueológico & Ano Mera (Día 3)", "Playa Lia / Kalafatis"],
+      totalKm: "108 km",
+      totalDrivingTime: "2h 55 min",
+      description: "Puerta de entrada del archipiélago. Combina el Kastro medieval, los molinos de Kato Mili, la arquitectura cicládica más pura, la cercanía sagrada a Delos, el rico Museo Arqueológico y el patrimonio naval del Museo Marítimo del Egeo.",
+      highlights: ["Chora & Little Venice", "Panagia Paraportiani", "Delos UNESCO (Día 2)", "Faro Armenistis", "Museo Arqueológico & Ano Mera (Día 3)", "Museo Marítimo & Casa Lena (Día 4)", "Playa Agrari & Lia"],
       hotel: "Alexandra Suites (Tourlos)",
-      carRent: "Avis Mykonos (Cat. B, 2 días)",
+      carRent: "Avis Mykonos (Cat. B, 3 días)",
       gmapsQuery: "https://www.google.com/maps/dir/Mykonos+Airport/Tourlos/Armenistis+Lighthouse/Ano+Mera/Agios+Sostis+Beach/Mykonos+Chora"
     },
     {
@@ -1091,7 +1111,7 @@ const ITINERARY_DATA = {
     {
       id: "syros",
       name: "Syros",
-      daysCount: "2 días (Días 4 y 5)",
+      daysCount: "2 días (Días 5 y 6)",
       mapCenter: [37.4450, 24.9200],
       zoom: 12,
       totalKm: "56 km",
@@ -1105,7 +1125,7 @@ const ITINERARY_DATA = {
     {
       id: "paros",
       name: "Paros y Antíparos",
-      daysCount: "2 días (Días 6 y 7)",
+      daysCount: "2 días (Días 7 y 8)",
       mapCenter: [37.0600, 25.1400],
       zoom: 11,
       totalKm: "82 km (incluye 24 km en Antíparos)",
@@ -1119,7 +1139,7 @@ const ITINERARY_DATA = {
     {
       id: "naxos",
       name: "Naxos",
-      daysCount: "2 días (Días 8 y 9)",
+      daysCount: "2 días (Días 9 y 10)",
       mapCenter: [37.0650, 25.4600],
       zoom: 11,
       totalKm: "78 km",
@@ -1133,7 +1153,7 @@ const ITINERARY_DATA = {
     {
       id: "milos",
       name: "Milos",
-      daysCount: "3 días (Días 10, 11 y 12)",
+      daysCount: "3 días (Días 11, 12 y 13)",
       mapCenter: [36.7200, 24.4400],
       zoom: 11,
       totalKm: "87 km",
@@ -1147,7 +1167,7 @@ const ITINERARY_DATA = {
     {
       id: "kos",
       name: "Kos",
-      daysCount: "3 días (Días 13, 14 y 15)",
+      daysCount: "3 días (Días 14, 15 y 16)",
       mapCenter: [36.8300, 27.1500],
       zoom: 11,
       totalKm: "118 km",
@@ -1161,7 +1181,7 @@ const ITINERARY_DATA = {
     {
       id: "rodas",
       name: "Rodas",
-      daysCount: "4 días (Días 16 al 20)",
+      daysCount: "5 días (Días 17 al 21)",
       mapCenter: [36.3000, 28.1000],
       zoom: 10,
       totalKm: "215 km",
@@ -1175,7 +1195,7 @@ const ITINERARY_DATA = {
   ],
 
   // -------------------------------------------------------------
-  // PROGRAMA DÍA A DÍA (DÍAS 1 AL 20) CON RUTAS Y LOGÍSTICA
+  // PROGRAMA DÍA A DÍA (DÍAS 1 AL 21) CON RUTAS Y LOGÍSTICA
   // -------------------------------------------------------------
   days: [
     {
@@ -1311,6 +1331,49 @@ const ITINERARY_DATA = {
     {
       day: 4,
       date: "4 de Junio de 2027",
+      title: "Mykonos: Museo Marítimo del Egeo, Playa Agrari & Atardecer en Kapari",
+      island: "Mykonos",
+      islandId: "mykonos",
+      summary: "Patrimonio marítimo y tradición en Chora visitando el Museo Marítimo del Egeo y la Casa de Lena, relax de tarde en la bahía virgen de Agrari y atardecer frente a Delos en Kapari.",
+      itinerary: {
+        morning: "10:00 Paseo por el tranquilo barrio de Tria Pigadia en Chora. Visita al Museo Marítimo del Egeo (maquetas navales de la Antigüedad al siglo XIX, cartas náuticas históricas y linterna original del Faro Armenistis) y a la Casa Tradicional de Lena (residencia burguesa decimonónica perfectamente ambientada).",
+        afternoon: "Coche al sur (10 km | 20 min) hacia la protegida y serena Playa de Agrari, una de las joyas vírgenes de Mykonos con aguas transparentes y arena dorada, alejada del bullicio. Almuerzo marinero relajado junto al mar y baño.",
+        evening: "Coche a la península de Agios Ioannis Diakoftis (12 km | 22 min) hasta la recóndita Cala Kapari: contemplación de uno de los atardeceres más mágicos de las Cícladas con el sol poniéndose justo sobre la silueta sagrada de Delos. Cena en taberna de pescado en Agios Ioannis."
+      },
+      options: {
+        a: "Visita pausada al Museo Marítimo, Casa de Lena y recorrido por los jardines del museo.",
+        b: "Tarde extendida de relax, lectura y baño en la apacible cala de arena de Agrari."
+      },
+      logistics: {
+        type: "Coche",
+        details: [
+          "Coche: Tourlos ➔ Parking Chora / Tria Pigadia (2,5 km | 7 min).",
+          "Coche: Chora ➔ Playa Agrari (10 km | 20 min).",
+          "Coche: Agrari ➔ Playa Kapari / Agios Ioannis (12 km | 22 min).",
+          "Coche: Kapari ➔ Alexandra Suites Tourlos (5,5 km | 12 min).",
+          "Total en coche: 30 km | 1h 01 min de conducción cómoda."
+        ]
+      },
+      mapCenter: [37.4350, 25.3350],
+      zoom: 12,
+      waypoints: [
+        { name: "Museo Marítimo del Egeo", type: "monument", coords: [37.4452, 25.3298], desc: "Patrimonio náutico y linterna de Armenistis" },
+        { name: "Casa de Lena", type: "monument", coords: [37.4450, 25.3302], desc: "Residencia tradicional burguesa del siglo XIX" },
+        { name: "Playa Agrari", type: "beach", coords: [37.4225, 25.3855], desc: "Bahía virgen de aguas cristalinas y relax" },
+        { name: "Playa Kapari (Agios Ioannis)", type: "beach", coords: [37.4248, 25.3082], desc: "Cala íntima con atardecer sobre Delos" }
+      ],
+      routeCoords: [
+        [37.4628, 25.3292],
+        [37.4452, 25.3298],
+        [37.4225, 25.3855],
+        [37.4248, 25.3082],
+        [37.4628, 25.3292]
+      ],
+      gmapsUrl: "https://www.google.com/maps/dir/Alexandra+Suites+Tourlos/Aegean+Maritime+Museum/Agrari+Beach/Kapari+Beach"
+    },
+    {
+      day: 5,
+      date: "5 de Junio de 2027",
       title: "Ferry Mykonos ➔ Syros, Ermoupoli Neoclásica & Vaporia",
       island: "Syros",
       islandId: "syros",
@@ -1351,8 +1414,8 @@ const ITINERARY_DATA = {
       gmapsUrl: "https://www.google.com/maps/dir/Port+of+Syros/AVALON+Luxury+Suites/Apollo+Theater+Syros/Vaporia+Ermoupoli"
     },
     {
-      day: 5,
-      date: "5 de Junio de 2027",
+      day: 6,
+      date: "6 de Junio de 2027",
       title: "Ano Syros Medieval & Yacimiento de Kastri (2800 a.C.)",
       island: "Syros",
       islandId: "syros",
@@ -1394,8 +1457,8 @@ const ITINERARY_DATA = {
       gmapsUrl: "https://www.google.com/maps/dir/Ermoupoli/Chalandriani+Syros/Ano+Syros/Kini+Beach"
     },
     {
-      day: 6,
-      date: "6 de Junio de 2027",
+      day: 7,
+      date: "7 de Junio de 2027",
       title: "Ferry Syros ➔ Paros, Ekatontapiliani & Puerto de Naoussa",
       island: "Paros",
       islandId: "paros",
@@ -1436,8 +1499,8 @@ const ITINERARY_DATA = {
       gmapsUrl: "https://www.google.com/maps/dir/Parikia+Port/Panagia+Ekatontapiliani/Marathi+Marble+Quarries/Naoussa+Paros"
     },
     {
-      day: 7,
-      date: "7 de Junio de 2027",
+      day: 8,
+      date: "8 de Junio de 2027",
       title: "Excursión a Antíparos, Cueva Milenaria & Playas Esculpidas",
       island: "Antíparos & Paros",
       islandId: "paros",
@@ -1480,8 +1543,8 @@ const ITINERARY_DATA = {
       gmapsUrl: "https://www.google.com/maps/dir/Naoussa/Pounta+Paros/Cave+of+Antiparos/Kolymbithres+Beach"
     },
     {
-      day: 8,
-      date: "8 de Junio de 2027",
+      day: 9,
+      date: "9 de Junio de 2027",
       title: "Ferry Paros ➔ Naxos, Portara de Apolo & Playa San Jorge",
       island: "Naxos",
       islandId: "naxos",
@@ -1523,8 +1586,8 @@ const ITINERARY_DATA = {
       gmapsUrl: "https://www.google.com/maps/dir/Naxos+Port/Galazia+Apartments/Naxos+Castle/Portara"
     },
     {
-      day: 9,
-      date: "9 de Junio de 2027",
+      day: 10,
+      date: "10 de Junio de 2027",
       title: "Templo de Deméter en Sangri, Kouros Gigantes & Dunas de Plaka",
       island: "Naxos",
       islandId: "naxos",
@@ -1568,8 +1631,8 @@ const ITINERARY_DATA = {
       gmapsUrl: "https://www.google.com/maps/dir/Naxos+Chora/Temple+of+Demeter+Sangri/Chalkio/Kouros+of+Flerio/Plaka+Beach"
     },
     {
-      day: 10,
-      date: "10 de Junio de 2027",
+      day: 11,
+      date: "11 de Junio de 2027",
       title: "Ferry Naxos ➔ Milos & Paisaje Lunar de Sarakiniko",
       island: "Milos",
       islandId: "milos",
@@ -1607,8 +1670,8 @@ const ITINERARY_DATA = {
       gmapsUrl: "https://www.google.com/maps/dir/Adamas+Port/Anais+Milos+Suites/Sarakiniko+Beach"
     },
     {
-      day: 11,
-      date: "11 de Junio de 2027",
+      day: 12,
+      date: "12 de Junio de 2027",
       title: "Teatro Romano, Cuna de la Venus de Milo, Catacumbas & Klima",
       island: "Milos",
       islandId: "milos",
@@ -1653,8 +1716,8 @@ const ITINERARY_DATA = {
       gmapsUrl: "https://www.google.com/maps/dir/Adamas/Catacombs+of+Milos/Ancient+Roman+Theatre+Milos/Klima+Milos/Plaka+Milos"
     },
     {
-      day: 12,
-      date: "12 de Junio de 2027",
+      day: 13,
+      date: "13 de Junio de 2027",
       title: "Excursión en Barco a Kleftiko o Acantilados de Firiplaka",
       island: "Milos",
       islandId: "milos",
@@ -1690,8 +1753,8 @@ const ITINERARY_DATA = {
       gmapsUrl: "https://www.google.com/maps/dir/Adamas/Firiplaka+Beach"
     },
     {
-      day: 13,
-      date: "13 de Junio de 2027",
+      day: 14,
+      date: "14 de Junio de 2027",
       title: "Vuelo Milos ➔ Atenas ➔ Kos, Castillo Neratzia & Ágora",
       island: "Kos",
       islandId: "kos",
@@ -1732,8 +1795,8 @@ const ITINERARY_DATA = {
       gmapsUrl: "https://www.google.com/maps/dir/Kos+Airport/Orpheus+Studios+Kos/Neratzia+Castle/Tree+of+Hippocrates"
     },
     {
-      day: 14,
-      date: "14 de Junio de 2027",
+      day: 15,
+      date: "15 de Junio de 2027",
       title: "Asklepieion de Hipócrates, Casa Romana & Termas de Bros",
       island: "Kos",
       islandId: "kos",
@@ -1775,8 +1838,8 @@ const ITINERARY_DATA = {
       gmapsUrl: "https://www.google.com/maps/dir/Kos+Town/Asklepieion+Kos/Roman+Odeon+of+Kos/Therma+Beach"
     },
     {
-      day: 15,
-      date: "15 de Junio de 2027",
+      day: 16,
+      date: "16 de Junio de 2027",
       title: "Fortaleza Paleo Pyli, Basílica Agios Stefanos & Bahía de Kefalos",
       island: "Kos",
       islandId: "kos",
@@ -1816,8 +1879,8 @@ const ITINERARY_DATA = {
       gmapsUrl: "https://www.google.com/maps/dir/Kos+Town/Palaio+Pyli/Agios+Stefanos+Beach+Kos"
     },
     {
-      day: 16,
-      date: "16 de Junio de 2027",
+      day: 17,
+      date: "17 de Junio de 2027",
       title: "Ferry Kos ➔ Rodas, Murallas UNESCO & Palacio del Gran Maestre",
       island: "Rodas",
       islandId: "rodas",
@@ -1858,8 +1921,8 @@ const ITINERARY_DATA = {
       gmapsUrl: "https://www.google.com/maps/dir/Rhodes+Tourist+Port/Old+Town+Nest/Palace+of+the+Grand+Master+of+the+Knights+of+Rhodes/Mandraki+Port"
     },
     {
-      day: 17,
-      date: "17 de Junio de 2027",
+      day: 18,
+      date: "18 de Junio de 2027",
       title: "Acrópolis de Lindos, Templo de Atenea & Bahía San Pablo",
       island: "Rodas",
       islandId: "rodas",
@@ -1899,88 +1962,49 @@ const ITINERARY_DATA = {
       gmapsUrl: "https://www.google.com/maps/dir/Rhodes+Old+Town/Lindos+Acropolis/St+Paul's+Bay+Lindos"
     },
     {
-      day: 18,
-      date: "18 de Junio de 2027",
-      title: "Antigua Kamiros (La Pompeya Griega) & Monte Filerimos",
+      day: 19,
+      date: "19 de Junio de 2027",
+      title: "Antigua Kamiros (La Pompeya Griega), Filerimos & Bahía Anthony Quinn",
       island: "Rodas",
       islandId: "rodas",
-      summary: "Viaje a la Antigüedad Clásica en la costa occidental: el urbanismo intacto de Kamiros y el monasterio de los Caballeros entre pavos reales en Filerimos.",
+      summary: "Viaje a la Antigüedad Clásica en la costa occidental con el urbanismo intacto de Kamiros, el monasterio de Filerimos entre pavos reales y la cala verde esmeralda de Anthony Quinn (o Termas de Kallithea).",
       itinerary: {
-        morning: "Coche hacia la costa oeste (33 km | 35 min) hasta el yacimiento de la Antigua Kamiros: trazado urbano helenístico completo sin edificaciones modernas superpuestas.",
-        afternoon: "Comida de marisco en el pequeño puerto pesquero de Kamiros Skala. Subida hacia el Monte Filerimos (22 km | 25 min): Acrópolis de Yáliso, monasterio gótico y camino del Gólgota flanqueado por cipreses.",
-        evening: "Subida a la cruz panorámica de 18 m de Filerimos con vistas al mar Egeo y costas de Asia Menor. Regreso a Rodas y atardecer en el Monte Smith (Templo de Apolo y Estadio)."
+        morning: "Coche hacia la costa oeste (33 km | 35 min) hasta el yacimiento de la Antigua Kamiros: trazado urbano helenístico completo, ágora, acrópolis y casas sin edificaciones modernas superpuestas. Almuerzo marinero en Kamiros Skala.",
+        afternoon: "Subida hacia el Monte Filerimos (22 km | 25 min): Acrópolis de Yáliso, monasterio gótico y camino del Gólgota flanqueado por cipreses. Traslado a la costa este (17 km | 22 min) a la paradisíaca Bahía Anthony Quinn (o Termas de Kallithea) para disfrutar de un baño en aguas esmeralda.",
+        evening: "Regreso a Rodas (14 km | 18 min). Visita al Museo Arqueológico en el Gran Hospital de los Caballeros (1440) para admirar la Afrodita de Rodas y atardecer en el Monte Smith (Templo de Apolo y Estadio)."
       },
       options: {
-        a: "Itinerario arqueológico detallado por el Ágora y las viviendas privadas de Kamiros.",
-        b: "Paseo apacible a la sombra de los pinares de Filerimos rodeado de pavos reales salvajes."
+        a: "Itinerario arqueológico detallado por Kamiros y visita completa al Hospital de los Caballeros.",
+        b: "Tarde relajada de baño y descanso en la cala esmeralda de Anthony Quinn o en los pabellones art-déco de Kallithea Springs."
       },
       logistics: {
         type: "Coche",
         details: [
           "Coche: Rodas Ciudad ➔ Antigua Kamiros (33 km | 35 min).",
           "Coche: Kamiros ➔ Monte Filerimos (22 km | 25 min).",
-          "Coche: Filerimos ➔ Monte Smith Acrópolis de Rodas (11 km | 16 min).",
-          "Coche: Monte Smith ➔ Rodas Ciudad (2,5 km | 6 min).",
-          "Total en coche: 68,5 km | 1h 22 min."
+          "Coche: Filerimos ➔ Bahía Anthony Quinn / Kallithea (17 km | 22 min).",
+          "Coche: Anthony Quinn ➔ Rodas Ciudad (14 km | 18 min).",
+          "Total en coche: 86 km | 1h 40 min de conducción cómoda."
         ]
       },
-      mapCenter: [36.3800, 28.0800],
+      mapCenter: [36.3800, 28.1200],
       zoom: 11,
       waypoints: [
         { name: "Old Town Nest", type: "hotel", coords: [36.4405, 28.2255], desc: "Salida desde la muralla" },
         { name: "Antigua Kamiros", type: "monument", coords: [36.3355, 27.9225], desc: "La 'Pompeya griega' helenística" },
         { name: "Monte Filerimos", type: "monument", coords: [36.3995, 28.1435], desc: "Monasterio gótico y cruz panorámica" },
-        { name: "Monte Smith", type: "monument", coords: [36.4395, 28.2115], desc: "Estadio clásico y Templo de Apolo" }
+        { name: "Bahía Anthony Quinn", type: "beach", coords: [36.3215, 28.2075], desc: "Aguas esmeralda entre pinares" },
+        { name: "Termas de Kallithea", type: "monument", coords: [36.3765, 28.2385], desc: "Pabellones art-déco y cala marina" }
       ],
       routeCoords: [
         [36.4405, 28.2255],
         [36.3355, 27.9225],
         [36.3995, 28.1435],
-        [36.4395, 28.2115],
-        [36.4405, 28.2255]
-      ],
-      gmapsUrl: "https://www.google.com/maps/dir/Rhodes+Old+Town/Ancient+Kamiros/Filerimos+Monastery/Acropolis+of+Rhodes"
-    },
-    {
-      day: 19,
-      date: "19 de Junio de 2027",
-      title: "Termas de Kallithea, Bahía Anthony Quinn & Museo de los Caballeros",
-      island: "Rodas",
-      islandId: "rodas",
-      summary: "Elegancia art-déco e historia médica en los manantiales de Kallithea, baño en aguas esmeralda de Anthony Quinn y el fastuoso Hospital de los Caballeros.",
-      itinerary: {
-        morning: "Coche hacia la costa este (9 km | 12 min) hasta las Fuentes y Termas de Kallithea: pabellón oriental y art-déco de 1928, jardines botánicos y cala para el baño.",
-        afternoon: "Ruta a la cercana Bahía Anthony Quinn (6 km | 8 min): cala de aguas verde esmeralda protegida por pinares donde se filmó 'Los Cañones de Navarone'. Almuerzo y baño.",
-        evening: "Regreso a Rodas. Visita al Museo Arqueológico en el Gran Hospital de los Caballeros (1440): patio claustral de dos plantas y la célebre estatua de Afrodita de Rodas."
-      },
-      options: {
-        a: "Inspección de las salas arqueológicas y lápidas funerarias góticas del Hospital de los Caballeros.",
-        b: "Día completo de relax y sol en las terrazas de piedra y hamacas de Kallithea Springs."
-      },
-      logistics: {
-        type: "Coche",
-        details: [
-          "Coche: Rodas Ciudad ➔ Termas de Kallithea (9 km | 12 min).",
-          "Coche: Kallithea ➔ Bahía Anthony Quinn (6 km | 8 min).",
-          "Coche: Anthony Quinn ➔ Rodas Ciudad (14 km | 18 min).",
-          "Total en coche: 29 km | 38 min."
-        ]
-      },
-      mapCenter: [36.3700, 28.2000],
-      zoom: 12,
-      waypoints: [
-        { name: "Old Town Nest", type: "hotel", coords: [36.4405, 28.2255], desc: "Base en Rodas" },
-        { name: "Termas de Kallithea", type: "monument", coords: [36.3765, 28.2385], desc: "Pabellones art-déco y cala" },
-        { name: "Bahía Anthony Quinn", type: "beach", coords: [36.3215, 28.2075], desc: "Aguas esmeralda entre pinares" },
-        { name: "Museo Gran Hospital", type: "monument", coords: [36.4445, 28.2268], desc: "Hospital gótico de los Caballeros (1440)" }
-      ],
-      routeCoords: [
-        [36.4405, 28.2255],
-        [36.3765, 28.2385],
         [36.3215, 28.2075],
+        [36.3765, 28.2385],
         [36.4405, 28.2255]
       ],
-      gmapsUrl: "https://www.google.com/maps/dir/Rhodes+Old+Town/Kallithea+Springs/Anthony+Quinn+Bay/Archaeological+Museum+of+Rhodes"
+      gmapsUrl: "https://www.google.com/maps/dir/Rhodes+Old+Town/Ancient+Kamiros/Filerimos+Monastery/Anthony+Quinn+Bay/Rhodes+Old+Town"
     },
     {
       day: 20,
@@ -2024,8 +2048,8 @@ const ITINERARY_DATA = {
       gmapsUrl: "https://www.google.com/maps/dir/Rhodes+Old+Town/Monolithos+Castle/Embonas/Rhodes+Old+Town"
     },
     {
-      day: 20,
-      date: "20 de Junio de 2027",
+      day: 21,
+      date: "21 de Junio de 2027",
       title: "Despedida de Rodas & Vuelo de Retorno Rodas ➔ Atenas ➔ Madrid",
       island: "Rodas",
       islandId: "rodas",

@@ -6,7 +6,7 @@
 // Estado global de la aplicación
 const AppState = {
   currentView: 'daily',     // 'daily', 'islands', 'flights', 'ferries', 'hotels', 'cars', 'monuments', 'budget'
-  currentDay: 1,            // 1 a 20
+  currentDay: 1,            // 1 a 21
   currentIslandId: 'mykonos',
   monumentFilterIsland: 'all',
   monumentSearchText: '',
@@ -59,7 +59,7 @@ function initNavigation() {
 
   // Acordeón del programa diario
   if (daysSubmenuToggle && daysSubmenu) {
-    // Generar enlaces del día 1 al 20 en el submenú
+    // Generar enlaces del día 1 al 21 en el submenú
     daysSubmenu.innerHTML = ITINERARY_DATA.days.map(d => `
       <li class="nav-item">
         <a class="nav-link sub-day-link" data-day="${d.day}">
@@ -290,14 +290,14 @@ function initNavigation() {
   const budgetSubmenu = document.getElementById('budget-submenu');
   if (budgetSubmenuToggle && budgetSubmenu) {
     const budgetParts = [
-      { label: "📋 Cuadro 8 Auditoría", target: "audit-cuadro-8", cost: "4.183 €" },
-      { label: "Resumen Consolidado", target: "budget-summary-hero", cost: "4.375 €" },
-      { label: "✈️ Vuelos", target: "budget-row-flights", cost: "1.140 €" },
+      { label: "📋 Cuadro 8 Auditoría", target: "audit-cuadro-8", cost: "4.376 €" },
+      { label: "Resumen Consolidado", target: "budget-summary-hero", cost: "4.376 €" },
+      { label: "✈️ Vuelos", target: "budget-row-flights", cost: "1.040 €" },
       { label: "⛴️ Ferris", target: "budget-row-ferries", cost: "340 €" },
-      { label: "🏨 Alojamientos", target: "budget-row-hotels", cost: "1.799 €" },
-      { label: "🚗 Coches SCDW", target: "budget-row-cars", cost: "809 €" },
-      { label: "⛽ Combustible", target: "budget-row-fuel", cost: "210 €" },
-      { label: "🏛️ Monumentos", target: "budget-row-monuments", cost: "77 €" }
+      { label: "🏨 Alojamientos", target: "budget-row-hotels", cost: "1.940 €" },
+      { label: "🚗 Coches SCDW", target: "budget-row-cars", cost: "773 €" },
+      { label: "⛽ Combustible", target: "budget-row-fuel", cost: "200 €" },
+      { label: "🏛️ Monumentos", target: "budget-row-monuments", cost: "83 €" }
     ];
 
     budgetSubmenu.innerHTML = budgetParts.map(bp => `
@@ -431,7 +431,7 @@ function renderView(viewName) {
 }
 
 /* ==========================================================================
-   1. VISTA: PROGRAMA DIARIO (Días 1 al 20)
+   1. VISTA: PROGRAMA DIARIO (Días 1 al 21)
    ========================================================================== */
 function renderDailyView(container) {
   const dayData = ITINERARY_DATA.days.find(d => d.day === AppState.currentDay) || ITINERARY_DATA.days[0];
@@ -454,7 +454,7 @@ function renderDailyView(container) {
         </select>
       </div>
 
-      <button class="btn-nav-day" id="btn-next-day" ${dayData.day === 20 ? 'disabled' : ''}>
+      <button class="btn-nav-day" id="btn-next-day" ${dayData.day === ITINERARY_DATA.days.length ? 'disabled' : ''}>
         Día Siguiente →
       </button>
     </div>
@@ -570,7 +570,7 @@ function renderDailyView(container) {
 
   if (btnNext) {
     btnNext.addEventListener('click', () => {
-      if (AppState.currentDay < 20) {
+      if (AppState.currentDay < ITINERARY_DATA.days.length) {
         AppState.currentDay++;
         renderDailyView(container);
       }
@@ -770,9 +770,9 @@ function renderFlightsView(container) {
   const html = `
     <div class="section-hero">
       <h2>✈️ Vuelos Internacionales y Domésticos (Ruta Open-Jaw)</h2>
-      <p>Conexiones estratégicas para optimizar los 20 días sin esperas innecesarias: vuelo directo Madrid ➔ Mykonos de entrada, salto ágil Cícladas ➔ Dodecaneso (Milos ➔ Kos con escala) y regreso directo desde Rodas ➔ Madrid vía Atenas con Aegean Airlines.</p>
+      <p>Conexiones estratégicas para optimizar los 21 días sin esperas innecesarias: vuelo directo Madrid ➔ Mykonos de entrada, salto ágil Cícladas ➔ Dodecaneso (Milos ➔ Kos con escala) y regreso directo desde Rodas ➔ Madrid vía Atenas con Aegean Airlines.</p>
       <div class="section-hero-stats">
-        <div class="hero-stat-pill">💶 <strong>1.140 €</strong> total (2 pers.) / 570 € pers.</div>
+        <div class="hero-stat-pill">💶 <strong>1.040 €</strong> total (2 pers.) / 520 € pers.</div>
         <div class="hero-stat-pill">🧳 Equipaje facturado directo a Madrid</div>
         <div class="hero-stat-pill">⏱️ Ahorro de más de 18 horas de barco y sin retrocesos</div>
       </div>
@@ -952,7 +952,7 @@ function renderHotelsView(container) {
       <h2>🏨 Alojamientos Seleccionados (Booking.com)</h2>
       <p>Apartamentos y suites de diseño cicládico y medieval con puntuaciones superiores a 9,0/10, balcón o terraza privada, cocina equipada y aparcamiento gratuito.</p>
       <div class="section-hero-stats">
-        <div class="hero-stat-pill">💶 <strong>1.815 €</strong> total (19 noches) / 95,50 € media noche</div>
+        <div class="hero-stat-pill">💶 <strong>1.940 €</strong> total (20 noches) / 97,00 € media noche</div>
         <div class="hero-stat-pill">⭐ Puntuación media: <strong>9,4 / 10</strong></div>
         <div class="hero-stat-pill">🅿️ Parking privado o muy fácil acceso</div>
       </div>
@@ -1226,8 +1226,8 @@ function renderMonumentsView(container) {
    ========================================================================== */
 function renderBudgetView(container) {
   const c8 = ITINERARY_DATA.auditCuadro8 || {
-    totalTwoPax: "4.183 €",
-    totalPerPax: "2.091,50 €",
+    totalTwoPax: "4.376 €",
+    totalPerPax: "2.188,00 €",
     items: []
   };
 
@@ -1245,13 +1245,13 @@ function renderBudgetView(container) {
   const html = `
     <div class="section-hero" id="budget-summary-hero">
       <h2>💰 Presupuesto Global y Control Financiero</h2>
-      <p>Certificación de costes reales para 2 personas y por persona durante los 20 días de viaje por el Egeo (Junio 2027), con seguro a todo riesgo sin franquicia en coches de alquiler y salida directa desde Rodas.</p>
+      <p>Certificación de costes reales para 2 personas y por persona durante los 21 días de viaje por el Egeo (Junio 2027), con seguro a todo riesgo sin franquicia en coches de alquiler y salida directa desde Rodas.</p>
       <div class="section-hero-stats">
         <div class="hero-stat-pill" style="background:rgba(2,132,199,0.25);border-color:#38bdf8;color:#0284c7;">
-          📋 <strong>Total Auditado Cuadro 8:</strong> 4.183 € (2.091,50 € / pers.)
+          📋 <strong>Total Auditado Cuadro 8:</strong> 4.376 € (2.188,00 € / pers.)
         </div>
         <div class="hero-stat-pill" style="background:rgba(22,163,74,0.25);border-color:#86efac;color:#15803d;">
-          🎖️ <strong>Con Dto. Senior UE 65+:</strong> 4.195 € - 4.375 € consolidado
+          🎖️ <strong>Con Dto. Senior UE 65+:</strong> 4.376 € auditado (Tarifa gral: 4.568 €)
         </div>
       </div>
     </div>
@@ -1274,8 +1274,8 @@ function renderBudgetView(container) {
           </div>
           <div style="background: rgba(255,255,255,0.08); border: 1px solid rgba(56,189,248,0.4); border-radius: var(--radius-sm); padding: 0.6rem 1.1rem; text-align: right;">
             <div style="font-size: 0.72rem; color: #94a3b8; text-transform: uppercase; font-weight: 700; letter-spacing: 0.5px;">Total Cuadro 8 (2 Pax)</div>
-            <div style="font-size: 1.6rem; font-weight: 800; color: #38bdf8; line-height: 1.1;">4.183 €</div>
-            <div style="font-size: 0.82rem; color: #86efac; font-weight: 600;">2.091,50 € / persona</div>
+            <div style="font-size: 1.6rem; font-weight: 800; color: #38bdf8; line-height: 1.1;">4.376 €</div>
+            <div style="font-size: 0.82rem; color: #86efac; font-weight: 600;">2.188,00 € / persona</div>
           </div>
         </div>
       </div>
@@ -1298,8 +1298,8 @@ function renderBudgetView(container) {
               <td colspan="3" class="cell-primary" style="font-weight: 800; color: #15803d !important; font-size: 1.05rem;">
                 💶 TOTAL GLOBAL ESTIMADO DEL VIAJE (2 PERSONAS) - CUADRO 8
               </td>
-              <td data-label="Total (2 pax)" style="text-align: right; font-weight: 800; color: #15803d; font-size: 1.3rem;">4.183 €</td>
-              <td data-label="Por Persona" style="text-align: right; font-weight: 800; color: #0284c7; font-size: 1.15rem;">2.091,50 €</td>
+              <td data-label="Total (2 pax)" style="text-align: right; font-weight: 800; color: #15803d; font-size: 1.3rem;">4.376 €</td>
+              <td data-label="Por Persona" style="text-align: right; font-weight: 800; color: #0284c7; font-size: 1.15rem;">2.188,00 €</td>
               <td data-label="Auditoría" style="text-align: center;"><span class="audit-status-badge" style="background: #15803d; color: #ffffff; border-color: #15803d;">CERTIFICADO</span></td>
             </tr>
           </tbody>
@@ -1310,7 +1310,7 @@ function renderBudgetView(container) {
         <span style="font-size: 1.3rem; line-height: 1;">📌</span>
         <div>
           <strong>Dictamen de Auditoría Financiera (Cuadro 8):</strong>
-          El informe técnico acredita un presupuesto global de <strong>2.091,50 € por persona</strong> para el circuito íntegro de 20 días por 9 islas, confirmando que todos los costes son viables y rigurosos. Incluye apartamentos con cocina privada y terrazas panorámicas (nota >9,0 en Booking), seguro a todo riesgo <strong>Super Cover / SCDW Cero Franquicia</strong> (sin retención en tarjeta bancaria y con conductor senior de 68 años sin recargo de edad), así como la <strong>reducción legal del 50%</strong> para ciudadanos de la UE mayores de 65 años en todos los recintos arqueológicos del Ministerio de Cultura (77 € en total para 2 personas frente a los 154 € de tarifa general).
+          El informe técnico acredita un presupuesto global de <strong>2.188,00 € por persona</strong> para el circuito íntegro de 21 días por 9 islas, confirmando que todos los costes son viables y rigurosos. Incluye apartamentos con cocina privada y terrazas panorámicas (nota >9,0 en Booking), seguro a todo riesgo <strong>Super Cover / SCDW Cero Franquicia</strong> (sin retención en tarjeta bancaria y con conductor senior de 68 años sin recargo de edad), así como la <strong>reducción legal del 50%</strong> para ciudadanos de la UE mayores de 65 años en todos los recintos arqueológicos del Ministerio de Cultura (83 € en total para 2 personas frente a los 166 € de tarifa general).
         </div>
       </div>
     </div>
@@ -1343,9 +1343,9 @@ function renderBudgetView(container) {
             <tr id="budget-row-flights">
               <td data-label="Concepto" class="cell-primary"><strong>✈️ Vuelos</strong></td>
               <td data-label="Detalle">Madrid-Mykonos directo + Milos-Atenas-Kos + Rodas-Atenas-Madrid (Ruta Open-Jaw con maleta 23 kg)</td>
-              <td data-label="Coste General">960 €</td>
-              <td data-label="Coste Senior 65+">960 €</td>
-              <td data-label="Coste / Persona">480,00 €</td>
+              <td data-label="Coste General">1.040 €</td>
+              <td data-label="Coste Senior 65+">1.040 €</td>
+              <td data-label="Coste / Persona">520,00 €</td>
             </tr>
             <tr id="budget-row-ferries">
               <td data-label="Concepto" class="cell-primary"><strong>⛴️ Ferris y Barcos</strong></td>
@@ -1356,37 +1356,37 @@ function renderBudgetView(container) {
             </tr>
             <tr id="budget-row-hotels">
               <td data-label="Concepto" class="cell-primary"><strong>🏨 Alojamientos Booking</strong></td>
-              <td data-label="Detalle">19 noches en apartamentos (>9,0) con cocina, terraza y parking</td>
-              <td data-label="Coste General">1.799 €</td>
-              <td data-label="Coste Senior 65+">1.799 €</td>
-              <td data-label="Coste / Persona">899,50 €</td>
+              <td data-label="Detalle">20 noches en apartamentos (>9,0) con cocina, terraza y parking (4 noches Mykonos)</td>
+              <td data-label="Coste General">1.940 €</td>
+              <td data-label="Coste Senior 65+">1.940 €</td>
+              <td data-label="Coste / Persona">970,00 €</td>
             </tr>
             <tr id="budget-row-cars">
               <td data-label="Concepto" class="cell-primary"><strong>🚗 Coches de Alquiler</strong></td>
-              <td data-label="Detalle">18 días con Seguro Todo Riesgo Sin Franquicia (SCDW Cero Franquicia)</td>
-              <td data-label="Coste General"><strong>809 €</strong></td>
-              <td data-label="Coste Senior 65+"><strong>809 €</strong></td>
-              <td data-label="Coste / Persona">404,50 €</td>
+              <td data-label="Detalle">19 días con Seguro Todo Riesgo Sin Franquicia (SCDW Cero Franquicia, 3 días Mykonos)</td>
+              <td data-label="Coste General"><strong>773 €</strong></td>
+              <td data-label="Coste Senior 65+"><strong>773 €</strong></td>
+              <td data-label="Coste / Persona">386,50 €</td>
             </tr>
             <tr id="budget-row-fuel">
               <td data-label="Concepto" class="cell-primary"><strong>⛽ Combustible</strong></td>
-              <td data-label="Detalle">Estimado para 600 km de recorridos por carreteras insulares</td>
-              <td data-label="Coste General">210 €</td>
-              <td data-label="Coste Senior 65+">210 €</td>
-              <td data-label="Coste / Persona">105,00 €</td>
+              <td data-label="Detalle">Estimado para 650 km de recorridos por carreteras insulares</td>
+              <td data-label="Coste General">200 €</td>
+              <td data-label="Coste Senior 65+">200 €</td>
+              <td data-label="Coste / Persona">100,00 €</td>
             </tr>
             <tr id="budget-row-monuments">
               <td data-label="Concepto" class="cell-primary"><strong>🏛️ Monumentos y Museos</strong></td>
-              <td data-label="Detalle">Delos UNESCO, Asklepieion, Acrópolis Lindos, Kamiros, etc.</td>
-              <td data-label="Coste General">154 €</td>
-              <td data-label="Coste Senior 65+"><strong style="color:var(--color-senior);">77 € (50% Dto. UE)</strong></td>
-              <td data-label="Coste / Persona"><strong style="color:var(--color-senior);">38,50 €</strong></td>
+              <td data-label="Detalle">Delos UNESCO, Asklepieion, Acrópolis Lindos, Kamiros, Museo Marítimo Mykonos, etc.</td>
+              <td data-label="Coste General">166 €</td>
+              <td data-label="Coste Senior 65+"><strong style="color:var(--color-senior);">83 € (50% Dto. UE)</strong></td>
+              <td data-label="Coste / Persona"><strong style="color:var(--color-senior);">41,50 €</strong></td>
             </tr>
             <tr class="budget-total-row" id="budget-row-total">
               <td data-label="Resumen" class="cell-primary" colspan="2">TOTAL CONSOLIDADO DEL VIAJE</td>
-              <td data-label="Coste General" style="color:var(--color-primary);font-weight:800;font-size:1.15rem;">4.272 €</td>
-              <td data-label="Coste Senior 65+" style="color:var(--color-senior);font-weight:800;font-size:1.25rem;">4.195 €</td>
-              <td data-label="Coste / Persona" style="color:var(--color-accent);font-weight:800;font-size:1.15rem;">2.097,50 €</td>
+              <td data-label="Coste General" style="color:var(--color-primary);font-weight:800;font-size:1.15rem;">4.459 €</td>
+              <td data-label="Coste Senior 65+" style="color:var(--color-senior);font-weight:800;font-size:1.25rem;">4.376 €</td>
+              <td data-label="Coste / Persona" style="color:var(--color-accent);font-weight:800;font-size:1.15rem;">2.188,00 €</td>
             </tr>
           </tbody>
         </table>
