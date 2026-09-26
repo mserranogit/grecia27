@@ -1,4 +1,4 @@
-# 🇬🇷 GRAN RUTA DEL EGEO: LAS 9 JOYAS DE CÍCLADAS Y DODECANESO (JUNIO 2027)
+# 🇬🇷 GRAN RUTA DEL EGEO: LAS 9 JOYAS DE CÍCLADAS Y DODECANESO (MAYO - JUNIO 2027)
 ## Expedición Arqueológica Clásica y Playera de 22 Días para 2 Personas
 ### Entrada por Mykonos (JMK) y Salida por Rodas (RHO) vía Atenas (ATH) a Madrid (MAD) (Ruta Open-Jaw de Máxima Eficiencia)
 ### *Alojamientos Seleccionados en Booking.com por Alta Valoración (>9.0/10) y Mejor Relación Calidad-Precio*
@@ -9,7 +9,7 @@
 
 * **Viajeros**: 2 personas (pareja / amigos).
 * **Duración**: 22 días completos / 21 noches.
-* **Periodo recomendado**: **1 al 22 de junio de 2027**.
+* **Periodo recomendado**: **24 de mayo al 14 de junio de 2027**.
 * **Vuelos**:
   * **Ida**: Madrid-Barajas (MAD T4) ➔ Mykonos International (JMK) (vuelo directo Iberia Express / Vueling).
   * **Inter-archipiélago**: Milos (MLO) ➔ Kos (KGS) vía Atenas (ATH) (Sky Express / Olympic Air).
@@ -39,7 +39,7 @@
 
 ## 🏨 2. ALOJAMIENTOS SELECCIONADOS EN BOOKING.COM POR ISLA
 
-> *Todos los alojamientos han sido filtrados en [Booking.com](https://www.booking.com/) exigiendo un mínimo de **9,0/10 en valoraciones de viajeros**, limpieza sobresaliente, excelente ubicación para las rutas y la mejor relación calidad-precio en junio.*
+> *Todos los alojamientos han sido filtrados en [Booking.com](https://www.booking.com/) exigiendo un mínimo de **9,0/10 en valoraciones de viajeros**, limpieza sobresaliente, excelente ubicación para las rutas y la mejor relación calidad-precio en mayo y junio.*
 
 | Isla | Alojamiento Seleccionado (Booking.com) | Tipo | Puntuación Booking | Puntos Fuertes según Huéspedes | Noches | Precio / Noche | Total Estancia |
 | :--- | :--- | :---: | :---: | :--- | :---: | :---: | :---: |
@@ -983,7 +983,7 @@
 
 ### 5.1 Tabla de Vuelos (Internacionales y Domésticos)
 
-> *Vuelos presupuestados para junio de 2027 con equipaje facturado (23 kg) incluido para 2 personas en ruta Open-Jaw.*
+> *Vuelos presupuestados para mayo - junio de 2027 con equipaje facturado (23 kg) incluido para 2 personas en ruta Open-Jaw.*
 
 | Tramo de Vuelo | Aerolíneas Operadoras | Enlace Directo de Búsqueda / Reserva | Condiciones y Frecuencias | Precio Total (2 Personas) | Precio por Persona |
 | :--- | :--- | :--- | :--- | :---: | :---: |
@@ -996,7 +996,7 @@
 
 ### 5.2 Tabla de Billetes de Ferris y Barcos de Pasaje
 
-> *Horarios y tarifas marítimas para junio de 2027. Enlaces directos en [Ferryhopper](https://www.ferryhopper.com/es/) y navieras oficiales del Egeo.*
+> *Horarios y tarifas marítimas para mayo - junio de 2027. Enlaces directos en [Ferryhopper](https://www.ferryhopper.com/es/) y navieras oficiales del Egeo.*
 
 | Trayecto Marítimo | Naviera y Tipo de Barco | Duración Aprox. | Enlace Concreto de Reserva | Billetes / Cobertura | Precio Total (2 Personas) | Precio por Persona |
 | :--- | :--- | :---: | :--- | :--- | :---: | :---: |
@@ -1078,7 +1078,7 @@
 
 ### 6.1 Isla de Mykonos
 
-| Monumento / Sitio | Descripción Histórica y Arqueológica | Lugar donde se encuentra | Horario Habitual de Verano (Junio) | Precio Oficial (General / Senior UE 65+) | Enlace Web Oficial |
+| Monumento / Sitio | Descripción Histórica y Arqueológica | Lugar donde se encuentra | Horario Habitual de Temporada (Mayo - Junio) | Precio Oficial (General / Senior UE 65+) | Enlace Web Oficial |
 | :--- | :--- | :--- | :---: | :---: | :--- |
 | **Iglesia de Panagia Paraportiani** | Conjunto arquitectónico único en el Egeo formado por 5 capillas superpuestas (siglos XV al XVII). Destaca por sus volúmenes encalados y formas asimétricas esculpidas por el tiempo y el viento marino. | Barrio de Kastro, Chora (Mykonos Town). | Exterior accesible 24h. Capilla inferior sujeta a culto. | **Gratuito** | [Portal Cultural de Mykonos](http://odysseus.culture.gr/) |
 | **Museo Arqueológico de Mykonos** | Fundado en 1902 para albergar los hallazgos de la "Fosa de Purificación" de Rinia y de Delos. Conserva el famoso *Pithos de Mykonos* (siglo VII a.C.) con el relieve más antiguo del Caballo de Troya. | Paseo marítimo junto al Puerto Viejo, Chora. | Todos los días (excepto martes): 08:30 – 15:30 h. | General: **6 €**<br>Senior UE 65+: **3 €** | [E-ticket Oficial (hhticket.gr)](https://hhticket.gr/) |
@@ -1093,7 +1093,7 @@
 
 ### 6.2 Isla de Delos (Patrimonio Mundial de la UNESCO)
 
-| Monumento / Sitio | Descripción Histórica y Arqueológica | Lugar donde se encuentra | Horario Habitual de Verano (Junio) | Precio Oficial (General / Senior UE 65+) | Enlace Web Oficial |
+| Monumento / Sitio | Descripción Histórica y Arqueológica | Lugar donde se encuentra | Horario Habitual de Temporada (Mayo - Junio) | Precio Oficial (General / Senior UE 65+) | Enlace Web Oficial |
 | :--- | :--- | :--- | :---: | :---: | :--- |
 | **Santuario Sagrado de Apolo y Artemisa** | Uno de los lugares más sagrados de la antigüedad, considerado el lugar mítico de nacimiento de los dioses gemelos Apolo y Artemisa. Incluye el Templo de los Delios, el Altar de los Cuernos (*Keraton*) y el Buleuterio. | Sector central del yacimiento de Delos. | Todos los días: 08:00 – 20:00 h (último acceso 19:30 h). | Entrada conjunta Yacimiento + Museo:<br>General: **12 €**<br>Senior UE 65+: **6 €** | [E-ticket Oficial Delos (hhticket.gr)](https://hhticket.gr/)<br>[Delos UNESCO en Odysseus](http://odysseus.culture.gr/h/3/eh351.jsp?obj_id=2371) |
 | **Terraza de los Leones de Mármol** | Fila monumental de fieros leones de mármol de Naxos erigidos hacia el 600 a.C. por los habitantes de Naxos para custodiar simbólicamente el Lago Sagrado de Apolo. Los originales se conservan protegidos en el museo de sitio. | Sector norte del santuario de Delos. | Horario del yacimiento: 08:00 – 20:00 h. | Incluido en la entrada de Delos | [E-ticket Oficial Delos (hhticket.gr)](https://hhticket.gr/) |
@@ -1106,7 +1106,7 @@
 
 ### 6.3 Isla de Syros
 
-| Monumento / Sitio | Descripción Histórica y Arqueológica | Lugar donde se encuentra | Horario Habitual de Verano (Junio) | Precio Oficial (General / Senior UE 65+) | Enlace Web Oficial |
+| Monumento / Sitio | Descripción Histórica y Arqueológica | Lugar donde se encuentra | Horario Habitual de Temporada (Mayo - Junio) | Precio Oficial (General / Senior UE 65+) | Enlace Web Oficial |
 | :--- | :--- | :--- | :---: | :---: | :--- |
 | **Yacimiento Prehistórico de Kastri y Chalandriani** | Asentamiento fortificado en lo alto de un espolón rocoso de la civilización cicládica primitiva (**Cultura Keros-Syros, 2800-2300 a.C.**), con muralla de torres semicirculares y necrópolis de más de 600 tumbas. | Zona montañosa del norte de Syros (acceso desde Chalandriani). | Yacimiento al aire libre, acceso con luz solar (sendero señalizado). | **Gratuito** | [Odysseus Ministerio de Cultura](http://odysseus.culture.gr/) |
 | **Teatro Apolo de Ermoupoli** | Joya arquitectónica diseñada en 1864 por el arquitecto italiano Pietro Sampo, inspirada en las líneas de La Scala de Milán y el Teatro San Carlo de Nápoles. Símbolo del esplendor cultural de la capital de las Cícladas. | Plaza Vardaka, centro de Ermoupoli. | Lunes a sábado: 10:00 – 14:00 h y 18:00 – 21:00 h. | General: **4 €**<br>Senior / Reducida: **2 €** | [Web Oficial Teatro Apolo](https://apollontheater.gr/) |
@@ -1117,7 +1117,7 @@
 
 ### 6.4 Isla de Paros
 
-| Monumento / Sitio | Descripción Histórica y Arqueológica | Lugar donde se encuentra | Horario Habitual de Verano (Junio) | Precio Oficial (General / Senior UE 65+) | Enlace Web Oficial |
+| Monumento / Sitio | Descripción Histórica y Arqueológica | Lugar donde se encuentra | Horario Habitual de Temporada (Mayo - Junio) | Precio Oficial (General / Senior UE 65+) | Enlace Web Oficial |
 | :--- | :--- | :--- | :---: | :---: | :--- |
 | **Basílica Panagia Ekatontapiliani** | La "Iglesia de las Cien Puertas", uno de los complejos paleocristianos mejor conservados del mundo, fundado en el siglo IV por Santa Elena, madre del emperador Constantino el Grande. Conserva su baptisterio paleocristiano intacto con fuente bautismal cruciforme de mármol pario. | Parikia (a 200 m del puerto marítimo). | Todos los días: 08:00 – 21:30 h.<br>Museo eclesiástico: 09:30 – 14:00 h y 18:00 – 21:00 h. | Iglesia: **Gratuita**<br>Museo Eclesiástico: **3 €** (Senior: 2 €) | [Web Oficial Ekatontapyliani](https://www.ekatontapyliani.org/) |
 | **Museo Arqueológico de Paros** | Custodia piezas maestras esculpidas en el insigne mármol blanco de Paros: la Victoria Alada arcaica (*Nike* de Paros, siglo V a.C.), la Gorgona Medusa de mármol y un fragmento original del famoso *Marmor Parium* (Crónica de Paros). | Parikia (detrás de la basílica Ekatontapiliani). | Miércoles a lunes: 08:30 – 15:30 h (martes cerrado). | General: **3 €**<br>Senior UE 65+: **2 €** | [E-ticket Oficial (hhticket.gr)](https://hhticket.gr/) |
@@ -1128,7 +1128,7 @@
 
 ### 6.5 Isla de Antíparos
 
-| Monumento / Sitio | Descripción Histórica y Arqueológica | Lugar donde se encuentra | Horario Habitual de Verano (Junio) | Precio Oficial (General / Senior UE 65+) | Enlace Web Oficial |
+| Monumento / Sitio | Descripción Histórica y Arqueológica | Lugar donde se encuentra | Horario Habitual de Temporada (Mayo - Junio) | Precio Oficial (General / Senior UE 65+) | Enlace Web Oficial |
 | :--- | :--- | :--- | :---: | :---: | :--- |
 | **Gran Cueva de Antíparos (Cueva de San Juan)** | Fascinante cavidad kárstica que desciende más de 85 metros bajo tierra mediante una escalinata protegida de 411 peldaños. Alberga estalagmitas milenarias con firmas históricas grabadas, como la de Arquíloco de Paros (siglo IV a.C.) o el Marqués de Nointel (1673). | Colina de Agios Ioannis, sector sur-centro de Antíparos. | Todos los días: 10:00 – 16:30 h (última entrada a las 16:00 h). | General: **7 €**<br>Senior (+65) / Reducida: **3,50 €** | [Web Oficial Municipio de Antiparos](https://antiparos.gr/en/see-and-do/cave-of-antiparos/) |
 | **Kastro Veneciano de Antíparos** | Asentamiento fortificado construido en 1440 por Leonardo Loredano. La muralla defensiva exterior la forman las propias fachadas continuas de las viviendas de piedra de dos plantas que rodean una torre central. | Corazón del casco antiguo de Chora (Antíparos). | Acceso libre permanente por el callejón central de Chora. | **Gratuito** | [Patrimonio Histórico Antíparos](https://antiparos.gr/) |
@@ -1138,7 +1138,7 @@
 
 ### 6.6 Isla de Naxos
 
-| Monumento / Sitio | Descripción Histórica y Arqueológica | Lugar donde se encuentra | Horario Habitual de Verano (Junio) | Precio Oficial (General / Senior UE 65+) | Enlace Web Oficial |
+| Monumento / Sitio | Descripción Histórica y Arqueológica | Lugar donde se encuentra | Horario Habitual de Temporada (Mayo - Junio) | Precio Oficial (General / Senior UE 65+) | Enlace Web Oficial |
 | :--- | :--- | :--- | :---: | :---: | :--- |
 | **La Portara (Templo de Apolo)** | Monumental puerta de mármol de 6 metros de altura y 20 toneladas por dintel, único vestigio en pie del colosal templo arcaico de Apolo iniciado en el 530 a.C. por el tirano Ligdamis. Símbolo indiscutible del Egeo. | Islote de Palatia (unido por calzada a Chora de Naxos). | Acceso libre las 24 horas. Momento estrella: la puesta de sol. | **Gratuito** | [Odysseus Ministerio de Cultura](http://odysseus.culture.gr/h/3/eh351.jsp?obj_id=2376) |
 | **Templo de Deméter en Sangri (Gyroulas)** | Obra maestra de la arquitectura jónica arcaica (circa 530 a.C.), construido íntegramente en mármol blanco de Naxos. Considerado el prototipo arquitectónico precursor del Partenón de Atenas. Incluye un museo monográfico de sitio galardonado internacionalmente. | Paraje de Gyroulas, a 3 km del pueblo de Sangri. | Miércoles a lunes: 08:30 – 15:30 h (martes cerrado). | General: **4 €**<br>Senior UE 65+: **2 €** | [E-ticket Oficial (hhticket.gr)](https://hhticket.gr/)<br>[Odysseus Templo de Deméter](http://odysseus.culture.gr/h/3/eh351.jsp?obj_id=1847) |
@@ -1151,7 +1151,7 @@
 
 ### 6.7 Isla de Milos
 
-| Monumento / Sitio | Descripción Histórica y Arqueológica | Lugar donde se encuentra | Horario Habitual de Verano (Junio) | Precio Oficial (General / Senior UE 65+) | Enlace Web Oficial |
+| Monumento / Sitio | Descripción Histórica y Arqueológica | Lugar donde se encuentra | Horario Habitual de Temporada (Mayo - Junio) | Precio Oficial (General / Senior UE 65+) | Enlace Web Oficial |
 | :--- | :--- | :--- | :---: | :---: | :--- |
 | **Teatro Romano de Milos** | Teatro de mármol de época helenística y romana con gradas de mármol blanco restauradas y una vista asombrosa sobre la bahía natural de Milos. Tenía un aforo original de hasta 7.000 espectadores. | Ladera bajo el pueblo de Tripiti, cerca de Klima. | Miércoles a lunes: 08:30 – 15:30 h (martes cerrado). | General: **4 €**<br>Senior UE 65+: **2 €** | [E-ticket Oficial (hhticket.gr)](https://hhticket.gr/) |
 | **Catacumbas Paleocristianas de Milos** | Conjunto subterráneo de galerías funerarias excavadas en toba volcánica (siglos I al V d.C.), consideradas uno de los tres yacimientos paleocristianos más notables del mundo junto a las de Roma y Tierra Santa. Albergaban más de 2.000 enterramientos. | A 200 metros del Teatro Romano, Tripiti. | Miércoles a lunes: 08:30 – 15:30 h (martes cerrado). | General: **4 €**<br>Senior UE 65+: **2 €** | [Web Oficial Catacumbas Milos](https://catacombs.milos.gr/)<br>[E-ticket Oficial (hhticket.gr)](https://hhticket.gr/) |
@@ -1163,7 +1163,7 @@
 
 ### 6.8 Isla de Kos
 
-| Monumento / Sitio | Descripción Histórica y Arqueológica | Lugar donde se encuentra | Horario Habitual de Verano (Junio) | Precio Oficial (General / Senior UE 65+) | Enlace Web Oficial |
+| Monumento / Sitio | Descripción Histórica y Arqueológica | Lugar donde se encuentra | Horario Habitual de Temporada (Mayo - Junio) | Precio Oficial (General / Senior UE 65+) | Enlace Web Oficial |
 | :--- | :--- | :--- | :---: | :---: | :--- |
 | **Santuario del Asklepieion de Kos** | El centro de curación y santuario sagrado más célebre de la antigua Grecia consagrado a Asclepio (siglo IV a.C.), donde ejerció Hipócrates, padre de la medicina moderna. Se estructura en 3 grandiosas terrazas de mármol unidas por escalinatas monumentales entre cipreses, con el Templo Dórico de Asclepio y las termas romanas. | A 4 km al suroeste de Kos Town (Platani). | Todos los días: 08:00 – 20:00 h (martes: 08:30 – 15:30 h). | General: **8 €**<br>Senior UE 65+: **4 €** | [E-ticket Oficial Asklepieion (hhticket.gr)](https://hhticket.gr/)<br>[Odysseus Asklepieion Kos](http://odysseus.culture.gr/h/3/eh351.jsp?obj_id=2386) |
 | **Castillo de los Caballeros de Neratzia** | Imponente fortaleza construida por los Caballeros de San Juan de Jerusalén a finales del siglo XIV para defender el puerto frente al Imperio Otomano. Reutiliza sillares, frisos dóricos y columnas clásicas de la antigua Kos en sus muros de foso. | Entrada al puerto de Mandraki, Kos Town. | Miércoles a lunes: 08:30 – 15:30 h (martes cerrado). | General: **3 €**<br>Senior UE 65+: **2 €** | [E-ticket Oficial (hhticket.gr)](https://hhticket.gr/) |
@@ -1177,7 +1177,7 @@
 
 ### 6.9 Isla de Rodas
 
-| Monumento / Sitio | Descripción Histórica y Arqueológica | Lugar donde se encuentra | Horario Habitual de Verano (Junio) | Precio Oficial (General / Senior UE 65+) | Enlace Web Oficial |
+| Monumento / Sitio | Descripción Histórica y Arqueológica | Lugar donde se encuentra | Horario Habitual de Temporada (Mayo - Junio) | Precio Oficial (General / Senior UE 65+) | Enlace Web Oficial |
 | :--- | :--- | :--- | :---: | :---: | :--- |
 | **Acrópolis de Lindos y Templo de Atenea Lindia** | Espectacular acrópolis situada sobre una roca vertical de 116 metros sobre el mar Egeo. Alberga el Templo Dórico de Atenea Lindia (siglo IV a.C.), las columnatas de la gran Stoa monumental helenística, el relieve rupestre de una nave de guerra triremi esculpida en la roca y la fortaleza de los Caballeros. | Pueblo de Lindos (a 50 km al sur de Rodas ciudad). | Todos los días: 08:00 – 20:00 h (última entrada a las 19:30 h). | General: **12 €**<br>Senior UE 65+: **6 €** | [E-ticket Oficial Lindos (hhticket.gr)](https://hhticket.gr/)<br>[Odysseus Acrópolis de Lindos](http://odysseus.culture.gr/h/3/eh351.jsp?obj_id=2377) |
 | **Palacio del Gran Maestre de los Caballeros** | Colosal palacio-fortaleza gótica del siglo XIV erigido sobre el templo helenístico de Helios, cuartel general de la Orden de San Juan de Jerusalén y residencia de los Grandes Maestres. Conserva 158 estancias con pavimentos de mosaico romano traídos de la vecina isla de Kos. | Calle de los Caballeros, extremo alto de la Ciudad Medieval de Rodas (UNESCO). | Todos los días: 08:00 – 20:00 h. | Entrada combinada museos medievales:<br>General: **10 €**<br>Senior UE 65+: **5 €** | [E-ticket Oficial Gran Maestre (hhticket.gr)](https://hhticket.gr/)<br>[Odysseus Palacio Gran Maestre](http://odysseus.culture.gr/h/1/eh151.jsp?obj_id=7041) |
@@ -1193,7 +1193,7 @@
 1. **Gestión de Entradas en el Portal Oficial del Estado Helénico**:
    * Adquiere con antelación las entradas a **Delos**, la **Acrópolis de Lindos**, el **Asklepieion de Kos** y el **Palacio del Gran Maestre de Rodas** en la web oficial única: [**Hellenic Heritage e-Ticket (hhticket.gr)**](https://hhticket.gr/). Al seleccionar las entradas, recuerda elegir la opción **"Reduced / Senior EU 65+"** para disfrutar del **50% de descuento directo** legal. Evita intermediarios comerciales externos que duplican el precio con supuestos pases "sin colas" inexistentes.
 2. **Estrategia en Booking.com**:
-   * Todos los alojamientos seleccionados disponen de tarifa con **cancelación gratuita**. Asegura la reserva entre 6 y 8 meses antes de junio de 2027 para congelar las tarifas moderadas de temporada media.
+   * Todos los alojamientos seleccionados disponen de tarifa con **cancelación gratuita**. Asegura la reserva entre 6 y 8 meses antes de mayo de 2027 para congelar las tarifas moderadas de temporada media.
    * Disponer de cocina completa en todos los apartamentos permite preparar desayunos frescos en la terraza y picnics para las jornadas arqueológicas y calas, reservando el presupuesto a cenas de pescado fresco en las tabernas marineras (~20-25 €/persona).
 3. **Coches de Alquiler y Conducción Senior (+68 años)**:
    * Al tramitar la reserva online en las páginas web directas indicadas ([Avis](https://www.avis.es/), [Hertz](https://www.hertz.es/), [Enterprise](https://www.enterprise.es/) o [Avance](https://www.avance.gr/)), introduce tu fecha de nacimiento real (68 años). El sistema validará la reserva con total normalidad sin aplicar suplementos senior.

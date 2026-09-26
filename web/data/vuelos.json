@@ -1,7 +1,7 @@
 [
   {
     "id": "fl-1",
-    "day": "Día 1 (1 de Junio)",
+    "day": "Día 1 (24 de Mayo)",
     "route": "Madrid (MAD) ➔ Mykonos (JMK)",
     "type": "Internacional directo",
     "airline": "Iberia Express / Vueling",
@@ -28,7 +28,7 @@
   },
   {
     "id": "fl-2",
-    "day": "Día 15 (15 de Junio)",
+    "day": "Día 15 (7 de Junio)",
     "route": "Milos (MLO) ➔ Kos (KGS) [Vía Atenas ATH]",
     "type": "Doméstico interinsular con conexión",
     "airline": "Sky Express / Olympic Air (Aegean)",
@@ -56,7 +56,7 @@
   },
   {
     "id": "fl-3",
-    "day": "Día 22 (22 de Junio)",
+    "day": "Día 22 (14 de Junio)",
     "route": "Rodas (RHO) ➔ Madrid (MAD) [Vía Atenas ATH]",
     "type": "Internacional con conexión protegida (Star Alliance)",
     "airline": "Aegean Airlines / Olympic Air",

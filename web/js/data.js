@@ -1,5 +1,5 @@
 /**
- * ITINERARIO ISLAS GRIEGAS - JUNIO 2027
+ * ITINERARIO ISLAS GRIEGAS - 24 MAYO AL 14 JUNIO 2027
  * Base de datos maestra y cargador modular de datos JSON
  *
  * Carga los datos desde los ficheros independientes en /data/:

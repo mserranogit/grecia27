@@ -1,6 +1,6 @@
 # Grecia 2027: Islas Cícladas y Dodecaneso
 
-Planificador integral, logística y aplicación web interactiva para el viaje a Grecia del 1 al 22 de Junio de 2027 (22 días / 21 noches).
+Planificador integral, logística y aplicación web interactiva para el viaje a Grecia del 24 de Mayo al 14 de Junio de 2027 (22 días / 21 noches).
 
 ## 📍 Contenido del Proyecto
 

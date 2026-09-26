@@ -66,7 +66,7 @@ function initNavigation() {
 
   // Acordeón del programa diario
   if (daysSubmenuToggle && daysSubmenu) {
-    // Generar enlaces del día 1 al 21 en el submenú
+    // Generar enlaces del día 1 al 22 en el submenú
     daysSubmenu.innerHTML = ITINERARY_DATA.days.map(d => `
       <li class="nav-item">
         <a class="nav-link sub-day-link" data-day="${d.day}">
@@ -438,7 +438,7 @@ function renderView(viewName) {
 }
 
 /* ==========================================================================
-   1. VISTA: PROGRAMA DIARIO (Días 1 al 21)
+   1. VISTA: PROGRAMA DIARIO (Días 1 al 22)
    ========================================================================== */
 function renderDailyView(container) {
   const dayData = ITINERARY_DATA.days.find(d => d.day === AppState.currentDay) || ITINERARY_DATA.days[0];
@@ -937,7 +937,7 @@ function renderFerriesView(container) {
 
     <!-- Consejos Prácticos de Embarque -->
     <div style="background:#ffffff;border-radius:var(--radius-lg);padding:1.5rem;border:1px solid var(--color-border);margin-top:1.5rem;">
-      <h3 style="font-size:1.15rem;margin-bottom:0.75rem;color:var(--color-primary);">💡 Recomendaciones Clave para Ferris en Junio:</h3>
+      <h3 style="font-size:1.15rem;margin-bottom:0.75rem;color:var(--color-primary);">💡 Recomendaciones Clave para Ferris en Temporada (Mayo - Junio):</h3>
       <ul style="padding-left:1.5rem;font-size:0.9rem;color:var(--color-text-main);line-height:1.6;">
         <li><strong>Llegada al muelle:</strong> Presentarse 45-50 minutos antes de la salida programada (10 minutos bastan para el barco local Pounda-Antiparos).</li>
         <li><strong>Check-in online:</strong> La mayoría de navieras (SeaJets, Blue Star) permiten el check-in web 48 horas antes descargando la tarjeta de embarque con código QR en el móvil.</li>
@@ -1184,7 +1184,7 @@ function renderMonumentsView(container) {
 
           <div class="monument-meta-list" style="margin-top:0.75rem;">
             <div><strong>📍 Ubicación:</strong> ${m.location}</div>
-            <div><strong>🕒 Horario Junio:</strong> ${m.hours}</div>
+            <div><strong>🕒 Horario Temporada:</strong> ${m.hours}</div>
           </div>
 
           <div class="monument-price-row">
@@ -1252,7 +1252,7 @@ function renderBudgetView(container) {
   const html = `
     <div class="section-hero" id="budget-summary-hero">
       <h2>💰 Presupuesto Global y Control Financiero</h2>
-      <p>Certificación de costes reales para 2 personas y por persona durante los 21 días de viaje por el Egeo (Junio 2027), con seguro a todo riesgo sin franquicia en coches de alquiler y salida directa desde Rodas.</p>
+      <p>Certificación de costes reales para 2 personas y por persona durante los 22 días de viaje por el Egeo (24 Mayo - 14 Junio 2027), con seguro a todo riesgo sin franquicia en coches de alquiler y salida directa desde Rodas.</p>
       <div class="section-hero-stats">
         <div class="hero-stat-pill" style="background:rgba(2,132,199,0.25);border-color:#38bdf8;color:#0284c7;">
           📋 <strong>Total Auditado Cuadro 8:</strong> 4.376 € (2.188,00 € / pers.)

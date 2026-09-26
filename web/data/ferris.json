@@ -1,7 +1,7 @@
 [
   {
     "id": "ferry-1",
-    "day": "Día 2 (2 de Junio)",
+    "day": "Día 2 (25 de Mayo)",
     "route": "Mykonos (Puerto Viejo) ↔ Delos (UNESCO)",
     "operator": "Delos Tours",
     "duration": "30 min por trayecto",
@@ -16,7 +16,7 @@
   },
   {
     "id": "ferry-2",
-    "day": "Día 5 (5 de Junio)",
+    "day": "Día 5 (28 de Mayo)",
     "route": "Mykonos (Nuevo Puerto Tourlos) ➔ Syros (Ermoupoli)",
     "operator": "SeaJets (WorldChampion Jet / Champion Jet)",
     "duration": "35 - 45 min",
@@ -31,7 +31,7 @@
   },
   {
     "id": "ferry-3",
-    "day": "Día 7 (7 de Junio)",
+    "day": "Día 7 (30 de Mayo)",
     "route": "Syros (Ermoupoli) ➔ Paros (Parikia)",
     "operator": "Blue Star Ferries / SeaJets",
     "duration": "50 min - 1h 15m",
@@ -46,7 +46,7 @@
   },
   {
     "id": "ferry-4",
-    "day": "Día 8 (8 de Junio)",
+    "day": "Día 8 (31 de Mayo)",
     "route": "Paros (Pounda) ↔ Antíparos",
     "operator": "Transbordador local Pounda-Antiparos",
     "duration": "7 min por trayecto",
@@ -61,7 +61,7 @@
   },
   {
     "id": "ferry-5",
-    "day": "Día 9 (9 de Junio)",
+    "day": "Día 9 (1 de Junio)",
     "route": "Paros (Parikia) ➔ Naxos (Chora)",
     "operator": "Blue Star Ferries",
     "duration": "40 - 45 min",
@@ -76,7 +76,7 @@
   },
   {
     "id": "ferry-6",
-    "day": "Día 12 (12 de Junio)",
+    "day": "Día 12 (4 de Junio)",
     "route": "Naxos (Chora) ➔ Milos (Adamas)",
     "operator": "SeaJets (Superjet / Power Jet)",
     "duration": "2h 15m - 2h 45m",
@@ -91,7 +91,7 @@
   },
   {
     "id": "ferry-7",
-    "day": "Día 18 (18 de Junio)",
+    "day": "Día 18 (10 de Junio)",
     "route": "Kos (Puerto Central) ➔ Rodas (Puerto Mandraki / Akantia)",
     "operator": "Dodekanisos Seaways / Blue Star Ferries",
     "duration": "2h 00m (catamarán rápido) a 3h 15m (ferry convencional)",

@@ -1,12 +1,12 @@
 # 🇬🇷 INFORME DE AUDITORÍA, VERIFICACIÓN Y OPTIMIZACIÓN
-## Itinerario Islas Griegas (Cícladas & Dodecaneso) - Junio 2027
+## Itinerario Islas Griegas (Cícladas & Dodecaneso) - 24 Mayo al 14 Junio 2027
 ### Documento de Control y Validación del Entorno Web (`/web`)
 
 ---
 
 ## 🧭 1. RESUMEN EJECUTIVO
 
-Este informe recoge el análisis integral y la auditoría técnica, logística, cultural y financiera del proyecto de viaje a las **Islas Griegas para Junio 2027**, evaluando específicamente los documentos y aplicación contenidos en el directorio `web/` (`index.html`, `css/styles.css`, `js/data.js`, `js/app.js`), así como el programa maestro de 22 días (1 al 22 de junio de 2027).
+Este informe recoge el análisis integral y la auditoría técnica, logística, cultural y financiera del proyecto de viaje a las **Islas Griegas para Mayo - Junio 2027**, evaluando específicamente los documentos y aplicación contenidos en el directorio `web/` (`index.html`, `css/styles.css`, `js/data.js`, `js/app.js`), así como el programa maestro de 22 días (24 de mayo al 14 de junio de 2027).
 
 El viaje contempla una ruta de **22 días / 21 noches** para **2 adultos** (con conductor de 68 años acogido a tarifa Senior UE 65+ en patrimonio estatal), con entrada internacional en Mykonos (4 días / 4 noches con estancia ampliada), navegación y vuelos por 8 islas adicionales (Delos, Syros, Paros, Antíparos, Naxos con 3 noches, Milos, Kos y Rodas) y regreso en vuelo Open-Jaw desde Rodas a Madrid.
 

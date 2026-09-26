@@ -1,7 +1,7 @@
 [
   {
     "day": 1,
-    "date": "1 de Junio de 2027",
+    "date": "24 de Mayo de 2027",
     "title": "Llegada a Mykonos, Molinos y Little Venice",
     "island": "Mykonos",
     "islandId": "mykonos",
@@ -43,7 +43,7 @@
   },
   {
     "day": 2,
-    "date": "2 de Junio de 2027",
+    "date": "25 de Mayo de 2027",
     "title": "Delos (UNESCO) & Faro de Armenistis / Playa Agios Sostis",
     "island": "Delos & Mykonos",
     "islandId": "delos",
@@ -87,7 +87,7 @@
   },
   {
     "day": 3,
-    "date": "3 de Junio de 2027",
+    "date": "26 de Mayo de 2027",
     "title": "Mykonos: Museo Arqueológico, Ano Mera & Playa de Lia",
     "island": "Mykonos",
     "islandId": "mykonos",
@@ -131,7 +131,7 @@
   },
   {
     "day": 4,
-    "date": "4 de Junio de 2027",
+    "date": "27 de Mayo de 2027",
     "title": "Mykonos: Museo Marítimo del Egeo, Playa Agrari & Atardecer en Kapari",
     "island": "Mykonos",
     "islandId": "mykonos",
@@ -174,7 +174,7 @@
   },
   {
     "day": 5,
-    "date": "5 de Junio de 2027",
+    "date": "28 de Mayo de 2027",
     "title": "Ferry Mykonos ➔ Syros, Ermoupoli Neoclásica & Vaporia",
     "island": "Syros",
     "islandId": "syros",
@@ -216,7 +216,7 @@
   },
   {
     "day": 6,
-    "date": "6 de Junio de 2027",
+    "date": "29 de Mayo de 2027",
     "title": "Ano Syros Medieval & Yacimiento de Kastri (2800 a.C.)",
     "island": "Syros",
     "islandId": "syros",
@@ -259,7 +259,7 @@
   },
   {
     "day": 7,
-    "date": "7 de Junio de 2027",
+    "date": "30 de Mayo de 2027",
     "title": "Ferry Syros ➔ Paros, Ekatontapiliani & Puerto de Naoussa",
     "island": "Paros",
     "islandId": "paros",
@@ -301,7 +301,7 @@
   },
   {
     "day": 8,
-    "date": "8 de Junio de 2027",
+    "date": "31 de Mayo de 2027",
     "title": "Excursión a Antíparos, Cueva Milenaria & Playas Esculpidas",
     "island": "Antíparos & Paros",
     "islandId": "paros",
@@ -345,7 +345,7 @@
   },
   {
     "day": 9,
-    "date": "9 de Junio de 2027",
+    "date": "1 de Junio de 2027",
     "title": "Ferry Paros ➔ Naxos, Portara de Apolo & Playa San Jorge",
     "island": "Naxos",
     "islandId": "naxos",
@@ -388,7 +388,7 @@
   },
   {
     "day": 10,
-    "date": "10 de Junio de 2027",
+    "date": "2 de Junio de 2027",
     "title": "Templo Arcaico de Deméter en Sangri, Valle de Tragea & Dunas de Plaka",
     "island": "Naxos",
     "islandId": "naxos",
@@ -433,7 +433,7 @@
   },
   {
     "day": 11,
-    "date": "11 de Junio de 2027",
+    "date": "3 de Junio de 2027",
     "title": "El Corazón de Mármol de Apeiranthos, Kouros Gigantes & Calas de Aliko",
     "island": "Naxos",
     "islandId": "naxos",
@@ -479,7 +479,7 @@
   },
   {
     "day": 12,
-    "date": "12 de Junio de 2027",
+    "date": "4 de Junio de 2027",
     "title": "Ferry Naxos ➔ Milos & Paisaje Lunar de Sarakiniko",
     "island": "Milos",
     "islandId": "milos",
@@ -518,7 +518,7 @@
   },
   {
     "day": 13,
-    "date": "13 de Junio de 2027",
+    "date": "5 de Junio de 2027",
     "title": "Teatro Romano, Cuna de la Venus de Milo, Catacumbas & Klima",
     "island": "Milos",
     "islandId": "milos",
@@ -564,7 +564,7 @@
   },
   {
     "day": 14,
-    "date": "14 de Junio de 2027",
+    "date": "6 de Junio de 2027",
     "title": "Excursión en Barco a Kleftiko o Acantilados de Firiplaka",
     "island": "Milos",
     "islandId": "milos",
@@ -601,7 +601,7 @@
   },
   {
     "day": 15,
-    "date": "15 de Junio de 2027",
+    "date": "7 de Junio de 2027",
     "title": "Vuelo Milos ➔ Atenas ➔ Kos, Castillo Neratzia & Ágora",
     "island": "Kos",
     "islandId": "kos",
@@ -643,7 +643,7 @@
   },
   {
     "day": 16,
-    "date": "16 de Junio de 2027",
+    "date": "8 de Junio de 2027",
     "title": "Asklepieion de Hipócrates, Casa Romana & Termas de Bros",
     "island": "Kos",
     "islandId": "kos",
@@ -686,7 +686,7 @@
   },
   {
     "day": 17,
-    "date": "17 de Junio de 2027",
+    "date": "9 de Junio de 2027",
     "title": "Fortaleza Paleo Pyli, Basílica Agios Stefanos & Bahía de Kefalos",
     "island": "Kos",
     "islandId": "kos",
@@ -727,7 +727,7 @@
   },
   {
     "day": 18,
-    "date": "18 de Junio de 2027",
+    "date": "10 de Junio de 2027",
     "title": "Ferry Kos ➔ Rodas, Murallas UNESCO & Palacio del Gran Maestre",
     "island": "Rodas",
     "islandId": "rodas",
@@ -769,7 +769,7 @@
   },
   {
     "day": 19,
-    "date": "19 de Junio de 2027",
+    "date": "11 de Junio de 2027",
     "title": "Acrópolis de Lindos, Templo de Atenea & Bahía San Pablo",
     "island": "Rodas",
     "islandId": "rodas",
@@ -810,7 +810,7 @@
   },
   {
     "day": 20,
-    "date": "20 de Junio de 2027",
+    "date": "12 de Junio de 2027",
     "title": "Antigua Kamiros (La Pompeya Griega), Filerimos & Bahía Anthony Quinn",
     "island": "Rodas",
     "islandId": "rodas",
@@ -855,7 +855,7 @@
   },
   {
     "day": 21,
-    "date": "21 de Junio de 2027",
+    "date": "13 de Junio de 2027",
     "title": "El Castillo de Monolithos, Valle de Embonas & Cena de Gala en Rodas",
     "island": "Rodas",
     "islandId": "rodas",
@@ -896,7 +896,7 @@
   },
   {
     "day": 22,
-    "date": "22 de Junio de 2027",
+    "date": "14 de Junio de 2027",
     "title": "Despedida de Rodas & Vuelo de Retorno Rodas ➔ Atenas ➔ Madrid",
     "island": "Rodas",
     "islandId": "rodas",

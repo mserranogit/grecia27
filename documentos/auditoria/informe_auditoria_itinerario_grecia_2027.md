@@ -1,14 +1,14 @@
 # 🇬🇷 INFORME DE AUDITORÍA, VERIFICACIÓN Y OPTIMIZACIÓN
-## Itinerario Islas Griegas (Cícladas & Dodecaneso) - Junio 2027
+## Itinerario Islas Griegas (Cícladas & Dodecaneso) - 24 Mayo al 14 Junio 2027
 ### Documento de Control y Validación del Entorno Web (`/web`)
 
 ---
 
 ## 🧭 1. RESUMEN EJECUTIVO
 
-Este informe recoge el análisis integral y la auditoría técnica, logística, cultural y financiera del proyecto de viaje a las **Islas Griegas para Junio 2027**, evaluando específicamente los documentos y aplicación contenidos en el directorio `web/` (`index.html`, `css/styles.css`, `js/data.js`, `js/app.js`), así como el programa maestro de 21 días (1 al 21 de junio de 2027).
+Este informe recoge el análisis integral y la auditoría técnica, logística, cultural y financiera del proyecto de viaje a las **Islas Griegas para Mayo - Junio 2027**, evaluando específicamente los documentos y aplicación contenidos en el directorio `web/` (`index.html`, `css/styles.css`, `js/data.js`, `js/app.js`), así como el programa maestro de 22 días (24 de mayo al 14 de junio de 2027).
 
-El viaje contempla una ruta de **21 días / 20 noches** para **2 adultos** (con conductor de 68 años acogido a tarifa Senior UE 65+ en patrimonio estatal), con entrada internacional en Mykonos y escala en 8 islas adicionales (Delos, Syros, Paros, Antíparos, Naxos, Milos, Kos y Rodas). El itinerario cuenta con Mykonos ampliada a **4 días / 4 noches** (con jornada adicional dedicada al Museo Marítimo del Egeo, Casa Tradicional de Lena y calas de Agrari y Kapari frente a Delos), Rodas con **5 días / 4 noches** y vuelo de retorno Open-Jaw a Madrid.
+El viaje contempla una ruta de **22 días / 21 noches** para **2 adultos** (con conductor de 68 años acogido a tarifa Senior UE 65+ en patrimonio estatal), con entrada internacional en Mykonos y escala en 8 islas adicionales (Delos, Syros, Paros, Antíparos, Naxos, Milos, Kos y Rodas). El itinerario cuenta con Mykonos ampliada a **4 días / 4 noches** (con jornada adicional dedicada al Museo Marítimo del Egeo, Casa Tradicional de Lena y calas de Agrari y Kapari frente a Delos), Rodas con **5 días / 4 noches** y vuelo de retorno Open-Jaw a Madrid.
 
 ---
 
