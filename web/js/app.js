@@ -1266,10 +1266,10 @@ function renderBudgetView(container) {
       <p>Certificación de costes reales para 2 personas y por persona durante los 22 días de viaje por el Egeo (24 Mayo - 14 Junio 2027), con seguro a todo riesgo sin franquicia en coches de alquiler y salida directa desde Rodas.</p>
       <div class="section-hero-stats">
         <div class="hero-stat-pill" style="background:rgba(2,132,199,0.25);border-color:#38bdf8;color:#0284c7;">
-          📋 <strong>Total Auditado Cuadro 8:</strong> 4.376 € (2.188,00 € / pers.)
+          📋 <strong>Presupuesto Base Cuadro 8:</strong> ${c8.totalTwoPax || '4.528 €'} (${c8.totalPerPax || '2.264,00 €'} / pers.)
         </div>
         <div class="hero-stat-pill" style="background:rgba(22,163,74,0.25);border-color:#86efac;color:#15803d;">
-          🎖️ <strong>Con Dto. Senior UE 65+:</strong> 4.376 € auditado (Tarifa gral: 4.568 €)
+          🎖️ <strong>Presupuesto Real Estimado:</strong> ${c8.budgetTotalEstimado || '~6.960 €'} (${c8.budgetTotalPerPax || '~3.480 €'} / pers.)
         </div>
       </div>
     </div>
@@ -1292,8 +1292,8 @@ function renderBudgetView(container) {
           </div>
           <div style="background: rgba(255,255,255,0.08); border: 1px solid rgba(56,189,248,0.4); border-radius: var(--radius-sm); padding: 0.6rem 1.1rem; text-align: right;">
             <div style="font-size: 0.72rem; color: #94a3b8; text-transform: uppercase; font-weight: 700; letter-spacing: 0.5px;">Total Cuadro 8 (2 Pax)</div>
-            <div style="font-size: 1.6rem; font-weight: 800; color: #38bdf8; line-height: 1.1;">4.376 €</div>
-            <div style="font-size: 0.82rem; color: #86efac; font-weight: 600;">2.188,00 € / persona</div>
+            <div style="font-size: 1.6rem; font-weight: 800; color: #38bdf8; line-height: 1.1;">${c8.totalTwoPax || '4.528 €'}</div>
+            <div style="font-size: 0.82rem; color: #86efac; font-weight: 600;">${c8.totalPerPax || '2.264,00 €'} / persona</div>
           </div>
         </div>
       </div>
@@ -1314,10 +1314,10 @@ function renderBudgetView(container) {
             ${cuadro8Rows}
             <tr class="budget-total-row" style="background: #f0fdf4 !important; border-top: 2.5px solid #86efac;">
               <td colspan="3" class="cell-primary" style="font-weight: 800; color: #15803d !important; font-size: 1.05rem;">
-                💶 TOTAL GLOBAL ESTIMADO DEL VIAJE (2 PERSONAS) - CUADRO 8
+                💶 TOTAL BASE AUDITADO (2 PERSONAS) - CUADRO 8
               </td>
-              <td data-label="Total (2 pax)" style="text-align: right; font-weight: 800; color: #15803d; font-size: 1.3rem;">4.376 €</td>
-              <td data-label="Por Persona" style="text-align: right; font-weight: 800; color: #0284c7; font-size: 1.15rem;">2.188,00 €</td>
+              <td data-label="Total (2 pax)" style="text-align: right; font-weight: 800; color: #15803d; font-size: 1.3rem;">${c8.totalTwoPax || '4.528 €'}</td>
+              <td data-label="Por Persona" style="text-align: right; font-weight: 800; color: #0284c7; font-size: 1.15rem;">${c8.totalPerPax || '2.264,00 €'}</td>
               <td data-label="Auditoría" style="text-align: center;"><span class="audit-status-badge" style="background: #15803d; color: #ffffff; border-color: #15803d;">CERTIFICADO</span></td>
             </tr>
           </tbody>

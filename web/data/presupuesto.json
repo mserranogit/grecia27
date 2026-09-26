@@ -1,0 +1,126 @@
+{
+  "resumen": {
+    "titulo": "Presupuesto Económico y Financiero del Viaje",
+    "subtitulo": "Auditoría de Costes, Tarifas Oficiales y Previsiones Reales (2 Personas)",
+    "moneda": "EUR (€)",
+    "viajeros": 2,
+    "presupuestoBase": {
+      "totalDosPersonas": "4.528 €",
+      "totalPorPersona": "2.264,00 €",
+      "descripcion": "Cubre exclusivamente servicios esenciales contratados: Vuelos, Ferris, Alojamientos (21 noches), Coches de alquiler con cobertura SCDW Todo Riesgo, Combustible y Monumentos estatales con tarifa senior UE 65+."
+    },
+    "presupuestoTarifaGeneral": {
+      "totalDosPersonas": "4.720 €",
+      "totalPorPersona": "2.360,00 €",
+      "diferenciaSenior": "192 € de ahorro legal en recintos arqueológicos"
+    },
+    "presupuestoTotalRealEstimado": {
+      "totalDosPersonas": "~6.960 €",
+      "totalPorPersona": "~3.480,00 €",
+      "descripcion": "Incluye presupuesto base + manutención completa estimada (22 días a ~50 €/día) + velero Kleftiko (~150 €) + seguro de viaje multirriesgo (~180 €)."
+    },
+    "presupuestoSeguridadRecomendado": {
+      "margen": "+15%",
+      "rango": "6.800 – 7.200 €",
+      "descripcion": "Colchón de seguridad para imprevistos, compras de artesanía cicládica, catas de vino y variaciones de temporada en ferris/restauración."
+    }
+  },
+  "condicionesSenior": {
+    "titular": "Conductor y Viajero 68 años (Senior UE)",
+    "monumentos": "Derecho legal al 50% de reducción en yacimientos y museos estatales gestionados por ODAP (Ministerio de Cultura de Grecia - hhticket.gr). Acreditación con DNI/pasaporte español en taquilla.",
+    "alquilerVehiculos": "Sin recargo por edad senior en Avis, Hertz, Enterprise y Avance (admiten hasta 75 años sin suplemento). Cobertura SCDW Cero Franquicia contemplada en todas las islas."
+  },
+  "auditCuadro8": {
+    "title": "Cuadro 8: Cuadro Resumen de Presupuesto Auditado (2 Personas)",
+    "source": "Informe de Auditoría, Verificación y Optimización (Mayo - Junio 2027)",
+    "totalTwoPax": "4.528 €",
+    "totalPerPax": "2.264,00 €",
+    "currency": "EUR (€)",
+    "budgetBaseNote": "El presupuesto base auditado de 4.528 € cubre exclusivamente transporte y alojamiento (sin manutención, extras ni seguros).",
+    "budgetTotalEstimado": "~6.960 €",
+    "budgetTotalPerPax": "~3.480 €",
+    "items": [
+      {
+        "id": 1,
+        "icon": "✈️",
+        "concept": "Vuelos (Internacionales I/V + Vuelo doméstico)",
+        "scope": "Internacionales I/V Madrid-Mykonos + Vuelo doméstico Milos-Kos (vía Atenas ATH) con maleta facturada de 23 kg incluida",
+        "amount": "1.040 €",
+        "perPax": "520,00 €",
+        "status": "Verificado"
+      },
+      {
+        "id": 2,
+        "icon": "⛴️",
+        "concept": "Billetes de Ferris y barcos de pasaje",
+        "scope": "7 travesías marítimas completas (Delos Tours, SeaJets, Blue Star Ferries, transbordador Antíparos y Dodekanisos Seaways)",
+        "amount": "340 €",
+        "perPax": "170,00 €",
+        "status": "Verificado"
+      },
+      {
+        "id": 3,
+        "icon": "🏨",
+        "concept": "Alojamientos seleccionados en Booking (21 noches)",
+        "scope": "21 noches en 7 apartamentos con nota >9,0/10, cocina privada equipada, terraza exterior y aparcamiento (3 noches en Mykonos, 2 en Syros, 3 en Paros, 3 en Naxos, etc.)",
+        "amount": "1.990 €",
+        "perPax": "995,00 €",
+        "status": "Verificado"
+      },
+      {
+        "id": 4,
+        "icon": "🚗",
+        "concept": "Coches de alquiler (Seguro Cero Franquicia)",
+        "scope": "21 días de vehículo compacto con cobertura SCDW / Cero Franquicia (sin retención en tarjeta de crédito) y conductor de 68 años sin recargo (Mykonos 3d, Syros 2d, Paros 3d, Naxos 3d, Milos 3d, Kos 3d, Rodas 4d)",
+        "amount": "860 €",
+        "perPax": "430,00 €",
+        "status": "Verificado"
+      },
+      {
+        "id": 5,
+        "icon": "⛽",
+        "concept": "Combustible estimado para todos los recorridos",
+        "scope": "Gasolina para aprox. 680 km de recorridos insulares a calas, yacimientos y pueblos de interior",
+        "amount": "215 €",
+        "perPax": "107,50 €",
+        "status": "Verificado"
+      },
+      {
+        "id": 6,
+        "icon": "🏛️",
+        "concept": "Entradas a monumentos con Tarifa Senior UE 65+",
+        "scope": "50% de reducción legal oficial en recintos arqueológicos y museos estatales gestionados por ODAP (hhticket.gr) para ciudadanos UE +65",
+        "amount": "83 €",
+        "perPax": "41,50 €",
+        "status": "50% Dto. Legal"
+      },
+      {
+        "id": 7,
+        "icon": "🍽️",
+        "concept": "Manutención estimada (22 días)",
+        "scope": "Desayunos en el apartamento (cocina propia), almuerzos ligeros en tabernas y cenas en restaurantes locales. Media de ~50 €/día para 2 personas.",
+        "amount": "~1.100 €",
+        "perPax": "~550,00 €",
+        "status": "Estimado — NO incluido en presupuesto base"
+      },
+      {
+        "id": 8,
+        "icon": "⛵",
+        "concept": "Excursión en velero / catamarán a Kleftiko (Milos)",
+        "scope": "Excursión de día completo desde Adamas: farallones de Kleftiko, cueva de Sykia, snorkel, almuerzo a bordo. Considerada una de las mejores excursiones marítimas de Grecia.",
+        "amount": "~150 €",
+        "perPax": "~75,00 €",
+        "status": "Opcional — recomendada"
+      },
+      {
+        "id": 9,
+        "icon": "🛡️",
+        "concept": "Seguro de Viaje Multiriesgo (22 días)",
+        "scope": "Cobertura médica, cancelación, asistencia en viaje y equipaje. Imprescindible para 22 días en el extranjero con actividades marítimas y conductor senior de 68 años.",
+        "amount": "~180 €",
+        "perPax": "~90,00 €",
+        "status": "Recomendado — NO incluido en presupuesto base"
+      }
+    ]
+  }
+}

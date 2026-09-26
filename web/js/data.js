@@ -3,18 +3,21 @@
  * Base de datos maestra y cargador modular de datos JSON
  *
  * Carga los datos desde los ficheros independientes en /data/:
- * - viaje_config.json (tripInfo, auditCuadro8, daysJustification)
+ * - viaje_config.json (configuración del viaje, fechas, perfil, viajeros)
+ * - presupuesto.json (auditoría económica, Cuadro 8, partidas y previsiones)
  * - itinerario.json (programa diario 1 al 22, waypoints y mapas)
  * - vuelos.json (vuelos internacionales y domésticos)
  * - ferris.json (travesías marítimas y catamarán)
  * - alojamientos.json (7 alojamientos boutique seleccionados)
  * - coches_alquiler.json (20 días de alquiler con cobertura SCDW Cero Franquicia)
  * - monumentos.json (monumentos y yacimientos con Tarifa Senior UE 65+)
- * - islas.json (geolocalización y fichas de islas)
+ * - islas.json (fichas insulares, geolocalización y justificación de estancias)
  */
 
 let ITINERARY_DATA = {
+  tripConfig: {},
   tripInfo: {},
+  presupuesto: {},
   auditCuadro8: {},
   daysJustification: [],
   flights: [],
@@ -35,6 +38,7 @@ async function loadGreciaData() {
 
     const [
       viajeConfig,
+      presupuesto,
       itinerario,
       vuelos,
       ferris,
@@ -45,6 +49,10 @@ async function loadGreciaData() {
     ] = await Promise.all([
       fetch(`${basePath}/viaje_config.json`).then(r => {
         if (!r.ok) throw new Error(`HTTP ${r.status} al cargar viaje_config.json`);
+        return r.json();
+      }),
+      fetch(`${basePath}/presupuesto.json`).then(r => {
+        if (!r.ok) throw new Error(`HTTP ${r.status} al cargar presupuesto.json`);
         return r.json();
       }),
       fetch(`${basePath}/itinerario.json`).then(r => {
@@ -78,9 +86,23 @@ async function loadGreciaData() {
     ]);
 
     // Asignación de datos estructurados
-    ITINERARY_DATA.tripInfo = viajeConfig.tripInfo || {};
-    ITINERARY_DATA.auditCuadro8 = viajeConfig.auditCuadro8 || {};
-    ITINERARY_DATA.daysJustification = viajeConfig.daysJustification || [];
+    ITINERARY_DATA.tripConfig = viajeConfig.viaje || viajeConfig;
+    ITINERARY_DATA.tripInfo = viajeConfig.tripInfo || viajeConfig.viaje || {};
+    ITINERARY_DATA.presupuesto = presupuesto || {};
+    ITINERARY_DATA.auditCuadro8 = presupuesto.auditCuadro8 || {};
+    
+    // Unificación de fuente: daysJustification se extrae directamente de islas.json
+    ITINERARY_DATA.daysJustification = (islas || []).filter(isl => isl.justification).map(isl => ({
+      island: isl.name,
+      badge: isl.justification.badge,
+      days: isl.justification.days,
+      nights: isl.justification.nights,
+      monuments: isl.justification.monuments,
+      beaches: isl.justification.beaches,
+      activities: isl.justification.activities,
+      whyDays: isl.justification.whyDays
+    }));
+
     ITINERARY_DATA.days = itinerario || [];
     ITINERARY_DATA.flights = vuelos || [];
     ITINERARY_DATA.ferries = ferris || [];
@@ -92,11 +114,10 @@ async function loadGreciaData() {
     // Compatibilidad global en window
     window.ITINERARY_DATA = ITINERARY_DATA;
 
-    console.info('✓ Base de datos modular Grecia 2027 cargada con éxito desde ficheros JSON.');
+    console.info('✓ Base de datos modular Grecia 2027 cargada con éxito desde ficheros JSON (con presupuesto.json e islas.json unificados).');
     return ITINERARY_DATA;
   } catch (error) {
     console.warn('Aviso al cargar JSON (posible ejecución local file:// sin servidor web):', error);
-    // Disparar evento de finalización
     return ITINERARY_DATA;
   }
 }
