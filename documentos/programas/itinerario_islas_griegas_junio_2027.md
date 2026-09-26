@@ -21,11 +21,11 @@
   * Ubicación estratégica para los días de visita arqueológica y playas.
   * Aire acondicionado, wifi de alta velocidad y facilidades de aparcamiento para el coche de alquiler.
 * **Islas incluidas en el itinerario (9 en total)**:
-  1. **Mykonos** (4 noches al inicio: base de llegada, Chora, Delos, Museo Arqueológico, Ano Mera, Museo Marítimo, Playa Agrari y Atardecer en Kapari)
+  1. **Mykonos** (3 noches al inicio: base de llegada, Chora, Delos, Museo Arqueológico, Ano Mera, Museo Marítimo, Playa Agrari y Atardecer en Kapari)
   2. **Delos** (isla sagrada de Apolo y Artemisa, Patrimonio Mundial UNESCO)
   3. **Syros** (2 noches: capital señorial de las Cícladas y cuna cicládica prehistórica)
-  4. **Paros** (2 noches: mármol pario clásico, pueblos blancos de pescadores y calas esculpidas)
-  5. **Antíparos** (gran cueva prehistórica y calas vírgenes de aguas turquesas)
+  4. **Paros** (3 noches: mármol pario clásico, basílica paleocristiana Ekatontapiliani, pueblo de montaña de Lefkes, canteras subterráneas de Marathi, Naoussa y calas esculpidas)
+  5. **Antíparos** (excursión íntegra con gran cueva prehistórica de 411 escalones y calas vírgenes)
   6. **Naxos** (3 noches: la Portara de Apolo, Templo de Deméter, Kouros arcaicos, pueblo de mármol de Apeiranthos, Panagia Drosiani y dunas de Plaka y Aliko)
   7. **Milos** (3 noches: cuna de la *Venus de Milo*, teatro romano, catacumbas y playas volcánicas como Sarakiniko y Kleftiko)
   8. **Kos** (3 noches: cuna de Hipócrates, santuario del Asklepieion, ágora clásica y aguas termales)
@@ -33,7 +33,7 @@
 * **Islas expresamente excluidas**: Creta y Santorini (ya visitadas).
 * **Filosofía**: **Equilibrio 50/50** entre arqueología e historia de la Grecia Antigua y relax en costas, calas y playas únicas.
 * **Movilidad**: Alquiler de coche compacto en las islas clave con **Seguro a Todo Riesgo Sin Franquicia (SCDW Cero Franquicia)** y verificación de conductor senior de 68 años sin recargo (Avis, Hertz, Enterprise y Avance).
-* **Presupuesto Global Auditado (Cuadro 8)**: **4.511 € (2.255,50 € / persona)** con tarifa reducida Senior UE 65+ y cobertura a todo riesgo sin franquicia.
+* **Presupuesto Global Auditado (Cuadro 8)**: **4.528 € (2.264,00 € / persona)** con tarifa reducida Senior UE 65+ y cobertura a todo riesgo sin franquicia.
 
 ---
 
@@ -43,14 +43,14 @@
 
 | Isla | Alojamiento Seleccionado (Booking.com) | Tipo | Puntuación Booking | Puntos Fuertes según Huéspedes | Noches | Precio / Noche | Total Estancia |
 | :--- | :--- | :---: | :---: | :--- | :---: | :---: | :---: |
-| **Mykonos** *(Noches 1, 2, 3 y 4)* | [**Alexandra Suites**](https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html) (Tourlos / Mykonos) | Apartamento / Suite con cocina | **9,2 / 10** *(Fantástico)* | Terraza privada con vistas al mar, cocina equipada, parking privado y cercanía inmejorable tanto al puerto como a Chora. | 4 | 125 € | **500 €** |
-| **Syros** *(Noches 5 y 6)* | [**AVALON Suites & Studios**](https://www.booking.com/hotel/gr/avalon-luxury-suites-ermoupoli.es.html) (Ermoupoli) | Apartamento con terraza | **9,5 / 10** *(Excepcional)* | En el corazón señorial de Ermoupoli, arquitectura cicládica impecable, cocina completa, cama extragrande y atención personalizada. | 2 | 98 € | **196 €** |
-| **Paros** *(Noches 7 y 8)* | [**Zoumis Residence**](https://www.booking.com/hotel/gr/zoumis-residence.es.html) (Naoussa) | Apartamento con cocina | **9,3 / 10** *(Fantástico)* | A 5 minutos a pie del puerto pesquero de Naoussa, piscina, cocina moderna, tranquilidad absoluta y balcón balear/cicládico. | 2 | 92 € | **184 €** |
+| **Mykonos** *(Noches 1, 2 y 3)* | [**Alexandra Suites**](https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html) (Tourlos / Mykonos) | Apartamento / Suite con cocina | **9,2 / 10** *(Fantástico)* | Terraza privada con vistas al mar, cocina equipada, parking privado y cercanía inmejorable tanto al puerto como a Chora. | 3 | 125 € | **375 €** |
+| **Syros** *(Noches 4 y 5)* | [**AVALON Suites & Studios**](https://www.booking.com/hotel/gr/avalon-luxury-suites-ermoupoli.es.html) (Ermoupoli) | Apartamento con terraza | **9,5 / 10** *(Excepcional)* | En el corazón señorial de Ermoupoli, arquitectura cicládica impecable, cocina completa, cama extragrande y atención personalizada. | 2 | 95 € | **190 €** |
+| **Paros** *(Noches 6, 7 y 8)* | [**Zoumis Residence**](https://www.booking.com/hotel/gr/zoumis-residence.es.html) (Naoussa) | Apartamento con cocina | **9,3 / 10** *(Fantástico)* | A 5 minutos a pie del puerto pesquero de Naoussa, piscina, cocina moderna, tranquilidad absoluta y balcón balear/cicládico. | 3 | 85 € | **255 €** |
 | **Naxos** *(Noches 9, 10 y 11)* | [**Galazia Apartments**](https://www.booking.com/hotel/gr/galazia-apartments-naxos-chora.es.html) (Chora / Agios Georgios) | Apartamento | **9,4 / 10** *(Fantástico)* | A 150 m de la playa de San Jorge, parking fácil, anfitrión con productos locales de bienvenida, cocina y patio. | 3 | 80 € | **240 €** |
-| **Milos** *(Noches 12, 13 y 14)* | [**Anais Milos Suites**](https://www.booking.com/hotel/gr/anais-milos-suites.es.html) (Adamas) | Apartamento Boutique | **9,6 / 10** *(Excepcional)* | Gestión familiar de ensueño, desayunos caseros de cortesía, diseño moderno con cocina, balcón privado y aparcamiento gratuito. | 3 | 105 € | **315 €** |
-| **Kos** *(Noches 15, 16 y 17)* | [**Orpheus Studios & Apartments**](https://www.booking.com/hotel/gr/orpheus-studios-kos.es.html) (Kos Town) | Apartamento / Estudio | **9,2 / 10** *(Fantástico)* | Ubicación céntrica y silenciosa cerca del Ágora Antigua y del puerto, cocina equipada, balcones floridos y gran relación calidad-precio. | 3 | 75 € | **225 €** |
-| **Rodas** *(Noches 18, 19, 20 y 21)* | [**Old Town Nest Apartments**](https://www.booking.com/hotel/gr/old-town-nest.es.html) | Apartamento Medieval | **9,7 / 10** *(Excepcional)* | Alojarse literalmente dentro de la Ciudad Medieval amurallada (UNESCO): vigas de madera, patio de piedra, cocina moderna, sin escaleras de acceso. | 4 | 90 € | **360 €** |
-| **SUBTOTAL ALOJAMIENTOS (2 PERSONAS)** | **21 noches en Booking.com** | | | **Media de 96,19 €/noche para 2 personas en apartamentos con notas >9.0** | **21 n** | | **2.020 €** *(1.010,00 € / pers.)* |
+| **Milos** *(Noches 12, 13 y 14)* | [**Anais Milos Suites**](https://www.booking.com/hotel/gr/anais-milos-suites.es.html) (Adamas) | Apartamento Boutique | **9,6 / 10** *(Excepcional)* | Gestión familiar de ensueño, desayunos caseros de cortesía, diseño moderno con cocina, balcón privado y aparcamiento gratuito. | 3 | 95 € | **285 €** |
+| **Kos** *(Noches 15, 16 y 17)* | [**Orpheus Studios & Apartments**](https://www.booking.com/hotel/gr/orpheus-studios-kos.es.html) (Kos Town) | Apartamento / Estudio | **9,2 / 10** *(Fantástico)* | Ubicación céntrica y silenciosa cerca del Ágora Antigua y del puerto, cocina equipada, balcones floridos y gran relación calidad-precio. | 3 | 70 € | **210 €** |
+| **Rodas** *(Noches 18, 19, 20 y 21)* | [**Old Town Nest Apartments**](https://www.booking.com/hotel/gr/old-town-nest.es.html) | Apartamento Medieval | **9,7 / 10** *(Excepcional)* | Alojarse literalmente dentro de la Ciudad Medieval amurallada (UNESCO): vigas de madera, patio de piedra, cocina moderna, sin escaleras de acceso. | 4 | 108,75 € | **435 €** |
+| **SUBTOTAL ALOJAMIENTOS (2 PERSONAS)** | **21 noches en Booking.com** | | | **Media de 94,76 €/noche para 2 personas en apartamentos con notas >9.0** | **21 n** | | **1.990 €** *(995,00 € / pers.)* |
 
 ---
 
@@ -60,13 +60,13 @@
 [ MADRID (MAD T4) ] ✈️ Vuelo Directo Iberia Express / Vueling (3h 35m)
         │
         ▼
-   [ MYKONOS (4 Noches) ] ── Barco tradicional (30 min) ──► [ DELOS (UNESCO) ]
+   [ MYKONOS (3 Noches) ] ── Barco tradicional (30 min) ──► [ DELOS (UNESCO) ]
         │
         ▼ Ferry rápido SeaJets (40 min)
     [ SYROS (2 Noches) ] (Kastri prehistórico, Ermoupoli, playas de Kini y Galissas)
         │
         ▼ Ferry Blue Star / SeaJets (1h 05m)
-    [ PAROS (2 Noches) ] ── Mini-ferry (7 min con coche) ──► [ ANTÍPAROS (Cueva & Calas) ]
+    [ PAROS & ANTÍPAROS (3 Noches) ] ── Mini-ferry (7 min con coche) ──► [ ANTÍPAROS (Cueva & Calas) ]
         │
         ▼ Ferry corto Blue Star (35 min)
     [ NAXOS (3 Noches) ] (Portara de Apolo, Templo Deméter, Apeiranthos, Kouros, Plaka, Aliko)
@@ -126,7 +126,7 @@
     * **Opción A (Ruta Arquitectónica e Histórica)**: Recorrido a pie por **Chora (Mykonos Town)**, su laberinto de callejuelas encaladas defensivas contra los piratas sarracenos, la iglesia asimétrica de **Panagia Paraportiani** (siglos XV-XVII) y el Museo Arqueológico de Mykonos con cerámicas arcaicas de Delos.
     * **Opción B (Tarde de Baño y Desconexión)**: Tarde de descanso y baño en la bahía abrigada de **Ornos** o **Platys Gialos**, con aguas transparentes y hamacas sobre la arena.
   * **Atardecer**: Puesta de sol junto a los icónicos **Molinos de Kato Mili** y paseo por los balcones marineros de **Little Venice** (Pequeña Venecia).
-  * 🏨 **Alojamiento (Noche 1/20)**: [**Alexandra Suites**](https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html) *(Tourlos / Mykonos Town)*. Puntuación Booking: **9,1/10**. Apartamento independiente con cocina, terraza con vistas al mar Egeo y parking.
+  * 🏨 **Alojamiento (Noche 1/21)**: [**Alexandra Suites**](https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html) *(Tourlos / Mykonos Town)*. Puntuación Booking: **9,1/10**. Apartamento independiente con cocina, terraza con vistas al mar Egeo y parking.
 
 ---
 
@@ -174,7 +174,7 @@
   * **Tarde (Regreso a Mykonos)**:
     * **Opción A (Faro Armenistis y Pasado Micénico)**: Excursión en coche al extremo noroeste para visitar el histórico **Faro Armenistis** (1891), con vistas al estrecho hacia Tinos. Continuación a la colina de **Paleokastro** (muralla y tholos micénicos del siglo XIV a.C.) y visita a **Ano Mera** (Monasterio de Panagia Tourliani).
     * **Opción B (Playa Virgen y Gastronomía Bohemia)**: Tarde de desconexión en la playa salvaje de **Agios Sostis** (sin música ni sombrillas de pago) y almuerzo/cena tardía en la legendaria *Taverna Kiki's* a la brasa.
-  * 🏨 **Alojamiento (Noche 2/20)**: [**Alexandra Suites**](https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html) *(Tourlos / Mykonos)*. Puntuación: **9,2/10**. Apartamento con cocina y terraza sobre el mar.
+  * 🏨 **Alojamiento (Noche 2/21)**: [**Alexandra Suites**](https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html) *(Tourlos / Mykonos)*. Puntuación: **9,2/10**. Apartamento con cocina y terraza sobre el mar.
 
 ---
 
@@ -193,79 +193,24 @@
                               [Acrópolis Micénica de Paleokastro (s. XIV a.C.)]
                                                     │
                                        🚗 (8 km / 12 min)
-                                                    ▼
-                                     [Playa de Lia / Kalafatis]
-```
-
-#### ⏱️ Ficha Logística y Tiempos de Desplazamiento
-* **Medio de transporte**: Coche de alquiler Avis (Cat. B).
-* **Desglose de tramos en coche**:
-  * *Tourlos ➔ Museo Arqueológico (Paseo Puerto Viejo)*: **2 km | 5 min**.
-  * *Museo ➔ Monasterio Tourliani / Ano Mera*: **8 km | 14 min** (ruta central de la isla).
-  * *Ano Mera ➔ Paleokastro (colina)*: **800 m | 5 min**.
-  * *Paleokastro ➔ Playa de Lia / Kalafatis*: **8 km | 12 min**.
-  * *Lia ➔ Tourlos (retorno)*: **13 km | 20 min**.
-* **Resumen en coche Día 3**: **32 km acumulados | 56 min al volante**.
-
-* **Programa**:
-  * **Mañana**: Visita al **Museo Arqueológico de Mykonos** (09:00–14:00, martes cerrado): el grandioso **Pithos del siglo VII a.C.** con el relieve más antiguo conocido del Caballo de Troya y los ricos ajuares funerarios de la necrópolis de Rinia. Entrada general 4 € (2 € Senior UE).
+                                                   * **Programa**:
+  * **Mañana**: Visita al **Museo Arqueológico de Mykonos** (09:00–14:00, miércoles abierto): el grandioso **Pithos del siglo VII a.C.** con el relieve más antiguo conocido del Caballo de Troya y los ricos ajuares funerarios de la necrópolis de Rinia. Entrada general 4 € (2 € Senior UE).
   * **Mediodía / Tarde**:
-    * Coche al pueblo interior de **Ano Mera** (8 km): visita al **Monasterio de Panagia Tourliani** (1542) con su espectacular campanario de mármol esculpido y retablo florentino dorado, y al **Kastro Micénico de Paleokastro** (siglo XIV a.C.) en la colina inmediata.
-  * **Tarde**:
-    * **Opción A (Arqueología)**: Vuelta por las canteras de granito y la capilla de Agios Ioannis.
-    * **Opción B (Playa y Relax)**: Baño y esnórquel en la tranquila y poco masificada **Playa de Lia** (aguas cristalinas turquesas sin música, a 13 km de Chora) o su vecina Kalafatis.
-  * 🏨 **Alojamiento (Noche 3/20)**: [**Alexandra Suites**](https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html) *(Tourlos / Mykonos)*. Puntuación: **9,2/10**.
+    * Coche al pueblo interior de **Ano Mera** (8 km): visita al **Monasterio de Panagia Tourliani** (1542) con su espectacular campanario de mármol esculpido y retablo florentino dorado, y a la colina del **Kastro Micénico de Paleokastro** (siglo XIV a.C.).
+    * Recorrido por el **Museo Marítimo del Egeo** y la **Casa Tradicional de Lena** en Chora.
+  * **Atardecer y Noche**:
+    * Desplazamiento a la recóndita **Cala Kapari** (junto a Agios Ioannis Diakoftis): contemplación de la célebre puesta de sol dorada con el sol poniéndose exactamente sobre la silueta sagrada de la isla de Delos. Cena marinera en la bahía.
+  * 🏨 **Alojamiento (Noche 3/21)**: [**Alexandra Suites**](https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html) *(Tourlos / Mykonos)*. Puntuación: **9,2/10**.
 
 ---
 
-### DÍA 4: Mykonos – Tradición Marítima, Casa de Lena & Relax en Playa Agrari y Kapari
-
-#### 🗺️ Mapa y Esquema de Ruta del Día
-```
-[Alexandra Suites (Tourlos)] ──🚗 (2,5 km / 7 min)──► [Chora: Museo Marítimo del Egeo & Casa de Lena]
-                                                                  │
-                                                       🚗 (10 km / 20 min)
-                                                                  ▼
-                                                   [Playa Virgen de Agrari (Baño & Relax)]
-                                                                  │
-                                                       🚗 (12 km / 22 min)
-                                                                  ▼
-                                              [Cala Kapari / Agios Ioannis (Puesta de Sol sobre Delos)]
-                                                                  │
-                                                       🚗 (5,5 km / 12 min) retorno
-                                                                  ▼
-                                                    [Alexandra Suites (Tourlos)]
-```
-
-#### ⏱️ Ficha Logística y Tiempos de Desplazamiento
-* **Medio de transporte**: Coche de alquiler Avis (Cat. B con SCDW Cero Franquicia).
-* **Desglose de tramos en coche**:
-  * *Tourlos ➔ Parking Chora / Barrio de Tria Pigadia*: **2,5 km | 7 min**.
-  * *Chora ➔ Bahía protegida de Playa Agrari*: **10 km | 20 min**.
-  * *Playa Agrari ➔ Cala Kapari (península de Agios Ioannis)*: **12 km | 22 min**.
-  * *Cala Kapari ➔ Retorno a Alexandra Suites (Tourlos)*: **5,5 km | 12 min**.
-* **Resumen en coche Día 4**: **30 km acumulados | 1h 01 min al volante**.
-
-* **Programa**:
-  * **Mañana**:
-    * **Patrimonio Naval y Tradicional en Chora**: Paseo matinal por el tranquilo barrio de *Tria Pigadia*. Visita al **Museo Marítimo del Egeo** (colección de maquetas navales desde la era minoica, cartas náuticas históricas, monedas y la linterna original de 1891 del Faro Armenistis; entrada general 4 €, Senior UE 2 €).
-    * Visita a la anexa **Casa Tradicional de Lena**, una auténtica residencia burguesa del siglo XIX perfectamente conservada con sus bordados, mobiliario de época y tapices familiares (entrada general 2 €, Senior UE 1 €).
-  * **Tarde**:
-    * **Opción A (Cultura y Jardines)**: Recorrido pausado por los patios y jardines del Museo Marítimo y compras de artesanía tradicional en los callejones menos concurridos de Chora.
-    * **Opción B (Baño y Relax en Playa Agrari)**: Traslado al sur hacia la serena y resguardada **Playa de Agrari**, arenal virgen de aguas esmeralda cristalinas y ambiente apacible, alejada de cualquier masificación. Almuerzo marinero frente a las olas.
-  * **Atardecer**:
-    * Coche a la recóndita **Cala Kapari** (junto a Agios Ioannis Diakoftis): contemplación de una de las puestas de sol más legendarias de las Cícladas, con el disco solar ocultándose exactamente tras la silueta sagrada de la isla de Delos. Cena de pescado fresco en Agios Ioannis.
-  * 🏨 **Alojamiento (Noche 4/20)**: [**Alexandra Suites**](https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html) *(Tourlos / Mykonos)*. Puntuación Booking: **9,2/10**.
-
----
-
-### DÍA 5: De Mykonos a Syros – La Señora Neoclásica del Egeo
+### DÍA 4: De Mykonos a Syros – La Señora Neoclásica del Egeo (27 de Mayo)
 
 #### 🗺️ Mapa y Esquema de Ruta del Día
 ```
 [Alexandra Suites] ──🚗 (900 m / 3 min)──► [Puerto Nuevo de Mykonos (Tourlos)]
                                                     │
-                                     🚢 Ferry rápido SeaJets (40 min)
+                                     🚢 Ferry rápido SeaJets (40 min, 10:30 h)
                                                     ▼
                                        [Puerto de Ermoupoli (Syros)]
                                                     │
@@ -283,31 +228,28 @@
 ```
 
 #### ⏱️ Ficha Logística y Tiempos de Desplazamiento
-* **Ferry Mykonos ➔ Syros (SeaJets / Blue Star Ferries)**:
-  * *Tiempo de espera previa en Puerto Nuevo de Mykonos (Tourlos)*: **45 min** antes de la salida programada.
-  * *Tiempo de embarque*: **15 min** (acceso a pie al catamarán).
-  * *Tiempo de travesía marítima*: **40 min** de navegación rápida.
-  * *Tiempo de maniobra y desembarque en Ermoupoli*: **10 min**.
+* **Ferry Mykonos ➔ Syros (SeaJets)**:
+  * *Tiempo de espera previa en Puerto Nuevo de Mykonos (Tourlos)*: **45 min** antes de la salida programada (10:30 h).
+  * *Tiempo de travesía marítima*: **40 min** de navegación rápida (llegada 11:10 h).
+  * *Desembarque en Ermoupoli y recogida de vehículo*: **15 min**.
 * **Desplazamientos por carretera en Syros**:
-  * *Muelle de Ermoupoli ➔ AVALON Luxury Suites*: **600 m | 3 min** (recogida de coche en muelle).
-  * *Opción A (Ermoupoli Neoclásica, Teatro Apolo y Vaporia)*: Recorrido íntegramente a pie por el centro histórico.
-  * *Opción B (Playa de Kini)*: Ermoupoli ➔ Kini: **8,8 km | 15 min** (17,6 km I/V | 30 min).
-  * *Subida nocturna a Ano Syros*: Ermoupoli ➔ Ano Syros: **2,5 km | 8 min** (5 km I/V | 16 min).
-* **Resumen en coche Día 5**:
-  * *Con Opción A + Ano Syros*: **5,6 km | 19 min al volante**.
-  * *Con Opción B + Ano Syros*: **23,2 km | 49 min al volante**.
+  * *Muelle de Ermoupoli ➔ AVALON Luxury Suites*: **600 m | 3 min**.
+  * *Opción A (Ermoupoli Neoclásica, Teatro Apolo y Vaporia)*: A pie por el casco señorial.
+  * *Opción B (Playa de Kini)*: Ermoupoli ➔ Kini: **8,8 km | 15 min** (17,6 km I/V).
+  * *Subida nocturna a Ano Syros*: Ermoupoli ➔ Ano Syros: **2,5 km | 8 min** (5 km I/V).
+* **Resumen en coche Día 4**: **5,6 km a 23,2 km según opción elegida**.
 
 * **Programa**:
-  * **Mañana**: Ferry rápido Mykonos ➔ Syros (40 min). Desembarco en **Ermoupoli**. Recogida de coche de alquiler y check-in.
+  * **Mañana**: Check-out en Mykonos y embarque en catamarán SeaJets (10:30 h ➔ 11:10 h). Desembarco en **Ermoupoli**, capital administrativa y cultural de las Cícladas. Recogida de coche de alquiler y check-in en AVALON Suites.
   * **Tarde**:
-    * **Opción A (Ermoupoli Neoclásica y Teatro Apolo)**: Exploración de la grandiosa Plaza Miaouli, el Ayuntamiento de Ernst Ziller, el **Teatro Apolo** (réplica a escala de La Scala de Milán) y las mansiones aristocráticas sobre el mar en el barrio señorial de **Vaporia**.
-    * **Opción B (Tarde de Calas en Kini)**: Relax en el pintoresco pueblo marinero de **Kini**, nadando en sus aguas calmas y disfrutando de sus terrazas sobre la arena.
-  * **Noche**: Subida al laberinto medieval fortificado de **Ano Syros** (siglo XIII), cuna de la música *Rebetiko*.
-  * 🏨 **Alojamiento (Noche 5/20)**: [**AVALON Suites & Studios**](https://www.booking.com/hotel/gr/avalon-luxury-suites-ermoupoli.es.html) *(Ermoupoli / Syros)*. Puntuación Booking: **9,5/10**. Apartamento en edificio señorial restaurado, cocina equipada, terraza con vistas a la ciudad y aire acondicionado.
+    * **Opción A (Ermoupoli Neoclásica y Teatro Apolo)**: Exploración de la grandiosa Plaza Miaouli, el imponente Ayuntamiento proyectado por Ernst Ziller, el célebre **Teatro Apolo** (1864, réplica de La Scala de Milán) y las mansiones aristocráticas sobre el mar en el señorial barrio de **Vaporia**.
+    * **Opción B (Tarde de Calas en Kini)**: Relax en el apacible pueblo marinero de **Kini**, con baño en aguas transparentes y comida marinera sobre la arena.
+  * **Noche**: Subida al laberinto medieval fortificado de **Ano Syros** (s. XIII), cuna de la música *Rebetiko* y panorámica nocturna de Ermoupoli iluminada.
+  * 🏨 **Alojamiento (Noche 4/21)**: [**AVALON Suites & Studios**](https://www.booking.com/hotel/gr/avalon-luxury-suites-ermoupoli.es.html) *(Ermoupoli / Syros)*. Puntuación Booking: **9,5/10**. Apartamento en palacete señorial restaurado.
 
 ---
 
-### DÍA 6: Syros Arqueológica Prehistórica vs. Bahías del Sur
+### DÍA 5: Syros Arqueológica Prehistórica vs. Bahías del Sur (28 de Mayo)
 
 #### 🗺️ Mapa y Esquema de Ruta del Día
 ```
@@ -323,33 +265,33 @@
 ```
 
 #### ⏱️ Ficha Logística y Tiempos de Desplazamiento
-* **Medio de transporte**: Coche de alquiler.
+* **Medio de transporte**: Coche de alquiler Avance / Hertz.
 * **Desglose de tramos en coche**:
-  * *Ermoupoli ➔ Chalandriani / Yacimiento Prehistórico de Kastri*: **11,5 km | 22 min** (carretera de montaña con curvas y vistas panorámicas).
+  * *Ermoupoli ➔ Chalandriani / Yacimiento Prehistórico de Kastri*: **11,5 km | 22 min** (paisaje agreste del norte cicládico).
   * *Chalandriani ➔ Playa de Galissas*: **15 km | 26 min**.
   * *Galissas ➔ Poseidonia (Villas de capitanes)*: **3,5 km | 6 min**.
   * *Poseidonia ➔ Bahías de Megas Gialos / Vari*: **5 km | 8 min**.
   * *Vari ➔ Ermoupoli (AVALON Suites)*: **10 km | 16 min**.
-* **Resumen en coche Día 6**: **45 km acumulados | 1h 18 min al volante**.
+* **Resumen en coche Día 5**: **45 km acumulados | 1h 18 min al volante**.
 
 * **Programa**:
   * **Mañana**:
-    * **Opción A (Yacimiento de Kastri y Chalandriani)**: Excursión al norte montañoso para descubrir uno de los asentamientos fortificados más antiguos de Europa (**Cultura Cicládica de Keros-Syros, III milenio a.C.**), con muralla de piedra y tumbas milenarias.
-    * **Opción B (Playas Doradas de Galissas y Agia Pakou)**: Mañana de sol en la bahía de **Galissas**, con arena suave, árboles tamariscos y subida a la fotogénica capilla blanca de Agia Pakou.
+    * **Opción A (Yacimiento de Kastri y Chalandriani)**: Excursión al norte montañoso para descubrir uno de los asentamientos fortificados prehistóricos más asombrosos del Egeo (**Cultura Cicládica de Keros-Syros, 2800 a.C.**), con muralla de piedra seca y vistas al mar abierto.
+    * **Opción B (Playas Doradas de Galissas y Agia Pakou)**: Mañana de sol en la bahía abrigada de **Galissas**, de arena fina y aguas mansas, con paseo hasta la fotogénica ermita blanca de Agia Pakou.
   * **Tarde**:
-    * **Opción A (Paseo Señorial por Poseidonia)**: Ruta por las villas patricias del siglo XIX de los capitanes mercantes y cata de vino local *Serifiotiko*.
-    * **Opción B (Calas Vírgenes de Megas Gialos y Vari)**: Baños en aguas transparentes y degustación de los famosos dulces locales *Loukoumia*.
-  * 🏨 **Alojamiento (Noche 6/20)**: [**AVALON Suites & Studios**](https://www.booking.com/hotel/gr/avalon-luxury-suites-ermoupoli.es.html) *(Ermoupoli / Syros)*. Puntuación: **9,5/10**.
+    * **Opción A (Paseo Señorial por Poseidonia)**: Recorrido por las mansiones aristocráticas del siglo XIX de los armadores navales y cata de vino local *Serifiotiko*.
+    * **Opción B (Calas de Megas Gialos y Vari)**: Baños tranquilos y degustación de los tradicionales dulces artesanos *Loukoumia*.
+  * 🏨 **Alojamiento (Noche 5/21)**: [**AVALON Suites & Studios**](https://www.booking.com/hotel/gr/avalon-luxury-suites-ermoupoli.es.html) *(Ermoupoli / Syros)*. Puntuación: **9,5/10**.
 
 ---
 
-### DÍA 7: Cruce a Paros – Basílica Paleocristiana y Puerto de Naoussa
+### DÍA 6: Cruce a Paros – Basílica Paleocristiana y Puerto de Naoussa (29 de Mayo)
 
 #### 🗺️ Mapa y Esquema de Ruta del Día
 ```
 [AVALON Suites] ──🚗 (600 m / 3m)──► [Puerto de Ermoupoli] (Devolución coche Syros)
                                              │
-                                🚢 Ferry Blue Star Ferries (1h 05m)
+                                🚢 Ferry Blue Star Ferries (1h 05m, 11:45 h)
                                              ▼
                                   [Puerto de Parikia (Paros)]
                                              │
@@ -366,66 +308,116 @@
 
 #### ⏱️ Ficha Logística y Tiempos de Desplazamiento
 * **Ferry Syros ➔ Paros (Blue Star Ferries)**:
-  * *Tiempo de espera previa en Puerto de Ermoupoli*: **45 min** antes de la salida.
-  * *Tiempo de embarque*: **15 min**.
-  * *Tiempo de travesía marítima*: **1h 05 min** de navegación regular.
-  * *Tiempo de maniobra y desembarque en Parikia*: **10 min**.
+  * *Presentación en Puerto de Ermoupoli*: **45 min** antes de la salida programada (11:45 h).
+  * *Travesía marítima*: **1h 05 min** en buque convencional de gran estabilidad (llegada 12:50 h).
+  * *Desembarque en Parikia y recogida de vehículo*: **15 min**.
 * **Desplazamientos por carretera en Paros**:
   * *Puerto de Parikia ➔ Zoumis Residence (Naoussa)*: **10,2 km | 16 min**.
-  * *Opción A (Visita a Parikia: Basílica Ekatontapiliani y Museo)*: Naoussa ➔ Parikia: **10,2 km | 16 min** (20,4 km I/V | 32 min).
-  * *Opción B (Playa de rocas esculpidas de Kolymbithres)*: Naoussa ➔ Kolymbithres: **4,5 km | 9 min** (9 km I/V | 18 min).
-* **Resumen en coche Día 7**:
-  * *Con Opción A*: **30,6 km acumulados | 48 min al volante**.
-  * *Con Opción B*: **19,2 km acumulados | 34 min al volante**.
+  * *Naoussa ➔ Playa Kolymbithres*: **4,5 km | 9 min** (9 km I/V).
+* **Resumen en coche Día 6**: **15 a 30 km según opciones elegidas**.
 
 * **Programa**:
-  * **Mañana**: Ferry Syros ➔ Paros (1h). Llegada a **Parikia**. Coche de alquiler listo y check-in en Naoussa.
+  * **Mañana**: Mañana relajada en Syros, devolución de coche y embarque en el ferry regular Blue Star Ferries (11:45 h ➔ 12:50 h). Llegada al animado puerto de **Parikia** (Paros). Recogida del nuevo coche de alquiler y traslado a Naoussa.
   * **Tarde**:
-    * **Opción A (Panagia Ekatontapiliani y Museo Arqueológico)**: Visita a la extraordinaria **Basílica de las Cien Puertas** (*Panagia Ekatontapiliani*), fundada en el siglo IV por Santa Elena, con su baptisterio paleocristiano intacto. A continuación, el Museo Arqueológico de Paros con el fragmento del *Parian Chronicle*.
-    * **Opción B (Las Rocas Esculpidas de Kolymbithres)**: Tarde en la playa de **Kolymbithres**, nadando entre gigantescos bloques de granito blanco pulidos por el viento que crean piscinas naturales privadas.
-  * **Noche**: Cena en las tabernas de pescadores del idílico puerto veneciano de **Naoussa**.
-  * 🏨 **Alojamiento (Noche 7/20)**: [**Zoumis Residence**](https://www.booking.com/hotel/gr/zoumis-residence.es.html) *(Naoussa / Paros)*. Puntuación Booking: **9,3/10**. Apartamento cicládico con piscina, terraza balcón y a 400 metros a pie del puerto de Naoussa.
+    * **Opción A (Panagia Ekatontapiliani y Museo Arqueológico)**: Visita a la portentosa **Basílica de las Cien Puertas** (*Panagia Ekatontapiliani*), fundada en el siglo IV por Santa Elena, con su baptisterio paleocristiano del siglo IV intacto. Visita al anexo Museo Arqueológico de Paros con la *Nike* de mármol y las inscripciones del *Marmor Parium*.
+    * **Opción B (Las Rocas Esculpidas de Kolymbithres)**: Tarde de baño en la singular playa de **Kolymbithres**, rodeada de enormes formaciones de granito pulidas por el viento y el oleaje que generan piscinas naturales privadas.
+  * **Noche**: Paseo y cena en las tabernas marineras del pintoresco puerto veneciano fortificado de **Naoussa**.
+  * 🏨 **Alojamiento (Noche 6/21)**: [**Zoumis Residence**](https://www.booking.com/hotel/gr/zoumis-residence.es.html) *(Naoussa / Paros)*. Puntuación Booking: **9,3/10**. Apartamento cicládico con piscina y terraza balcón.
 
 ---
 
-### DÍA 8: Canteras de Mármol de Paros y Salto a Antíparos
+### DÍA 7: Antíparos al Completo – Gran Cueva Prehistórica, Kastro y Calas Vírgenes (30 de Mayo)
 
 #### 🗺️ Mapa y Esquema de Ruta del Día
 ```
-[Zoumis Residence (Naoussa)] ──🚗 (8,2 km / 13m)──► [Canteras Mármol Marathi]
-                                                              │
-                                                   🚗 (9,5 km / 14m)
-                                                              ▼
-                                                   [Muelle Pounta (Paros)]
+[Zoumis Residence (Naoussa)] ──🚗 (14 km / 20 min)──► [Muelle de Pounta (Paros)]
                                                               │
                                             ⛴️ Transbordador con coche (7 min)
                                                               ▼
                                                  [Puerto de Antíparos]
                                                               │
-                                                   🚗 (9,8 km / 16m)
+                                                   🚗 (9,8 km / 16 min)
                                                               ▼
                                                  [Gran Cueva de Antíparos]
                                                               │
-                                                   🚗 (5,5 km / 10m)
+                                                   🚗 (5,5 km / 10 min)
                                                               ▼
-                                                 [Playa Soros / Despotiko]
+                                                 [Playas de Soros / Despotiko]
                                                               │
-                                        🚗 (12 km / 18m) + Ferry Pounta + 🚗 Naoussa
+                                        🚗 (12 km / 18 min) + Ferry Pounta + 🚗 Naoussa
                                                               ▼
                                                  [Zoumis Residence (Naoussa)]
 ```
 
 #### ⏱️ Ficha Logística y Tiempos de Desplazamiento
 * **Desplazamientos por carretera en Paros (Mañana)**:
-  * *Naoussa ➔ Canteras de mármol de Marathi*: **8,2 km | 13 min**.
-  * *Marathi ➔ Muelle de Pounta*: **9,5 km | 14 min**.
-* **Transbordador Paros (Pounta) ↔ Antíparos (con coche embarcado)**:
-  * *Tiempo de espera previa en muelle de Pounta*: **20 min** (salidas cada 30 min).
-  * *Tiempo de embarque de vehículos*: **5 min** (acceso directo por rampa).
-  * *Tiempo de travesía marítima*: **7 min** cruzando el estrecho.
-  * *Tiempo de desembarque*: **5 min**.
-  * *(Mismos tiempos para el transbordador de retorno Pounta-Antiparos)*.
-* **Desplazamientos por carretera en Antíparos (Tarde)**:
+  * *Naoussa ➔ Muelle de Pounta*: **14 km | 20 min**.
+* **Transbordador Paros (Pounta) ↔ Antíparos (con vehículo embarcado)**:
+  * *Espera en muelle de Pounta*: **15-20 min** (frecuencia continua cada 30 min).
+  * *Tiempo de travesía*: **7 min** de navegación placentera.
+  * *Desembarque*: Inmediato por rampa rodada.
+* **Desplazamientos por carretera en Antíparos**:
+  * *Puerto de Antíparos ➔ Gran Cueva de Antíparos*: **9,8 km | 16 min**.
+  * *Cueva ➔ Playa de Soros / Agios Georgios*: **5,5 km | 10 min**.
+  * *Agios Georgios ➔ Puerto de Antíparos*: **12 km | 18 min**.
+* **Resumen en coche Día 7**: **55 km acumulados | 1h 25 min al volante**.
+
+* **Programa**:
+  * **Mañana (Día Completo Dedicado a Antíparos)**:
+    * Salida matinal hacia el muelle de Pounta y cruce en el transbordador con el coche de alquiler (7 min).
+    * Ascenso al corazón de la isla para explorar la **Gran Cueva de Antíparos**: un impresionante abismo espeleológico con descenso de **411 escalones** entre majestuosas estalagmitas y estalactitas milenarias, conservando inscripciones históricas grabadas en la roca desde el siglo IV a.C. y de monarcas europeos.
+  * **Mediodía / Tarde**:
+    * Recorrido por la encantadora **Chora de Antíparos**, visitando el **Kastro veneciano fortificado de 1440**, una singular estructura comunal defensiva con una sola puerta de acceso.
+    * Baño y desconexión en las tranquilas aguas turquesas de la **Playa de Soros** o en **Agios Georgios**, con vistas privilegiadas al deshabitado islote sagrado de **Despotiko** (yacimiento arcaico de Apolo). Almuerzo de pescado fresco frente al mar.
+  * **Atardecer**: Travesía de regreso en transbordador a Paros y velada tranquila en Naoussa.
+  * 🏨 **Alojamiento (Noche 7/21)**: [**Zoumis Residence**](https://www.booking.com/hotel/gr/zoumis-residence.es.html) *(Naoussa / Paros)*. Puntuación Booking: **9,3/10**.
+
+---
+
+### DÍA 8: Paros Tradicional – Pueblos de Montaña, Canteras de Mármol y Playas Doradas (31 de Mayo)
+
+#### 🗺️ Mapa y Esquema de Ruta del Día
+```
+[Zoumis Residence (Naoussa)] ──🚗 (10 km / 16 min)──► [Pueblo de Montaña de Lefkes]
+                                                              │
+                                      🚶 Senda Bizantina de Mármol (a pie: 3,5 km / 1h)
+                                                              ▼
+                                                     [Prodromos / Marpissa]
+                                                              │
+                                                   🚗 (7 km / 12 min)
+                                                              ▼
+                                           [Canteras de Mármol de Marathi]
+                                                              │
+                                                   🚗 (11 km / 16 min)
+                                                              ▼
+                                            [Playa Santa Maria / Piso Livadi]
+                                                              │
+                                                   🚗 (6 km / 10 min)
+                                                              ▼
+                                                 [Zoumis Residence (Naoussa)]
+```
+
+#### ⏱️ Ficha Logística y Tiempos de Desplazamiento
+* **Medio de transporte**: Coche de alquiler Avis / Hertz (Cat. B).
+* **Desglose de tramos en coche**:
+  * *Naoussa ➔ Lefkes (interior montañoso)*: **10 km | 16 min**.
+  * *Lefkes ➔ Canteras de Mármol de Marathi*: **7 km | 12 min**.
+  * *Marathi ➔ Playa de Santa Maria o Piso Livadi*: **11 km | 16 min**.
+  * *Santa Maria ➔ Naoussa (retorno)*: **6 km | 10 min**.
+* **Resumen en coche Día 8**: **34 km acumulados | 54 min al volante**.
+
+* **Programa**:
+  * **Mañana (El Interior Tradicional y el Mármol Pario)**:
+    * Visita al pintoresco pueblo de montaña de **Lefkes**, antigua capital medieval de Paros resguardada de los piratas, con sus calles empedradas de mármol, casas floridas y la imponente iglesia de Agia Triada.
+    * Paseo a pie por el inicio de la **Senda Bizantina**, un histórico camino de losas de mármol de más de 1.000 años de antigüedad que une los pueblos del valle.
+    * Excursión a las **Antiguas Canteras Subterráneas de Mármol Licnites de Marathi**: visita a las legendarias galerías de donde se extrajo el mármol más blanco, puro y translúcido de la civilización clásica, con el que los grandes maestros cincelaron la *Venus de Milo*, la *Victoria de Samotracia*, el *Hermes de Praxíteles* y los frontones de Olimpia.
+  * **Tarde (Playas Doradas y Gastronomía Marinera)**:
+    * **Opción A (Santa Maria Beach)**: Tarde de baño y relax en la extensa playa de dunas de arena fina y aguas cristalinas y someras de **Santa Maria**.
+    * **Opción B (Piso Livadi y Molos)**: Almuerzo frente a los barcos de pesca en el tranquilo puerto de **Piso Livadi** y baño en la reserva natural de la bahía de **Molos**.
+  * **Noche**: Última cena en Paros saboreando un *gouna* (pescado secado al sol y asado) antes de zarpar al día siguiente a Naxos.
+  * 🏨 **Alojamiento (Noche 8/21)**: [**Zoumis Residence**](https://www.booking.com/hotel/gr/zoumis-residence.es.html) *(Naoussa / Paros)*. Puntuación Booking: **9,3/10**.
+
+---r carretera en Antíparos (Tarde)**:
   * *Puerto de Antíparos ➔ Gran Cueva de Antíparos*: **9,8 km | 16 min**.
   * *Cueva de Antíparos ➔ Playas de Soros / Agios Georgios*: **5,5 km | 10 min**.
   * *Agios Georgios ➔ Puerto de Antíparos*: **12 km | 18 min**.
@@ -440,7 +432,7 @@
   * **Tarde (Mini-ferry de 7 min a Antíparos con el coche)**:
     * **Opción A (La Gran Cueva Prehistórica de Antíparos)**: Descenso a la fascinante cueva de estalactitas de más de 85 metros de profundidad con inscripciones históricas desde el siglo IV a.C. y el Kastro veneciano del pueblo.
     * **Opción B (Calas Paradisíacas de Soros y Agios Georgios)**: Tarde de baño frente al islote arqueológico de Despotiko y mariscada local a pie de agua.
-  * 🏨 **Alojamiento (Noche 8/20)**: [**Zoumis Residence**](https://www.booking.com/hotel/gr/zoumis-residence.es.html) *(Naoussa / Paros)*. Puntuación: **9,3/10**.
+  * 🏨 **Alojamiento (Noche 8/21)**: [**Zoumis Residence**](https://www.booking.com/hotel/gr/zoumis-residence.es.html) *(Naoussa / Paros)*. Puntuación Booking: **9,3/10**.
 
 ---
 
@@ -485,7 +477,7 @@
     * **Opción A (La Portara y Kastro Veneciano)**: Visita al islote de Palatia para cruzar la monumental **Portara (Templo de Apolo, 530 a.C.)**. Subida al Kastro medieval, la Torre Glezos y el Museo Arqueológico con ídolos cicládicos de mármol.
     * **Opción B (Playa de Agios Prokopios)**: Descanso en la playa de aguas turquesas y arena fina de Agios Prokopios, resguardada de los vientos.
   * **Atardecer**: La legendaria puesta de sol que encuadra el sol poniente exactamente en el vano de mármol de la Portara.
-  * 🏨 **Alojamiento (Noche 9/20)**: [**Galazia Apartments**](https://www.booking.com/hotel/gr/galazia-apartments-naxos-chora.es.html) *(Naxos Chora / Agios Georgios)*. Puntuación Booking: **9,4/10**. Apartamento a pasos de la playa de Agios Georgios y del casco histórico, cocina completa, terraza soleada y hospitalidad familiar.
+  * 🏨 **Alojamiento (Noche 9/21)**: [**Galazia Apartments**](https://www.booking.com/hotel/gr/galazia-apartments-naxos-chora.es.html) *(Naxos Chora / Agios Georgios)*. Puntuación Booking: **9,4/10**. Apartamento a pasos de la playa de Agios Georgios y del casco histórico, cocina completa, terraza soleada y hospitalidad familiar.
 
 ---
 

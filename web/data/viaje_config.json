@@ -4,14 +4,14 @@
     "subtitle": "Itinerario Arqueológico y Playas 50/50 - 22 Días (Ruta Open-Jaw)",
     "dates": "24 de Mayo al 14 de Junio de 2027",
     "travelers": "2 Adultos (Conductor 68 años con descuento Senior UE 65+ en monumentos)",
-    "budgetGeneral": "4.703 €",
-    "budgetSenior": "4.511 €"
+    "budgetGeneral": "4.720 €",
+    "budgetSenior": "4.528 €"
   },
   "auditCuadro8": {
     "title": "Cuadro 8: Cuadro Resumen de Presupuesto Auditado (2 Personas)",
     "source": "Informe de Auditoría, Verificación y Optimización (Mayo - Junio 2027)",
-    "totalTwoPax": "4.511 €",
-    "totalPerPax": "2.255,50 €",
+    "totalTwoPax": "4.528 €",
+    "totalPerPax": "2.264,00 €",
     "currency": "EUR (€)",
     "items": [
       {
@@ -36,18 +36,18 @@
         "id": 3,
         "icon": "🏨",
         "concept": "Alojamientos seleccionados en Booking (21 noches)",
-        "scope": "21 noches en 7 apartamentos con nota >9,0/10, cocina privada equipada, terraza exterior y aparcamiento (3 noches en Naxos, 4 noches en Mykonos)",
-        "amount": "2.020 €",
-        "perPax": "1.010,00 €",
+        "scope": "21 noches en 7 apartamentos con nota >9,0/10, cocina privada equipada, terraza exterior y aparcamiento (3 noches en Mykonos, 2 en Syros, 3 en Paros, 3 en Naxos, etc.)",
+        "amount": "1.990 €",
+        "perPax": "995,00 €",
         "status": "Verificado"
       },
       {
         "id": 4,
         "icon": "🚗",
         "concept": "Coches de alquiler (Seguro Cero Franquicia)",
-        "scope": "18-20 días de vehículo compacto con cobertura SCDW / Cero Franquicia (sin retención en tarjeta de crédito) y conductor de 68 años sin recargo",
-        "amount": "813 €",
-        "perPax": "406,50 €",
+        "scope": "21 días de vehículo compacto con cobertura SCDW / Cero Franquicia (sin retención en tarjeta de crédito) y conductor de 68 años sin recargo (Mykonos 3d, Syros 2d, Paros 3d, Naxos 3d, Milos 3d, Kos 3d, Rodas 4d)",
+        "amount": "860 €",
+        "perPax": "430,00 €",
         "status": "Verificado"
       },
       {
@@ -73,13 +73,13 @@
   "daysJustification": [
     {
       "island": "Mykonos & Delos",
-      "badge": "4 días (4 noches)",
-      "days": 4,
-      "nights": 4,
+      "badge": "3 días (3 noches)",
+      "days": 3,
+      "nights": 3,
       "monuments": "Santuario Sagrado de Apolo y Artemisa en Delos (UNESCO), Terraza de los Leones arcaicos (600 a.C.), Casas de los Mosaicos (Delfines y Dioniso), Museo Arqueológico de Mykonos (Pithos del Caballo de Troya del s. VII a.C.), Panagia Paraportiani, Monasterio de Panagia Tourliani (1542), Acrópolis micénica de Paleokastro (s. XIV a.C.), Museo Marítimo del Egeo y Casa Tradicional de Lena.",
       "beaches": "Playa virgen de Agrari (aguas cristalinas y relax sin música), Cala de Kapari y Agios Ioannis (atardecer frente a Delos), Playa de Agios Sostis (cala virgen sin agobios), Agios Stefanos, Playa de Lia / Kalafatis, Little Venice y Molinos de Kato Mili.",
       "activities": "Excursión en barco tradicional a Delos (30 min) con ascenso al Monte Kynthos (113 m); ruta en coche al Faro Armenistis al atardecer; circuito rural al pueblo tradicional de Ano Mera; visita cultural al Museo Marítimo y Casa de Lena en Chora; atardecer frente a Delos en Kapari.",
-      "whyDays": "4 días al inicio garantiza el máximo equilibrio y una adaptación perfecta: Día 1 para Chora, Little Venice y molinos; Día 2 para la expedición marítima a Delos y calas vírgenes del norte; Día 3 para el Museo Arqueológico, el Monasterio de Tourliani en Ano Mera y el relax en Lia; y Día 4 para el rico patrimonio marítimo del Egeo, la relajada cala de Agrari y la legendaria puesta de sol de Kapari sobre Delos."
+      "whyDays": "3 noches / 3 días es la duración perfecta para el arranque del viaje: Día 1 para Chora, Little Venice y molinos de Kato Mili; Día 2 para la gran expedición arqueológica a Delos (UNESCO) y relax en calas vírgenes del norte (Agios Sostis); y Día 3 para el Museo Arqueológico (Pithos de Troya), el Monasterio de Tourliani en Ano Mera, el patrimonio marítimo del Egeo y el emblemático atardecer de Kapari frente a Delos."
     },
     {
       "island": "Syros",
@@ -89,17 +89,17 @@
       "monuments": "Yacimiento Prehistórico de Kastri y Chalandriani (2800 a.C.), Ermoupoli Neoclásica, Ayuntamiento de Ernst Ziller, Teatro Apolo (1864, réplica de La Scala), Museo Arqueológico, Ciudadela Medieval de Ano Syros (San Giorgio, s. XIII).",
       "beaches": "Playa marinera de Kini (tabernas sobre la arena), cala de Galissas (arena fina y aguas llanas), bahías protegidas de Vari y Megas Gialos, paseo aristocrático de Vaporia.",
       "activities": "Ruta en coche a la necrópolis cicládica del norte; circuito por las mansiones de capitanes de Poseidonia; velada en Ano Syros con música tradicional Rebetiko.",
-      "whyDays": "Syros ofrece el gran contraste neoclásico y medieval del siglo XIX. Día 5 para la monumentalidad urbana de Ermoupoli y Vaporia, y Día 6 para la prehistoria de Kastri y las calas de Kini. Más días restaría tiempo a islas clásicas."
+      "whyDays": "Syros ofrece el gran contraste neoclásico y medieval del siglo XIX. Día 4 para la monumentalidad urbana de Ermoupoli, Vaporia y Teatro Apolo; Día 5 para la prehistoria de Kastri (2800 a.C.), la ciudadela de Ano Syros y las calas de Kini."
     },
     {
       "island": "Paros & Antíparos",
-      "badge": "2 días (2 noches)",
-      "days": 2,
-      "nights": 2,
-      "monuments": "Basílica Panagia Ekatontapiliani (s. IV, la Iglesia de las Cien Puertas con baptisterio paleocristiano intacto), Museo Arqueológico de Paros (Nike de mármol), Antiguas Canteras de Mármol Licnites de Marathi, Kastro veneciano de Naoussa y fortaleza de Antíparos.",
-      "beaches": "Playa geológica de Kolymbithres (bloques de granito pulidos), Santa Maria (arena blanca y aguas someras), puerto pesquero de Naoussa.",
-      "activities": "Cruce en transbordador local a Antíparos (7 min con coche); descenso espeleológico a la Gran Cueva de Antíparos (411 escalones entre estalagmitas históricas); opción barca a Despotiko.",
-      "whyDays": "2 días es indispensable para cubrir ambas islas sin descartar Marathi ni Antíparos. Día 7 para el Paros monumental y Kolymbithres; Día 8 para cruzar con vehículo a Antíparos y explorar su cueva mítica y calas vírgenes."
+      "badge": "3 días (3 noches)",
+      "days": 3,
+      "nights": 3,
+      "monuments": "Basílica Panagia Ekatontapiliani (s. IV, la Iglesia de las Cien Puertas con baptisterio paleocristiano intacto), Museo Arqueológico de Paros (Nike de mármol), Antiguas Canteras de Mármol Licnites de Marathi, pueblo de montaña de Lefkes y Kastro veneciano de Naoussa y Antíparos.",
+      "beaches": "Playa geológica de Kolymbithres (bloques de granito pulidos), Santa Maria (arena blanca y aguas someras), calas de Soros en Antíparos y puerto pesquero de Naoussa.",
+      "activities": "Cruce en transbordador local a Antíparos (7 min con coche); descenso espeleológico a la Gran Cueva de Antíparos (411 escalones entre estalagmitas históricas); ruta a pie por la senda bizantina de Lefkes a Prodromos; visita a las canteras subterráneas de mármol de Marathi.",
+      "whyDays": "3 noches / 3 días eleva la experiencia de Paros y Antíparos a un nivel extraordinario sin prisas: Día 6 para la llegada, la Basílica de las Cien Puertas (Ekatontapiliani, s. IV), Naoussa y las esculturas de granito de Kolymbithres; Día 7 dedicado por entero a la mágica Antíparos (Cueva prehistórica de 411 escalones, Chora veneciana y calas vírgenes de Soros); y Día 8 para el corazón montañoso de Paros, la senda bizantina de mármol de Lefkes, las legendarias canteras subterráneas de Marathi (hogar de la Venus de Milo) y las playas de Santa Maria o Piso Livadi."
     },
     {
       "island": "Naxos",

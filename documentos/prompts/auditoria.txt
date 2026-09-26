@@ -7,8 +7,7 @@ quiero que me digas si los precios están actualizados, si los horarios son corr
 quiero que me digas si los monumentos que voy a visitar merecen la pena, si las playas son buenas, si las excursiones son interesantes, si los alojamientos son adecuados, si los ferris son puntuales, si los vuelos son convenientes, si los coches de alquiler son fiables.
 quiero que me digas si la combinación entre cultura, playa y relax es adecuada, si la combinación entre las diferentes islas es adecuada, si la combinación entre los diferentes días es adecuada, si la combinación entre los diferentes alojamientos es adecuada, si la combinación entre los diferentes ferris es adecuada, si la combinación entre los diferentes vuelos es adecuada, si la combinación entre los diferentes coches de alquiler es adecuada.
 
-quiero que actualices el documento informe_auditoria del itinirerario 
-quiero que me digas si la combinación entre cultura, playa y relax es adecuada, si la combinación entre las diferentes islas es adecuada, si la combinación entre los diferentes días es adecuada, si la combinación entre los diferentes alojamientos es adecuada, si la combinación entre los diferentes ferris es adecuada, si la combinación entre los diferentes vuelos es adecuada, si la combinación entre los diferentes coches de alquiler es adecuada.
+se puede mejorar algo?
 
-
+dime las mejoras que se pueden hacer, 
 

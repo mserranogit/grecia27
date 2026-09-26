@@ -16,7 +16,7 @@
   },
   {
     "id": "ferry-2",
-    "day": "Día 5 (28 de Mayo)",
+    "day": "Día 4 (27 de Mayo)",
     "route": "Mykonos (Nuevo Puerto Tourlos) ➔ Syros (Ermoupoli)",
     "operator": "SeaJets (WorldChampion Jet / Champion Jet)",
     "duration": "35 - 45 min",
@@ -31,7 +31,7 @@
   },
   {
     "id": "ferry-3",
-    "day": "Día 7 (30 de Mayo)",
+    "day": "Día 6 (29 de Mayo)",
     "route": "Syros (Ermoupoli) ➔ Paros (Parikia)",
     "operator": "Blue Star Ferries / SeaJets",
     "duration": "50 min - 1h 15m",
@@ -46,7 +46,7 @@
   },
   {
     "id": "ferry-4",
-    "day": "Día 8 (31 de Mayo)",
+    "day": "Día 7 (30 de Mayo)",
     "route": "Paros (Pounda) ↔ Antíparos",
     "operator": "Transbordador local Pounda-Antiparos",
     "duration": "7 min por trayecto",

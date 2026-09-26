@@ -2,20 +2,20 @@
   {
     "id": "mykonos",
     "name": "Mykonos",
-    "daysCount": "4 días (Días 1, 2, 3 y 4)",
+    "daysCount": "3 días (Días 1, 2 y 3)",
     "mapCenter": [37.45, 25.35],
     "zoom": 12,
-    "totalKm": "108 km",
-    "totalDrivingTime": "2h 55 min",
-    "description": "Puerta de entrada del archipiélago. Combina el Kastro medieval, los molinos de Kato Mili, la arquitectura cicládica más pura, la cercanía sagrada a Delos, el rico Museo Arqueológico y el patrimonio naval del Museo Marítimo del Egeo.",
+    "totalKm": "95 km",
+    "totalDrivingTime": "2h 30 min",
+    "description": "Puerta de entrada del archipiélago. Combina el Kastro medieval, los molinos de Kato Mili, la arquitectura cicládica más pura, la cercanía sagrada a Delos, el rico Museo Arqueológico, el Museo Marítimo del Egeo y el emblemático atardecer de Kapari.",
     "highlights": [
       "Chora & Little Venice",
       "Panagia Paraportiani",
       "Delos UNESCO (Día 2)",
       "Faro Armenistis",
       "Museo Arqueológico & Ano Mera (Día 3)",
-      "Museo Marítimo & Casa Lena (Día 4)",
-      "Playa Agrari & Lia"
+      "Museo Marítimo & Atardecer Kapari",
+      "Playas Agios Sostis & Lia"
     ],
     "hotel": "Alexandra Suites (Tourlos)",
     "carRent": "Avis Mykonos (Cat. B, 3 días)",
@@ -44,7 +44,7 @@
   {
     "id": "syros",
     "name": "Syros",
-    "daysCount": "2 días (Días 5 y 6)",
+    "daysCount": "2 días (Días 4 y 5)",
     "mapCenter": [37.445, 24.92],
     "zoom": 12,
     "totalKm": "56 km",
@@ -58,27 +58,28 @@
       "Cala Galissas & Kini"
     ],
     "hotel": "AVALON Luxury Suites (Ermoupoli)",
-    "carRent": "Hertz Syros (Cat. A)",
+    "carRent": "Hertz Syros (Cat. A, 2 días)",
     "gmapsQuery": "https://www.google.com/maps/dir/Ermoupoli/Ano+Syros/Chalandriani/Kini+Beach/Galissas+Beach/Ermoupoli"
   },
   {
     "id": "paros",
     "name": "Paros y Antíparos",
-    "daysCount": "2 días (Días 7 y 8)",
+    "daysCount": "3 días (Días 6, 7 y 8)",
     "mapCenter": [37.06, 25.14],
     "zoom": 11,
-    "totalKm": "82 km (incluye 24 km en Antíparos)",
-    "totalDrivingTime": "2h 10 min",
-    "description": "Tierra del mármol más blanco de la Antigüedad. Iglesias bizantinas milenarias, puertos marineros auténticos y la sobrecogedora cueva kárstica de Antíparos.",
+    "totalKm": "115 km (incluye 24 km en Antíparos y rutas de interior)",
+    "totalDrivingTime": "2h 50 min",
+    "description": "Tierra del mármol más blanco de la Antigüedad. Iglesias bizantinas milenarias, pueblos de montaña como Lefkes, puertos marineros auténticos y la sobrecogedora cueva kárstica de Antíparos.",
     "highlights": [
       "Basílica Panagia Ekatontapiliani",
-      "Canteras de Mármol de Marathi",
-      "Naoussa & Kastro",
-      "Cueva de Antíparos",
+      "Naoussa & Kastro veneciano",
+      "Excursión completa a Antíparos & Gran Cueva",
+      "Pueblo de montaña de Lefkes & Senda Bizantina",
+      "Canteras subterráneas de mármol de Marathi",
       "Playa Kolymbithres & Santa Maria"
     ],
     "hotel": "Zoumis Residence (Naoussa)",
-    "carRent": "Enterprise Paros (Cat. B)",
+    "carRent": "Avis Paros / Hertz (Cat. B, 3 días)",
     "gmapsQuery": "https://www.google.com/maps/dir/Parikia/Marathi+Marble+Quarries/Naoussa/Kolymbithres+Beach/Pounda+Port/Cave+of+Antiparos"
   },
   {

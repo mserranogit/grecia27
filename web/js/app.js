@@ -297,12 +297,12 @@ function initNavigation() {
   const budgetSubmenu = document.getElementById('budget-submenu');
   if (budgetSubmenuToggle && budgetSubmenu) {
     const budgetParts = [
-      { label: "📋 Cuadro 8 Auditoría", target: "audit-cuadro-8", cost: "4.511 €" },
-      { label: "Resumen Consolidado", target: "budget-summary-hero", cost: "4.511 €" },
+      { label: "📋 Cuadro 8 Auditoría", target: "audit-cuadro-8", cost: "4.528 €" },
+      { label: "Resumen Consolidado", target: "budget-summary-hero", cost: "4.528 €" },
       { label: "✈️ Vuelos", target: "budget-row-flights", cost: "1.040 €" },
       { label: "⛴️ Ferris", target: "budget-row-ferries", cost: "340 €" },
-      { label: "🏨 Alojamientos (21n)", target: "budget-row-hotels", cost: "2.020 €" },
-      { label: "🚗 Coches SCDW (20d)", target: "budget-row-cars", cost: "813 €" },
+      { label: "🏨 Alojamientos (21n)", target: "budget-row-hotels", cost: "1.990 €" },
+      { label: "🚗 Coches SCDW (21d)", target: "budget-row-cars", cost: "860 €" },
       { label: "⛽ Combustible", target: "budget-row-fuel", cost: "215 €" },
       { label: "🏛️ Monumentos Senior", target: "budget-row-monuments", cost: "83 €" }
     ];

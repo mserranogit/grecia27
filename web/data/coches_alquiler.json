@@ -35,12 +35,12 @@
     },
     {
       "island": "Paros y Antíparos",
-      "days": 2,
+      "days": 3,
       "carType": "Compacto Cat. B (Nissan Micra / VW Polo)",
       "provider": "Avis Paros / Hertz",
-      "baseCost": "70 € (35 €/d)",
-      "insuranceCost": "24 € (12 €/d)",
-      "cost": "94 € (47 €/día)",
+      "baseCost": "105 € (35 €/d)",
+      "insuranceCost": "36 € (12 €/d)",
+      "cost": "141 € (47 €/día)",
       "office": "Puerto de Parikia (autorizado embarque en ferry a Antíparos)",
       "seniorTerms": "Aceptado hasta 75 años sin sobrecoste",
       "link": "https://www.avis.es/"
@@ -94,9 +94,9 @@
       "link": "https://www.enterprise.es/"
     }
   ],
-  "carRentalBaseTotal": "670 € (Mykonos 3d, Naxos 3d, Rodas 4d)",
-  "carRentalInsuranceTotal": "222 € (Todo Riesgo 0 Franquicia)",
-  "carRentalTotal": "813 € (con seguro Cero Franquicia auditado)",
+  "carRentalBaseTotal": "705 € (todas las islas: 21 días de alquiler)",
+  "carRentalInsuranceTotal": "258 € (Todo Riesgo 0 Franquicia)",
+  "carRentalTotal": "860 € (con seguro Cero Franquicia auditado)",
   "fuelEstimatedTotal": "215 €",
-  "grandTotalMobility": "1.028 € (514,00 € / pers.)"
+  "grandTotalMobility": "1.075 € (537,50 € / pers.)"
 }

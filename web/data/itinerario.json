@@ -88,110 +88,70 @@
   {
     "day": 3,
     "date": "26 de Mayo de 2027",
-    "title": "Mykonos: Museo Arqueológico, Ano Mera & Playa de Lia",
+    "title": "Mykonos: Museo Arqueológico, Ano Mera, Patrimonio Marítimo & Kapari",
     "island": "Mykonos",
     "islandId": "mykonos",
-    "summary": "El día arqueológico de Mykonos: el Pithos del Caballo de Troya en el Museo, el Monasterio de Tourliani de 1542 y la Acrópolis micénica de Paleokastro, culminando en la virgen Playa de Lia.",
+    "summary": "Jornada cultural completa en Mykonos: el Pithos del Caballo de Troya, el Monasterio de Tourliani de 1542, el Museo Marítimo del Egeo y atardecer de ensueño frente a Delos en Kapari.",
     "itinerary": {
-      "morning": "09:00 Visita al Museo Arqueológico de Mykonos en el paseo del Puerto Viejo: el colosal Pithos del siglo VII a.C. con el relieve más antiguo del Caballo de Troya y los ajuares funerarios de Rinia.",
-      "afternoon": "Coche (8 km | 15 min) al pueblo interior de Ano Mera: visita al Monasterio de Panagia Tourliani (1542) con su campanario de mármol esculpido y retablo florentino dorado. Subida a la colina para ver los restos de la Acrópolis micénica de Paleokastro (siglo XIV a.C.).",
-      "evening": "Coche (12 km | 18 min) a la costa sureste: baño y relax en la cristalina y poco masificada Playa de Lia o Kalafatis, de aguas azul turquesa y ambiente sereno. Cena de marisco en Ano Mera."
+      "morning": "09:00 Visita al Museo Arqueológico de Mykonos en el paseo del Puerto Viejo: el colosal Pithos del siglo VII a.C. con el relieve más antiguo del Caballo de Troya y ajuares de Rinia. Coche (8 km | 15 min) al pueblo interior de Ano Mera para visitar el Monasterio de Panagia Tourliani (1542) con su retablo florentino tallado.",
+      "afternoon": "Regreso a Chora para recorrer el Museo Marítimo del Egeo (maquetas históricas y linterna original del Faro Armenistis) y la Casa Tradicional de Lena. Coche (10 km | 18 min) hacia la protegida y virgen Playa de Agrari o Lia para baño y almuerzo marinero.",
+      "evening": "Coche a la península de Agios Ioannis (12 km | 20 min) hasta la recóndita Cala Kapari: contemplación del atardecer mítico con el sol poniéndose justo sobre la silueta sagrada de Delos. Cena en taberna tradicional."
     },
     "options": {
-      "a": "Visita detallada a todo el Museo Arqueológico y la colección de anfóras geométricas de Rinia.",
-      "b": "Tarde completa de relax y esnórquel en la cala tranquila de Lia o Kalo Livadi."
+      "a": "Visita exhaustiva al Museo Arqueológico, Monasterio de Tourliani y Museo Marítimo del Egeo.",
+      "b": "Tarde extendida de relax, lectura y baño en la apacible cala de arena de Agrari o Lia."
     },
     "logistics": {
       "type": "Coche",
       "details": [
         "Coche: Tourlos ➔ Museo Arqueológico Mykonos (2 km | 5 min).",
-        "Coche: Puerto Viejo ➔ Monasterio Tourliani / Ano Mera (8 km | 14 min).",
-        "Coche: Ano Mera ➔ Playa de Lia / Kalafatis (8 km | 12 min).",
-        "Coche: Lia ➔ Tourlos (13 km | 20 min).",
-        "Total en coche: 31 km | 51 min."
+        "Coche: Chora ➔ Monasterio Tourliani Ano Mera (8 km | 14 min).",
+        "Coche: Ano Mera ➔ Museo Marítimo Chora / Playa Agrari (12 km | 20 min).",
+        "Coche: Agrari ➔ Cala Kapari / Agios Ioannis (12 km | 20 min).",
+        "Coche: Kapari ➔ Alexandra Suites Tourlos (5,5 km | 12 min).",
+        "Total en coche: 39 km | 1h 11 min de conducción cómoda."
       ]
     },
-    "mapCenter": [37.45, 25.38],
+    "mapCenter": [37.445, 25.35],
     "zoom": 12,
     "waypoints": [
       { "name": "Museo Arqueológico Mykonos", "type": "monument", "coords": [37.4498, 25.3292], "desc": "Pithos Caballo de Troya s. VII a.C." },
-      { "name": "Monasterio Tourliani", "type": "monument", "coords": [37.4485, 25.3925], "desc": "Conjunto monástico con retablo florentino de 1542" },
-      { "name": "Paleokastro Micénico", "type": "monument", "coords": [37.4582, 25.3945], "desc": "Acrópolis micénica del siglo XIV a.C." },
-      { "name": "Playa de Lia", "type": "beach", "coords": [37.4265, 25.4375], "desc": "Cala tranquila y aguas cristalinas" }
+      { "name": "Monasterio Tourliani", "type": "monument", "coords": [37.4485, 25.3925], "desc": "Conjunto monástico de 1542 en Ano Mera" },
+      { "name": "Museo Marítimo del Egeo", "type": "monument", "coords": [37.4452, 25.3298], "desc": "Patrimonio naval y linterna de Armenistis" },
+      { "name": "Playa Agrari", "type": "beach", "coords": [37.4225, 25.3855], "desc": "Bahía virgen de aguas cristalinas" },
+      { "name": "Playa Kapari", "type": "beach", "coords": [37.4248, 25.3082], "desc": "Atardecer mágico frente a la sagrada Delos" }
     ],
     "routeCoords": [
       [37.4628, 25.3292],
       [37.4498, 25.3292],
       [37.4485, 25.3925],
-      [37.4582, 25.3945],
-      [37.4265, 25.4375],
-      [37.4628, 25.3292]
-    ],
-    "gmapsUrl": "https://www.google.com/maps/dir/Mykonos+Archaeological+Museum/Tourliani+Monastery/Paleokastro+Mykonos/Lia+Beach+Mykonos"
-  },
-  {
-    "day": 4,
-    "date": "27 de Mayo de 2027",
-    "title": "Mykonos: Museo Marítimo del Egeo, Playa Agrari & Atardecer en Kapari",
-    "island": "Mykonos",
-    "islandId": "mykonos",
-    "summary": "Patrimonio marítimo y tradición en Chora visitando el Museo Marítimo del Egeo y la Casa de Lena, relax de tarde en la bahía virgen de Agrari y atardecer frente a Delos en Kapari.",
-    "itinerary": {
-      "morning": "10:00 Paseo por el tranquilo barrio de Tria Pigadia en Chora. Visita al Museo Marítimo del Egeo (maquetas navales de la Antigüedad al siglo XIX, cartas náuticas históricas y linterna original del Faro Armenistis) y a la Casa Tradicional de Lena (residencia burguesa decimonónica perfectamente ambientada).",
-      "afternoon": "Coche al sur (10 km | 20 min) hacia la protegida y serena Playa de Agrari, una de las joyas vírgenes de Mykonos con aguas transparentes y arena dorada, alejada del bullicio. Almuerzo marinero relajado junto al mar y baño.",
-      "evening": "Coche a la península de Agios Ioannis Diakoftis (12 km | 22 min) hasta la recóndita Cala Kapari: contemplación de uno de los atardeceres más mágicos de las Cícladas con el sol poniéndose justo sobre la silueta sagrada de Delos. Cena en taberna de pescado en Agios Ioannis."
-    },
-    "options": {
-      "a": "Visita pausada al Museo Marítimo, Casa de Lena y recorrido por los jardines del museo.",
-      "b": "Tarde extendida de relax, lectura y baño en la apacible cala de arena de Agrari."
-    },
-    "logistics": {
-      "type": "Coche",
-      "details": [
-        "Coche: Tourlos ➔ Parking Chora / Tria Pigadia (2,5 km | 7 min).",
-        "Coche: Chora ➔ Playa Agrari (10 km | 20 min).",
-        "Coche: Agrari ➔ Playa Kapari / Agios Ioannis (12 km | 22 min).",
-        "Coche: Kapari ➔ Alexandra Suites Tourlos (5,5 km | 12 min).",
-        "Total en coche: 30 km | 1h 01 min de conducción cómoda."
-      ]
-    },
-    "mapCenter": [37.435, 25.335],
-    "zoom": 12,
-    "waypoints": [
-      { "name": "Museo Marítimo del Egeo", "type": "monument", "coords": [37.4452, 25.3298], "desc": "Patrimonio náutico y linterna de Armenistis" },
-      { "name": "Casa de Lena", "type": "monument", "coords": [37.445, 25.3302], "desc": "Residencia tradicional burguesa del siglo XIX" },
-      { "name": "Playa Agrari", "type": "beach", "coords": [37.4225, 25.3855], "desc": "Bahía virgen de aguas cristalinas y relax" },
-      { "name": "Playa Kapari (Agios Ioannis)", "type": "beach", "coords": [37.4248, 25.3082], "desc": "Cala íntima con atardecer sobre Delos" }
-    ],
-    "routeCoords": [
-      [37.4628, 25.3292],
       [37.4452, 25.3298],
       [37.4225, 25.3855],
       [37.4248, 25.3082],
       [37.4628, 25.3292]
     ],
-    "gmapsUrl": "https://www.google.com/maps/dir/Alexandra+Suites+Tourlos/Aegean+Maritime+Museum/Agrari+Beach/Kapari+Beach"
+    "gmapsUrl": "https://www.google.com/maps/dir/Alexandra+Suites+Tourlos/Mykonos+Archaeological+Museum/Tourliani+Monastery/Aegean+Maritime+Museum/Kapari+Beach"
   },
   {
-    "day": 5,
-    "date": "28 de Mayo de 2027",
+    "day": 4,
+    "date": "27 de Mayo de 2027",
     "title": "Ferry Mykonos ➔ Syros, Ermoupoli Neoclásica & Vaporia",
     "island": "Syros",
     "islandId": "syros",
-    "summary": "Travesía en catamarán rápido a Syros. Devolución de coche en Mykonos y recogida en Ermoupoli. Descubrimiento de los palacetes sobre el mar.",
+    "summary": "Travesía en catamarán rápido a Syros. Devolución de coche en Tourlos y recogida en Ermoupoli. Descubrimiento de los palacetes aristocráticos sobre el mar.",
     "itinerary": {
-      "morning": "Check-out en Alexandra Suites. Traslado de 3 min al Nuevo Puerto de Tourlos. Devolución coche Avis. 10:30 Ferry rápido SeaJets a Syros (35-45 min).",
-      "afternoon": "11:15 Llegada al Puerto de Ermoupoli. Recogida de coche Hertz en el muelle. 5 min al AVALON Luxury Suites. Almuerzo frente a la Plaza Miaouli.",
-      "evening": "Paseo por el majestuoso barrio aristocrático de Vaporia, Iglesia de San Nicolás y chapuzón urbano desde la plataforma de Asteria Beach."
+      "morning": "Check-out en Alexandra Suites. Traslado de 3 min al Nuevo Puerto de Tourlos. Devolución de coche Avis. 10:30 Ferry rápido SeaJets a Syros (35-45 min).",
+      "afternoon": "11:15 Llegada al Puerto de Ermoupoli. Recogida de coche Hertz en el muelle. 5 min al AVALON Luxury Suites. Almuerzo frente a la señorial Plaza Miaouli y Ayuntamiento neoclásico de Ernst Ziller.",
+      "evening": "Paseo por el majestuoso barrio de Vaporia con sus mansiones sobre el mar, Iglesia de San Nicolás y chapuzón urbano desde la plataforma de Asteria Beach."
     },
     "options": {
-      "a": "Visita guiada al interior del Teatro Municipal Apolo y Museo Arqueológico.",
-      "b": "Tomar un café freddo y baño relajado en la plataforma sobre el mar en Asteria."
+      "a": "Visita interior guiada al Teatro Municipal Apolo (1864, pequeña Scala de Milán) y Museo Arqueológico.",
+      "b": "Tomar un café freddo y baño relajado en la plataforma sobre el mar en Asteria / Vaporia."
     },
     "logistics": {
       "type": "Ferry rápido + Coche",
       "details": [
-        "Ferry SeaJets: Presentación en Tourlos 45 min antes (09:45), travesía marítima 40 min, desembarque 10 min en Ermoupoli.",
+        "Ferry SeaJets: Presentación en Tourlos 45 min antes (09:45), travesía 40 min, desembarque 10 min en Ermoupoli.",
         "Coche: Puerto Ermoupoli ➔ AVALON Suites (1 km | 4 min).",
         "Coche: Ermoupoli ➔ Barrio Vaporia / Asteria (1,5 km | 5 min).",
         "Total en coche: 3 km | 10 min."
@@ -202,8 +162,8 @@
     "waypoints": [
       { "name": "Puerto de Tourlos", "type": "port", "coords": [37.4645, 25.3245], "desc": "Salida ferry SeaJets 10:30" },
       { "name": "Puerto de Ermoupoli", "type": "port", "coords": [37.4402, 24.9431], "desc": "Llegada 11:15 | Recogida coche Hertz" },
-      { "name": "AVALON Suites", "type": "hotel", "coords": [37.4442, 24.9418], "desc": "Alojamiento señorial" },
-      { "name": "Teatro Apolo", "type": "monument", "coords": [37.4445, 24.9435], "desc": "Pequeña Scala de Milán de 1864" },
+      { "name": "AVALON Suites", "type": "hotel", "coords": [37.4442, 24.9418], "desc": "Alojamiento señorial neoclásico" },
+      { "name": "Teatro Apolo", "type": "monument", "coords": [37.4445, 24.9435], "desc": "Réplica decimonónica de La Scala de Milán" },
       { "name": "Barrio Vaporia / Asteria", "type": "beach", "coords": [37.4465, 24.9455], "desc": "Palacetes sobre las olas y baño" }
     ],
     "routeCoords": [
@@ -215,20 +175,20 @@
     "gmapsUrl": "https://www.google.com/maps/dir/Port+of+Syros/AVALON+Luxury+Suites/Apollo+Theater+Syros/Vaporia+Ermoupoli"
   },
   {
-    "day": 6,
-    "date": "29 de Mayo de 2027",
+    "day": 5,
+    "date": "28 de Mayo de 2027",
     "title": "Ano Syros Medieval & Yacimiento de Kastri (2800 a.C.)",
     "island": "Syros",
     "islandId": "syros",
     "summary": "Inmersión en la Edad del Bronce en las colinas de Chalandriani y tarde en el burgo medieval veneciano de Ano Syros con atardecer en Kini.",
     "itinerary": {
-      "morning": "Coche hacia el norte salvaje (9 km | 20 min) hasta Chalandriani y yacimiento cicládico amurallado de Kastri (2800 a.C.). Senderismo arqueológico.",
-      "afternoon": "Descenso a Ano Syros. Recorrido a pie por sus callejuelas encaladas sin coches, Catedral católica de San Jorge y Museo Markos Vamvakaris.",
-      "evening": "Traslado a la bahía de Kini (9 km | 15 min). Baño al atardecer en su playa de arena dorada y cena de pescado fresco en primera línea."
+      "morning": "Coche hacia el norte salvaje (9 km | 20 min) hasta Chalandriani y yacimiento cicládico amurallado de Kastri (2800 a.C.). Senderismo arqueológico con vistas al archipiélago.",
+      "afternoon": "Descenso a Ano Syros. Recorrido a pie por sus callejuelas encaladas sin coches, Catedral católica de San Jorge (siglo XIII) y Museo Markos Vamvakaris.",
+      "evening": "Traslado a la bahía de Kini (9 km | 15 min). Baño al atardecer en su playa de arena dorada y cena marinera de pescado fresco en primera línea."
     },
     "options": {
       "a": "Ruta completa a pie hasta la cima amurallada de Kastri (bastiones prehistóricos).",
-      "b": "Paseo panorámico por Ano Syros y baño prolongado en la bahía de Galissas o Kini."
+      "b": "Paseo panorámico por Ano Syros y baño prolongado en la bahía protegida de Galissas o Kini."
     },
     "logistics": {
       "type": "Coche",
@@ -243,9 +203,9 @@
     "mapCenter": [37.465, 24.93],
     "zoom": 12,
     "waypoints": [
-      { "name": "AVALON Suites", "type": "hotel", "coords": [37.4442, 24.9418], "desc": "Punto de salida" },
-      { "name": "Yacimiento Kastri", "type": "monument", "coords": [37.4952, 24.9355], "desc": "Fortaleza de la Edad del Bronce" },
-      { "name": "Ano Syros Medieval", "type": "monument", "coords": [37.4525, 24.9362], "desc": "Catedral San Jorge y callejuelas" },
+      { "name": "AVALON Suites", "type": "hotel", "coords": [37.4442, 24.9418], "desc": "Salida desde Ermoupoli" },
+      { "name": "Yacimiento Kastri", "type": "monument", "coords": [37.4952, 24.9355], "desc": "Fortaleza de la Edad del Bronce (2800 a.C.)" },
+      { "name": "Ano Syros Medieval", "type": "monument", "coords": [37.4525, 24.9362], "desc": "Catedral San Jorge y laberinto peatonal" },
       { "name": "Playa de Kini", "type": "beach", "coords": [37.4505, 24.8985], "desc": "Bahía protegida y puesta de sol" }
     ],
     "routeCoords": [
@@ -258,28 +218,29 @@
     "gmapsUrl": "https://www.google.com/maps/dir/Ermoupoli/Chalandriani+Syros/Ano+Syros/Kini+Beach"
   },
   {
-    "day": 7,
-    "date": "30 de Mayo de 2027",
-    "title": "Ferry Syros ➔ Paros, Ekatontapiliani & Puerto de Naoussa",
+    "day": 6,
+    "date": "29 de Mayo de 2027",
+    "title": "Ferry Syros ➔ Paros, Ekatontapiliani, Puerto de Naoussa & Kolymbithres",
     "island": "Paros",
     "islandId": "paros",
-    "summary": "Corta travesía marítima a Paros. Visita a la magna basílica bizantina de las Cien Puertas y estancia en el idílico puerto de Naoussa.",
+    "summary": "Travesía marítima a Paros. Visita a la magna basílica paleocristiana de las Cien Puertas, esculturas de granito en Kolymbithres y estancia en Naoussa.",
     "itinerary": {
-      "morning": "Devolución de coche en el puerto de Ermoupoli. 11:45 Ferry Blue Star / SeaJets a Paros (50 min - 1h 15m).",
-      "afternoon": "12:50 Llegada a Parikia. Recogida de coche Enterprise en el muelle. Visita a la Basílica bizantina de Panagia Ekatontapiliani (siglo IV) y Museo Arqueológico (Niké de Paros).",
-      "evening": "Traslado (10 km | 15 min) a Naoussa. Check-in en Zoumis Residence. Paseo por el puerto pesquero de Naoussa, fortaleza veneciana y cena de pulpo seco al sol."
+      "morning": "Check-out en AVALON Suites. Devolución de coche en el puerto de Ermoupoli. 11:45 Ferry Blue Star / SeaJets a Paros (50 min - 1h 15m).",
+      "afternoon": "12:50 Llegada a Parikia. Recogida de coche Enterprise en el muelle. Visita a la Basílica de Panagia Ekatontapiliani (siglo IV, baptisterio paleocristiano intacto) y Museo Arqueológico (Niké de Paros).",
+      "evening": "Traslado (10 km | 15 min) a Naoussa. Check-in en Zoumis Residence. Baño en la cercana playa geológica de Kolymbithres y cena marinera junto a la fortaleza veneciana de Naoussa."
     },
     "options": {
-      "a": "Inspección detallada de las canteras antiguas de mármol de Marathi de camino a Naoussa.",
-      "b": "Tarde relajada en la piscina del hotel y baño en la cercana playa de Piperi."
+      "a": "Visita pausada al Museo Arqueológico de Paros y baptisterio paleocristiano de Ekatontapiliani.",
+      "b": "Tarde de relax y baño en las peculiares calas de granito pulido de Kolymbithres."
     },
     "logistics": {
       "type": "Ferry + Coche",
       "details": [
-        "Ferry: Llegada al puerto de Syros 45 min antes (11:00), travesía 55 min, desembarque 10 min en Parikia.",
+        "Ferry: Llegada al puerto de Syros 45 min antes (11:00), travesía 55 min, desembarque en Parikia.",
         "Coche: Puerto Parikia ➔ Panagia Ekatontapiliani (300 m a pie).",
-        "Coche: Parikia ➔ Canteras Marathi ➔ Naoussa (13 km | 22 min).",
-        "Total en coche: 13 km | 22 min."
+        "Coche: Parikia ➔ Naoussa ➔ Kolymbithres (13 km | 20 min).",
+        "Coche: Kolymbithres ➔ Zoumis Residence (4 km | 8 min).",
+        "Total en coche: 17 km | 28 min de conducción cómoda."
       ]
     },
     "mapCenter": [37.1, 25.19],
@@ -287,61 +248,108 @@
     "waypoints": [
       { "name": "Puerto de Parikia", "type": "port", "coords": [37.0855, 25.1495], "desc": "Llegada ferry y recogida de coche" },
       { "name": "Panagia Ekatontapiliani", "type": "monument", "coords": [37.0845, 25.1525], "desc": "Basílica bizantina del siglo IV" },
-      { "name": "Canteras Marathi", "type": "monument", "coords": [37.0695, 25.1835], "desc": "Cuna del mármol translúcido pario" },
       { "name": "Zoumis Residence", "type": "hotel", "coords": [37.1215, 25.2345], "desc": "Alojamiento en Naoussa" },
-      { "name": "Puerto de Naoussa", "type": "monument", "coords": [37.1255, 25.2415], "desc": "Kastro veneciano y tabernas" }
+      { "name": "Playa Kolymbithres", "type": "beach", "coords": [37.1285, 25.2285], "desc": "Bloques de granito pulidos sobre el agua" },
+      { "name": "Puerto de Naoussa", "type": "monument", "coords": [37.1255, 25.2415], "desc": "Kastro veneciano y tabernas marineras" }
     ],
     "routeCoords": [
       [37.0855, 25.1495],
       [37.0845, 25.1525],
-      [37.0695, 25.1835],
-      [37.1215, 25.2345]
+      [37.1215, 25.2345],
+      [37.1285, 25.2285],
+      [37.1255, 25.2415]
     ],
-    "gmapsUrl": "https://www.google.com/maps/dir/Parikia+Port/Panagia+Ekatontapiliani/Marathi+Marble+Quarries/Naoussa+Paros"
+    "gmapsUrl": "https://www.google.com/maps/dir/Parikia+Port/Panagia+Ekatontapiliani/Kolymbithres+Beach/Naoussa+Paros"
   },
   {
-    "day": 8,
-    "date": "31 de Mayo de 2027",
-    "title": "Excursión a Antíparos, Cueva Milenaria & Playas Esculpidas",
+    "day": 7,
+    "date": "30 de Mayo de 2027",
+    "title": "Excursión Completa a Antíparos: Gran Cueva Milenaria, Kastro & Calas Vírgenes",
     "island": "Antíparos & Paros",
     "islandId": "paros",
-    "summary": "Cruzar en barcaza con el coche a Antíparos para descender a su impresionante cueva kárstica y tarde en las rocas de Kolymbithres.",
+    "summary": "Jornada completa y sin prisas en Antíparos cruzando con el coche en transbordador. Descenso a la fascinante cueva kárstica, almuerzo marinero en Chora y relax en las calas de Soros o Despotiko.",
     "itinerary": {
-      "morning": "Coche de Naoussa al muelle de Pounda (14 km | 20 min). Transbordador local (7 min) con el coche a Antíparos. Carretera hacia el sur (9 km | 12 min) hasta la Gran Cueva de Antíparos.",
-      "afternoon": "Paseo por el Kastro fortificado de Chora Antíparos. Almuerzo marinero. 15:00 Transbordador de regreso a Pounda (Paros).",
-      "evening": "Coche directo a la Playa de Kolymbithres (16 km | 22 min): calas protegidas entre rocas graníticas moldeadas por el viento. Atardecer en Naoussa."
+      "morning": "Coche de Naoussa al embarcadero de Pounda (14 km | 20 min). Transbordador local (7 min) con el coche a Antíparos. Carretera hacia el sur (9 km | 12 min) hasta la Gran Cueva de Antíparos: descenso pausado a la cavidad de 85 m (411 escalones) contemplando la estalagmita más antigua de Europa.",
+      "afternoon": "Ascenso tranquilo y ruta al Kastro fortificado de Chora Antíparos (siglo XV). Almuerzo marinero de pulpo al sol en el paseo de Chora. Tiempo para cruzar en barca desde Agios Georgios al yacimiento sagrado de Apolo en Despotiko o relajarse en la protegida playa de Soros.",
+      "evening": "18:00 Transbordador de regreso a Pounda (Paros). Regreso descansado a Naoussa para cenar en sus callejones encalados."
     },
     "options": {
-      "a": "Barca desde Agios Georgios en Antíparos para ver el yacimiento arcaico de Despotiko.",
-      "b": "Tarde de relax total y tumbona en las calas de arena fina de Kolymbithres o Santa Maria."
+      "a": "Excursión en barca tradicional desde Agios Georgios al yacimiento arcaico de Despotiko.",
+      "b": "Tarde completa de baño, sol y relax en la extensa y tranquila playa de arena de Soros."
     },
     "logistics": {
       "type": "Ferry local con coche + Coche",
       "details": [
-        "Transbordador Pounda ↔ Antíparos: 7 min por sentido. Salidas continuas.",
+        "Transbordador Pounda ↔ Antíparos: 7 min por sentido. Frecuencia continua cada 30 min.",
         "Coche: Naoussa ➔ Pounda (14 km | 20 min).",
-        "Coche en Antíparos: Puerto ➔ Cueva de Antíparos (9 km | 12 min x2 i/v = 18 km).",
-        "Coche en Paros: Pounda ➔ Kolymbithres ➔ Naoussa (18 km | 25 min).",
-        "Total en coche: 50 km | 1h 10 min de conducción."
+        "Coche en Antíparos: Pounda ➔ Cueva de Antíparos ➔ Playa Soros (12 km | 18 min x2 i/v = 24 km).",
+        "Coche en Paros: Pounda ➔ Naoussa (14 km | 20 min).",
+        "Total en coche: 52 km | 1h 18 min de conducción cómoda."
       ]
     },
-    "mapCenter": [37.06, 25.13],
+    "mapCenter": [37.04, 25.1],
     "zoom": 11,
     "waypoints": [
       { "name": "Zoumis Residence", "type": "hotel", "coords": [37.1215, 25.2345], "desc": "Salida desde Naoussa" },
       { "name": "Muelle de Pounda", "type": "port", "coords": [37.0425, 25.1052], "desc": "Barcaza con coche a Antíparos" },
-      { "name": "Cueva de Antíparos", "type": "monument", "coords": [37.0092, 25.0745], "desc": "Estalagmitas milenarias (85 m prof.)" },
-      { "name": "Chora Antíparos", "type": "monument", "coords": [37.0402, 25.0805], "desc": "Kastro veneciano del siglo XV" },
-      { "name": "Playa Kolymbithres", "type": "beach", "coords": [37.1285, 25.2285], "desc": "Esculturas naturales de granito" }
+      { "name": "Cueva de Antíparos", "type": "monument", "coords": [37.0092, 25.0745], "desc": "Cavidad kárstica con firmas históricas (411 escalones)" },
+      { "name": "Chora Antíparos", "type": "monument", "coords": [37.0402, 25.0805], "desc": "Kastro veneciano fortificado de 1440" },
+      { "name": "Playa de Soros", "type": "beach", "coords": [36.9855, 25.0485], "desc": "Cala protegida de aguas turquesas" }
     ],
     "routeCoords": [
       [37.1215, 25.2345],
       [37.0425, 25.1052],
       [37.0092, 25.0745],
       [37.0402, 25.0805],
-      [37.1285, 25.2285]
+      [36.9855, 25.0485],
+      [37.0425, 25.1052],
+      [37.1215, 25.2345]
     ],
-    "gmapsUrl": "https://www.google.com/maps/dir/Naoussa/Pounta+Paros/Cave+of+Antiparos/Kolymbithres+Beach"
+    "gmapsUrl": "https://www.google.com/maps/dir/Naoussa/Pounta+Paros/Cave+of+Antiparos/Soros+Beach+Antiparos"
+  },
+  {
+    "day": 8,
+    "date": "31 de Mayo de 2027",
+    "title": "Paros Auténtica: Pueblo Señorial de Lefkes, Canteras de Mármol de Marathi & Playas del Este",
+    "island": "Paros",
+    "islandId": "paros",
+    "summary": "El día dorado de Paros: callejones de mármol y buganvillas en el pueblo de montaña de Lefkes, las históricas galerías subterráneas de mármol de Marathi y relax en las playas orientales de Santa Maria o Piso Livadi.",
+    "itinerary": {
+      "morning": "Coche hacia el corazón verde de Paros (11 km | 18 min) hasta el pintoresco pueblo de montaña de Lefkes. Paseo por su plaza de mármol, Iglesia neoclásica de Agia Triada y tramo inicial del Sendero Bizantino del siglo X entre olivares centenarios.",
+      "afternoon": "Coche al valle de Marathi (6 km | 10 min) para explorar las legendarias Canteras Antiguas de Mármol Licnites, donde los maestros escultores de la Antigüedad extrajeron el mármol más translúcido para esculpir la Venus de Milo y la Victoria de Samotracia.",
+      "evening": "Ruta hacia la costa oriental (8 km | 12 min): baño, lectura y relax en la protegida bahía de Santa Maria o en el ambiente marinero de Piso Livadi. Regreso a Naoussa para la última cena paria."
+    },
+    "options": {
+      "a": "Caminata arqueológica pausada por las canteras de Marathi y recorrido etnográfico por Lefkes.",
+      "b": "Tarde prolongada de sol, lectura y baño tranquilo en la ensenada dorada de Santa Maria o Golden Beach."
+    },
+    "logistics": {
+      "type": "Coche",
+      "details": [
+        "Coche: Naoussa ➔ Lefkes (11 km | 18 min).",
+        "Coche: Lefkes ➔ Canteras de Marathi (6 km | 10 min).",
+        "Coche: Marathi ➔ Playa Santa Maria / Piso Livadi (10 km | 15 min).",
+        "Coche: Santa Maria ➔ Zoumis Residence Naoussa (5 km | 8 min).",
+        "Total en coche: 32 km | 51 min de conducción tranquila."
+      ]
+    },
+    "mapCenter": [37.08, 25.22],
+    "zoom": 12,
+    "waypoints": [
+      { "name": "Zoumis Residence", "type": "hotel", "coords": [37.1215, 25.2345], "desc": "Salida desde Naoussa" },
+      { "name": "Lefkes Pueblo de Montaña", "type": "monument", "coords": [37.0565, 25.2085], "desc": "Pueblo señorial, buganvillas y Sendero Bizantino" },
+      { "name": "Canteras de Marathi", "type": "monument", "coords": [37.0695, 25.1835], "desc": "Cuna del mármol pario de la Venus de Milo" },
+      { "name": "Playa Santa Maria", "type": "beach", "coords": [37.1425, 25.2585], "desc": "Arena dorada y aguas cristalinas" },
+      { "name": "Puerto de Naoussa", "type": "monument", "coords": [37.1255, 25.2415], "desc": "Regreso a Naoussa" }
+    ],
+    "routeCoords": [
+      [37.1215, 25.2345],
+      [37.0565, 25.2085],
+      [37.0695, 25.1835],
+      [37.1425, 25.2585],
+      [37.1215, 25.2345]
+    ],
+    "gmapsUrl": "https://www.google.com/maps/dir/Naoussa/Lefkes/Marathi+Marble+Quarries/Santa+Maria+Beach+Paros"
   },
   {
     "day": 9,
