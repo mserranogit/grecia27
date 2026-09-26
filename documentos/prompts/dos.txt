@@ -23,3 +23,27 @@ actualiza toda la información afectad a este cambio:
 - etc.
 
 quiero que a 
+
+
+quiero que analices el archivo viaje_config.json y extraigas toda la información económica de presupuestos y la metas en un nuevo archivo que se llame presupuesto.json
+también he visto que contiene información de islas...no debería estar en el archivo islas.json?
+quiero que el archivo viaje_config.json solo contenga la información  relacionada con la configuracion del viaje, como por ejemplo:
+- fechas de inicio y fin
+- número de viajeros
+- estilo del viaje, por ejemplo:
+- tipo de viaje, por ejemplo: cultural, relax, aventura, etc.
+- numero de dias de viaje
+- etc.
+dime que te parece este nuevo enfoque de estructuración de la información   
+te parece bien?
+cambirías algo?
+
+añade a al archivo viaje_config las webs que se utilizan en el viaje para las reservas, por ejemplo:
+- las web de ferris que se utilizan 
+- las web de vuelos que se utilizan
+- las web de alojamientos que se utilizan
+- las web de coches que se utilizan 
+- las web de monumentos
+- las web de islas
+- etc.
+es decir los recursos que utiliza la app para gestionar el viaje

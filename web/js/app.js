@@ -351,6 +351,8 @@ function initNavigation() {
       renderView(view);
       if (link.id === 'nav-alternativas') {
         scrollToTarget('audit-alternativas');
+      } else if (link.id === 'nav-resources') {
+        scrollToTarget('audit-recursos');
       }
       closeMobileSidebar();
     });
@@ -1409,96 +1411,15 @@ function renderBudgetView(container) {
           </tbody>
         </table>
       </div>
-      <div class="table-scroll-hint">⇄ Desliza horizontalmente la tabla para ver todas las columnas</div>
-    </div>
-
-    <!-- SECCIÓN 12: ALTERNATIVAS PARA MEJORAR EL VIAJE -->
-    <div style="margin-top: 2.75rem;" id="audit-alternativas">
-      <div style="display:flex;align-items:center;gap:0.75rem;margin-bottom:1.5rem;padding-bottom:0.75rem;border-bottom:2px solid var(--color-border);">
-        <span style="font-size:1.8rem;">🌟</span>
-        <div>
-          <h3 style="font-size:1.4rem;font-weight:700;color:var(--color-primary);margin:0;">12. Alternativas para Mejorar el Viaje</h3>
-          <p style="margin:0;font-size:0.88rem;color:var(--color-text-muted);">Cinco propuestas de alto valor para enriquecer o personalizar el equilibrio entre arqueología, gastronomía y paisajes naturales.</p>
-        </div>
-      </div>
-
-      <div class="audit-grid">
-        <!-- Alternativa A: Sifnos -->
-        <div class="audit-card">
-          <div class="audit-card-header">
-            <span class="audit-card-title">🍷 Alternativa A: Añadir Sifnos en lugar de 1 día de Syros</span>
-            <span class="audit-status-badge" style="background:#fef3c7;color:#92400e;">Cícladas / Gastronomía</span>
-          </div>
-          <div class="audit-card-body">
-            <strong>Sifnos</strong> (situada estratégicamente entre Syros y Paros en la ruta marítima) destaca por poseer la <strong>gastronomía más aclamada de las Cícladas</strong> (cuna del legendario chef Tselementes), talleres de alfarería artesanal milenaria en Kamares y Vathy, y el fotogénico <strong>Monasterio de Chrissopigi</strong> levantado sobre un saliente rocoso frente al mar.
-          </div>
-          <div class="audit-recommendation-box">
-            <strong>Ruta sugerida:</strong> Mykonos ➔ Syros (1 noche) ➔ Sifnos (1 noche) ➔ Paros (3 noches). Redistribuye las 2 noches de Syros en 1 noche Syros + 1 noche Sifnos sin añadir costes de ferry significativos.
-          </div>
-        </div>
-
-        <!-- Alternativa B: Bodrum Turquía -->
-        <div class="audit-card">
-          <div class="audit-card-header">
-            <span class="audit-card-title">🛳️ Alternativa B: Excursión a Bodrum (Turquía) desde Kos</span>
-            <span class="audit-status-badge" style="background:#e0e7ff;color:#3730a3;">7ª Maravilla Antigua</span>
-          </div>
-          <div class="audit-card-body">
-            Desde el puerto de Kos parten ferris diarios a <strong>Bodrum (Turquía)</strong> en solo <strong>35 minutos</strong> (~15-20 €/persona). Bodrum alberga el célebre <strong>Mausoleo de Halicarnaso</strong> (una de las 7 Maravillas del Mundo Antiguo) y el sobrecogedor <strong>Castillo de San Pedro</strong> con el Museo de Arqueología Submarina (pecio de Uluburun, Edad del Bronce).
-          </div>
-          <div class="audit-recommendation-box" style="background:#fff1f2;border-color:#fecdd3;color:#9f1239;">
-            ⚠️ <strong>Requisito migratorio:</strong> Obligatorio pasaporte en vigor con vigencia mínima de 6 meses. El DNI español no es válido para entrar en territorio de Turquía.
-          </div>
-        </div>
-
-        <!-- Alternativa C: Prasonisi + Monte Ataviros -->
-        <div class="audit-card">
-          <div class="audit-card-header">
-            <span class="audit-card-title">🏖️ Alternativa C: Prasonisi + Monte Ataviros (Día 21)</span>
-            <span class="audit-status-badge" style="background:#dcfce7;color:#166534;">Naturaleza & Zeus</span>
-          </div>
-          <div class="audit-card-body">
-            En la expedición al sur de Rodas, llegar hasta <strong>Prasonisi</strong> es una experiencia visual irrepetible: un istmo de arena natural donde se tocan el <strong>Mar Mediterráneo y el Mar Egeo</strong>, con condiciones opuestas de oleaje y color a cada lado. En la misma ruta se puede ascender las laderas del <strong>Monte Ataviros</strong> (1.215 m, cumbre de Rodas), hogar de las ruinas del <strong>templo arcaico de Zeus Atabirio</strong>.
-          </div>
-          <div class="audit-recommendation-box">
-            <strong>Combinación ideal:</strong> Realizar Monolithos ➔ Prasonisi ➔ laderas de Ataviros ➔ almuerzo y cata en las bodegas vinícolas de Embonas. Añade ~50 km al recorrido total del Día 21.
-          </div>
-        </div>
-
-        <!-- Alternativa D: Nisyros -->
-        <div class="audit-card">
-          <div class="audit-card-header">
-            <span class="audit-card-title">🌋 Alternativa D: Cos Antiguo y Excursión a Nisyros</span>
-            <span class="audit-status-badge" style="background:#fee2e2;color:#991b1b;">Volcán Activo</span>
-          </div>
-          <div class="audit-card-body">
-            Nisyros (a 30-40 min de ferry desde Kos / Kardamena) alberga el volcán activo <strong>Stefanos</strong>. Es la única isla de Grecia donde es posible <strong>descender a pie directamente al fondo de un cráter activo</strong> (260 metros de diámetro), caminando entre fumarolas y emanaciones sulfurosas vivas. Una experiencia geológica única equiparable a Sarakiniko en Milos.
-          </div>
-          <div class="audit-recommendation-box">
-            <strong>Horarios:</strong> Salidas matinales (09:00 h) y regreso por la tarde (17:00 h). Permite pasear por el burgo blanco y marinero de Mandraki y visitar su monasterio de Panagia Spiliani.
-          </div>
-        </div>
-
-        <!-- Alternativa E: Termas de Kallithea + Cueva Siete Doncellas -->
-        <div class="audit-card">
-          <div class="audit-card-header">
-            <span class="audit-card-title">🏛️ Alternativa E: Termas de Kallithea + Cueva de las Siete Doncellas</span>
-            <span class="audit-status-badge" style="background:#f3e8ff;color:#6b21a8;">Art-Déco & Espeleología</span>
-          </div>
-          <div class="audit-card-body">
-            Las <strong>Termas de Kallithea Springs</strong> (balneario art-déco italiano de 1929 con mosaicos de cantos rodados, jardines exóticos y cala semicircular de aguas mansas) se complementan a la perfección con la cercana <strong>Cueva de las Siete Doncellas</strong> (próxima a Faliraki), gruta marina de gran interés geológico y aguas turquesas ideales para el snorkel y el descanso.
-          </div>
-          <div class="audit-recommendation-box">
-            <strong>Integración:</strong> Perfectamente combinable en el Día 20 como opción relajada de tarde tras visitar la Acrópolis de Kamiros o como alternativa a Anthony Quinn.
-          </div>
-        </div>
-      </div>
+            <div class="table-scroll-hint">⇄ Desliza horizontalmente la tabla para ver todas las columnas</div>
     </div>
   `;
 
   container.innerHTML = html;
   initTableViewToggles(container);
 }
+
+
 
 /* ==========================================================================
    9. VISTA: AUDITORÍA & CONSEJOS DE CALIDAD
@@ -1664,6 +1585,202 @@ function renderAuditView(container) {
         </table>
       </div>
       <div class="table-scroll-hint">⇄ Desliza horizontalmente la tabla para ver todas las columnas</div>
+    </div>
+
+    <!-- SECCIÓN 12: ALTERNATIVAS PARA MEJORAR EL VIAJE -->
+    <div style="margin-top: 2.75rem;" id="audit-alternativas">
+      <div style="display:flex;align-items:center;gap:0.75rem;margin-bottom:1.5rem;padding-bottom:0.75rem;border-bottom:2px solid var(--color-border);">
+        <span style="font-size:1.8rem;">🌟</span>
+        <div>
+          <h3 style="font-size:1.4rem;font-weight:700;color:var(--color-primary);margin:0;">12. Alternativas para Mejorar el Viaje</h3>
+          <p style="margin:0;font-size:0.88rem;color:var(--color-text-muted);">Cinco propuestas de alto valor para enriquecer o personalizar el equilibrio entre arqueología, gastronomía y paisajes naturales.</p>
+        </div>
+      </div>
+
+      <div class="audit-grid">
+        <!-- Alternativa A: Sifnos -->
+        <div class="audit-card">
+          <div class="audit-card-header">
+            <span class="audit-card-title">🍷 Alternativa A: Añadir Sifnos en lugar de 1 día de Syros</span>
+            <span class="audit-status-badge" style="background:#fef3c7;color:#92400e;">Cícladas / Gastronomía</span>
+          </div>
+          <div class="audit-card-body">
+            <strong>Sifnos</strong> (situada estratégicamente entre Syros y Paros en la ruta marítima) destaca por poseer la <strong>gastronomía más aclamada de las Cícladas</strong> (cuna del legendario chef Tselementes), talleres de alfarería artesanal milenaria en Kamares y Vathy, y el fotogénico <strong>Monasterio de Chrissopigi</strong> levantado sobre un saliente rocoso frente al mar.
+          </div>
+          <div class="audit-recommendation-box">
+            <strong>Ruta sugerida:</strong> Mykonos ➔ Syros (1 noche) ➔ Sifnos (1 noche) ➔ Paros (3 noches). Redistribuye las 2 noches de Syros en 1 noche Syros + 1 noche Sifnos sin añadir costes de ferry significativos.
+          </div>
+        </div>
+
+        <!-- Alternativa B: Bodrum Turquía -->
+        <div class="audit-card">
+          <div class="audit-card-header">
+            <span class="audit-card-title">🛳️ Alternativa B: Excursión a Bodrum (Turquía) desde Kos</span>
+            <span class="audit-status-badge" style="background:#e0e7ff;color:#3730a3;">7ª Maravilla Antigua</span>
+          </div>
+          <div class="audit-card-body">
+            Desde el puerto de Kos parten ferris diarios a <strong>Bodrum (Turquía)</strong> en solo <strong>35 minutos</strong> (~15-20 €/persona). Bodrum alberga el célebre <strong>Mausoleo de Halicarnaso</strong> (una de las 7 Maravillas del Mundo Antiguo) y el sobrecogedor <strong>Castillo de San Pedro</strong> con el Museo de Arqueología Submarina (pecio de Uluburun, Edad del Bronce).
+          </div>
+          <div class="audit-recommendation-box" style="background:#fff1f2;border-color:#fecdd3;color:#9f1239;">
+            ⚠️ <strong>Requisito migratorio:</strong> Obligatorio pasaporte en vigor con vigencia mínima de 6 meses. El DNI español no es válido para entrar en territorio de Turquía.
+          </div>
+        </div>
+
+        <!-- Alternativa C: Prasonisi + Monte Ataviros -->
+        <div class="audit-card">
+          <div class="audit-card-header">
+            <span class="audit-card-title">🏖️ Alternativa C: Prasonisi + Monte Ataviros (Día 21)</span>
+            <span class="audit-status-badge" style="background:#dcfce7;color:#166534;">Naturaleza & Zeus</span>
+          </div>
+          <div class="audit-card-body">
+            En la expedición al sur de Rodas, llegar hasta <strong>Prasonisi</strong> es una experiencia visual irrepetible: un istmo de arena natural donde se tocan el <strong>Mar Mediterráneo y el Mar Egeo</strong>, con condiciones opuestas de oleaje y color a cada lado. En la misma ruta se puede ascender las laderas del <strong>Monte Ataviros</strong> (1.215 m, cumbre de Rodas), hogar de las ruinas del <strong>templo arcaico de Zeus Atabirio</strong>.
+          </div>
+          <div class="audit-recommendation-box">
+            <strong>Combinación ideal:</strong> Realizar Monolithos ➔ Prasonisi ➔ laderas de Ataviros ➔ almuerzo y cata en las bodegas vinícolas de Embonas. Añade ~50 km al recorrido total del Día 21.
+          </div>
+        </div>
+
+        <!-- Alternativa D: Nisyros -->
+        <div class="audit-card">
+          <div class="audit-card-header">
+            <span class="audit-card-title">🌋 Alternativa D: Cos Antiguo y Excursión a Nisyros</span>
+            <span class="audit-status-badge" style="background:#fee2e2;color:#991b1b;">Volcán Activo</span>
+          </div>
+          <div class="audit-card-body">
+            Nisyros (a 30-40 min de ferry desde Kos / Kardamena) alberga el volcán activo <strong>Stefanos</strong>. Es la única isla de Grecia donde es posible <strong>descender a pie directamente al fondo de un cráter activo</strong> (260 metros de diámetro), caminando entre fumarolas y emanaciones sulfurosas vivas. Una experiencia geológica única equiparable a Sarakiniko en Milos.
+          </div>
+          <div class="audit-recommendation-box">
+            <strong>Horarios:</strong> Salidas matinales (09:00 h) y regreso por la tarde (17:00 h). Permite pasear por el burgo blanco y marinero de Mandraki y visitar su monasterio de Panagia Spiliani.
+          </div>
+        </div>
+
+        <!-- Alternativa E: Termas de Kallithea + Cueva Siete Doncellas -->
+        <div class="audit-card">
+          <div class="audit-card-header">
+            <span class="audit-card-title">🏛️ Alternativa E: Termas de Kallithea + Cueva de las Siete Doncellas</span>
+            <span class="audit-status-badge" style="background:#f3e8ff;color:#6b21a8;">Art-Déco & Espeleología</span>
+          </div>
+          <div class="audit-card-body">
+            Las <strong>Termas de Kallithea Springs</strong> (balneario art-déco italiano de 1929 con mosaicos de cantos rodados, jardines exóticos y cala semicircular de aguas mansas) se complementan a la perfección con la cercana <strong>Cueva de las Siete Doncellas</strong> (próxima a Faliraki), gruta marina de gran interés geológico y aguas turquesas ideales para el snorkel y el descanso.
+          </div>
+          <div class="audit-recommendation-box">
+            <strong>Integración:</strong> Perfectamente combinable en el Día 20 como opción relajada de tarde tras visitar la Acrópolis de Kamiros o como alternativa a Anthony Quinn.
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- SECCIÓN: DIRECTORIO DE RECURSOS Y WEBS OFICIALES -->
+    <div style="margin-top: 3rem;" id="audit-recursos">
+      <div style="display:flex;align-items:center;gap:0.75rem;margin-bottom:1.5rem;padding-bottom:0.75rem;border-bottom:2px solid var(--color-border);">
+        <span style="font-size:1.8rem;">🌐</span>
+        <div>
+          <h3 style="font-size:1.4rem;font-weight:700;color:var(--color-primary);margin:0;">Directorio de Webs y Recursos Oficiales de Reserva</h3>
+          <p style="margin:0;font-size:0.88rem;color:var(--color-text-muted);">Enlaces directos a aerolíneas, navieras, Booking, rent-a-car con cobertura SCDW, entradas oficiales ODAP y meteorología marina.</p>
+        </div>
+      </div>
+
+      <div class="audit-grid">
+        <!-- Vuelos -->
+        <div class="audit-card">
+          <div class="audit-card-header">
+            <span class="audit-card-title">✈️ Aerolíneas y Vuelos</span>
+            <span class="audit-status-badge" style="background:#e0f2fe;color:#0369a1;">Vuelos I/V + Doméstico</span>
+          </div>
+          <div class="audit-card-body" style="padding:0.75rem 1rem;">
+            <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:0.6rem;font-size:0.86rem;">
+              <li><strong><a href="https://www.iberiaexpress.com/" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Iberia Express ➔</a></strong> Vuelo directo Madrid (MAD) ➔ Mykonos (JMK) Día 1.</li>
+              <li><strong><a href="https://en.aegeanair.com/" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Aegean Airlines ➔</a></strong> Milos ➔ Kos (vía Atenas, Día 15) y Rodas ➔ Madrid (vía Atenas, Día 22).</li>
+              <li><strong><a href="https://www.skyscanner.es/" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Skyscanner España ➔</a></strong> Monitorización de tarifas y alertas de vuelos.</li>
+              <li><strong><a href="https://www.google.com/travel/flights" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Google Flights ➔</a></strong> Seguimiento de puntualidad y estado de conexiones.</li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Navieras y Ferris -->
+        <div class="audit-card">
+          <div class="audit-card-header">
+            <span class="audit-card-title">⛴️ Navieras y Ferris</span>
+            <span class="audit-status-badge" style="background:#e0e7ff;color:#3730a3;">7 Travesías Marítimas</span>
+          </div>
+          <div class="audit-card-body" style="padding:0.75rem 1rem;">
+            <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:0.6rem;font-size:0.86rem;">
+              <li><strong><a href="https://www.seajets.com/es" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">SeaJets ➔</a></strong> Catamaranes rápidos: Mykonos ➔ Syros y Naxos ➔ Milos.</li>
+              <li><strong><a href="https://www.bluestarferries.com/es-es" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Blue Star Ferries ➔</a></strong> Buques convencionales: Syros ➔ Paros y Paros ➔ Naxos.</li>
+              <li><strong><a href="https://www.12ne.gr/en/" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Dodekanisos Seaways ➔</a></strong> Catamarán Dodecaneso: Kos ➔ Rodas.</li>
+              <li><strong><a href="https://delostours.gr/" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Delos Tours ➔</a></strong> Barco oficial para la excursión Mykonos ↔ Delos UNESCO.</li>
+              <li><strong><a href="https://www.ferryhopper.com/es/" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Ferryhopper ➔</a></strong> Emisión de e-tickets y Ferry Tracker en tiempo real.</li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Alojamientos Booking -->
+        <div class="audit-card">
+          <div class="audit-card-header">
+            <span class="audit-card-title">🏨 Alojamientos Seleccionados</span>
+            <span class="audit-status-badge" style="background:#dcfce7;color:#166534;">7 Bases >9,0 Booking</span>
+          </div>
+          <div class="audit-card-body" style="padding:0.75rem 1rem;">
+            <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:0.5rem;font-size:0.84rem;">
+              <li><strong>Mykonos:</strong> <a href="https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Alexandra Suites (Tourlos) ➔</a></li>
+              <li><strong>Syros:</strong> <a href="https://www.booking.com/hotel/gr/avalon-luxury-suites-ermoupoli.es.html" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">AVALON Luxury Suites (Ermoupoli) ➔</a></li>
+              <li><strong>Paros:</strong> <a href="https://www.booking.com/hotel/gr/zoumis-residence.es.html" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Zoumis Residence (Naoussa) ➔</a></li>
+              <li><strong>Naxos:</strong> <a href="https://www.booking.com/hotel/gr/galazia-apartments-naxos-chora.es.html" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Galazia Apartments (Chora) ➔</a></li>
+              <li><strong>Milos:</strong> <a href="https://www.booking.com/hotel/gr/anais-milos-suites.es.html" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Anais Milos Suites (Adamas) ➔</a></li>
+              <li><strong>Kos:</strong> <a href="https://www.booking.com/hotel/gr/orpheus-studios-kos.es.html" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Orpheus Studios (Kos Town) ➔</a></li>
+              <li><strong>Rodas:</strong> <a href="https://www.booking.com/hotel/gr/old-town-nest.es.html" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Old Town Nest (Ciudad Medieval) ➔</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Coches de Alquiler -->
+        <div class="audit-card">
+          <div class="audit-card-header">
+            <span class="audit-card-title">🚗 Coches con Seguro SCDW</span>
+            <span class="audit-status-badge" style="background:#fef3c7;color:#92400e;">Cero Franquicia / Senior OK</span>
+          </div>
+          <div class="audit-card-body" style="padding:0.75rem 1rem;">
+            <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:0.6rem;font-size:0.86rem;">
+              <li><strong><a href="https://www.avis.es/" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Avis Grecia ➔</a></strong> Bases en Mykonos, Paros y Rodas.</li>
+              <li><strong><a href="https://www.hertz.gr/" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Hertz Grecia ➔</a></strong> Puerto de Ermoupoli (Syros).</li>
+              <li><strong><a href="https://www.enterprise.es/" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Enterprise Grecia ➔</a></strong> Puerto de Naxos y Aeropuerto de Kos.</li>
+              <li><strong><a href="https://www.avance.gr/" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Avance Car Rental ➔</a></strong> Puerto de Adamas (Milos).</li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Monumentos y Cultura -->
+        <div class="audit-card">
+          <div class="audit-card-header">
+            <span class="audit-card-title">🏛️ Entradas Oficiales y Cultura</span>
+            <span class="audit-status-badge" style="background:#fee2e2;color:#991b1b;">50% Dto. Senior UE</span>
+          </div>
+          <div class="audit-card-body" style="padding:0.75rem 1rem;">
+            <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:0.6rem;font-size:0.86rem;">
+              <li><strong><a href="https://hhticket.gr/" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Hellenic Heritage Ticket (ODAP) ➔</a></strong> Entradas oficiales y acreditación Senior 65+ (Delos, Lindos, Asklepieion, Kamiros, etc.).</li>
+              <li><strong><a href="http://odysseus.culture.gr/" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Portal Odysseus (Min. Cultura) ➔</a></strong> Planos, horarios y fichas de yacimientos.</li>
+              <li><strong><a href="https://ekatontapyliani.gr/" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Panagia Ekatontapiliani ➔</a></strong> Templo paleocristiano del siglo IV en Paros.</li>
+              <li><strong><a href="https://antiparos.com/cave-of-antiparos/" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Cueva de Antíparos ➔</a></strong> Horarios de acceso a la cueva kárstica.</li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Meteorología y Cartografía -->
+        <div class="audit-card">
+          <div class="audit-card-header">
+            <span class="audit-card-title">🌊 Cartografía, Viento y Mar</span>
+            <span class="audit-status-badge" style="background:#f3e8ff;color:#6b21a8;">Meltemi & Olas</span>
+          </div>
+          <div class="audit-card-body" style="padding:0.75rem 1rem;">
+            <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:0.6rem;font-size:0.86rem;">
+              <li><strong><a href="https://poseidon.hcmr.gr/" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Poseidon Weather System ➔</a></strong> Predicción oficial de oleaje y viento en el Egeo.</li>
+              <li><strong><a href="https://www.meteo.gr/" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Meteo.gr ➔</a></strong> Previsión del viento Meltemi y temperaturas insulares.</li>
+              <li><strong><a href="https://www.google.com/maps" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">Google Maps ➔</a></strong> Navegación por carreteras y calas insulares.</li>
+              <li><strong><a href="https://www.openstreetmap.org/" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary);text-decoration:underline;">OpenStreetMap ➔</a></strong> Senderismo cicládico y cartografía libre de la app.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
     </div>
   `;
 

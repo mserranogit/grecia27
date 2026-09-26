@@ -17,6 +17,7 @@
 let ITINERARY_DATA = {
   tripConfig: {},
   tripInfo: {},
+  recursosYWebs: {},
   presupuesto: {},
   auditCuadro8: {},
   daysJustification: [],
@@ -88,6 +89,7 @@ async function loadGreciaData() {
     // Asignación de datos estructurados
     ITINERARY_DATA.tripConfig = viajeConfig.viaje || viajeConfig;
     ITINERARY_DATA.tripInfo = viajeConfig.tripInfo || viajeConfig.viaje || {};
+    ITINERARY_DATA.recursosYWebs = viajeConfig.recursosYWebs || {};
     ITINERARY_DATA.presupuesto = presupuesto || {};
     ITINERARY_DATA.auditCuadro8 = presupuesto.auditCuadro8 || {};
     

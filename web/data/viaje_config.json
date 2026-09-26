@@ -52,5 +52,252 @@
     "travelers": "2 Adultos (Conductor 68 años con descuento Senior UE 65+ en monumentos)",
     "daysCount": 22,
     "nightsCount": 21
+  },
+  "recursosYWebs": {
+    "descripcion": "Recursos oficiales y plataformas web utilizadas para la gestión, reserva y seguimiento del viaje",
+    "vuelos": [
+      {
+        "proveedor": "Iberia Express",
+        "tipo": "Aerolínea internacional",
+        "url": "https://www.iberiaexpress.com/",
+        "uso": "Vuelo directo de ida Madrid (MAD) ➔ Mykonos (JMK) — Día 1"
+      },
+      {
+        "proveedor": "Aegean Airlines / Olympic Air",
+        "tipo": "Aerolínea de bandera griega (Star Alliance)",
+        "url": "https://en.aegeanair.com/",
+        "uso": "Vuelo doméstico Milos (MLO) ➔ Kos (KGS) vía Atenas (Día 15) y vuelo internacional de regreso Rodas (RHO) ➔ Madrid (MAD) vía Atenas (Día 22)"
+      },
+      {
+        "proveedor": "Sky Express",
+        "tipo": "Aerolínea regional griega",
+        "url": "https://www.skyexpress.gr/es",
+        "uso": "Operador alternativo de respaldo para rutas domésticas interinsulares"
+      },
+      {
+        "proveedor": "Skyscanner España",
+        "tipo": "Metabuscador y comparador de vuelos",
+        "url": "https://www.skyscanner.es/",
+        "uso": "Monitorización de fluctuaciones de precios y alertas de billetes aéreos"
+      },
+      {
+        "proveedor": "Google Flights",
+        "tipo": "Seguimiento y comparativa de vuelos",
+        "url": "https://www.google.com/travel/flights",
+        "uso": "Control de horarios, puntualidad histórica y cambios en conexiones aéreas"
+      }
+    ],
+    "ferris": [
+      {
+        "naviera": "SeaJets",
+        "tipo": "Compañía de catamaranes de alta velocidad",
+        "url": "https://www.seajets.com/es",
+        "uso": "Travesías rápidas: Mykonos ➔ Syros (Día 4, 40 min) y Naxos ➔ Milos (Día 12, 2h 20m)"
+      },
+      {
+        "naviera": "Blue Star Ferries (Attica Group)",
+        "tipo": "Buques convencionales de gran porte y estabilidad",
+        "url": "https://www.bluestarferries.com/es-es",
+        "uso": "Travesías tranquilas: Syros ➔ Paros (Día 6, 1h 15m) y Paros ➔ Naxos (Día 9, 45 min)"
+      },
+      {
+        "naviera": "Dodekanisos Seaways",
+        "tipo": "Catamarán rápido del archipiélago del Dodecaneso",
+        "url": "https://www.12ne.gr/en/",
+        "uso": "Travesía panorámica entre islas: Kos ➔ Rodas Ciudad (Día 18, 2h 15m)"
+      },
+      {
+        "naviera": "Delos Tours",
+        "tipo": "Embarcaciones tradicionales autorizadas",
+        "url": "https://delostours.gr/",
+        "uso": "Excursión arqueológica marítima: Mykonos Chora ↔ Delos UNESCO (Día 2, 30 min por trayecto)"
+      },
+      {
+        "naviera": "Antiparos Ferries",
+        "tipo": "Transbordador local continuo de pasajeros y vehículos",
+        "url": "https://antiparos.com/getting-here/ferry-schedule/",
+        "uso": "Cruce constante entre Pounda (Paros) y Antíparos (Día 7, 7 min por trayecto)"
+      },
+      {
+        "naviera": "Ferryhopper",
+        "tipo": "Consolidador y buscador de ferris griegos en tiempo real",
+        "url": "https://www.ferryhopper.com/es/",
+        "uso": "Emisión unificada de billetes electrónicos (e-tickets) y rastreo en vivo de ferris (Ferry Tracker)"
+      }
+    ],
+    "alojamientos": [
+      {
+        "portal": "Booking.com",
+        "tipo": "Plataforma central de reservas hoteleras",
+        "url": "https://www.booking.com/",
+        "uso": "Gestión de las 7 reservas de apartamentos con cancelación flexible y nota superior a 9,0"
+      },
+      {
+        "hotel": "Alexandra Suites",
+        "isla": "Mykonos",
+        "ubicacion": "Tourlos",
+        "url": "https://www.booking.com/hotel/gr/alexandra-suites-tourlos.es.html",
+        "uso": "Base en Mykonos y Delos — 3 noches (Días 1, 2 y 3)"
+      },
+      {
+        "hotel": "AVALON Luxury Suites & Studios",
+        "isla": "Syros",
+        "ubicacion": "Ermoupoli",
+        "url": "https://www.booking.com/hotel/gr/avalon-luxury-suites-ermoupoli.es.html",
+        "uso": "Base en Syros — 2 noches (Días 4 y 5)"
+      },
+      {
+        "hotel": "Zoumis Residence",
+        "isla": "Paros",
+        "ubicacion": "Naoussa",
+        "url": "https://www.booking.com/hotel/gr/zoumis-residence.es.html",
+        "uso": "Base en Paros y Antíparos — 3 noches (Días 6, 7 y 8)"
+      },
+      {
+        "hotel": "Galazia Apartments",
+        "isla": "Naxos",
+        "ubicacion": "Chora (Agios Georgios)",
+        "url": "https://www.booking.com/hotel/gr/galazia-apartments-naxos-chora.es.html",
+        "uso": "Base en Naxos — 3 noches (Días 9, 10 y 11)"
+      },
+      {
+        "hotel": "Anais Milos Suites",
+        "isla": "Milos",
+        "ubicacion": "Adamas",
+        "url": "https://www.booking.com/hotel/gr/anais-milos-suites.es.html",
+        "uso": "Base en Milos — 3 noches (Días 12, 13 y 14)"
+      },
+      {
+        "hotel": "Orpheus Studios & Apartments",
+        "isla": "Kos",
+        "ubicacion": "Kos Town",
+        "url": "https://www.booking.com/hotel/gr/orpheus-studios-kos.es.html",
+        "uso": "Base en Kos — 3 noches (Días 15, 16 y 17)"
+      },
+      {
+        "hotel": "Old Town Nest Apartments",
+        "isla": "Rodas",
+        "ubicacion": "Ciudad Medieval de Rodas (UNESCO)",
+        "url": "https://www.booking.com/hotel/gr/old-town-nest.es.html",
+        "uso": "Base en Rodas — 4 noches (Días 18, 19, 20 y 21)"
+      }
+    ],
+    "cochesAlquiler": [
+      {
+        "empresa": "Avis España / Avis Grecia",
+        "url": "https://www.avis.es/",
+        "uso": "Alquiler en Aeropuerto de Mykonos (3 días), Paros (3 días) y Aeropuerto de Rodas (4 días). Seguro SCDW Cero Franquicia verificado sin recargo senior."
+      },
+      {
+        "empresa": "Hertz Grecia",
+        "url": "https://www.hertz.gr/",
+        "uso": "Alquiler en Puerto de Ermoupoli (Syros, 2 días) y alternativa en Paros."
+      },
+      {
+        "empresa": "Enterprise Rent-A-Car Grecia",
+        "url": "https://www.enterprise.es/",
+        "uso": "Alquiler en Puerto de Naxos (3 días) y Aeropuerto de Kos (3 días)."
+      },
+      {
+        "empresa": "Avance Car Rental",
+        "url": "https://www.avance.gr/",
+        "uso": "Especialista griego insular en Puerto de Adamas (Milos, 3 días)."
+      }
+    ],
+    "monumentosYCultura": [
+      {
+        "entidad": "Hellenic Heritage Ticket (ODAP - Ministerio de Cultura de Grecia)",
+        "url": "https://hhticket.gr/",
+        "descripcion": "Portal oficial único para compra de entradas y acreditación de la reducción legal del 50% Senior UE 65+ (Delos, Lindos, Asklepieion, Kamiros, Gran Maestre, etc.)"
+      },
+      {
+        "entidad": "Portal Odysseus (Ministerio de Cultura y Deportes de Grecia)",
+        "url": "http://odysseus.culture.gr/",
+        "descripcion": "Fichas arqueológicas oficiales, historia, planos y horarios de yacimientos de la Antigua Grecia"
+      },
+      {
+        "entidad": "Basílica Panagia Ekatontapiliani de Paros",
+        "url": "https://ekatontapyliani.gr/",
+        "descripcion": "Portal oficial del santuario paleocristiano del siglo IV y baptisterio de mármol"
+      },
+      {
+        "entidad": "Gran Cueva Kárstica de Antíparos",
+        "url": "https://antiparos.com/cave-of-antiparos/",
+        "descripcion": "Información geológica, horarios de acceso y tarifas de la cueva de 411 escalones"
+      }
+    ],
+    "turismoOficialIslas": [
+      {
+        "isla": "Grecia (Nacional)",
+        "portal": "Visit Greece (Organización Nacional de Turismo de Grecia - EOT)",
+        "url": "https://www.visitgreece.gr/"
+      },
+      {
+        "isla": "Mykonos",
+        "portal": "Portal Oficial del Municipio de Mykonos",
+        "url": "https://mykonos.gr/"
+      },
+      {
+        "isla": "Syros",
+        "portal": "Portal de Turismo Oficial de Syros",
+        "url": "https://www.syrosisland.gr/"
+      },
+      {
+        "isla": "Paros",
+        "portal": "Portal Oficial de Turismo de Paros",
+        "url": "https://paros.gr/"
+      },
+      {
+        "isla": "Antíparos",
+        "portal": "Guía Oficial de Antíparos",
+        "url": "https://antiparos.com/"
+      },
+      {
+        "isla": "Naxos",
+        "portal": "Portal Oficial de Turismo de Naxos y Pequeñas Cícladas",
+        "url": "https://naxos.gr/"
+      },
+      {
+        "isla": "Milos",
+        "portal": "Portal Oficial del Municipio de Milos",
+        "url": "https://milos.gr/"
+      },
+      {
+        "isla": "Kos",
+        "portal": "Portal Oficial de Turismo de la Isla de Kos",
+        "url": "https://kos.gr/"
+      },
+      {
+        "isla": "Rodas",
+        "portal": "Portal Oficial del Municipio de Rodas",
+        "url": "https://www.rhodes.gr/"
+      }
+    ],
+    "cartografiaYClima": [
+      {
+        "servicio": "Google Maps",
+        "tipo": "Navegación GPS y rutas",
+        "url": "https://www.google.com/maps",
+        "uso": "Navegación carretera en coche de alquiler, cálculo de tiempos y waypoints de calas y monumentos"
+      },
+      {
+        "servicio": "OpenStreetMap",
+        "tipo": "Cartografía libre colaborativa",
+        "url": "https://www.openstreetmap.org/",
+        "uso": "Topografía detallada, senderismo cicládico (senda de Lefkes, senderos de Naxos) y mapas Leaflet integrados en la app"
+      },
+      {
+        "servicio": "Meteo.gr (Observatorio Nacional de Atenas)",
+        "tipo": "Meteorología oficial de Grecia",
+        "url": "https://www.meteo.gr/",
+        "uso": "Previsión de temperatura y seguimiento del viento norte (Meltemi) en las Cícladas"
+      },
+      {
+        "servicio": "Poseidon Marine Forecast (HCMR)",
+        "tipo": "Sistema de predicción del estado de la mar",
+        "url": "https://poseidon.hcmr.gr/",
+        "uso": "Monitorización de altura de olas y fuerza del viento Beaufort para las travesías en ferry"
+      }
+    ]
   }
 }
