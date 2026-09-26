@@ -5,7 +5,8 @@
     "dates": "24 de Mayo al 14 de Junio de 2027",
     "travelers": "2 Adultos (Conductor 68 años con descuento Senior UE 65+ en monumentos)",
     "budgetGeneral": "4.720 €",
-    "budgetSenior": "4.528 €"
+    "budgetSenior": "4.528 €",
+    "budgetNote": "Solo incluye transporte y alojamiento (sin manutención ni extras). Presupuesto total real estimado: 6.800 – 7.200 €"
   },
   "auditCuadro8": {
     "title": "Cuadro 8: Cuadro Resumen de Presupuesto Auditado (2 Personas)",
@@ -67,8 +68,38 @@
         "amount": "83 €",
         "perPax": "41,50 €",
         "status": "50% Dto. Legal"
+      },
+      {
+        "id": 7,
+        "icon": "🍽️",
+        "concept": "Manutención estimada (22 días)",
+        "scope": "Desayunos en el apartamento (cocina propia), almuerzos ligeros en tabernas y cenas en restaurantes locales. Media de ~50 €/día para 2 personas.",
+        "amount": "~1.100 €",
+        "perPax": "~550,00 €",
+        "status": "Estimado — NO incluido en presupuesto base"
+      },
+      {
+        "id": 8,
+        "icon": "⛵",
+        "concept": "Excursión en velero / catamarán a Kleftiko (Milos)",
+        "scope": "Excursión de día completo desde Adamas: farallones de Kleftiko, cueva de Sykia, snorkel, almuerzo a bordo. Considerada una de las mejores excursiones marítimas de Grecia.",
+        "amount": "~150 €",
+        "perPax": "~75,00 €",
+        "status": "Opcional — recomendada"
+      },
+      {
+        "id": 9,
+        "icon": "🛡️",
+        "concept": "Seguro de Viaje Multiriesgo (22 días)",
+        "scope": "Cobertura médica, cancelación, asistencia en viaje y equipaje. Imprescindible para 22 días en el extranjero con actividades marítimas y conductor senior de 68 años.",
+        "amount": "~180 €",
+        "perPax": "~90,00 €",
+        "status": "Recomendado — NO incluido en presupuesto base"
       }
-    ]
+    ],
+    "budgetBaseNote": "El presupuesto base auditado de 4.528 € cubre exclusivamente transporte y alojamiento (sin manutención, extras ni seguros).",
+    "budgetTotalEstimado": "~6.960 €",
+    "budgetTotalPerPax": "~3.480 €"
   },
   "daysJustification": [
     {

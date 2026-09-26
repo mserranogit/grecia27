@@ -1,4 +1,4 @@
-# 🇬🇷 GRAN RUTA DEL EGEO: LAS 9 JOYAS DE CÍCLADAS Y DODECANESO (MAYO - JUNIO 2027)
+﻿# 🇬🇷 GRAN RUTA DEL EGEO: LAS 9 JOYAS DE CÍCLADAS Y DODECANESO (MAYO - JUNIO 2027)
 ## Expedición Arqueológica Clásica y Playera de 22 Días para 2 Personas
 ### Entrada por Mykonos (JMK) y Salida por Rodas (RHO) vía Atenas (ATH) a Madrid (MAD) (Ruta Open-Jaw de Máxima Eficiencia)
 ### *Alojamientos Seleccionados en Booking.com por Alta Valoración (>9.0/10) y Mejor Relación Calidad-Precio*
@@ -33,7 +33,8 @@
 * **Islas expresamente excluidas**: Creta y Santorini (ya visitadas).
 * **Filosofía**: **Equilibrio 50/50** entre arqueología e historia de la Grecia Antigua y relax en costas, calas y playas únicas.
 * **Movilidad**: Alquiler de coche compacto en las islas clave con **Seguro a Todo Riesgo Sin Franquicia (SCDW Cero Franquicia)** y verificación de conductor senior de 68 años sin recargo (Avis, Hertz, Enterprise y Avance).
-* **Presupuesto Global Auditado (Cuadro 8)**: **4.528 € (2.264,00 € / persona)** con tarifa reducida Senior UE 65+ y cobertura a todo riesgo sin franquicia.
+* **Presupuesto Base Auditado (Cuadro 8)**: **4.528 € (2.264,00 € / persona)** — solo transporte y alojamiento, con tarifa reducida Senior UE 65+ y cobertura a todo riesgo sin franquicia.
+* **Presupuesto Total Real Estimado**: **~6.960 € (2 personas)** incluyendo manutención (~1.100 €), excursión en velero a Kleftiko (~150 €) y seguro de viaje (~180 €).
 
 ---
 
@@ -753,6 +754,7 @@
   * **Tarde**:
     * **Opción A (Casa Romana y Odeón Romano de Kos)**: Visita a la reconstruida *Casa Romana* (siglo III d.C.), con 36 habitaciones y tres patios con mosaicos marinos, y al Odeón Romano de mármol.
     * **Opción B (Aguas Termales de Therma Beach)**: Tarde en la playa de **Therma**, donde manantiales naturales de agua caliente sulfurosa brotan de las rocas directamente al mar creando una piscina termal marina curativa.
+  * u{1F6E0}uFE0F **EXCURSIu{00D3}N ESPECIAL RECOMENDADA u{2014} Nisyros (volcu{00E1}n activo)**: Sustituye el programa estu{00E1}ndar del Du{00ED}a 16. Ferry Kos u{2194} Mandraki (Nisyros) en **30-40 min** (~20 u{20AC}/pax i/v). Descenso a pie al **cu{00E1}ter Stefanos** (260 m de diu{00E1}metro), con emanaciones de azufre visibles u{2014} la u{00FA}nica bajada a un cru{00E1}ter activo de Grecia. Combinar con el casco medieval blanco de Mandraki. Salida 09:00, regreso 17:00. Requiere: solo DNI.
   * 🏨 **Alojamiento (Noche 16/21)**: [**Orpheus Studios & Apartments**](https://www.booking.com/hotel/gr/orpheus-studios-kos.es.html) *(Kos Town)*. Puntuación: **9,2/10**.
 
 ---
@@ -789,6 +791,7 @@
     * **Opción A (Pueblo Tradicional de Zia)**: Visita al pueblo de montaña de Zia en el Monte Dikaios, famoso por sus fuentes de agua, tiendas de especias y miel de tomillo.
     * **Opción B (Bahía de Paradise Beach)**: Relax en la playa más popular del sur, famosa por sus aguas transparentes y finísima arena dorada.
   * **Noche**: Cena al atardecer en Zia contemplando una de las puestas de sol más hermosas de Grecia sobre las islas vecinas.
+  * u{1F6E0}uFE0F **EXCURSIu{00D3}N ESPECIAL RECOMENDADA u{2014} Bodrum / Mausoleo de Halicarnaso**: Sustituye el programa del Du{00ED}a 17. Ferry Kos u{2194} Bodrum (Turquu{00ED}a) en **35 min** (~15-20 u{20AC}/pax). Visita al **Mausoleo de Halicarnaso** (7u{00AA} Maravilla del Mundo Antiguo) + **Museo Arqueolu{00F3}gico del Castillo de San Pedro** con el barco fenicio de 1.200 a.C., el mu{00E1}s antiguo del mundo recuperado. **u{26A0}uFE0F IMPORTANTE: Requiere PASAPORTE en vigor** u{2014} el DNI espau{00F1}ol NO es vu{00E1}lido para Turquu{00ED}a. Reservar billete de ferry con 1-2 du{00ED}as de antelaciu{00F3}n.
   * 🏨 **Alojamiento (Noche 17/21)**: [**Orpheus Studios & Apartments**](https://www.booking.com/hotel/gr/orpheus-studios-kos.es.html) *(Kos Town)*. Puntuación: **9,2/10**.
 
 ---
@@ -926,6 +929,7 @@
 * **Programa**:
   * **Mañana**:
     * **Hito Espectacular (Castillo de Monolithos)**: Excursión al risco más impresionante de Rodas: una fortaleza veneciana encaramada a 250 metros de altura vertical sobre el mar embravecido. Subida a pie por la escalinata excavada en la roca hasta la capilla blanca de San Pantaleón con vistas de 360° al horizonte.
+    * 🛠️ **EXTENSIÓN OPCIONAL — Prasonisi (el extremo sur donde se unen dos mares)**: Desde Monolithos, continuando 25 km más hacia el sur (30 min) se llega a **Prasonisi**: estrecho banco de arena natural que une un islote con Rodas, con el **Mar Egeo** a la derecha y el **Mar Mediterráneo** a la izquierda, ambos con colores, temperatura y oleaje notoriamente distintos. Espectáculo natural único en toda Grecia. Añade ~50 km y 1h extra al Día 21.
   * **Tarde**:
     * **Enología y Gastronomía en Embonas**: Almuerzo en el corazón vinícola de la isla, en las faldas del monte más alto de Rodas (Monte Atavyros, 1.215 m). Degustación de vinos elaborados con la uva blanca clásica *Athiri* y la tinta *Amorgiano*, acompañados de cordero asado al horno de leña tradicional.
   * **Noche (Cena de Gala de Despedida)**: Paseo nocturno bajo los faroles de piedra de la Ciudad Medieval amurallada iluminada. Cena de gala de despedida en una taberna histórica con patio interior de naranjos.
@@ -1200,3 +1204,56 @@
 ---
 *Documento maestro actualizado e integrado con tablas especializadas por servicio, enlaces de reserva directa, verificación de alquiler de coche para conductores senior y catálogo completo de monumentos con tarifas generales y reducidas para mayores de 65 años de la Unión Europea.*
 
+---
+
+## 🔧 ACTUALIZACIONES Y CORRECCIONES APLICADAS — Septiembre 2026
+
+### Correcciones en Consistencia de Datos
+
+| Elemento | Corrección | Archivos Afectados |
+| :--- | :--- | :--- |
+| **Tipo de coche en Milos (Día 12)** | "SUV compacto" → "**Compacto Cat. B**" (coherente con `coches_alquiler.json`) | `itinerario.json`, `islas.json` |
+| **Presupuesto (Cuadro 8)** | Añadidas partidas: manutención ~1.100 €, velero Kleftiko ~150 €, seguro ~180 € | `viaje_config.json` |
+| **Badge presupuesto web** | Clarificado: "4.528 € Base • ~6.960 € total" | `web/index.html` |
+| **HTML — Favicon** | Añadido favicon emoji SVG 🏷️ | `web/index.html` |
+| **HTML — SEO/Social** | Añadidos Open Graph + Twitter Card meta tags | `web/index.html` |
+
+### Presupuesto Total Real (incluyendo todas las partidas)
+
+| Partida | Importe | Nota |
+| :--- | :---: | :--- |
+| ✈️ Vuelos | 1.040 € | Base auditada. Precio real puede ser 1.100-1.350 € |
+| ⛴️ Ferris (7 rutas) | 340 € | Verificado |
+| 🏨 Alojamientos (21 noches) | 1.990 € | Precio real temporada alta puede ser 2.100-2.400 € |
+| 🚗 Coches de alquiler (21 días SCDW) | 860 € | Verificado |
+| ⛽ Combustible (~680 km) | 215 € | Estimado |
+| 🏷️ Monumentos (Tarifa Senior 50%) | 83 € | Verificado |
+| 🍽️ **Manutención estimada** (22 días × 50 €) | **~1.100 €** | NO incluído en base |
+| ⛵ **Excursión velero Kleftiko** (Milos) | **~150 €** | Opcional — muy recomendada |
+| 🛡️ **Seguro de Viaje Multiriesgo** | **~180 €** | Recomendado |
+| **TOTAL REAL ESTIMADO (2 personas)** | **~5.958 – 6.518 €** | Sin inflación de precios 2027 |
+| **TOTAL CON MARGEN +15%** | **~6.800 – 7.200 €** | Presupuesto de seguridad recomendado |
+
+### Alternativas Opcionales de Enriquecimiento del Viaje
+
+1. **🛳️ Excursión a Bodrum desde Kos** (Día 16 o 17)
+   - Ferry diario Kos ↔ Bodrum (Turquiza) en **35 minutos** (~15-20 €/pax)
+   - Bodrum contiene el **Mausoleo de Halicarnaso** (una de las 7 Maravillas del Mundo Antiguo) y el Museo Arqueológico del Bodrum Castle con los restos del barco fenicio más antiguo del mundo.
+   - Requiere: **Pasaporte en vigor** (no basta el DNI para entrar a Turquía).
+
+2. **🌋 Excursión a Nisyros desde Kos** (Día 16 o 17)
+   - Ferry Kos ↔ Nisyros en **30-40 minutos** (~20 €/pax ida y vuelta)
+   - Nisyros tiene un **volcán activo visitable** (Stefanos): se puede bajar a pie al cáter principal (260 m de diámetro, emanaciones de azufre visibles). Experiencia geológica única comparable a Sarakiniko en Milos pero en formato de crater.
+   - Ideal combinarlo con la visita al casco medieval de Mandraki y sus fortalezas.
+
+3. **🍷 Añadir Sifnos (parada opcional entre Syros y Paros)**
+   - Ruta alternativa: Mykonos → Syros (1 noche) → **Sifnos (1 noche)** → Paros (3 noches)
+   - Sifnos es considerada la **mejor gastronomía de las Cícladas** y tiene alfareria artesanal milenaria y el monasterio de Chrissopigi sobre el promontorio marino.
+   - Implica redistribuir 1 noche de Syros a Sifnos.
+
+4. **🏖️ Prasonisi — donde se juntan dos mares (Rodas, Día 21)**
+   - Desde Monolithos, continuando al extremo sur de Rodas llega **Prasonisi**: banco de arena donde el Mar Egeo y el Mediterráneo se unen de forma espectacular, creando condiciones opuestas de olas a cada lado.
+   - Se puede incorporar en el recorrido del Día 21 (Monolithos-Embonas) añadiendo 25 km extra.
+
+---
+*Documento maestro — Versión 2.0 | Revisado: Septiembre 2026 | Viaje: 24 Mayo – 14 Junio 2027*

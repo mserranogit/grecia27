@@ -247,3 +247,58 @@ El proyecto y los documentos de la carpeta `web/` alcanzan un **nivel de excelen
 1. El diseño web es moderno, fluido, perfectamente adaptado a teléfonos móviles y tabletas, y dispone de mapas interactivos que permiten visualizar tanto el detalle diario como la visión de conjunto por isla.
 2. La fórmula de **50% arqueología de la Grecia Antigua por la mañana y 50% baño y descanso por la tarde** entre el **24 de mayo y el 14 de junio** es la más inteligente y equilibrada para viajar por el Egeo, aprovechando la bonanza climática y la ausencia de masificaciones.
 3. Los precios y horarios son rigurosamente exactos respecto a las fuentes oficiales del Estado griego (`hhticket.gr` / ODAP), garantizando la tranquilidad y viabilidad financiera y operativa para los viajeros.
+
+---
+
+## 🔧 10. CORRECCIONES APLICADAS EN REVISIÓN — Septiembre 2026
+
+> *Revisión ejecutada tras auditoría completa del directorio `web/` y todos los ficheros JSON de datos.*
+
+### 10.1. Correcciones en Datos JSON (`web/data/`)
+
+#### ✅ `itinerario.json` — Día 12 (4 de Junio)
+- **Error detectado**: El campo `afternoon` del Día 12 describía la recogida de "coche SUV compacto Avance", contradiciéndose con la categoría definida en `coches_alquiler.json` ("Compacto Cat. B — Suzuki Swift").
+- **Corrección aplicada**: Cambiado a "coche Compacto Cat. B (Avance/Avis)" en el texto narrativo del día.
+- **También corregido**: El `desc` del waypoint "Puerto de Adamas" que igualmente mencionaba "SUV Avance" → actualizado a "Compacto Cat. B (Avance/Avis)".
+
+#### ✅ `islas.json` — Entrada de Milos
+- **Error detectado**: El campo `carRent` de la isla de Milos indicaba "Avance Milos (Cat. SUV Compacto)".
+- **Corrección aplicada**: Actualizado a "Avance / Avis Milos (Compacto Cat. B)" para coherencia total con `coches_alquiler.json`.
+
+#### ✅ `viaje_config.json` — Presupuesto (Cuadro 8)
+- **Déficit detectado**: El presupuesto base de 4.528 € no incluía las partidas de manutención, excursión en velero a Kleftiko ni seguro de viaje, lo que podía inducir a error en la planificación financiera real.
+- **Correcciones aplicadas**:
+  - Añadido campo `budgetNote` en `tripInfo` aclarando que el presupuesto base es solo transporte + alojamiento.
+  - Añadidas 3 partidas nuevas al `auditCuadro8`:
+    - **Partida 7** 🍽️ Manutención estimada: ~1.100 € (2 pax, 22 días × 50 €/día) — `"Estimado — NO incluido en presupuesto base"`
+    - **Partida 8** ⛵ Excursión velero Kleftiko (Milos): ~150 € — `"Opcional — recomendada"`
+    - **Partida 9** 🛡️ Seguro de Viaje Multiriesgo: ~180 € — `"Recomendado — NO incluido en presupuesto base"`
+  - Añadidos campos `budgetBaseNote`, `budgetTotalEstimado` (~6.960 €) y `budgetTotalPerPax` (~3.480 €).
+
+### 10.2. Correcciones en `web/index.html`
+
+#### ✅ Favicon añadido
+- **Error detectado**: El `<head>` carecía de `<link rel="icon">`, dejando en blanco la pestaña del navegador.
+- **Corrección aplicada**: Añadido favicon emoji SVG inline con el símbolo 🏛️ para identificación visual en la pestaña del navegador.
+
+#### ✅ Open Graph y Twitter Card tags añadidos
+- **Error detectado**: Ausencia total de metadatos `og:*` y `twitter:*`, impidiendo la generación de previsualizaciones enriquecidas al compartir el enlace en WhatsApp, Telegram o redes sociales.
+- **Corrección aplicada**: Añadidos bloques completos de Open Graph (`og:type`, `og:title`, `og:description`, `og:url`) y Twitter Card (`twitter:card`, `twitter:title`, `twitter:description`).
+
+#### ✅ Badge de presupuesto en topbar clarificado
+- **Error detectado**: El badge mostraba "4.528 € Auditado (2 pax)" sin indicar que este importe excluye manutención y extras, pudiendo confundir al lector sobre el coste real total del viaje.
+- **Corrección aplicada**: Actualizado a "4.528 € Base (2 pax) • ~6.960 € total" con `title` ampliado que explica la distinción entre presupuesto base y estimación real.
+
+### 10.3. Estado Post-Corrección
+
+| Archivo | Estado Previo | Estado Post-Corrección |
+| :--- | :---: | :---: |
+| `web/data/itinerario.json` | ⚠️ Inconsistencia SUV/Compacto | ✅ Corregido (Día 12 x2) |
+| `web/data/islas.json` | ⚠️ SUV Compacto en Milos | ✅ Corregido a Compacto Cat. B |
+| `web/data/viaje_config.json` | ⚠️ Presupuesto incompleto | ✅ Partidas 7-9 añadidas, totales reales |
+| `web/index.html` | ⚠️ Sin favicon, sin OG tags | ✅ Favicon + OG + Twitter Card |
+| `documentos/auditoria/` | ✅ Correcto | ✅ Actualizado con sección 10 |
+
+---
+
+*Informe de Auditoría — Versión 2.0 | Revisión: Septiembre 2026 | Viaje: 24 Mayo – 14 Junio 2027*

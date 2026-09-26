@@ -494,7 +494,7 @@
     "summary": "Travesía rápida a la isla geológica de Milos. Llegada al puerto de Adamas y primer chapuzón en el increíble paisaje volcánico blanco de Sarakiniko.",
     "itinerary": {
       "morning": "Devolución de coche en Naxos Chora. 11:30 Ferry rápido SeaJets rumbo a Milos (2h 15m - 2h 45m).",
-      "afternoon": "14:15 Llegada al puerto de Adamas. Recogida de coche SUV compacto Avance. Traslado de 3 min al Anais Milos Suites. Almuerzo ligero frente al golfo.",
+      "afternoon": "14:15 Llegada al puerto de Adamas. Recogida de coche Compacto Cat. B (Avance/Avis). Traslado de 3 min al Anais Milos Suites. Almuerzo ligero frente al golfo.",
       "evening": "Coche hacia la costa norte (5 km | 8 min) hasta Sarakiniko: rocas de toba volcánica blanca modeladas por el viento y el mar simulando una superficie lunar. Baño en el fiordo."
     },
     "options": {
@@ -513,7 +513,7 @@
     "mapCenter": [36.735, 24.45],
     "zoom": 12,
     "waypoints": [
-      { "name": "Puerto de Adamas", "type": "port", "coords": [36.7245, 24.4445], "desc": "Llegada ferry y recogida SUV Avance" },
+      { "name": "Puerto de Adamas", "type": "port", "coords": [36.7245, 24.4445], "desc": "Llegada ferry y recogida Compacto Cat. B (Avance/Avis)" },
       { "name": "Anais Milos Suites", "type": "hotel", "coords": [36.7268, 24.4485], "desc": "Alojamiento con patio privado" },
       { "name": "Sarakiniko", "type": "beach", "coords": [36.7625, 24.4585], "desc": "Costa lunar de roca volcánica blanca" }
     ],
@@ -663,7 +663,8 @@
     },
     "options": {
       "a": "Subida al pueblo de montaña de Zia para ver el atardecer sobre las islas de Kalymnos y Pserimos.",
-      "b": "Baño relajante y prolongado en las termas marinas calientes de Bros."
+      "b": "Baño relajante y prolongado en las termas marinas calientes de Bros.",
+      "mejora_opcional": "⭐ EXCURSIÓN RECOMENDADA: Ferry rápido Kos ↔ Nisyros (30-40 min, ~20 €/pax i/v). Volcán activo Stefanos: descenso a pie al cráter de 260 m de diámetro con emanaciones de azufre visibles. Unique en toda Grecia. Combinar con el casco medieval de Mandraki. Requiere salida a las 09:00 y regreso a las 17:00."
     },
     "logistics": {
       "type": "Coche",
@@ -706,7 +707,8 @@
     },
     "options": {
       "a": "Caminata arqueológica completa por las tres fortalezas y ermitas de Paleo Pyli.",
-      "b": "Tarde completa de baño y descanso con tumbonas en la playa de Agios Stefanos o Paradise Beach."
+      "b": "Tarde completa de baño y descanso con tumbonas en la playa de Agios Stefanos o Paradise Beach.",
+      "mejora_opcional": "⭐ EXCURSIÓN RECOMENDADA: Ferry diario Kos ↔ Bodrum (Turquía) en 35 min (~15-20 €/pax). Bodrum: Mausoleo de Halicarnaso (7ª Maravilla del Mundo) + Museo del Castillo con el barco fenicio más antiguo del mundo. ⚠️ Requiere PASAPORTE en vigor (no válido el DNI para Turquía). Reservar con 1-2 días de antelación."
     },
     "logistics": {
       "type": "Coche",
@@ -875,7 +877,8 @@
     },
     "options": {
       "a": "Subida al mirador de Monolithos y visita a la diminuta capilla blanca de San Jorge en la cumbre.",
-      "b": "Tarde de descanso absoluto y baño reposado en las calas de aguas calmas del este de Rodas."
+      "b": "Tarde de descanso absoluto y baño reposado en las calas de aguas calmas del este de Rodas.",
+      "mejora_opcional": "⭐ EXTENSIÓN RECOMENDADA: Desde Monolithos (+25 km sur, 30 min) llegar a Prasonisi, extremo sur de Rodas donde el Mar Egeo y el Mediterráneo se unen en un espectacular banco de arena. Aguas de diferente color y oleaje a cada lado. Añadir al recorrido Día 21: Rodas ➔ Monolithos ➔ Prasonisi ➔ Embonas ➔ Rodas (total +163 km | +3h)."
     },
     "logistics": {
       "type": "Coche",

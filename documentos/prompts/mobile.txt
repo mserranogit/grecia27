@@ -1,0 +1,17 @@
+tomando como base la version web del viaje, quiero que me hagas una version para movil, optimizada para movil. 
+- menu deslizante lateral con las principales secciones
+- incluyes botones grandes y claros para las principales acciones: ver dia, ver alojamiento, ver ruta, ver mapa, ver guia, ver recomendaciones.
+- las tablas tienen que ser mas compactas y faciles de leer en movil
+- los textos tienen que ser mas cortos y faciles de leer en movil
+- los enlaces tienen que ser mas grandes y faciles de clicar en movil
+- todo tiene que ser mas facil de clicar en movil
+- se mantiene el mismo color corporativo que la version web
+- se mantiene la misma calidad visual que la version web
+- se mantiene la misma calidad de los enlaces y las rutas
+- se mantiene la misma calidad de los alojamientos y las rutas
+- se mantiene la misma calidad de los mapas y las rutas
+- se mantiene la misma calidad de las recomendaciones y las rutas
+- pon mapas de OSM en todos los sitios que haya un desplazamiento por coche o a pie
+- en las paginas donde se pueda poner un Bottom Navigation Bar ponlo , por ejemplo, una vista de tarjetas , una vista de tabla , y otra vista con un mapa de los sitios a visitar 
+puedes crear diferentes vistas del mismo contenido donde sea apropiado, sobre todo con los mapas y los desplazamientos.
+
