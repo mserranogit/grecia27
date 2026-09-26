@@ -24,20 +24,75 @@
         "Total en coche: 6 km | 16 min de conducción tranquila."
       ]
     },
-    "mapCenter": [37.4475, 25.335],
+    "mapCenter": [
+      37.4475,
+      25.335
+    ],
     "zoom": 13,
     "waypoints": [
-      { "name": "Aeropuerto JMK", "type": "airport", "coords": [37.4351, 25.3481], "desc": "Llegada 12:50 | Recogida de coche Avis" },
-      { "name": "Alexandra Suites", "type": "hotel", "coords": [37.4628, 25.3292], "desc": "Check-in alojamiento (Tourlos)" },
-      { "name": "Panagia Paraportiani", "type": "monument", "coords": [37.4471, 25.3256], "desc": "Iglesia del siglo XV en Kastro" },
-      { "name": "Molinos Kato Mili", "type": "monument", "coords": [37.4435, 25.3255], "desc": "Molinos venecianos del s. XVI" },
-      { "name": "Little Venice", "type": "beach", "coords": [37.4455, 25.325], "desc": "Balcones sobre el Egeo y atardecer" }
+      {
+        "name": "Aeropuerto JMK",
+        "type": "airport",
+        "coords": [
+          37.4351,
+          25.3481
+        ],
+        "desc": "Llegada 12:50 | Recogida de coche Avis"
+      },
+      {
+        "name": "Alexandra Suites",
+        "type": "hotel",
+        "coords": [
+          37.4628,
+          25.3292
+        ],
+        "desc": "Check-in alojamiento (Tourlos)"
+      },
+      {
+        "name": "Panagia Paraportiani",
+        "type": "monument",
+        "coords": [
+          37.4471,
+          25.3256
+        ],
+        "desc": "Iglesia del siglo XV en Kastro"
+      },
+      {
+        "name": "Molinos Kato Mili",
+        "type": "monument",
+        "coords": [
+          37.4435,
+          25.3255
+        ],
+        "desc": "Molinos venecianos del s. XVI"
+      },
+      {
+        "name": "Little Venice",
+        "type": "beach",
+        "coords": [
+          37.4455,
+          25.325
+        ],
+        "desc": "Balcones sobre el Egeo y atardecer"
+      }
     ],
     "routeCoords": [
-      [37.4351, 25.3481],
-      [37.448, 25.338],
-      [37.4628, 25.3292],
-      [37.4475, 25.3275]
+      [
+        37.4351,
+        25.3481
+      ],
+      [
+        37.448,
+        25.338
+      ],
+      [
+        37.4628,
+        25.3292
+      ],
+      [
+        37.4475,
+        25.3275
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Mykonos+Airport/Alexandra+Suites+Tourlos/Panagia+Paraportiani/Windmills+of+Kato+Mili"
   },
@@ -67,21 +122,79 @@
         "Total en coche: 23 km | 47 min."
       ]
     },
-    "mapCenter": [37.435, 25.3],
+    "mapCenter": [
+      37.435,
+      25.3
+    ],
     "zoom": 12,
     "waypoints": [
-      { "name": "Puerto Viejo Mykonos", "type": "port", "coords": [37.4475, 25.3275], "desc": "Embarque Delos Tours 10:00" },
-      { "name": "Delos (UNESCO)", "type": "monument", "coords": [37.3995, 25.2678], "desc": "Terraza de los Leones y Santuario Apolo" },
-      { "name": "Faro Armenistis", "type": "monument", "coords": [37.4925, 25.3155], "desc": "Faro de 1891 con vistas a Tinos" },
-      { "name": "Playa Agios Sostis", "type": "beach", "coords": [37.4815, 25.3615], "desc": "Playa virgen y taberna Kiki" },
-      { "name": "Paleokastro Ano Mera", "type": "monument", "coords": [37.4582, 25.3945], "desc": "Acrópolis micénica s. XIV a.C." }
+      {
+        "name": "Puerto Viejo Mykonos",
+        "type": "port",
+        "coords": [
+          37.4475,
+          25.3275
+        ],
+        "desc": "Embarque Delos Tours 10:00"
+      },
+      {
+        "name": "Delos (UNESCO)",
+        "type": "monument",
+        "coords": [
+          37.3995,
+          25.2678
+        ],
+        "desc": "Terraza de los Leones y Santuario Apolo"
+      },
+      {
+        "name": "Faro Armenistis",
+        "type": "monument",
+        "coords": [
+          37.4925,
+          25.3155
+        ],
+        "desc": "Faro de 1891 con vistas a Tinos"
+      },
+      {
+        "name": "Playa Agios Sostis",
+        "type": "beach",
+        "coords": [
+          37.4815,
+          25.3615
+        ],
+        "desc": "Playa virgen y taberna Kiki"
+      },
+      {
+        "name": "Paleokastro Ano Mera",
+        "type": "monument",
+        "coords": [
+          37.4582,
+          25.3945
+        ],
+        "desc": "Acrópolis micénica s. XIV a.C."
+      }
     ],
     "routeCoords": [
-      [37.4475, 25.3275],
-      [37.3995, 25.2678],
-      [37.4475, 25.3275],
-      [37.4925, 25.3155],
-      [37.4815, 25.3615]
+      [
+        37.4475,
+        25.3275
+      ],
+      [
+        37.3995,
+        25.2678
+      ],
+      [
+        37.4475,
+        25.3275
+      ],
+      [
+        37.4925,
+        25.3155
+      ],
+      [
+        37.4815,
+        25.3615
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Mykonos+Old+Port/Armenistis+Lighthouse/Agios+Sostis+Beach/Ano+Mera"
   },
@@ -112,23 +225,87 @@
         "Total en coche: 39 km | 1h 11 min de conducción cómoda."
       ]
     },
-    "mapCenter": [37.445, 25.35],
+    "mapCenter": [
+      37.445,
+      25.35
+    ],
     "zoom": 12,
     "waypoints": [
-      { "name": "Museo Arqueológico Mykonos", "type": "monument", "coords": [37.4498, 25.3292], "desc": "Pithos Caballo de Troya s. VII a.C." },
-      { "name": "Monasterio Tourliani", "type": "monument", "coords": [37.4485, 25.3925], "desc": "Conjunto monástico de 1542 en Ano Mera" },
-      { "name": "Museo Marítimo del Egeo", "type": "monument", "coords": [37.4452, 25.3298], "desc": "Patrimonio naval y linterna de Armenistis" },
-      { "name": "Playa Agrari", "type": "beach", "coords": [37.4225, 25.3855], "desc": "Bahía virgen de aguas cristalinas" },
-      { "name": "Playa Kapari", "type": "beach", "coords": [37.4248, 25.3082], "desc": "Atardecer mágico frente a la sagrada Delos" }
+      {
+        "name": "Museo Arqueológico Mykonos",
+        "type": "monument",
+        "coords": [
+          37.4498,
+          25.3292
+        ],
+        "desc": "Pithos Caballo de Troya s. VII a.C."
+      },
+      {
+        "name": "Monasterio Tourliani",
+        "type": "monument",
+        "coords": [
+          37.4485,
+          25.3925
+        ],
+        "desc": "Conjunto monástico de 1542 en Ano Mera"
+      },
+      {
+        "name": "Museo Marítimo del Egeo",
+        "type": "monument",
+        "coords": [
+          37.4452,
+          25.3298
+        ],
+        "desc": "Patrimonio naval y linterna de Armenistis"
+      },
+      {
+        "name": "Playa Agrari",
+        "type": "beach",
+        "coords": [
+          37.4225,
+          25.3855
+        ],
+        "desc": "Bahía virgen de aguas cristalinas"
+      },
+      {
+        "name": "Playa Kapari",
+        "type": "beach",
+        "coords": [
+          37.4248,
+          25.3082
+        ],
+        "desc": "Atardecer mágico frente a la sagrada Delos"
+      }
     ],
     "routeCoords": [
-      [37.4628, 25.3292],
-      [37.4498, 25.3292],
-      [37.4485, 25.3925],
-      [37.4452, 25.3298],
-      [37.4225, 25.3855],
-      [37.4248, 25.3082],
-      [37.4628, 25.3292]
+      [
+        37.4628,
+        25.3292
+      ],
+      [
+        37.4498,
+        25.3292
+      ],
+      [
+        37.4485,
+        25.3925
+      ],
+      [
+        37.4452,
+        25.3298
+      ],
+      [
+        37.4225,
+        25.3855
+      ],
+      [
+        37.4248,
+        25.3082
+      ],
+      [
+        37.4628,
+        25.3292
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Alexandra+Suites+Tourlos/Mykonos+Archaeological+Museum/Tourliani+Monastery/Aegean+Maritime+Museum/Kapari+Beach"
   },
@@ -146,7 +323,8 @@
     },
     "options": {
       "a": "Visita interior guiada al Teatro Municipal Apolo (1864, pequeña Scala de Milán) y Museo Arqueológico.",
-      "b": "Tomar un café freddo y baño relajado en la plataforma sobre el mar en Asteria / Vaporia."
+      "b": "Tomar un café freddo y baño relajado en la plataforma sobre el mar en Asteria / Vaporia.",
+      "mejora_opcional": "🌟 ALTERNATIVA A — Añadir Sifnos en lugar de 1 día de Syros: Sifnos (entre Syros y Paros en la ruta marítima) destaca por una gastronomía cicládica sin igual, alfarería milenaria y el Monasterio de Chrissopigi sobre el mar. Ruta sugerida: Mykonos ➔ Sifnos (1 noche) ➔ Paros. Esto redistribuiría las 2 noches de Syros en 1 noche Syros + 1 noche Sifnos."
     },
     "logistics": {
       "type": "Ferry rápido + Coche",
@@ -157,20 +335,75 @@
         "Total en coche: 3 km | 10 min."
       ]
     },
-    "mapCenter": [37.4435, 24.943],
+    "mapCenter": [
+      37.4435,
+      24.943
+    ],
     "zoom": 14,
     "waypoints": [
-      { "name": "Puerto de Tourlos", "type": "port", "coords": [37.4645, 25.3245], "desc": "Salida ferry SeaJets 10:30" },
-      { "name": "Puerto de Ermoupoli", "type": "port", "coords": [37.4402, 24.9431], "desc": "Llegada 11:15 | Recogida coche Hertz" },
-      { "name": "AVALON Suites", "type": "hotel", "coords": [37.4442, 24.9418], "desc": "Alojamiento señorial neoclásico" },
-      { "name": "Teatro Apolo", "type": "monument", "coords": [37.4445, 24.9435], "desc": "Réplica decimonónica de La Scala de Milán" },
-      { "name": "Barrio Vaporia / Asteria", "type": "beach", "coords": [37.4465, 24.9455], "desc": "Palacetes sobre las olas y baño" }
+      {
+        "name": "Puerto de Tourlos",
+        "type": "port",
+        "coords": [
+          37.4645,
+          25.3245
+        ],
+        "desc": "Salida ferry SeaJets 10:30"
+      },
+      {
+        "name": "Puerto de Ermoupoli",
+        "type": "port",
+        "coords": [
+          37.4402,
+          24.9431
+        ],
+        "desc": "Llegada 11:15 | Recogida coche Hertz"
+      },
+      {
+        "name": "AVALON Suites",
+        "type": "hotel",
+        "coords": [
+          37.4442,
+          24.9418
+        ],
+        "desc": "Alojamiento señorial neoclásico"
+      },
+      {
+        "name": "Teatro Apolo",
+        "type": "monument",
+        "coords": [
+          37.4445,
+          24.9435
+        ],
+        "desc": "Réplica decimonónica de La Scala de Milán"
+      },
+      {
+        "name": "Barrio Vaporia / Asteria",
+        "type": "beach",
+        "coords": [
+          37.4465,
+          24.9455
+        ],
+        "desc": "Palacetes sobre las olas y baño"
+      }
     ],
     "routeCoords": [
-      [37.4402, 24.9431],
-      [37.4442, 24.9418],
-      [37.4445, 24.9435],
-      [37.4465, 24.9455]
+      [
+        37.4402,
+        24.9431
+      ],
+      [
+        37.4442,
+        24.9418
+      ],
+      [
+        37.4445,
+        24.9435
+      ],
+      [
+        37.4465,
+        24.9455
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Port+of+Syros/AVALON+Luxury+Suites/Apollo+Theater+Syros/Vaporia+Ermoupoli"
   },
@@ -188,7 +421,8 @@
     },
     "options": {
       "a": "Ruta completa a pie hasta la cima amurallada de Kastri (bastiones prehistóricos).",
-      "b": "Paseo panorámico por Ano Syros y baño prolongado en la bahía protegida de Galissas o Kini."
+      "b": "Paseo panorámico por Ano Syros y baño prolongado en la bahía protegida de Galissas o Kini.",
+      "mejora_opcional": "🌟 ALTERNATIVA A — Añadir Sifnos en lugar de 1 día de Syros: Sifnos (entre Syros y Paros en la ruta marítima) destaca por una gastronomía cicládica sin igual, alfarería milenaria y el Monasterio de Chrissopigi sobre el mar. Ruta sugerida: Mykonos ➔ Sifnos (1 noche) ➔ Paros. Esto redistribuiría las 2 noches de Syros en 1 noche Syros + 1 noche Sifnos."
     },
     "logistics": {
       "type": "Coche",
@@ -200,20 +434,70 @@
         "Total en coche: 34 km | 1h 06 min de conducción."
       ]
     },
-    "mapCenter": [37.465, 24.93],
+    "mapCenter": [
+      37.465,
+      24.93
+    ],
     "zoom": 12,
     "waypoints": [
-      { "name": "AVALON Suites", "type": "hotel", "coords": [37.4442, 24.9418], "desc": "Salida desde Ermoupoli" },
-      { "name": "Yacimiento Kastri", "type": "monument", "coords": [37.4952, 24.9355], "desc": "Fortaleza de la Edad del Bronce (2800 a.C.)" },
-      { "name": "Ano Syros Medieval", "type": "monument", "coords": [37.4525, 24.9362], "desc": "Catedral San Jorge y laberinto peatonal" },
-      { "name": "Playa de Kini", "type": "beach", "coords": [37.4505, 24.8985], "desc": "Bahía protegida y puesta de sol" }
+      {
+        "name": "AVALON Suites",
+        "type": "hotel",
+        "coords": [
+          37.4442,
+          24.9418
+        ],
+        "desc": "Salida desde Ermoupoli"
+      },
+      {
+        "name": "Yacimiento Kastri",
+        "type": "monument",
+        "coords": [
+          37.4952,
+          24.9355
+        ],
+        "desc": "Fortaleza de la Edad del Bronce (2800 a.C.)"
+      },
+      {
+        "name": "Ano Syros Medieval",
+        "type": "monument",
+        "coords": [
+          37.4525,
+          24.9362
+        ],
+        "desc": "Catedral San Jorge y laberinto peatonal"
+      },
+      {
+        "name": "Playa de Kini",
+        "type": "beach",
+        "coords": [
+          37.4505,
+          24.8985
+        ],
+        "desc": "Bahía protegida y puesta de sol"
+      }
     ],
     "routeCoords": [
-      [37.4442, 24.9418],
-      [37.4952, 24.9355],
-      [37.4525, 24.9362],
-      [37.4505, 24.8985],
-      [37.4442, 24.9418]
+      [
+        37.4442,
+        24.9418
+      ],
+      [
+        37.4952,
+        24.9355
+      ],
+      [
+        37.4525,
+        24.9362
+      ],
+      [
+        37.4505,
+        24.8985
+      ],
+      [
+        37.4442,
+        24.9418
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Ermoupoli/Chalandriani+Syros/Ano+Syros/Kini+Beach"
   },
@@ -243,21 +527,79 @@
         "Total en coche: 17 km | 28 min de conducción cómoda."
       ]
     },
-    "mapCenter": [37.1, 25.19],
+    "mapCenter": [
+      37.1,
+      25.19
+    ],
     "zoom": 12,
     "waypoints": [
-      { "name": "Puerto de Parikia", "type": "port", "coords": [37.0855, 25.1495], "desc": "Llegada ferry y recogida de coche" },
-      { "name": "Panagia Ekatontapiliani", "type": "monument", "coords": [37.0845, 25.1525], "desc": "Basílica bizantina del siglo IV" },
-      { "name": "Zoumis Residence", "type": "hotel", "coords": [37.1215, 25.2345], "desc": "Alojamiento en Naoussa" },
-      { "name": "Playa Kolymbithres", "type": "beach", "coords": [37.1285, 25.2285], "desc": "Bloques de granito pulidos sobre el agua" },
-      { "name": "Puerto de Naoussa", "type": "monument", "coords": [37.1255, 25.2415], "desc": "Kastro veneciano y tabernas marineras" }
+      {
+        "name": "Puerto de Parikia",
+        "type": "port",
+        "coords": [
+          37.0855,
+          25.1495
+        ],
+        "desc": "Llegada ferry y recogida de coche"
+      },
+      {
+        "name": "Panagia Ekatontapiliani",
+        "type": "monument",
+        "coords": [
+          37.0845,
+          25.1525
+        ],
+        "desc": "Basílica bizantina del siglo IV"
+      },
+      {
+        "name": "Zoumis Residence",
+        "type": "hotel",
+        "coords": [
+          37.1215,
+          25.2345
+        ],
+        "desc": "Alojamiento en Naoussa"
+      },
+      {
+        "name": "Playa Kolymbithres",
+        "type": "beach",
+        "coords": [
+          37.1285,
+          25.2285
+        ],
+        "desc": "Bloques de granito pulidos sobre el agua"
+      },
+      {
+        "name": "Puerto de Naoussa",
+        "type": "monument",
+        "coords": [
+          37.1255,
+          25.2415
+        ],
+        "desc": "Kastro veneciano y tabernas marineras"
+      }
     ],
     "routeCoords": [
-      [37.0855, 25.1495],
-      [37.0845, 25.1525],
-      [37.1215, 25.2345],
-      [37.1285, 25.2285],
-      [37.1255, 25.2415]
+      [
+        37.0855,
+        25.1495
+      ],
+      [
+        37.0845,
+        25.1525
+      ],
+      [
+        37.1215,
+        25.2345
+      ],
+      [
+        37.1285,
+        25.2285
+      ],
+      [
+        37.1255,
+        25.2415
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Parikia+Port/Panagia+Ekatontapiliani/Kolymbithres+Beach/Naoussa+Paros"
   },
@@ -287,23 +629,87 @@
         "Total en coche: 52 km | 1h 18 min de conducción cómoda."
       ]
     },
-    "mapCenter": [37.04, 25.1],
+    "mapCenter": [
+      37.04,
+      25.1
+    ],
     "zoom": 11,
     "waypoints": [
-      { "name": "Zoumis Residence", "type": "hotel", "coords": [37.1215, 25.2345], "desc": "Salida desde Naoussa" },
-      { "name": "Muelle de Pounda", "type": "port", "coords": [37.0425, 25.1052], "desc": "Barcaza con coche a Antíparos" },
-      { "name": "Cueva de Antíparos", "type": "monument", "coords": [37.0092, 25.0745], "desc": "Cavidad kárstica con firmas históricas (411 escalones)" },
-      { "name": "Chora Antíparos", "type": "monument", "coords": [37.0402, 25.0805], "desc": "Kastro veneciano fortificado de 1440" },
-      { "name": "Playa de Soros", "type": "beach", "coords": [36.9855, 25.0485], "desc": "Cala protegida de aguas turquesas" }
+      {
+        "name": "Zoumis Residence",
+        "type": "hotel",
+        "coords": [
+          37.1215,
+          25.2345
+        ],
+        "desc": "Salida desde Naoussa"
+      },
+      {
+        "name": "Muelle de Pounda",
+        "type": "port",
+        "coords": [
+          37.0425,
+          25.1052
+        ],
+        "desc": "Barcaza con coche a Antíparos"
+      },
+      {
+        "name": "Cueva de Antíparos",
+        "type": "monument",
+        "coords": [
+          37.0092,
+          25.0745
+        ],
+        "desc": "Cavidad kárstica con firmas históricas (411 escalones)"
+      },
+      {
+        "name": "Chora Antíparos",
+        "type": "monument",
+        "coords": [
+          37.0402,
+          25.0805
+        ],
+        "desc": "Kastro veneciano fortificado de 1440"
+      },
+      {
+        "name": "Playa de Soros",
+        "type": "beach",
+        "coords": [
+          36.9855,
+          25.0485
+        ],
+        "desc": "Cala protegida de aguas turquesas"
+      }
     ],
     "routeCoords": [
-      [37.1215, 25.2345],
-      [37.0425, 25.1052],
-      [37.0092, 25.0745],
-      [37.0402, 25.0805],
-      [36.9855, 25.0485],
-      [37.0425, 25.1052],
-      [37.1215, 25.2345]
+      [
+        37.1215,
+        25.2345
+      ],
+      [
+        37.0425,
+        25.1052
+      ],
+      [
+        37.0092,
+        25.0745
+      ],
+      [
+        37.0402,
+        25.0805
+      ],
+      [
+        36.9855,
+        25.0485
+      ],
+      [
+        37.0425,
+        25.1052
+      ],
+      [
+        37.1215,
+        25.2345
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Naoussa/Pounta+Paros/Cave+of+Antiparos/Soros+Beach+Antiparos"
   },
@@ -333,21 +739,79 @@
         "Total en coche: 32 km | 51 min de conducción tranquila."
       ]
     },
-    "mapCenter": [37.08, 25.22],
+    "mapCenter": [
+      37.08,
+      25.22
+    ],
     "zoom": 12,
     "waypoints": [
-      { "name": "Zoumis Residence", "type": "hotel", "coords": [37.1215, 25.2345], "desc": "Salida desde Naoussa" },
-      { "name": "Lefkes Pueblo de Montaña", "type": "monument", "coords": [37.0565, 25.2085], "desc": "Pueblo señorial, buganvillas y Sendero Bizantino" },
-      { "name": "Canteras de Marathi", "type": "monument", "coords": [37.0695, 25.1835], "desc": "Cuna del mármol pario de la Venus de Milo" },
-      { "name": "Playa Santa Maria", "type": "beach", "coords": [37.1425, 25.2585], "desc": "Arena dorada y aguas cristalinas" },
-      { "name": "Puerto de Naoussa", "type": "monument", "coords": [37.1255, 25.2415], "desc": "Regreso a Naoussa" }
+      {
+        "name": "Zoumis Residence",
+        "type": "hotel",
+        "coords": [
+          37.1215,
+          25.2345
+        ],
+        "desc": "Salida desde Naoussa"
+      },
+      {
+        "name": "Lefkes Pueblo de Montaña",
+        "type": "monument",
+        "coords": [
+          37.0565,
+          25.2085
+        ],
+        "desc": "Pueblo señorial, buganvillas y Sendero Bizantino"
+      },
+      {
+        "name": "Canteras de Marathi",
+        "type": "monument",
+        "coords": [
+          37.0695,
+          25.1835
+        ],
+        "desc": "Cuna del mármol pario de la Venus de Milo"
+      },
+      {
+        "name": "Playa Santa Maria",
+        "type": "beach",
+        "coords": [
+          37.1425,
+          25.2585
+        ],
+        "desc": "Arena dorada y aguas cristalinas"
+      },
+      {
+        "name": "Puerto de Naoussa",
+        "type": "monument",
+        "coords": [
+          37.1255,
+          25.2415
+        ],
+        "desc": "Regreso a Naoussa"
+      }
     ],
     "routeCoords": [
-      [37.1215, 25.2345],
-      [37.0565, 25.2085],
-      [37.0695, 25.1835],
-      [37.1425, 25.2585],
-      [37.1215, 25.2345]
+      [
+        37.1215,
+        25.2345
+      ],
+      [
+        37.0565,
+        25.2085
+      ],
+      [
+        37.0695,
+        25.1835
+      ],
+      [
+        37.1425,
+        25.2585
+      ],
+      [
+        37.1215,
+        25.2345
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Naoussa/Lefkes/Marathi+Marble+Quarries/Santa+Maria+Beach+Paros"
   },
@@ -377,20 +841,75 @@
         "Total en coche: 12,5 km | 24 min."
       ]
     },
-    "mapCenter": [37.103, 25.375],
+    "mapCenter": [
+      37.103,
+      25.375
+    ],
     "zoom": 14,
     "waypoints": [
-      { "name": "Puerto de Naxos", "type": "port", "coords": [37.1065, 25.3725], "desc": "Llegada 12:45 y recogida coche Avis" },
-      { "name": "Galazia Apartments", "type": "hotel", "coords": [37.0988, 25.3742], "desc": "Alojamiento cerca de la playa" },
-      { "name": "Portara de Apolo", "type": "monument", "coords": [37.1105, 25.3722], "desc": "Marco colosal de mármol del 530 a.C." },
-      { "name": "Kastro de Naxos", "type": "monument", "coords": [37.1055, 25.3775], "desc": "Ciudadela ducal de Marco Sanudo" },
-      { "name": "Playa Agios Georgios", "type": "beach", "coords": [37.0975, 25.3715], "desc": "Playa dorada de aguas calmas" }
+      {
+        "name": "Puerto de Naxos",
+        "type": "port",
+        "coords": [
+          37.1065,
+          25.3725
+        ],
+        "desc": "Llegada 12:45 y recogida coche Avis"
+      },
+      {
+        "name": "Galazia Apartments",
+        "type": "hotel",
+        "coords": [
+          37.0988,
+          25.3742
+        ],
+        "desc": "Alojamiento cerca de la playa"
+      },
+      {
+        "name": "Portara de Apolo",
+        "type": "monument",
+        "coords": [
+          37.1105,
+          25.3722
+        ],
+        "desc": "Marco colosal de mármol del 530 a.C."
+      },
+      {
+        "name": "Kastro de Naxos",
+        "type": "monument",
+        "coords": [
+          37.1055,
+          25.3775
+        ],
+        "desc": "Ciudadela ducal de Marco Sanudo"
+      },
+      {
+        "name": "Playa Agios Georgios",
+        "type": "beach",
+        "coords": [
+          37.0975,
+          25.3715
+        ],
+        "desc": "Playa dorada de aguas calmas"
+      }
     ],
     "routeCoords": [
-      [37.1065, 25.3725],
-      [37.0988, 25.3742],
-      [37.1055, 25.3775],
-      [37.1105, 25.3722]
+      [
+        37.1065,
+        25.3725
+      ],
+      [
+        37.0988,
+        25.3742
+      ],
+      [
+        37.1055,
+        25.3775
+      ],
+      [
+        37.1105,
+        25.3722
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Naxos+Port/Galazia+Apartments/Naxos+Castle/Portara"
   },
@@ -420,22 +939,83 @@
         "Total en coche: 43 km | 1h 08 min de conducción cómoda."
       ]
     },
-    "mapCenter": [37.06, 25.42],
+    "mapCenter": [
+      37.06,
+      25.42
+    ],
     "zoom": 11,
     "waypoints": [
-      { "name": "Galazia Apartments", "type": "hotel", "coords": [37.0988, 25.3742], "desc": "Salida desde Chora" },
-      { "name": "Templo de Deméter", "type": "monument", "coords": [37.0295, 25.4312], "desc": "Joya jónica del 530 a.C." },
-      { "name": "Chalkio", "type": "monument", "coords": [37.0635, 25.4835], "desc": "Pueblo señorial y destilería Kitron" },
-      { "name": "Panagia Drosiani", "type": "monument", "coords": [37.0782, 25.4955], "desc": "Basílica bizantina del s. VI" },
-      { "name": "Playa de Plaka", "type": "beach", "coords": [37.0515, 25.3685], "desc": "Kilómetros de arena fina y dunas" }
+      {
+        "name": "Galazia Apartments",
+        "type": "hotel",
+        "coords": [
+          37.0988,
+          25.3742
+        ],
+        "desc": "Salida desde Chora"
+      },
+      {
+        "name": "Templo de Deméter",
+        "type": "monument",
+        "coords": [
+          37.0295,
+          25.4312
+        ],
+        "desc": "Joya jónica del 530 a.C."
+      },
+      {
+        "name": "Chalkio",
+        "type": "monument",
+        "coords": [
+          37.0635,
+          25.4835
+        ],
+        "desc": "Pueblo señorial y destilería Kitron"
+      },
+      {
+        "name": "Panagia Drosiani",
+        "type": "monument",
+        "coords": [
+          37.0782,
+          25.4955
+        ],
+        "desc": "Basílica bizantina del s. VI"
+      },
+      {
+        "name": "Playa de Plaka",
+        "type": "beach",
+        "coords": [
+          37.0515,
+          25.3685
+        ],
+        "desc": "Kilómetros de arena fina y dunas"
+      }
     ],
     "routeCoords": [
-      [37.0988, 25.3742],
-      [37.0295, 25.4312],
-      [37.0635, 25.4835],
-      [37.0782, 25.4955],
-      [37.0515, 25.3685],
-      [37.0988, 25.3742]
+      [
+        37.0988,
+        25.3742
+      ],
+      [
+        37.0295,
+        25.4312
+      ],
+      [
+        37.0635,
+        25.4835
+      ],
+      [
+        37.0782,
+        25.4955
+      ],
+      [
+        37.0515,
+        25.3685
+      ],
+      [
+        37.0988,
+        25.3742
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Naxos+Chora/Temple+of+Demeter+Sangri/Chalkio/Panagia+Drosiani/Plaka+Beach"
   },
@@ -466,22 +1046,83 @@
         "Total en coche: 105 km | 2h 33 min acumulados (circuito insular integral)."
       ]
     },
-    "mapCenter": [37.1, 25.48],
+    "mapCenter": [
+      37.1,
+      25.48
+    ],
     "zoom": 11,
     "waypoints": [
-      { "name": "Galazia Apartments", "type": "hotel", "coords": [37.0988, 25.3742], "desc": "Salida desde Chora" },
-      { "name": "Kouros de Melanes", "type": "monument", "coords": [37.0895, 25.4395], "desc": "Coloso arcaico de 6,4 m en olivar" },
-      { "name": "Apeiranthos", "type": "monument", "coords": [37.0715, 25.5185], "desc": "El pueblo de mármol blanco" },
-      { "name": "Kouros de Apollonas", "type": "monument", "coords": [37.1795, 25.5535], "desc": "Coloso de 10,7 m en cantera madre" },
-      { "name": "Península de Aliko", "type": "beach", "coords": [36.9795, 25.3855], "desc": "Bosque de cedros y Hawaii Beach" }
+      {
+        "name": "Galazia Apartments",
+        "type": "hotel",
+        "coords": [
+          37.0988,
+          25.3742
+        ],
+        "desc": "Salida desde Chora"
+      },
+      {
+        "name": "Kouros de Melanes",
+        "type": "monument",
+        "coords": [
+          37.0895,
+          25.4395
+        ],
+        "desc": "Coloso arcaico de 6,4 m en olivar"
+      },
+      {
+        "name": "Apeiranthos",
+        "type": "monument",
+        "coords": [
+          37.0715,
+          25.5185
+        ],
+        "desc": "El pueblo de mármol blanco"
+      },
+      {
+        "name": "Kouros de Apollonas",
+        "type": "monument",
+        "coords": [
+          37.1795,
+          25.5535
+        ],
+        "desc": "Coloso de 10,7 m en cantera madre"
+      },
+      {
+        "name": "Península de Aliko",
+        "type": "beach",
+        "coords": [
+          36.9795,
+          25.3855
+        ],
+        "desc": "Bosque de cedros y Hawaii Beach"
+      }
     ],
     "routeCoords": [
-      [37.0988, 25.3742],
-      [37.0895, 25.4395],
-      [37.0715, 25.5185],
-      [37.1795, 25.5535],
-      [36.9795, 25.3855],
-      [37.0988, 25.3742]
+      [
+        37.0988,
+        25.3742
+      ],
+      [
+        37.0895,
+        25.4395
+      ],
+      [
+        37.0715,
+        25.5185
+      ],
+      [
+        37.1795,
+        25.5535
+      ],
+      [
+        36.9795,
+        25.3855
+      ],
+      [
+        37.0988,
+        25.3742
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Naxos+Chora/Kouros+of+Flerio/Apeiranthos/Kouros+of+Apollonas/Aliko+Beach/Naxos+Chora"
   },
@@ -510,17 +1151,53 @@
         "Total en coche: 11,5 km | 18 min."
       ]
     },
-    "mapCenter": [36.735, 24.45],
+    "mapCenter": [
+      36.735,
+      24.45
+    ],
     "zoom": 12,
     "waypoints": [
-      { "name": "Puerto de Adamas", "type": "port", "coords": [36.7245, 24.4445], "desc": "Llegada ferry y recogida Compacto Cat. B (Avance/Avis)" },
-      { "name": "Anais Milos Suites", "type": "hotel", "coords": [36.7268, 24.4485], "desc": "Alojamiento con patio privado" },
-      { "name": "Sarakiniko", "type": "beach", "coords": [36.7625, 24.4585], "desc": "Costa lunar de roca volcánica blanca" }
+      {
+        "name": "Puerto de Adamas",
+        "type": "port",
+        "coords": [
+          36.7245,
+          24.4445
+        ],
+        "desc": "Llegada ferry y recogida Compacto Cat. B (Avance/Avis)"
+      },
+      {
+        "name": "Anais Milos Suites",
+        "type": "hotel",
+        "coords": [
+          36.7268,
+          24.4485
+        ],
+        "desc": "Alojamiento con patio privado"
+      },
+      {
+        "name": "Sarakiniko",
+        "type": "beach",
+        "coords": [
+          36.7625,
+          24.4585
+        ],
+        "desc": "Costa lunar de roca volcánica blanca"
+      }
     ],
     "routeCoords": [
-      [36.7245, 24.4445],
-      [36.7268, 24.4485],
-      [36.7625, 24.4585]
+      [
+        36.7245,
+        24.4445
+      ],
+      [
+        36.7268,
+        24.4485
+      ],
+      [
+        36.7625,
+        24.4585
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Adamas+Port/Anais+Milos+Suites/Sarakiniko+Beach"
   },
@@ -550,23 +1227,92 @@
         "Total en coche: 15 km | 34 min."
       ]
     },
-    "mapCenter": [36.735, 24.43],
+    "mapCenter": [
+      36.735,
+      24.43
+    ],
     "zoom": 13,
     "waypoints": [
-      { "name": "Anais Suites", "type": "hotel", "coords": [36.7268, 24.4485], "desc": "Salida desde Adamas" },
-      { "name": "Catacumbas de Milos", "type": "monument", "coords": [36.7395, 24.4415], "desc": "Galerías paleocristianas subterráneas" },
-      { "name": "Teatro Romano", "type": "monument", "coords": [36.7385, 24.4442], "desc": "Teatro de mármol colgado sobre el mar" },
-      { "name": "Venus de Milo Site", "type": "monument", "coords": [36.739, 24.4435], "desc": "Lugar del hallazgo en 1820" },
-      { "name": "Klima (Syrmata)", "type": "beach", "coords": [36.7345, 24.4315], "desc": "Pintoresco pueblo de pescadores" },
-      { "name": "Kastro de Plaka", "type": "monument", "coords": [36.7455, 24.4202], "desc": "Pico volcánico y mejor atardecer" }
+      {
+        "name": "Anais Suites",
+        "type": "hotel",
+        "coords": [
+          36.7268,
+          24.4485
+        ],
+        "desc": "Salida desde Adamas"
+      },
+      {
+        "name": "Catacumbas de Milos",
+        "type": "monument",
+        "coords": [
+          36.7395,
+          24.4415
+        ],
+        "desc": "Galerías paleocristianas subterráneas"
+      },
+      {
+        "name": "Teatro Romano",
+        "type": "monument",
+        "coords": [
+          36.7385,
+          24.4442
+        ],
+        "desc": "Teatro de mármol colgado sobre el mar"
+      },
+      {
+        "name": "Venus de Milo Site",
+        "type": "monument",
+        "coords": [
+          36.739,
+          24.4435
+        ],
+        "desc": "Lugar del hallazgo en 1820"
+      },
+      {
+        "name": "Klima (Syrmata)",
+        "type": "beach",
+        "coords": [
+          36.7345,
+          24.4315
+        ],
+        "desc": "Pintoresco pueblo de pescadores"
+      },
+      {
+        "name": "Kastro de Plaka",
+        "type": "monument",
+        "coords": [
+          36.7455,
+          24.4202
+        ],
+        "desc": "Pico volcánico y mejor atardecer"
+      }
     ],
     "routeCoords": [
-      [36.7268, 24.4485],
-      [36.7395, 24.4415],
-      [36.7385, 24.4442],
-      [36.7345, 24.4315],
-      [36.7455, 24.4202],
-      [36.7268, 24.4485]
+      [
+        36.7268,
+        24.4485
+      ],
+      [
+        36.7395,
+        24.4415
+      ],
+      [
+        36.7385,
+        24.4442
+      ],
+      [
+        36.7345,
+        24.4315
+      ],
+      [
+        36.7455,
+        24.4202
+      ],
+      [
+        36.7268,
+        24.4485
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Adamas/Catacombs+of+Milos/Ancient+Roman+Theatre+Milos/Klima+Milos/Plaka+Milos"
   },
@@ -594,16 +1340,49 @@
         "Total en coche: 22 km | 36 min."
       ]
     },
-    "mapCenter": [36.69, 24.42],
+    "mapCenter": [
+      36.69,
+      24.42
+    ],
     "zoom": 12,
     "waypoints": [
-      { "name": "Anais Suites", "type": "hotel", "coords": [36.7268, 24.4485], "desc": "Base en Adamas" },
-      { "name": "Kleftiko (Corsarios)", "type": "monument", "coords": [36.6575, 24.3315], "desc": "Farallones blancos y cuevas marinas" },
-      { "name": "Playa Firiplaka", "type": "beach", "coords": [36.6715, 24.4435], "desc": "Paredes volcánicas de colores vivos" }
+      {
+        "name": "Anais Suites",
+        "type": "hotel",
+        "coords": [
+          36.7268,
+          24.4485
+        ],
+        "desc": "Base en Adamas"
+      },
+      {
+        "name": "Kleftiko (Corsarios)",
+        "type": "monument",
+        "coords": [
+          36.6575,
+          24.3315
+        ],
+        "desc": "Farallones blancos y cuevas marinas"
+      },
+      {
+        "name": "Playa Firiplaka",
+        "type": "beach",
+        "coords": [
+          36.6715,
+          24.4435
+        ],
+        "desc": "Paredes volcánicas de colores vivos"
+      }
     ],
     "routeCoords": [
-      [36.7268, 24.4485],
-      [36.6715, 24.4435]
+      [
+        36.7268,
+        24.4485
+      ],
+      [
+        36.6715,
+        24.4435
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Adamas/Firiplaka+Beach"
   },
@@ -632,20 +1411,75 @@
         "Total en coche: 29 km | 34 min."
       ]
     },
-    "mapCenter": [36.85, 27.2],
+    "mapCenter": [
+      36.85,
+      27.2
+    ],
     "zoom": 11,
     "waypoints": [
-      { "name": "Aeropuerto MLO", "type": "airport", "coords": [36.6969, 24.4719], "desc": "Salida vuelo 10:15" },
-      { "name": "Aeropuerto KGS", "type": "airport", "coords": [36.7933, 27.0917], "desc": "Llegada 14:05 y recogida coche Hertz" },
-      { "name": "Orpheus Studios", "type": "hotel", "coords": [36.8912, 27.2882], "desc": "Alojamiento en Kos Chora" },
-      { "name": "Castillo Neratzia", "type": "monument", "coords": [36.8975, 27.2905], "desc": "Fortaleza marítima hospitalaria" },
-      { "name": "Árbol de Hipócrates", "type": "monument", "coords": [36.8942, 27.2905], "desc": "Plátano donde enseñaba Hipócrates" }
+      {
+        "name": "Aeropuerto MLO",
+        "type": "airport",
+        "coords": [
+          36.6969,
+          24.4719
+        ],
+        "desc": "Salida vuelo 10:15"
+      },
+      {
+        "name": "Aeropuerto KGS",
+        "type": "airport",
+        "coords": [
+          36.7933,
+          27.0917
+        ],
+        "desc": "Llegada 14:05 y recogida coche Hertz"
+      },
+      {
+        "name": "Orpheus Studios",
+        "type": "hotel",
+        "coords": [
+          36.8912,
+          27.2882
+        ],
+        "desc": "Alojamiento en Kos Chora"
+      },
+      {
+        "name": "Castillo Neratzia",
+        "type": "monument",
+        "coords": [
+          36.8975,
+          27.2905
+        ],
+        "desc": "Fortaleza marítima hospitalaria"
+      },
+      {
+        "name": "Árbol de Hipócrates",
+        "type": "monument",
+        "coords": [
+          36.8942,
+          27.2905
+        ],
+        "desc": "Plátano donde enseñaba Hipócrates"
+      }
     ],
     "routeCoords": [
-      [36.7933, 27.0917],
-      [36.87, 27.2],
-      [36.8912, 27.2882],
-      [36.8975, 27.2905]
+      [
+        36.7933,
+        27.0917
+      ],
+      [
+        36.87,
+        27.2
+      ],
+      [
+        36.8912,
+        27.2882
+      ],
+      [
+        36.8975,
+        27.2905
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Kos+Airport/Orpheus+Studios+Kos/Neratzia+Castle/Tree+of+Hippocrates"
   },
@@ -664,7 +1498,7 @@
     "options": {
       "a": "Subida al pueblo de montaña de Zia para ver el atardecer sobre las islas de Kalymnos y Pserimos.",
       "b": "Baño relajante y prolongado en las termas marinas calientes de Bros.",
-      "mejora_opcional": "⭐ EXCURSIÓN RECOMENDADA: Ferry rápido Kos ↔ Nisyros (30-40 min, ~20 €/pax i/v). Volcán activo Stefanos: descenso a pie al cráter de 260 m de diámetro con emanaciones de azufre visibles. Unique en toda Grecia. Combinar con el casco medieval de Mandraki. Requiere salida a las 09:00 y regreso a las 17:00."
+      "mejora_opcional": "🌟 ALTERNATIVA D — Cos Antiguo & Excursión a Nisyros (Volcán activo): Ferry diario Kos (Kardamena) ↔ Mandraki (Nisyros) en 30-40 minutos (~20 €/persona ida y vuelta). Nisyros alberga el volcán activo Stefanos: es posible descender a pie al interior del cráter (260 m de diámetro, fumarolas activas y emanaciones de azufre). Experiencia geológica de primer orden equiparable a Sarakiniko en Milos. Combinable con el burgo medieval de Mandraki."
     },
     "logistics": {
       "type": "Coche",
@@ -675,21 +1509,79 @@
         "Total en coche: 33,5 km | 48 min."
       ]
     },
-    "mapCenter": [36.87, 27.28],
+    "mapCenter": [
+      36.87,
+      27.28
+    ],
     "zoom": 12,
     "waypoints": [
-      { "name": "Orpheus Studios", "type": "hotel", "coords": [36.8912, 27.2882], "desc": "Base en Kos Chora" },
-      { "name": "Asklepieion", "type": "monument", "coords": [36.8775, 27.2565], "desc": "Centro sanatorio de Hipócrates" },
-      { "name": "Casa Romana", "type": "monument", "coords": [36.8905, 27.2875], "desc": "Domus imperial con mosaicos" },
-      { "name": "Odeón Romano", "type": "monument", "coords": [36.8895, 27.2855], "desc": "Teatro clásico del s. II" },
-      { "name": "Termas de Bros", "type": "beach", "coords": [36.8435, 27.3165], "desc": "Pozas volcánicas termales a 45°C" }
+      {
+        "name": "Orpheus Studios",
+        "type": "hotel",
+        "coords": [
+          36.8912,
+          27.2882
+        ],
+        "desc": "Base en Kos Chora"
+      },
+      {
+        "name": "Asklepieion",
+        "type": "monument",
+        "coords": [
+          36.8775,
+          27.2565
+        ],
+        "desc": "Centro sanatorio de Hipócrates"
+      },
+      {
+        "name": "Casa Romana",
+        "type": "monument",
+        "coords": [
+          36.8905,
+          27.2875
+        ],
+        "desc": "Domus imperial con mosaicos"
+      },
+      {
+        "name": "Odeón Romano",
+        "type": "monument",
+        "coords": [
+          36.8895,
+          27.2855
+        ],
+        "desc": "Teatro clásico del s. II"
+      },
+      {
+        "name": "Termas de Bros",
+        "type": "beach",
+        "coords": [
+          36.8435,
+          27.3165
+        ],
+        "desc": "Pozas volcánicas termales a 45°C"
+      }
     ],
     "routeCoords": [
-      [36.8912, 27.2882],
-      [36.8775, 27.2565],
-      [36.8905, 27.2875],
-      [36.8435, 27.3165],
-      [36.8912, 27.2882]
+      [
+        36.8912,
+        27.2882
+      ],
+      [
+        36.8775,
+        27.2565
+      ],
+      [
+        36.8905,
+        27.2875
+      ],
+      [
+        36.8435,
+        27.3165
+      ],
+      [
+        36.8912,
+        27.2882
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Kos+Town/Asklepieion+Kos/Roman+Odeon+of+Kos/Therma+Beach"
   },
@@ -708,7 +1600,7 @@
     "options": {
       "a": "Caminata arqueológica completa por las tres fortalezas y ermitas de Paleo Pyli.",
       "b": "Tarde completa de baño y descanso con tumbonas en la playa de Agios Stefanos o Paradise Beach.",
-      "mejora_opcional": "⭐ EXCURSIÓN RECOMENDADA: Ferry diario Kos ↔ Bodrum (Turquía) en 35 min (~15-20 €/pax). Bodrum: Mausoleo de Halicarnaso (7ª Maravilla del Mundo) + Museo del Castillo con el barco fenicio más antiguo del mundo. ⚠️ Requiere PASAPORTE en vigor (no válido el DNI para Turquía). Reservar con 1-2 días de antelación."
+      "mejora_opcional": "🌟 ALTERNATIVA B — Excursión a Bodrum (Turquía) desde Kos: Ferry diario Kos ↔ Bodrum en 35 minutos (15-20 €/persona). Bodrum acoge el Mausoleo de Halicarnaso (una de las 7 Maravillas del Mundo Antiguo) y el Museo de Arqueología Submarina en el Castillo de San Pedro con barcos fenicios de la Edad del Bronce. Excursión idónea para el objetivo arqueológico del viaje. ⚠️ Requiere pasaporte en vigor (el DNI español no es válido para entrar en Turquía)."
     },
     "logistics": {
       "type": "Coche",
@@ -719,19 +1611,66 @@
         "Total en coche: 81 km | 1h 34 min de conducción."
       ]
     },
-    "mapCenter": [36.8, 27.1],
+    "mapCenter": [
+      36.8,
+      27.1
+    ],
     "zoom": 11,
     "waypoints": [
-      { "name": "Orpheus Studios", "type": "hotel", "coords": [36.8912, 27.2882], "desc": "Salida Kos Chora" },
-      { "name": "Fortaleza Paleo Pyli", "type": "monument", "coords": [36.8435, 27.1895], "desc": "Burgo bizantino encaramado a 300 m" },
-      { "name": "Basílica Agios Stefanos", "type": "monument", "coords": [36.7455, 26.9745], "desc": "Mosaicos del siglo V frente al mar" },
-      { "name": "Islote de Kastri", "type": "beach", "coords": [36.7495, 26.9795], "desc": "Ermita azul y aguas transparentes" }
+      {
+        "name": "Orpheus Studios",
+        "type": "hotel",
+        "coords": [
+          36.8912,
+          27.2882
+        ],
+        "desc": "Salida Kos Chora"
+      },
+      {
+        "name": "Fortaleza Paleo Pyli",
+        "type": "monument",
+        "coords": [
+          36.8435,
+          27.1895
+        ],
+        "desc": "Burgo bizantino encaramado a 300 m"
+      },
+      {
+        "name": "Basílica Agios Stefanos",
+        "type": "monument",
+        "coords": [
+          36.7455,
+          26.9745
+        ],
+        "desc": "Mosaicos del siglo V frente al mar"
+      },
+      {
+        "name": "Islote de Kastri",
+        "type": "beach",
+        "coords": [
+          36.7495,
+          26.9795
+        ],
+        "desc": "Ermita azul y aguas transparentes"
+      }
     ],
     "routeCoords": [
-      [36.8912, 27.2882],
-      [36.8435, 27.1895],
-      [36.7455, 26.9745],
-      [36.8912, 27.2882]
+      [
+        36.8912,
+        27.2882
+      ],
+      [
+        36.8435,
+        27.1895
+      ],
+      [
+        36.7455,
+        26.9745
+      ],
+      [
+        36.8912,
+        27.2882
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Kos+Town/Palaio+Pyli/Agios+Stefanos+Beach+Kos"
   },
@@ -759,21 +1698,84 @@
         "Total en coche: 2 km | 6 min."
       ]
     },
-    "mapCenter": [36.442, 28.225],
+    "mapCenter": [
+      36.442,
+      28.225
+    ],
     "zoom": 14,
     "waypoints": [
-      { "name": "Puerto Central de Kos", "type": "port", "coords": [36.8965, 27.2915], "desc": "Salida catamarán 10:15" },
-      { "name": "Puerto de Rodas", "type": "port", "coords": [36.4425, 28.2325], "desc": "Llegada 12:30 y recogida Enterprise" },
-      { "name": "Old Town Nest", "type": "hotel", "coords": [36.4405, 28.2255], "desc": "Alojamiento medieval restaurado" },
-      { "name": "Palacio Gran Maestre", "type": "monument", "coords": [36.4455, 28.2238], "desc": "Castillo medieval de los Caballeros" },
-      { "name": "Calle Caballeros", "type": "monument", "coords": [36.4445, 28.2255], "desc": "Vía gótica adoquinada intacta" },
-      { "name": "Puerto Mandraki", "type": "beach", "coords": [36.4495, 28.2275], "desc": "Ciervos de bronce y Fuerte San Nicolás" }
+      {
+        "name": "Puerto Central de Kos",
+        "type": "port",
+        "coords": [
+          36.8965,
+          27.2915
+        ],
+        "desc": "Salida catamarán 10:15"
+      },
+      {
+        "name": "Puerto de Rodas",
+        "type": "port",
+        "coords": [
+          36.4425,
+          28.2325
+        ],
+        "desc": "Llegada 12:30 y recogida Enterprise"
+      },
+      {
+        "name": "Old Town Nest",
+        "type": "hotel",
+        "coords": [
+          36.4405,
+          28.2255
+        ],
+        "desc": "Alojamiento medieval restaurado"
+      },
+      {
+        "name": "Palacio Gran Maestre",
+        "type": "monument",
+        "coords": [
+          36.4455,
+          28.2238
+        ],
+        "desc": "Castillo medieval de los Caballeros"
+      },
+      {
+        "name": "Calle Caballeros",
+        "type": "monument",
+        "coords": [
+          36.4445,
+          28.2255
+        ],
+        "desc": "Vía gótica adoquinada intacta"
+      },
+      {
+        "name": "Puerto Mandraki",
+        "type": "beach",
+        "coords": [
+          36.4495,
+          28.2275
+        ],
+        "desc": "Ciervos de bronce y Fuerte San Nicolás"
+      }
     ],
     "routeCoords": [
-      [36.4425, 28.2325],
-      [36.4405, 28.2255],
-      [36.4445, 28.2255],
-      [36.4455, 28.2238]
+      [
+        36.4425,
+        28.2325
+      ],
+      [
+        36.4405,
+        28.2255
+      ],
+      [
+        36.4445,
+        28.2255
+      ],
+      [
+        36.4455,
+        28.2238
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Rhodes+Tourist+Port/Old+Town+Nest/Palace+of+the+Grand+Master+of+the+Knights+of+Rhodes/Mandraki+Port"
   },
@@ -802,19 +1804,61 @@
         "Total en coche: 97,5 km | 1h 34 min."
       ]
     },
-    "mapCenter": [36.25, 28.15],
+    "mapCenter": [
+      36.25,
+      28.15
+    ],
     "zoom": 11,
     "waypoints": [
-      { "name": "Old Town Nest", "type": "hotel", "coords": [36.4405, 28.2255], "desc": "Salida desde Rodas" },
-      { "name": "Acrópolis de Lindos", "type": "monument", "coords": [36.0915, 28.0875], "desc": "Templo dórico sobre acantilado de 116 m" },
-      { "name": "Bahía San Pablo", "type": "beach", "coords": [36.0865, 28.0845], "desc": "Piscina natural marina de ensueño" }
+      {
+        "name": "Old Town Nest",
+        "type": "hotel",
+        "coords": [
+          36.4405,
+          28.2255
+        ],
+        "desc": "Salida desde Rodas"
+      },
+      {
+        "name": "Acrópolis de Lindos",
+        "type": "monument",
+        "coords": [
+          36.0915,
+          28.0875
+        ],
+        "desc": "Templo dórico sobre acantilado de 116 m"
+      },
+      {
+        "name": "Bahía San Pablo",
+        "type": "beach",
+        "coords": [
+          36.0865,
+          28.0845
+        ],
+        "desc": "Piscina natural marina de ensueño"
+      }
     ],
     "routeCoords": [
-      [36.4405, 28.2255],
-      [36.25, 28.15],
-      [36.0915, 28.0875],
-      [36.0865, 28.0845],
-      [36.4405, 28.2255]
+      [
+        36.4405,
+        28.2255
+      ],
+      [
+        36.25,
+        28.15
+      ],
+      [
+        36.0915,
+        28.0875
+      ],
+      [
+        36.0865,
+        28.0845
+      ],
+      [
+        36.4405,
+        28.2255
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Rhodes+Old+Town/Lindos+Acropolis/St+Paul's+Bay+Lindos"
   },
@@ -832,7 +1876,8 @@
     },
     "options": {
       "a": "Itinerario arqueológico detallado por Kamiros y visita completa al Hospital de los Caballeros.",
-      "b": "Tarde relajada de baño y descanso en la cala esmeralda de Anthony Quinn o en los pabellones art-déco de Kallithea Springs."
+      "b": "Tarde relajada de baño y descanso en la cala esmeralda de Anthony Quinn o en los pabellones art-déco de Kallithea Springs.",
+      "mejora_opcional": "🌟 ALTERNATIVA E — Visita a las Termas de Kallithea + Cueva de las Siete Doncellas (Rodas): Las históricas Termas de Kallithea (pabellones art-déco y rotonda de 1929 maravillosamente restaurada con cala de baño de aguas tranquilas) se pueden combinar con la cercana Cueva de las Siete Doncellas (junto a Faliraki), gruta marina de singular interés espeleológico y aguas turquesas ideales para el baño y el snorkel."
     },
     "logistics": {
       "type": "Coche",
@@ -844,22 +1889,83 @@
         "Total en coche: 86 km | 1h 40 min de conducción cómoda."
       ]
     },
-    "mapCenter": [36.38, 28.12],
+    "mapCenter": [
+      36.38,
+      28.12
+    ],
     "zoom": 11,
     "waypoints": [
-      { "name": "Old Town Nest", "type": "hotel", "coords": [36.4405, 28.2255], "desc": "Salida desde la muralla" },
-      { "name": "Antigua Kamiros", "type": "monument", "coords": [36.3355, 27.9225], "desc": "La 'Pompeya griega' helenística" },
-      { "name": "Monte Filerimos", "type": "monument", "coords": [36.3995, 28.1435], "desc": "Monasterio gótico y cruz panorámica" },
-      { "name": "Bahía Anthony Quinn", "type": "beach", "coords": [36.3215, 28.2075], "desc": "Aguas esmeralda entre pinares" },
-      { "name": "Termas de Kallithea", "type": "monument", "coords": [36.3765, 28.2385], "desc": "Pabellones art-déco y cala marina" }
+      {
+        "name": "Old Town Nest",
+        "type": "hotel",
+        "coords": [
+          36.4405,
+          28.2255
+        ],
+        "desc": "Salida desde la muralla"
+      },
+      {
+        "name": "Antigua Kamiros",
+        "type": "monument",
+        "coords": [
+          36.3355,
+          27.9225
+        ],
+        "desc": "La 'Pompeya griega' helenística"
+      },
+      {
+        "name": "Monte Filerimos",
+        "type": "monument",
+        "coords": [
+          36.3995,
+          28.1435
+        ],
+        "desc": "Monasterio gótico y cruz panorámica"
+      },
+      {
+        "name": "Bahía Anthony Quinn",
+        "type": "beach",
+        "coords": [
+          36.3215,
+          28.2075
+        ],
+        "desc": "Aguas esmeralda entre pinares"
+      },
+      {
+        "name": "Termas de Kallithea",
+        "type": "monument",
+        "coords": [
+          36.3765,
+          28.2385
+        ],
+        "desc": "Pabellones art-déco y cala marina"
+      }
     ],
     "routeCoords": [
-      [36.4405, 28.2255],
-      [36.3355, 27.9225],
-      [36.3995, 28.1435],
-      [36.3215, 28.2075],
-      [36.3765, 28.2385],
-      [36.4405, 28.2255]
+      [
+        36.4405,
+        28.2255
+      ],
+      [
+        36.3355,
+        27.9225
+      ],
+      [
+        36.3995,
+        28.1435
+      ],
+      [
+        36.3215,
+        28.2075
+      ],
+      [
+        36.3765,
+        28.2385
+      ],
+      [
+        36.4405,
+        28.2255
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Rhodes+Old+Town/Ancient+Kamiros/Filerimos+Monastery/Anthony+Quinn+Bay/Rhodes+Old+Town"
   },
@@ -878,7 +1984,7 @@
     "options": {
       "a": "Subida al mirador de Monolithos y visita a la diminuta capilla blanca de San Jorge en la cumbre.",
       "b": "Tarde de descanso absoluto y baño reposado en las calas de aguas calmas del este de Rodas.",
-      "mejora_opcional": "⭐ EXTENSIÓN RECOMENDADA: Desde Monolithos (+25 km sur, 30 min) llegar a Prasonisi, extremo sur de Rodas donde el Mar Egeo y el Mediterráneo se unen en un espectacular banco de arena. Aguas de diferente color y oleaje a cada lado. Añadir al recorrido Día 21: Rodas ➔ Monolithos ➔ Prasonisi ➔ Embonas ➔ Rodas (total +163 km | +3h)."
+      "mejora_opcional": "🌟 ALTERNATIVA C — Sustituir o enriquecer Día 21 con Prasonisi + Monte Ataviros: La punta sur de Rodas (Prasonisi, donde se juntan el Mediterráneo y el Egeo en un brazo de arena espectacular con oleajes contrapuestos) es un espectáculo natural único. El Monte Ataviros (1.215 m, cumbre de Rodas) conserva las ruinas del templo arcaico de Zeus Atabirio. Ambos hitos se integran en el recorrido escénico hacia las bodegas y tabernas tradicionales de Embonas."
     },
     "logistics": {
       "type": "Coche",
@@ -889,19 +1995,66 @@
         "Total en coche: 138 km | 2h 30 min por buenas carreteras panorámicas."
       ]
     },
-    "mapCenter": [36.2, 27.95],
+    "mapCenter": [
+      36.2,
+      27.95
+    ],
     "zoom": 10,
     "waypoints": [
-      { "name": "Old Town Nest", "type": "hotel", "coords": [36.4405, 28.2255], "desc": "Base en la Ciudad Medieval" },
-      { "name": "Castillo de Monolithos", "type": "monument", "coords": [36.1245, 27.7265], "desc": "Fortaleza de los Caballeros (1480) sobre el acantilado" },
-      { "name": "Pueblo de Embonas", "type": "beach", "coords": [36.2285, 27.8575], "desc": "Pueblo vinícola tradicional a los pies del Ataviros" },
-      { "name": "Ciudad Medieval de Rodas", "type": "monument", "coords": [36.4445, 28.2268], "desc": "Paseo nocturno y cena de despedida del viaje" }
+      {
+        "name": "Old Town Nest",
+        "type": "hotel",
+        "coords": [
+          36.4405,
+          28.2255
+        ],
+        "desc": "Base en la Ciudad Medieval"
+      },
+      {
+        "name": "Castillo de Monolithos",
+        "type": "monument",
+        "coords": [
+          36.1245,
+          27.7265
+        ],
+        "desc": "Fortaleza de los Caballeros (1480) sobre el acantilado"
+      },
+      {
+        "name": "Pueblo de Embonas",
+        "type": "beach",
+        "coords": [
+          36.2285,
+          27.8575
+        ],
+        "desc": "Pueblo vinícola tradicional a los pies del Ataviros"
+      },
+      {
+        "name": "Ciudad Medieval de Rodas",
+        "type": "monument",
+        "coords": [
+          36.4445,
+          28.2268
+        ],
+        "desc": "Paseo nocturno y cena de despedida del viaje"
+      }
     ],
     "routeCoords": [
-      [36.4405, 28.2255],
-      [36.1245, 27.7265],
-      [36.2285, 27.8575],
-      [36.4405, 28.2255]
+      [
+        36.4405,
+        28.2255
+      ],
+      [
+        36.1245,
+        27.7265
+      ],
+      [
+        36.2285,
+        27.8575
+      ],
+      [
+        36.4405,
+        28.2255
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Rhodes+Old+Town/Monolithos+Castle/Embonas/Rhodes+Old+Town"
   },
@@ -932,17 +2085,58 @@
         "Total en coche: 15 km | 20 min."
       ]
     },
-    "mapCenter": [36.425, 28.15],
+    "mapCenter": [
+      36.425,
+      28.15
+    ],
     "zoom": 12,
     "waypoints": [
-      { "name": "Old Town Nest", "type": "hotel", "coords": [36.4405, 28.2255], "desc": "Check-out 10:00" },
-      { "name": "Aeropuerto RHO", "type": "airport", "coords": [36.4054, 28.0862], "desc": "Devolución Enterprise y Facturación Aegean 10:35" },
-      { "name": "Aeropuerto ATH (Atenas)", "type": "airport", "coords": [37.9364, 23.9445], "desc": "Tránsito fluido y escala 13:15 - 15:15" },
-      { "name": "Aeropuerto MAD Barajas", "type": "airport", "coords": [40.4839, -3.568], "desc": "Llegada final 18:05 Terminal T2" }
+      {
+        "name": "Old Town Nest",
+        "type": "hotel",
+        "coords": [
+          36.4405,
+          28.2255
+        ],
+        "desc": "Check-out 10:00"
+      },
+      {
+        "name": "Aeropuerto RHO",
+        "type": "airport",
+        "coords": [
+          36.4054,
+          28.0862
+        ],
+        "desc": "Devolución Enterprise y Facturación Aegean 10:35"
+      },
+      {
+        "name": "Aeropuerto ATH (Atenas)",
+        "type": "airport",
+        "coords": [
+          37.9364,
+          23.9445
+        ],
+        "desc": "Tránsito fluido y escala 13:15 - 15:15"
+      },
+      {
+        "name": "Aeropuerto MAD Barajas",
+        "type": "airport",
+        "coords": [
+          40.4839,
+          -3.568
+        ],
+        "desc": "Llegada final 18:05 Terminal T2"
+      }
     ],
     "routeCoords": [
-      [36.4405, 28.2255],
-      [36.4054, 28.0862]
+      [
+        36.4405,
+        28.2255
+      ],
+      [
+        36.4054,
+        28.0862
+      ]
     ],
     "gmapsUrl": "https://www.google.com/maps/dir/Rhodes+Old+Town/Rhodes+Airport"
   }

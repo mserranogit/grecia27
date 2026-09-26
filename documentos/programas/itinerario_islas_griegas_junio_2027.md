@@ -246,6 +246,7 @@
     * **Opción A (Ermoupoli Neoclásica y Teatro Apolo)**: Exploración de la grandiosa Plaza Miaouli, el imponente Ayuntamiento proyectado por Ernst Ziller, el célebre **Teatro Apolo** (1864, réplica de La Scala de Milán) y las mansiones aristocráticas sobre el mar en el señorial barrio de **Vaporia**.
     * **Opción B (Tarde de Calas en Kini)**: Relax en el apacible pueblo marinero de **Kini**, con baño en aguas transparentes y comida marinera sobre la arena.
   * **Noche**: Subida al laberinto medieval fortificado de **Ano Syros** (s. XIII), cuna de la música *Rebetiko* y panorámica nocturna de Ermoupoli iluminada.
+  * 🌟 **ALTERNATIVA A — Añadir Sifnos en lugar de 1 día de Syros**: Posibilidad de redistribuir las 2 noches de Syros en 1 noche Syros + 1 noche Sifnos (ruta: Mykonos ➔ Sifnos ➔ Paros). Sifnos destaca por la gastronomía cicládica más afamada de Grecia, alfarería artesanal milenaria y el espectacular Monasterio de Chrissopigi asentado sobre una roca en el mar.
   * 🏨 **Alojamiento (Noche 4/21)**: [**AVALON Suites & Studios**](https://www.booking.com/hotel/gr/avalon-luxury-suites-ermoupoli.es.html) *(Ermoupoli / Syros)*. Puntuación Booking: **9,5/10**. Apartamento en palacete señorial restaurado.
 
 ---
@@ -282,6 +283,7 @@
   * **Tarde**:
     * **Opción A (Paseo Señorial por Poseidonia)**: Recorrido por las mansiones aristocráticas del siglo XIX de los armadores navales y cata de vino local *Serifiotiko*.
     * **Opción B (Calas de Megas Gialos y Vari)**: Baños tranquilos y degustación de los tradicionales dulces artesanos *Loukoumia*.
+  * 🌟 **ALTERNATIVA A — Conexión con Sifnos**: En caso de optar por la alternativa de Sifnos, travesía en ferry por la tarde hacia Sifnos para pernoctar en Apollonia o Kamares y disfrutar de su gastronomía y senderos antes de enlazar con Paros.
   * 🏨 **Alojamiento (Noche 5/21)**: [**AVALON Suites & Studios**](https://www.booking.com/hotel/gr/avalon-luxury-suites-ermoupoli.es.html) *(Ermoupoli / Syros)*. Puntuación: **9,5/10**.
 
 ---
@@ -754,7 +756,7 @@
   * **Tarde**:
     * **Opción A (Casa Romana y Odeón Romano de Kos)**: Visita a la reconstruida *Casa Romana* (siglo III d.C.), con 36 habitaciones y tres patios con mosaicos marinos, y al Odeón Romano de mármol.
     * **Opción B (Aguas Termales de Therma Beach)**: Tarde en la playa de **Therma**, donde manantiales naturales de agua caliente sulfurosa brotan de las rocas directamente al mar creando una piscina termal marina curativa.
-  * u{1F6E0}uFE0F **EXCURSIu{00D3}N ESPECIAL RECOMENDADA u{2014} Nisyros (volcu{00E1}n activo)**: Sustituye el programa estu{00E1}ndar del Du{00ED}a 16. Ferry Kos u{2194} Mandraki (Nisyros) en **30-40 min** (~20 u{20AC}/pax i/v). Descenso a pie al **cu{00E1}ter Stefanos** (260 m de diu{00E1}metro), con emanaciones de azufre visibles u{2014} la u{00FA}nica bajada a un cru{00E1}ter activo de Grecia. Combinar con el casco medieval blanco de Mandraki. Salida 09:00, regreso 17:00. Requiere: solo DNI.
+  * 🌟 **ALTERNATIVA D — Añadir Cos Antiguo y Excursión a Nisyros (Volcán activo Stefanos)**: Sustituye el programa estándar de la tarde del Día 16 (o jornada completa). Ferry Kos ➔ Mandraki (Nisyros) en **30-40 min** (~20 €/pax i/v). Descenso a pie al **cráter Stefanos** (260 m de diámetro), con fumarolas activas y emanaciones de azufre visibles — la única bajada al fondo de un cráter activo en toda Grecia. Experiencia geológica cumbre equiparable a Sarakiniko en Milos. Combinar con el burgo medieval blanco de Mandraki. Salida recomendada 09:00 h, regreso 17:00 h.
   * 🏨 **Alojamiento (Noche 16/21)**: [**Orpheus Studios & Apartments**](https://www.booking.com/hotel/gr/orpheus-studios-kos.es.html) *(Kos Town)*. Puntuación: **9,2/10**.
 
 ---
@@ -791,7 +793,7 @@
     * **Opción A (Pueblo Tradicional de Zia)**: Visita al pueblo de montaña de Zia en el Monte Dikaios, famoso por sus fuentes de agua, tiendas de especias y miel de tomillo.
     * **Opción B (Bahía de Paradise Beach)**: Relax en la playa más popular del sur, famosa por sus aguas transparentes y finísima arena dorada.
   * **Noche**: Cena al atardecer en Zia contemplando una de las puestas de sol más hermosas de Grecia sobre las islas vecinas.
-  * u{1F6E0}uFE0F **EXCURSIu{00D3}N ESPECIAL RECOMENDADA u{2014} Bodrum / Mausoleo de Halicarnaso**: Sustituye el programa del Du{00ED}a 17. Ferry Kos u{2194} Bodrum (Turquu{00ED}a) en **35 min** (~15-20 u{20AC}/pax). Visita al **Mausoleo de Halicarnaso** (7u{00AA} Maravilla del Mundo Antiguo) + **Museo Arqueolu{00F3}gico del Castillo de San Pedro** con el barco fenicio de 1.200 a.C., el mu{00E1}s antiguo del mundo recuperado. **u{26A0}uFE0F IMPORTANTE: Requiere PASAPORTE en vigor** u{2014} el DNI espau{00F1}ol NO es vu{00E1}lido para Turquu{00ED}a. Reservar billete de ferry con 1-2 du{00ED}as de antelaciu{00F3}n.
+  * 🌟 **ALTERNATIVA B — Añadir excursión a Bodrum (Turquía) desde Kos**: Sustituye el programa del Día 17. Ferry diario Kos ➔ Bodrum en **35 min** (~15-20 €/pax). Visita al **Mausoleo de Halicarnaso** (una de las 7 Maravillas del Mundo Antiguo) y al **Museo de Arqueología Submarina del Castillo de San Pedro** con los restos del pecio fenicio de Uluburun (s. XIV a.C.). Idóneo para el objetivo arqueológico del viaje. ⚠️ **IMPORTANTE: Requiere PASAPORTE en vigor** (el DNI español no es válido para entrar en Turquía).
   * 🏨 **Alojamiento (Noche 17/21)**: [**Orpheus Studios & Apartments**](https://www.booking.com/hotel/gr/orpheus-studios-kos.es.html) *(Kos Town)*. Puntuación: **9,2/10**.
 
 ---
@@ -903,6 +905,7 @@
     * **Opción A (Monte Filerimos)**: Visita al templo clásico de Atenea Polias en Filerimos, el sendero de cipreses del Vía Crucis y la cruz monumental con vistas sobre el mar.
     * **Opción B (Bahía de Anthony Quinn)**: Baño y snorkel en la legendaria cala verde esmeralda bautizada en honor al actor que filmó allí *Los cañones de Navarone*.
   * **Noche**: Cena en la judería medieval de Rodas (*La Juderia*) con vino local de Rodas.
+  * 🌟 **ALTERNATIVA E — Visita a las Termas de Kallithea + Cueva de las Siete Doncellas (Rodas)**: Las históricas Termas de Kallithea (pabellones art-déco y rotonda de 1929 maravillosamente restaurada sobre cala de aguas tranquilas) se pueden combinar con la cercana **Cueva de las Siete Doncellas** (cerca de Faliraki), gruta marina de gran valor espeleológico y aguas turquesas ideales para el baño y el snorkel.
   * 🏨 **Alojamiento (Noche 20/21)**: [**Old Town Nest Apartments**](https://www.booking.com/hotel/gr/old-town-nest.es.html) *(Ciudad Medieval de Rodas)*. Puntuación: **9,7/10**.
 
 ---
@@ -929,7 +932,7 @@
 * **Programa**:
   * **Mañana**:
     * **Hito Espectacular (Castillo de Monolithos)**: Excursión al risco más impresionante de Rodas: una fortaleza veneciana encaramada a 250 metros de altura vertical sobre el mar embravecido. Subida a pie por la escalinata excavada en la roca hasta la capilla blanca de San Pantaleón con vistas de 360° al horizonte.
-    * 🛠️ **EXTENSIÓN OPCIONAL — Prasonisi (el extremo sur donde se unen dos mares)**: Desde Monolithos, continuando 25 km más hacia el sur (30 min) se llega a **Prasonisi**: estrecho banco de arena natural que une un islote con Rodas, con el **Mar Egeo** a la derecha y el **Mar Mediterráneo** a la izquierda, ambos con colores, temperatura y oleaje notoriamente distintos. Espectáculo natural único en toda Grecia. Añade ~50 km y 1h extra al Día 21.
+    * 🌟 **ALTERNATIVA C — Sustituir o enriquecer Día 21 con Prasonisi + Monte Ataviros**: La punta sur de Rodas (**Prasonisi**, donde se juntan el Mar Egeo y el Mar Mediterráneo en un espectacular banco de arena con oleajes contrapuestos) es un prodigio natural único. Desde allí o en la ruta hacia Embonas se puede ascender hacia el **Monte Ataviros** (1.215 m, la cumbre más alta de Rodas), donde se encuentran los restos del templo arcaico de Zeus Atabirio, antes de disfrutar del almuerzo tradicional y cata de vinos en las bodegas de Embonas. Añade ~50 km y 1h extra al recorrido.
   * **Tarde**:
     * **Enología y Gastronomía en Embonas**: Almuerzo en el corazón vinícola de la isla, en las faldas del monte más alto de Rodas (Monte Atavyros, 1.215 m). Degustación de vinos elaborados con la uva blanca clásica *Athiri* y la tinta *Amorgiano*, acompañados de cordero asado al horno de leña tradicional.
   * **Noche (Cena de Gala de Despedida)**: Paseo nocturno bajo los faroles de piedra de la Ciudad Medieval amurallada iluminada. Cena de gala de despedida en una taberna histórica con patio interior de naranjos.
@@ -1234,26 +1237,29 @@
 | **TOTAL REAL ESTIMADO (2 personas)** | **~5.958 – 6.518 €** | Sin inflación de precios 2027 |
 | **TOTAL CON MARGEN +15%** | **~6.800 – 7.200 €** | Presupuesto de seguridad recomendado |
 
-### Alternativas Opcionales de Enriquecimiento del Viaje
+### 12. 🌟 ALTERNATIVAS PARA MEJORAR EL VIAJE
 
-1. **🛳️ Excursión a Bodrum desde Kos** (Día 16 o 17)
-   - Ferry diario Kos ↔ Bodrum (Turquiza) en **35 minutos** (~15-20 €/pax)
-   - Bodrum contiene el **Mausoleo de Halicarnaso** (una de las 7 Maravillas del Mundo Antiguo) y el Museo Arqueológico del Bodrum Castle con los restos del barco fenicio más antiguo del mundo.
-   - Requiere: **Pasaporte en vigor** (no basta el DNI para entrar a Turquía).
+* **Alternativa A: Añadir Sifnos en lugar de 1 día de Syros**
+  * Sifnos (situada entre Syros y Paros en la ruta marítima) posee una gastronomía cicládica sin igual, talleres de alfarería artesanal milenaria y el icónico Monasterio de Chrissopigi construido sobre un saliente rocoso sobre el mar.
+  * **Ruta propuesta**: Mykonos ➔ Syros (1 noche) ➔ **Sifnos (1 noche)** ➔ Paros (3 noches). Redistribuye las 2 noches de Syros en 1 noche Syros + 1 noche Sifnos.
 
-2. **🌋 Excursión a Nisyros desde Kos** (Día 16 o 17)
-   - Ferry Kos ↔ Nisyros en **30-40 minutos** (~20 €/pax ida y vuelta)
-   - Nisyros tiene un **volcán activo visitable** (Stefanos): se puede bajar a pie al cáter principal (260 m de diámetro, emanaciones de azufre visibles). Experiencia geológica única comparable a Sarakiniko en Milos pero en formato de crater.
-   - Ideal combinarlo con la visita al casco medieval de Mandraki y sus fortalezas.
+* **Alternativa B: Añadir excursión a Bodrum (Turquía) desde Kos**
+  * Desde Kos parten ferris diarios a Bodrum (Turquía) en solo **35 minutos** (~15-20 €/persona).
+  * Bodrum alberga el **Mausoleo de Halicarnaso** (una de las 7 Maravillas del Mundo Antiguo) y el Castillo de San Pedro con el Museo de Arqueología Submarina (con pecios de la Edad del Bronce). Encaje perfecto para el objetivo arqueológico del viaje.
+  * ⚠️ **Requisito obligatorio**: Pasaporte en vigor con vigencia mínima de 6 meses (el DNI español no es válido para cruzar la frontera turca).
 
-3. **🍷 Añadir Sifnos (parada opcional entre Syros y Paros)**
-   - Ruta alternativa: Mykonos → Syros (1 noche) → **Sifnos (1 noche)** → Paros (3 noches)
-   - Sifnos es considerada la **mejor gastronomía de las Cícladas** y tiene alfareria artesanal milenaria y el monasterio de Chrissopigi sobre el promontorio marino.
-   - Implica redistribuir 1 noche de Syros a Sifnos.
+* **Alternativa C: Sustituir Día 21 (Monolithos) por Prasonisi + Monte Ataviros**
+  * La punta sur de Rodas (**Prasonisi**, donde se tocan el Mediterráneo y el Egeo en una franja de arena virgen con vientos y oleajes opuestos) constituye un espectáculo paisajístico de primer orden.
+  * El **Monte Ataviros** (1.215 m de altitud, techo geográfico de Rodas) conserva en su cumbre los vestigios del templo arcaico consagrado a Zeus Atabirio.
+  * Ambos hitos se encuentran en el radio de acción de la excursión panorámica hacia las tabernas y bodegas vinícolas de Embonas.
 
-4. **🏖️ Prasonisi — donde se juntan dos mares (Rodas, Día 21)**
-   - Desde Monolithos, continuando al extremo sur de Rodas llega **Prasonisi**: banco de arena donde el Mar Egeo y el Mediterráneo se unen de forma espectacular, creando condiciones opuestas de olas a cada lado.
-   - Se puede incorporar en el recorrido del Día 21 (Monolithos-Embonas) añadiendo 25 km extra.
+* **Alternativa D: Añadir Cos Antiguo — Excursión a Nisyros**
+  * Nisyros (a 30-40 min de ferry rápido desde Kos / Kardamena) alberga el volcán activo **Stefanos**: es posible descender a pie al corazón del cráter (260 m de diámetro, fumarolas y emanaciones sulfurosas activas).
+  * Es una vivencia geológica cumbre equiparable a los paisajes lunares de Sarakiniko en Milos.
+  * Los ferris diarios operan habitualmente con salidas a las 09:00 h y regresos a las 17:00 h, permitiendo además recorrer el pintoresco pueblo marinero de Mandraki.
 
+* **Alternativa E: Visita a las Termas de Kallithea + Cueva de las Siete Doncellas (Rodas)**
+  * Las **Termas de Kallithea** (pabellones art-déco italianos de 1929 con mosaicos de guijarros *chochlakia*, jardines mediterráneos y cala protegida) se complementan idóneamente con la **Cueva de las Siete Doncellas** cerca de Faliraki, gruta marina de gran atractivo espeleológico y aguas turquesas ideales para el baño y el snorkel.
+  * Integrable con facilidad en el Día 20 como opción de tarde o relax costero.
 ---
 *Documento maestro — Versión 2.0 | Revisado: Septiembre 2026 | Viaje: 24 Mayo – 14 Junio 2027*

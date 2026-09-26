@@ -349,6 +349,9 @@ function initNavigation() {
       const view = link.dataset.view;
       setActiveNavLink(link.id);
       renderView(view);
+      if (link.id === 'nav-alternativas') {
+        scrollToTarget('audit-alternativas');
+      }
       closeMobileSidebar();
     });
   });
@@ -516,6 +519,14 @@ function renderDailyView(container) {
             <span class="option-letter b">B</span>
             <div><strong>Opción B (Relax/Playa):</strong> ${dayData.options.b}</div>
           </div>
+          ${dayData.options && dayData.options.mejora_opcional ? `
+            <div class="option-item" style="margin-top:0.85rem;background:#fefce8;border:1px solid #fef08a;border-radius:var(--radius-sm);padding:0.85rem 1.1rem;box-shadow:0 1px 3px rgba(0,0,0,0.04);">
+              <span class="option-letter" style="background:#ca8a04;color:#ffffff;font-size:0.95rem;">⭐</span>
+              <div style="font-size:0.88rem;color:#854d0e;line-height:1.5;">
+                <strong>Alternativa / Excursión Opcional:</strong> ${dayData.options.mejora_opcional}
+              </div>
+            </div>
+          ` : ''}
         </div>
 
         <!-- Consejo Senior y Climatología -->
@@ -1399,6 +1410,89 @@ function renderBudgetView(container) {
         </table>
       </div>
       <div class="table-scroll-hint">⇄ Desliza horizontalmente la tabla para ver todas las columnas</div>
+    </div>
+
+    <!-- SECCIÓN 12: ALTERNATIVAS PARA MEJORAR EL VIAJE -->
+    <div style="margin-top: 2.75rem;" id="audit-alternativas">
+      <div style="display:flex;align-items:center;gap:0.75rem;margin-bottom:1.5rem;padding-bottom:0.75rem;border-bottom:2px solid var(--color-border);">
+        <span style="font-size:1.8rem;">🌟</span>
+        <div>
+          <h3 style="font-size:1.4rem;font-weight:700;color:var(--color-primary);margin:0;">12. Alternativas para Mejorar el Viaje</h3>
+          <p style="margin:0;font-size:0.88rem;color:var(--color-text-muted);">Cinco propuestas de alto valor para enriquecer o personalizar el equilibrio entre arqueología, gastronomía y paisajes naturales.</p>
+        </div>
+      </div>
+
+      <div class="audit-grid">
+        <!-- Alternativa A: Sifnos -->
+        <div class="audit-card">
+          <div class="audit-card-header">
+            <span class="audit-card-title">🍷 Alternativa A: Añadir Sifnos en lugar de 1 día de Syros</span>
+            <span class="audit-status-badge" style="background:#fef3c7;color:#92400e;">Cícladas / Gastronomía</span>
+          </div>
+          <div class="audit-card-body">
+            <strong>Sifnos</strong> (situada estratégicamente entre Syros y Paros en la ruta marítima) destaca por poseer la <strong>gastronomía más aclamada de las Cícladas</strong> (cuna del legendario chef Tselementes), talleres de alfarería artesanal milenaria en Kamares y Vathy, y el fotogénico <strong>Monasterio de Chrissopigi</strong> levantado sobre un saliente rocoso frente al mar.
+          </div>
+          <div class="audit-recommendation-box">
+            <strong>Ruta sugerida:</strong> Mykonos ➔ Syros (1 noche) ➔ Sifnos (1 noche) ➔ Paros (3 noches). Redistribuye las 2 noches de Syros en 1 noche Syros + 1 noche Sifnos sin añadir costes de ferry significativos.
+          </div>
+        </div>
+
+        <!-- Alternativa B: Bodrum Turquía -->
+        <div class="audit-card">
+          <div class="audit-card-header">
+            <span class="audit-card-title">🛳️ Alternativa B: Excursión a Bodrum (Turquía) desde Kos</span>
+            <span class="audit-status-badge" style="background:#e0e7ff;color:#3730a3;">7ª Maravilla Antigua</span>
+          </div>
+          <div class="audit-card-body">
+            Desde el puerto de Kos parten ferris diarios a <strong>Bodrum (Turquía)</strong> en solo <strong>35 minutos</strong> (~15-20 €/persona). Bodrum alberga el célebre <strong>Mausoleo de Halicarnaso</strong> (una de las 7 Maravillas del Mundo Antiguo) y el sobrecogedor <strong>Castillo de San Pedro</strong> con el Museo de Arqueología Submarina (pecio de Uluburun, Edad del Bronce).
+          </div>
+          <div class="audit-recommendation-box" style="background:#fff1f2;border-color:#fecdd3;color:#9f1239;">
+            ⚠️ <strong>Requisito migratorio:</strong> Obligatorio pasaporte en vigor con vigencia mínima de 6 meses. El DNI español no es válido para entrar en territorio de Turquía.
+          </div>
+        </div>
+
+        <!-- Alternativa C: Prasonisi + Monte Ataviros -->
+        <div class="audit-card">
+          <div class="audit-card-header">
+            <span class="audit-card-title">🏖️ Alternativa C: Prasonisi + Monte Ataviros (Día 21)</span>
+            <span class="audit-status-badge" style="background:#dcfce7;color:#166534;">Naturaleza & Zeus</span>
+          </div>
+          <div class="audit-card-body">
+            En la expedición al sur de Rodas, llegar hasta <strong>Prasonisi</strong> es una experiencia visual irrepetible: un istmo de arena natural donde se tocan el <strong>Mar Mediterráneo y el Mar Egeo</strong>, con condiciones opuestas de oleaje y color a cada lado. En la misma ruta se puede ascender las laderas del <strong>Monte Ataviros</strong> (1.215 m, cumbre de Rodas), hogar de las ruinas del <strong>templo arcaico de Zeus Atabirio</strong>.
+          </div>
+          <div class="audit-recommendation-box">
+            <strong>Combinación ideal:</strong> Realizar Monolithos ➔ Prasonisi ➔ laderas de Ataviros ➔ almuerzo y cata en las bodegas vinícolas de Embonas. Añade ~50 km al recorrido total del Día 21.
+          </div>
+        </div>
+
+        <!-- Alternativa D: Nisyros -->
+        <div class="audit-card">
+          <div class="audit-card-header">
+            <span class="audit-card-title">🌋 Alternativa D: Cos Antiguo y Excursión a Nisyros</span>
+            <span class="audit-status-badge" style="background:#fee2e2;color:#991b1b;">Volcán Activo</span>
+          </div>
+          <div class="audit-card-body">
+            Nisyros (a 30-40 min de ferry desde Kos / Kardamena) alberga el volcán activo <strong>Stefanos</strong>. Es la única isla de Grecia donde es posible <strong>descender a pie directamente al fondo de un cráter activo</strong> (260 metros de diámetro), caminando entre fumarolas y emanaciones sulfurosas vivas. Una experiencia geológica única equiparable a Sarakiniko en Milos.
+          </div>
+          <div class="audit-recommendation-box">
+            <strong>Horarios:</strong> Salidas matinales (09:00 h) y regreso por la tarde (17:00 h). Permite pasear por el burgo blanco y marinero de Mandraki y visitar su monasterio de Panagia Spiliani.
+          </div>
+        </div>
+
+        <!-- Alternativa E: Termas de Kallithea + Cueva Siete Doncellas -->
+        <div class="audit-card">
+          <div class="audit-card-header">
+            <span class="audit-card-title">🏛️ Alternativa E: Termas de Kallithea + Cueva de las Siete Doncellas</span>
+            <span class="audit-status-badge" style="background:#f3e8ff;color:#6b21a8;">Art-Déco & Espeleología</span>
+          </div>
+          <div class="audit-card-body">
+            Las <strong>Termas de Kallithea Springs</strong> (balneario art-déco italiano de 1929 con mosaicos de cantos rodados, jardines exóticos y cala semicircular de aguas mansas) se complementan a la perfección con la cercana <strong>Cueva de las Siete Doncellas</strong> (próxima a Faliraki), gruta marina de gran interés geológico y aguas turquesas ideales para el snorkel y el descanso.
+          </div>
+          <div class="audit-recommendation-box">
+            <strong>Integración:</strong> Perfectamente combinable en el Día 20 como opción relajada de tarde tras visitar la Acrópolis de Kamiros o como alternativa a Anthony Quinn.
+          </div>
+        </div>
+      </div>
     </div>
   `;
 

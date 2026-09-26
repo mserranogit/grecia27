@@ -1,4 +1,4 @@
-# 🇬🇷 INFORME DE AUDITORÍA, VERIFICACIÓN Y OPTIMIZACIÓN
+﻿# 🇬🇷 INFORME DE AUDITORÍA, VERIFICACIÓN Y OPTIMIZACIÓN
 ## Itinerario Islas Griegas (Cícladas & Dodecaneso) - 24 Mayo al 14 Junio 2027
 ### Documento de Control y Validación del Entorno Web (`/web`)
 
@@ -288,6 +288,16 @@ El proyecto y los documentos de la carpeta `web/` alcanzan un **nivel de excelen
 #### ✅ Badge de presupuesto en topbar clarificado
 - **Error detectado**: El badge mostraba "4.528 € Auditado (2 pax)" sin indicar que este importe excluye manutención y extras, pudiendo confundir al lector sobre el coste real total del viaje.
 - **Corrección aplicada**: Actualizado a "4.528 € Base (2 pax) • ~6.960 € total" con `title` ampliado que explica la distinción entre presupuesto base y estimación real.
+
+### 10.3. Integración de las 5 Alternativas de Mejora (A, B, C, D, E)
+
+Se han integrado formalmente las 5 propuestas alternativas en el programa maestro `.md` y en la aplicación `web/`:
+1. **Alternativa A (Sifnos en lugar de 1 día de Syros)**: Integrada en Días 4 y 5 de `itinerario.json`, en el itinerario `.md` y en la sección 12 de auditoría.
+2. **Alternativa B (Bodrum / Mausoleo de Halicarnaso desde Kos)**: Integrada en Día 17 de `itinerario.json`, en el itinerario `.md` y en la sección 12 de auditoría (aviso de pasaporte obligatorio).
+3. **Alternativa C (Prasonisi + Monte Ataviros con Templo de Zeus)**: Integrada en Día 21 de `itinerario.json`, en el itinerario `.md` y en la sección 12 de auditoría.
+4. **Alternativa D (Cos Antiguo y Excursión a Nisyros / Volcán activo Stefanos)**: Integrada en Día 16 de `itinerario.json`, en el itinerario `.md` y en la sección 12 de auditoría.
+5. **Alternativa E (Termas de Kallithea + Cueva de las Siete Doncellas)**: Integrada en Día 20 de `itinerario.json`, en el itinerario `.md` y en la sección 12 de auditoría.
+6. **Web UI (`app.js` e `index.html`)**: Renderizado visual de tarjeta dorada (`⭐ Alternativa / Excursión Opcional`) en la vista diaria, sección interactiva completa de alternativas en la vista de auditoría y botón de acceso directo `🌟 Alternativas (A-E)` en el menú lateral.
 
 ### 10.3. Estado Post-Corrección
 
