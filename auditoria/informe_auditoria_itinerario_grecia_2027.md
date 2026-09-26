@@ -102,9 +102,18 @@ Se ha contrastado la base de datos `data.js` con las tarifas oficiales del organ
 
 * **Verificación de Descuento Senior UE 65+**: Confirmado al 100%. De acuerdo con la legislación griega y la normativa del Ministerio de Cultura, los ciudadanos de los Estados miembros de la Unión Europea mayores de 65 años disfrutan de un **50% de reducción** en las entradas individuales sobre la tarifa oficial de verano. Solo se requiere mostrar en taquilla el DNI o pasaporte español en vigor.
 
-### 4.2. Horarios de Apertura y Días de Cierre
-* **Grandes Recintos (Delos, Lindos, Asklepieion, Gran Maestre)**: Operan de **08:00 a 20:00** todos los días en junio.
-* **Yacimientos Secundarios y Museos (Kamiros, Casa Romana, Filerimos, Museo Mykonos)**: Horario continuo de **08:30 a 15:30**. Se ha verificado que en la web consta la advertencia de **martes cerrado** para evitar planificar visitas en días no laborables de los museos estatales.
+### 4.2. Horarios de Apertura y Días de Cierre (Verificación Calendario 24 Mayo - 14 Junio)
+* **Grandes Recintos (Delos, Lindos, Asklepieion, Gran Maestre)**: Operan de **08:00 a 20:00** todos los días en la temporada de verano oficial de ODAP (1 de abril al 31 de octubre), cubriendo íntegramente el periodo del viaje (24 de mayo al 14 de junio de 2027).
+* **Auditoría de Días de Cierre Semanal (Martes Cerrado)**:
+  Se ha realizado una comprobación cruzada exhaustiva entre el nuevo calendario (con inicio en lunes 24 de mayo de 2027) y los días de cierre semanal de los museos y recintos estatales del Ministerio de Cultura para certificar que ninguna visita programada coincida con días inhábiles:
+  - **Museo Arqueológico de Mykonos**: Visita el **Día 3 (Miércoles 26 de mayo)** ➔ **Abierto** (cierra los martes).
+  - **Museo Arqueológico de Syros**: Visita el **Día 5 o 6 (Viernes 28 o Sábado 29 de mayo)** ➔ **Abierto** (cierra los martes).
+  - **Museo Arqueológico de Paros**: Visita el **Día 7 u 8 (Domingo 30 o Lunes 31 de mayo)** ➔ **Abierto** (cierra los martes).
+  - **Templo de Deméter en Sangri (Naxos)**: Visita el **Día 10 (Miércoles 2 de junio)** ➔ **Abierto** (cierra los martes).
+  - **Teatro Romano y Catacumbas de Milos**: Visita el **Día 13 (Sábado 5 de junio)** ➔ **Abierto** (cierran los martes).
+  - **Antigua Kamiros y Filerimos (Rodas)**: Visita el **Día 20 (Sábado 12 de junio)** ➔ **Abierto** (cierran los martes).
+  - **Asklepieion de Kos**: Horario continuo de 08:00 a 20:00 todos los días en temporada ➔ **Abierto el Día 16 (Martes 8 de junio)**.
+  - **Dictamen**: **100% de compatibilidad operativa y sin incidencias de cierre** en los 22 días de ruta.
 
 ### 4.3. Operatividad de Enlaces
 * **Venta Oficial de Monumentos**: `https://hhticket.gr/` (portal oficial del Estado griego con pasarela directa de compra electrónica).
@@ -115,8 +124,8 @@ Se ha contrastado la base de datos `data.js` con las tarifas oficiales del organ
 
 ### 4.4. Viabilidad de los Desplazamientos
 * **Conducción en las Islas**:
-  * Cícladas (Mykonos, Syros, Paros, Naxos, Milos): Medias de 30 a 45 km/h. Distancias diarias de 15 a 40 km, lo que supone tiempos reales al volante de 20 a 50 minutos por día. Absolutamente relajado y descansado.
-  * Rodas: Distancias más largas (por ejemplo, Ciudad de Rodas a Lindos son 48 km por la carretera principal nacional, que se recorren en 45-50 min). Perfectamente viable y sin atascos en junio.
+  * Cícladas (Mykonos, Syros, Paros, Naxos, Milos): Medias de 30 a 45 km/h. Distancias diarias de 15 a 40 km, lo que supone tiempos reales al volante de 20 a 50 minutos por día. A finales de mayo y primeros de junio, la densidad de tráfico insular es muy baja, lo que garantiza una conducción sumamente plácida y descansada.
+  * Rodas: Distancias más largas (por ejemplo, Ciudad de Rodas a Lindos son 48 km por la carretera principal nacional, que se recorren en 45-50 min). Perfectamente viable y con fluidez total en este periodo.
 * **Escalas Aéreas y Tiempos de Puerto**:
   * Salto Milos ➔ Atenas ➔ Kos: La escala de **2h 10m en el Aeropuerto Eleftherios Venizelos (ATH)** es el margen óptimo recomendado por las aerolíneas para enlaces domésticos con equipaje facturado.
   * Tiempos de presentación en ferris: 45-50 minutos antes en los puertos insulares es suficiente y seguro.
@@ -129,9 +138,9 @@ Se ha contrastado la base de datos `data.js` con las tarifas oficiales del organ
 * **Grado de Conservación**: Sobresaliente. Delos y Kamiros ofrecen una inmersión arqueológica sin parangón, ya que no son ruinas aisladas sino ciudades enteras transitables donde se percibe el trazado de las calles, templos, cisternas y viviendas.
 * **Impacto Visual**: La combinación de mármol blanco bajo el cielo límpido del Egeo y el azul marino de fondo crea una experiencia visual y fotográfica insuperable en la Acrópolis de Lindos, la Portara de Naxos y el Teatro de Milos.
 
-### 5.2. Playas: ¿Son de primera categoría?
+### 5.2. Playas y Climatología: ¿Son de primera categoría?
 * Las aguas de las Cícladas y el Dodecaneso gozan de la máxima calificación europea de "Banderas Azules" por salubridad y transparencia.
-* En junio la temperatura del agua es perfecta para el baño (22 °C - 24 °C) y no existe la masificación extrema de los meses de julio y agosto.
+* En el periodo del **24 de mayo al 14 de junio**, la climatología es insuperable: temperaturas diurnas suaves (23 °C – 26 °C) ideales para recorrer yacimientos sin fatiga por calor, agua a 21 °C – 23 °C perfecta para el baño y una afluencia turística moderada muy inferior a los meses de julio y agosto.
 
 ### 5.3. Excursiones Marítimas: ¿Son interesantes?
 * **Barco de Delos Tours (Mykonos ↔ Delos)**: Esencial e imprescindible; 30 minutos de trayecto en barcos costeros tradicionales muy cómodos.
@@ -247,5 +256,5 @@ La asignación de jornadas por isla no es arbitraria; responde a una ponderació
 
 El proyecto y los documentos de la carpeta `web/` alcanzan un **nivel de excelencia sobresaliente**:
 1. El diseño web es moderno, fluido, perfectamente adaptado a teléfonos móviles y tabletas, y dispone de mapas interactivos que permiten visualizar tanto el detalle diario como la visión de conjunto por isla.
-2. La fórmula de **50% arqueología de la Grecia Antigua por la mañana y 50% baño y descanso por la tarde** es la más inteligente y equilibrada para viajar en el mes de junio por el Egeo.
+2. La fórmula de **50% arqueología de la Grecia Antigua por la mañana y 50% baño y descanso por la tarde** entre el **24 de mayo y el 14 de junio** es la más inteligente y equilibrada para viajar por el Egeo, aprovechando la bonanza climática y la ausencia de masificaciones.
 3. Los precios y horarios son rigurosamente exactos respecto a las fuentes oficiales del Estado griego (`hhticket.gr` / ODAP), garantizando la tranquilidad y viabilidad financiera y operativa para los viajeros.
